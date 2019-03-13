@@ -1,0 +1,1807 @@
+COUNTRY,STATE,DESCR
+ARG,BA,Buenos Aires
+ARG,CB,Chubut
+ARG,CF,Cd. Autonoma de Buenos Aires
+ARG,CH,Chaco
+ARG,CO,Cordoba
+ARG,CR,Corrientes
+ARG,CT,Catamarca
+ARG,ER,Entre Rios
+ARG,FO,Formosa
+ARG,JU,Jujuy
+ARG,LP,La Pampa
+ARG,LR,La Rioja
+ARG,MI,Misiones
+ARG,MZ,Mendoza
+ARG,NQ,Neuquen
+ARG,RN,Rio Negro
+ARG,SA,Salta
+ARG,SC,Santa Cruz
+ARG,SE,Santiago del Estero
+ARG,SF,Santa Fe
+ARG,SJ,San Juan
+ARG,SL,San Luis
+ARG,TF,Tierra del Fuego
+ARG,TU,Tucuman
+AUS,ACT,Austl. Cap. Terr.
+AUS,NSW,New South Wales
+AUS,NT,Northern Territory
+AUS,QLD,Queensland
+AUS,SA,South Australia
+AUS,TAS,Tasmania
+AUS,VIC,Victoria
+AUS,WA,Western Australia
+BEL,AN,Antwerpen
+BEL,BC,Brussels-Capital Region
+BEL,HE,Henegouwen
+BEL,LI,Limburg
+BEL,LU,Luik
+BEL,LX,Luxemburg
+BEL,NA,Namen
+BEL,OV,Oost Vlaanderen
+BEL,VB,Vlaams Brabant
+BEL,WB,Waals Brabant
+BEL,WV,West Vlaanderen
+BOL,BE,Beni
+BOL,CH,Chuquisaca
+BOL,CO,Cochabamba
+BOL,LP,La Paz
+BOL,OR,Oruro
+BOL,PA,Pando
+BOL,PO,Potosi
+BOL,SC,Santa Cruz
+BOL,TA,Tarija
+BRA,AC,Acre
+BRA,AL,Alagoas
+BRA,AM,Amazonas
+BRA,AP,Amapa
+BRA,BA,Bahia
+BRA,CE,Ceara
+BRA,DF,Distrito Federal
+BRA,ES,Espirito Santo
+BRA,GO,Goias
+BRA,MA,Maranhao
+BRA,MG,Minas Gerais
+BRA,MS,Mato Grosso do Sul
+BRA,MT,Mato Grosso
+BRA,PA,Para
+BRA,PB,Paraiba
+BRA,PE,Pernambuco
+BRA,PI,Piaui
+BRA,PR,Parana
+BRA,RJ,Rio de Janeiro
+BRA,RN,Rio Grande do Norte
+BRA,RO,Rondonia
+BRA,RR,Roraima
+BRA,RS,Rio Grande do Sul
+BRA,SC,Santa Catarina
+BRA,SE,Sergipe
+BRA,SP,Sao Paulo
+BRA,TO,Tocantins
+CAN,AB,Alberta
+CAN,BC,British Columbia
+CAN,MB,Manitoba
+CAN,NB,New Brunswick
+CAN,NL,Newfoundland and Labrador
+CAN,NS,Nova Scotia
+CAN,NT,Northwest Territories
+CAN,NU,Nunavut (NU)
+CAN,ON,Ontario
+CAN,PE,Prince Edward Island
+CAN,QC,Quebec
+CAN,SK,Saskatchewan
+CAN,YT,Yukon
+CAN,ZZ,Beyond the limits of any Prov.
+CHE,AG,Argovia
+CHE,AI,Appenzell Inner-Rhodes
+CHE,AR,Appenzell Outer-Rhodes
+CHE,BE,Berne
+CHE,BL,Basle-Country
+CHE,BS,Basle-Town
+CHE,FR,Fribourg
+CHE,GE,Geneva
+CHE,GL,Glarus
+CHE,GR,Grisons
+CHE,JU,Jura
+CHE,LU,Lucerne
+CHE,NE,Neuchatel
+CHE,NW,Nidwalden
+CHE,OW,Obwalden
+CHE,SG,St. Gall
+CHE,SH,Schaffhausen
+CHE,SO,Solothurn
+CHE,SZ,Schwyz
+CHE,TG,Thurgovia
+CHE,TI,Ticino
+CHE,UR,Uri
+CHE,VD,Vaud
+CHE,VS,Valais
+CHE,ZG,Zug
+CHE,ZH,Zurich
+CHL,AG,Aisen del Gral. C.I. del Campo
+CHL,AN,Antofagasta
+CHL,AR,Araucania
+CHL,AT,Atacama
+CHL,BB,Bio-Bio
+CHL,CO,Coquimbo
+CHL,LL,Los Lagos
+CHL,LO,Lib. Gral. Bernardo O'Higgins
+CHL,MA,Magallanes y Antartica Chilena
+CHL,MU,Maule
+CHL,RM,Region Metropolitana
+CHL,TA,Tarapaca
+CHL,VA,Valparaiso
+CHN,11,Beijing
+CHN,12,Tianjin
+CHN,13,Hebei
+CHN,14,Shanxi
+CHN,15,Neimenggu
+CHN,21,Liaoning
+CHN,22,Jilin
+CHN,23,Heilongjiang
+CHN,31,Shanghai
+CHN,32,Jiangsu
+CHN,33,Zhejiang
+CHN,34,Anhui
+CHN,35,Fujian
+CHN,36,Jiangxi
+CHN,37,Shandong
+CHN,41,Henan
+CHN,42,Hubei
+CHN,43,Hunan
+CHN,44,Guangdong
+CHN,45,Guangxi
+CHN,46,Hainan
+CHN,50,Chongqing
+CHN,51,Sichuan
+CHN,52,Guizhou
+CHN,53,Yunnan
+CHN,54,Xizang
+CHN,61,Shaanxi
+CHN,62,Gansu
+CHN,63,Qinghai
+CHN,64,Ningxia
+CHN,65,Xinjiang
+CHN,71,Taiwan
+CHN,81,Xianggang
+CHN,82,Aomen
+CRI,AJ,Alajuela
+CRI,CT,Cartago
+CRI,GC,Guanacaste
+CRI,HR,Heredia
+CRI,LM,Limón
+CRI,PT,Puntarenas
+CRI,SJ,San José
+DEU,BE,Berlin
+DEU,BR,Brandenburg
+DEU,BW,Baden Wurttemberg
+DEU,BY,Bayern
+DEU,HB,Bremen
+DEU,HE,Hessen
+DEU,HH,Hamburg
+DEU,MV,Mecklenburg Vorpommern
+DEU,NI,Niedersachsen
+DEU,NW,Nordrhein Westfalen
+DEU,RP,Rheinland Pfalz
+DEU,SH,Schleswig Holstein
+DEU,SL,Saarland
+DEU,SN,Sachsen
+DEU,ST,Sachsen Anhalt
+DEU,TH,Thuringen
+ESP,01,Alava
+ESP,02,Albacete
+ESP,03,Alicante
+ESP,04,Almeria
+ESP,05,Avila
+ESP,06,Badajoz
+ESP,07,Baleares
+ESP,08,Barcelona
+ESP,09,Burgos
+ESP,10,Caceres
+ESP,11,Cadiz
+ESP,12,Castellon
+ESP,13,Ciudad Real
+ESP,14,Cordoba
+ESP,15,La Coruna
+ESP,16,Cuenca
+ESP,17,Gerona
+ESP,18,Granada
+ESP,19,Guadalajara
+ESP,20,Guipuzcoa
+ESP,21,Huelva
+ESP,22,Huesca
+ESP,23,Jaen
+ESP,24,Leon
+ESP,25,Lerida
+ESP,26,La Rioja
+ESP,27,Lugo
+ESP,28,Madrid
+ESP,29,Malaga
+ESP,30,Murcia
+ESP,31,Navarra
+ESP,32,Orense
+ESP,33,Asturias
+ESP,34,Palencia
+ESP,35,Las Palmas
+ESP,36,Pontevedra
+ESP,37,Salamanca
+ESP,38,Sta.Cruz de Tenerife
+ESP,39,Cantabria
+ESP,40,Segovia
+ESP,41,Sevilla
+ESP,42,Soria
+ESP,43,Tarragona
+ESP,44,Teruel
+ESP,45,Toledo
+ESP,46,Valencia
+ESP,47,Valladolid
+ESP,48,Vizcaya
+ESP,49,Zamora
+ESP,50,Zaragoza
+ESP,51,Ceuta
+ESP,52,Melilla
+FRA,01,Ain
+FRA,02,Aisne
+FRA,03,Allier
+FRA,04,Alpes de Haute Provence
+FRA,05,Hautes Alpes
+FRA,06,Alpes Maritimes
+FRA,07,Ardeche
+FRA,08,Ardennes
+FRA,09,Ariege
+FRA,10,Aube
+FRA,11,Aude
+FRA,12,Aveyron
+FRA,13,Bouches du Rhone
+FRA,14,Calvados
+FRA,15,Cantal
+FRA,16,Charente
+FRA,17,Charente Maritime
+FRA,18,Cher
+FRA,19,Correze
+FRA,20,Corse
+FRA,21,Cote d'Or
+FRA,22,Cotes d'Armor
+FRA,23,Creuse
+FRA,24,Dordogne
+FRA,25,Doubs
+FRA,26,Drome
+FRA,27,Eure
+FRA,28,Eure et Loir
+FRA,29,Finistere
+FRA,2A,Corse du Sud
+FRA,2B,Haute Corse
+FRA,30,Gard
+FRA,31,Haute Garonne
+FRA,32,Gers
+FRA,33,Gironde
+FRA,34,Herault
+FRA,35,Ille et Vilaine
+FRA,36,Indre
+FRA,37,Indre et Loire
+FRA,38,Isere
+FRA,39,Jura
+FRA,40,Landes
+FRA,41,Loir et Cher
+FRA,42,Loire
+FRA,43,Haute Loire
+FRA,44,Loire Atlantique
+FRA,45,Loiret
+FRA,46,Lot
+FRA,47,Lot et Garonne
+FRA,48,Lozere
+FRA,49,Maine et Loire
+FRA,50,Manche
+FRA,51,Marne
+FRA,52,Haute Marne
+FRA,53,Mayenne
+FRA,54,Meurthe et Moselle
+FRA,55,Meuse
+FRA,56,Morbihan
+FRA,57,Moselle
+FRA,58,Nievre
+FRA,59,Nord
+FRA,60,Oise
+FRA,61,Orne
+FRA,62,Pas de Calais
+FRA,63,Puy de Dome
+FRA,64,Pyrenees Atlantiques
+FRA,65,Haute Pyrenees
+FRA,66,Pyrenees Orientales
+FRA,67,Bas Rhin
+FRA,68,Haut Rhin
+FRA,69,Rhone
+FRA,70,Haute Saone
+FRA,71,Saone et Loire
+FRA,72,Sarthe
+FRA,73,Savoie
+FRA,74,Haute Savoie
+FRA,75,Paris
+FRA,76,Seine Maritime
+FRA,77,Seine et Marne
+FRA,78,Yvelines
+FRA,79,Deux Serves
+FRA,80,Somme
+FRA,81,Tarn
+FRA,82,Tarn et Garonne
+FRA,83,Var
+FRA,84,Vaculuse
+FRA,85,Vendee
+FRA,86,Vienne
+FRA,87,Haute Vienne
+FRA,88,Vosges
+FRA,89,Yonne
+FRA,90,Territoire de Belfort
+FRA,91,Essonne
+FRA,92,Hauts de Seine
+FRA,93,Seine St Denis
+FRA,94,Val de Marne
+FRA,95,Val d'Oise
+FRA,971,Guadeloupe
+FRA,972,Martinique
+FRA,973,Guyane
+FRA,974,Reunion
+FRA,975,Saint Pierre et Miquelon
+FRA,984,Terres Australes Francaises
+FRA,985,Mayotte
+FRA,986,Wallis et Futuna
+FRA,987,Polynesie Francaise
+FRA,988,Nouvelle Caledonie
+FRA,99,Etranger (Hors France)
+GBR,ABC,Aberdeen City
+GBR,ABS,Aberdeenshire
+GBR,ANG,Angus
+GBR,ANT,Antrim
+GBR,ARD,Ards
+GBR,ARG,Argyll and Bute
+GBR,ARM,Armagh
+GBR,BEDS,Bedfordshire
+GBR,BERKS,Berkshire
+GBR,BFS,Belfast
+GBR,BLA,Ballymena
+GBR,BLY,Ballymoney
+GBR,BNB,Banbridge
+GBR,BORDER,Scottish Borders
+GBR,BRIST,Bristol
+GBR,BUCKS,Buckinghamshire
+GBR,CAMBS,Cambridgeshire
+GBR,CEB,City of Edinburgh
+GBR,CENT,Central Region
+GBR,CFK,Carrickfergus
+GBR,CGV,Craigavon
+GBR,CHES,Cheshire
+GBR,CHL IS,Channel Is
+GBR,CKT,Cookstown
+GBR,CLR,Coleraine
+GBR,CLWYD,Clwyd
+GBR,CMS,Clackmannanshire
+GBR,CNWLL,Cornwall
+GBR,CSR,Castlereagh
+GBR,CUMB,Cumbria
+GBR,D&G,Dumfries & Galloway Region
+GBR,DDC,Dundee City
+GBR,DERBY,Derbyshire
+GBR,DEVON,Devon
+GBR,DGN,Dungannon
+GBR,DORSET,Dorset
+GBR,DOW,Down
+GBR,DRY,Derry
+GBR,DUR,Durham
+GBR,DYFED,Dyfed
+GBR,E YORK,East Riding of Yorkshire
+GBR,E.SUSX,East Sussex
+GBR,EAY,East Ayrshire
+GBR,EDB,East Dunbartonshire
+GBR,ELT,East Lothian
+GBR,ERF,East Renfrewshire
+GBR,ESSEX,Essex
+GBR,FAL,Falkirk
+GBR,FER,Fermanagh
+GBR,FIFE,Fife Region
+GBR,GLC,Glasgow City
+GBR,GLOUCS,Gloucestershire
+GBR,GRAMP,Grampian Region
+GBR,GT LON,Greater London
+GBR,GT MAN,Greater Manchester
+GBR,GWENT,Gwent
+GBR,GWYND,Gwynedd
+GBR,HANTS,Hampshire
+GBR,HERTS,Hertfordshire
+GBR,HFORD,Herefordshire
+GBR,HIGHLD,Highland Region
+GBR,INV,Inverclyde
+GBR,IOM,Isle of Man
+GBR,IOS,Isles of Scilly
+GBR,IOW,Isle of Wight
+GBR,KENT,Kent
+GBR,LANCS,Lancashire
+GBR,LEICS,Leicestershire
+GBR,LINCS,Lincolnshire
+GBR,LMV,Limavady
+GBR,LOTH,Lothian Region
+GBR,LRN,Larne
+GBR,LSB,Lisburn
+GBR,M GLAM,Mid Glamorgan
+GBR,MDDSX,Middlesex
+GBR,MERSYD,Merseyside
+GBR,MFT,Magherafelt
+GBR,MLT,Midlothian
+GBR,MOR,Moray
+GBR,MYL,Moyle
+GBR,N YORK,North Yorkshire
+GBR,NAY,North Ayrshire
+GBR,NDN,North Down
+GBR,NHANTS,Northamptonshire
+GBR,NLN,North Lanarkshire
+GBR,NORFLK,Norfolk
+GBR,NOTTS,Nottinghamshire
+GBR,NTA,Newtownabbey
+GBR,NTHUMB,Northumberland
+GBR,NYM,Newry and Mourne
+GBR,OMH,Omagh
+GBR,ORK,Orkney Islands
+GBR,OXON,Oxfordshire
+GBR,PER,Perth and Kinross
+GBR,POWYS,Powys
+GBR,REN,Renfrewshire
+GBR,RUTLND,Rutland
+GBR,S GLAM,South Glamorgan
+GBR,SAY,South Ayrshire
+GBR,SHET,Shetland Islands
+GBR,SHROPS,Shropshire
+GBR,SLN,South Lanarkshire
+GBR,SOMER,Somerset
+GBR,STAFFS,Staffordshire
+GBR,STB,Strabane
+GBR,STI,Stirling
+GBR,STRATH,Strathclyde Region
+GBR,SUFFK,Suffolk
+GBR,SURREY,Surrey
+GBR,SYORKS,South Yorkshire
+GBR,T&W,Tyne & Wear
+GBR,TAYS,Tayside Region
+GBR,W GLAM,West Glamorgan
+GBR,W ISLS,Eilean Siar (Western Isles)
+GBR,W SUSX,West Sussex
+GBR,WARWKS,Warwickshire
+GBR,WDB,West Dunbartonshire
+GBR,WILTS,Wiltshire
+GBR,WLT,West Lothian
+GBR,WOR,Worcestershire
+GBR,WSTMID,West Midlands
+GBR,WYORKS,West Yorkshire
+HKG,H,Hong Kong Island
+HKG,K,Kowloon
+HKG,N,New Territories
+"IDN",AC,Aceh  [Atjeh] (Special Region)
+"IDN",BA,Bali
+"IDN",BE,Bengkulu
+"IDN",IJ,Irian Jaya
+"IDN",JA,Jambi [Djambi]
+"IDN",JB,Jawa Barat [Djawa Barat]
+"IDN",JR,Jakarta Raya (SpecialDistrict)
+"IDN",JT,Jawa Tengah [Djawa Tengah]
+"IDN",JTI,Jawa Timur [Djawa Timur]
+"IDN",KB,Kalimantan Barat
+"IDN",KS,Kalimantan Selatan
+"IDN",KT,Kalimantan Tengah
+"IDN",KTI,Kalimantan Timur
+"IDN",LA,Lampung
+"IDN",MA,Maluku
+"IDN",NTB,Nusa Tenggara Barat
+"IDN",NTT,Nusa Tenggara Timur
+"IDN",RI,Riau
+"IDN",SLU,Sulawesi Utara
+"IDN",SS,Sulawesi Selatan
+"IDN",STA,Sulawesi Tenggara
+"IDN",STH,Sulawesi Tengah
+"IDN",SUB,Sumatera Barat
+"IDN",SUS,Sumatera Selatan
+"IDN",SUU,Sumatera Utara
+"IDN",TT,Timor Timur
+"IDN",YK,Yogyakarta [Jogjakarta] (SReg)
+IND,AN,Andaman and Nicobar Islands UT
+IND,AP,Andhra Pradesh
+IND,AR,Arunachal Pradesh
+IND,AS,Assam
+IND,BR,Bihar
+IND,CH,Chandigarh (UT)
+IND,CT,Chhattisgarh
+IND,DD,Daman and Diu (UT)
+IND,DL,Delhi (UT)
+IND,DN,Dadra and Nagar Haveli (UT)
+IND,GA,Goa
+IND,GJ,Gujarat
+IND,HP,Himachal Pradesh
+IND,HR,Haryana
+IND,JH,Jharkhand
+IND,JK,Jammu and Kashmir
+IND,KA,Karnataka
+IND,KL,Kerala
+IND,LA,Lakshadweep (UT)
+IND,MH,Maharashtra
+IND,ML,Meghalaya
+IND,MN,Manipur
+IND,MP,Madhya Pradesh
+IND,MZ,Mizoram
+IND,NG,Nagaland
+IND,OR,ODISHA
+IND,PB,Punjab
+IND,PY,Puducherry (UT)
+IND,RJ,Rajasthan
+IND,SK,Sikkim
+IND,TG,Telangana
+IND,TN,Tamil Nadu
+IND,TR,Tripura
+IND,TS,Telangana
+IND,UP,Uttar Pradesh
+IND,UT,Uttarakhand
+IND,WB,West Bengal
+IRL,ANTRIM,Antrim
+IRL,ARMAGH,Armagh
+IRL,CARLOW,Carlow
+IRL,CAVAN,Cavan
+IRL,CLARE,Clare
+IRL,CORK,Cork
+IRL,DERRY,Derry
+IRL,DNEGAL,Donegal
+IRL,DOWN,Down
+IRL,DUBLIN,Dublin
+IRL,FERMAN,Fermanagh
+IRL,GALWAY,Galway
+IRL,KERRY,Kerry
+IRL,KLDARE,Kildare
+IRL,KLKENY,Kilkenny
+IRL,LAOIS,Laois
+IRL,LIMRCK,Limerick
+IRL,LNGFRD,Longford
+IRL,LOUTH,Louth
+IRL,LTRIM,Leitrim
+IRL,MAYO,Mayo
+IRL,MEATH,Meath
+IRL,MONGHN,Monaghan
+IRL,OFFALY,Offaly
+IRL,ROSCMN,Roscommon
+IRL,SLIGO,Sligo
+IRL,TPPRRY,Tipperary
+IRL,TYRONE,Tyrone
+IRL,WCKLOW,Wicklow
+IRL,WSTMTH,Westmeath
+IRL,WTRFRD,Waterford
+IRL,WXFORD,Wexford
+ITA,AG,Agrigento
+ITA,AL,Alessandria
+ITA,AN,Ancona
+ITA,AO,Aosta
+ITA,AP,Ascoli Piceno
+ITA,AQ,L' Aquila
+ITA,AR,Arezzo
+ITA,AT,Asti
+ITA,AV,Avellino
+ITA,BA,Bari
+ITA,BG,Bergamo
+ITA,BI,Biella
+ITA,BL,Belluno
+ITA,BN,Benevento
+ITA,BO,Bologna
+ITA,BR,Brindisi
+ITA,BS,Brescia
+ITA,BT,Barletta-Andria-Trani
+ITA,BZ,Bolzano
+ITA,CA,Cagliari
+ITA,CB,Campobasso
+ITA,CE,Caserta
+ITA,CH,Chieti
+ITA,CI,Carbonia-Iglesias
+ITA,CL,Caltanissetta
+ITA,CN,Cuneo
+ITA,CO,Como
+ITA,CR,Cremona
+ITA,CS,Cosenza
+ITA,CT,Catania
+ITA,CZ,Catanzaro
+ITA,EN,Enna
+ITA,FC,Forli-Cesena
+ITA,FE,Ferrara
+ITA,FG,Foggia
+ITA,FI,Firenze
+ITA,FM,Fermo
+ITA,FO,Forli'
+ITA,FR,Frosinone
+ITA,GE,Genova
+ITA,GO,Gorizia
+ITA,GR,Grosseto
+ITA,IM,Imperia
+ITA,IS,Isernia
+ITA,KR,Crotone
+ITA,LC,Lecco
+ITA,LE,Lecce
+ITA,LI,Livorno
+ITA,LO,Lodi
+ITA,LT,Latina
+ITA,LU,Lucca
+ITA,MB,Monza e Brianza
+ITA,MC,Macerata
+ITA,ME,Messina
+ITA,MI,Milano
+ITA,MN,Mantova
+ITA,MO,Modena
+ITA,MS,Massa
+ITA,MT,Matera
+ITA,NA,Napoli
+ITA,NO,Novara
+ITA,NU,Nuoro
+ITA,OG,Ogliastra
+ITA,OR,Oristano
+ITA,OT,Olbia-Tempio
+ITA,PA,Palermo
+ITA,PC,Piacenza
+ITA,PD,Padova
+ITA,PE,Pescara
+ITA,PG,Perugia
+ITA,PI,Pisa
+ITA,PN,Pordenone
+ITA,PO,Prato
+ITA,PR,Parma
+ITA,PS,Pesaro
+ITA,PT,Pistoia
+ITA,PU,Pesaro e Urbino
+ITA,PV,Pavia
+ITA,PZ,Potenza
+ITA,RA,Ravenna
+ITA,RC,Reggio Di Calabria
+ITA,RE,Reggio Nell' Emilia
+ITA,RG,Ragusa
+ITA,RI,Rieti
+ITA,RM,Roma
+ITA,RN,Rimini
+ITA,RO,Rovigo
+ITA,SA,Salerno
+ITA,SI,Siena
+ITA,SO,Sondrio
+ITA,SP,La Spezia
+ITA,SR,Siracusa
+ITA,SS,Sassari
+ITA,SV,Savona
+ITA,TA,Taranto
+ITA,TE,Teramo
+ITA,TN,Trento
+ITA,TO,Torino
+ITA,TP,Trapani
+ITA,TR,Terni
+ITA,TS,Trieste
+ITA,TV,Treviso
+ITA,UD,Udine
+ITA,VA,Varese
+ITA,VB,Verbania
+ITA,VC,Vercelli
+ITA,VE,Venezia
+ITA,VI,Vicenza
+ITA,VR,Verona
+ITA,VS,Medio Campidano
+ITA,VT,Viterbo
+ITA,VV,Vibo Valentia
+JPN,01,Hokkaido
+JPN,02,Aomori-Ken
+JPN,03,Iwate-Ken
+JPN,04,Miyagi-Ken
+JPN,05,Akita-Ken
+JPN,06,Yamagata-Ken
+JPN,07,Fukushima-Ken
+JPN,08,Ibaraki-Ken
+JPN,09,Tochigi-Ken
+JPN,10,Gunma-Ken
+JPN,11,Saitama-Ken
+JPN,12,Chiba-Ken
+JPN,13,Tokyo-To
+JPN,14,Kanagawa-Ken
+JPN,15,Niigata-Ken
+JPN,16,Toyama-Ken
+JPN,17,Ishikawa-Ken
+JPN,18,Fukui-Ken
+JPN,19,Yamanashi-Ken
+JPN,20,Nagano-Ken
+JPN,21,Gifu-Ken
+JPN,22,Shizuoka-Ken
+JPN,23,Aichi-Ken
+JPN,24,Mie-Ken
+JPN,25,Shiga-Ken
+JPN,26,Kyoto-Fu
+JPN,27,Osaka-Fu
+JPN,28,Hyogo-Ken
+JPN,29,Nara-Ken
+JPN,30,Wakayama-Ken
+JPN,31,Tottori-Ken
+JPN,32,Shimane-Ken
+JPN,33,Okayama-Ken
+JPN,34,Hiroshima-Ken
+JPN,35,Yamaguchi-Ken
+JPN,36,Tokushima-Ken
+JPN,37,Kagawa-Ken
+JPN,38,Ehime-Ken
+JPN,39,Kochi-Ken
+JPN,40,Fukuoka-Ken
+JPN,41,Saga-Ken
+JPN,42,Nagasaki-Ken
+JPN,43,Kumamoto-Ken
+JPN,44,Oita-Ken
+JPN,45,Miyazaki-Ken
+JPN,46,Kagoshima-Ken
+JPN,47,Okinawa-Ken
+KOR,CB,Cholla-bukto
+KOR,CD,Cheju-do
+KOR,CN,Cholla-namdo
+KOR,COB,Ch'ungch'ong-bukto
+KOR,CON,Ch'ungch'ong-namdo
+KOR,IOJ,Inch'on-jikhalsi (SpecialCity)
+KOR,KD,Kangwon-do
+KOR,KJ,Kwangju-jikhalsi
+KOR,KN,Kyongsang-namdo
+KOR,KYB,Kyongsang-bukto
+KOR,KYD,Kyonggi-do
+KOR,PJ,Pusan-jikhalsi (Special City)
+KOR,ST,Soul-t'ukpyolsi (Special City)
+KOR,TJ,Taegu-jikhalsi (Special City)
+KOR,TJJ,Taejon-jikhalsi
+MEX,AGS,Aguascalientes
+MEX,BCN,Baja California Norte
+MEX,BCS,Baja California Sur
+MEX,CAMP,Campeche
+MEX,CHIH,Chihuahua
+MEX,CHPS,Chiapas
+MEX,COAH,Coahuila
+MEX,COLI,Colima
+MEX,DF,Distrito Federal
+MEX,DGO,Durango
+MEX,EMEX,Estado de Mexico
+MEX,GRO,Guerrero
+MEX,GTO,Guanajuato
+MEX,HGO,Hidalgo
+MEX,JAL,Jalisco
+MEX,MICH,Michoacan
+MEX,MOR,Morelos
+MEX,NAY,Nayarit
+MEX,NL,Nuevo Leon
+MEX,OAX,Oaxaca
+MEX,PUE,Puebla
+MEX,QRO,Queretaro
+MEX,QROO,Quintana Roo
+MEX,SIN,Sinaloa
+MEX,SLP,San Luis Potosí
+MEX,SON,Sonora
+MEX,TAB,Tabasco
+MEX,TAMP,Tamaulipas
+MEX,TLAX,Tlaxcala
+MEX,VER,Veracruz
+MEX,YUC,Yucatan
+MEX,ZAC,Zacatecas
+MYS,JH,Johor
+MYS,KD,Kedah
+MYS,KT,Kelantan
+MYS,LB,Labuan
+MYS,ML,Melaka
+MYS,NS,Negeri Sembilan
+MYS,PG,Pulau Pinang
+MYS,PH,Pahang
+MYS,PL,Perlis
+MYS,PR,Perak
+MYS,SB,Sabah
+MYS,SL,Selangor
+MYS,SR,Sarawak
+MYS,TR,Trengganu
+MYS,WP,Wilayah Persekutuan
+NLD,0003,Appingedam
+NLD,0005,Bedum
+NLD,0007,Bellingwedde
+NLD,0009,Ten Boer
+NLD,0010,Delfzijl
+NLD,0014,Groningen
+NLD,0015,Grootegast
+NLD,0017,Haren (Gr.)
+NLD,0018,Hoogezand-Sappemeer
+NLD,0022,Leek
+NLD,0024,Loppersum
+NLD,0025,Marum
+NLD,0034,Almere
+NLD,0037,Stadskanaal
+NLD,0039,Scheemda
+NLD,0040,Slochteren
+NLD,0047,Veendam
+NLD,0048,Vlagtwedde
+NLD,0050,Zeewolde
+NLD,0051,Skarsterlan
+NLD,0052,Winschoten
+NLD,0053,Winsum
+NLD,0055,Boarnsterhim
+NLD,0056,Zuidhorn
+NLD,0058,Dongeradeel
+NLD,0059,Achtkarspelen
+NLD,0060,Ameland
+NLD,0063,Het Bildt
+NLD,0064,Bolsward
+NLD,0065,Dantumadeel
+NLD,0068,Ferwerderadeel
+NLD,0070,Franekeradeel
+NLD,0072,Harlingen
+NLD,0074,Heerenveen
+NLD,0079,Kollumerland C.A.
+NLD,0080,Leeuwarden
+NLD,0081,Leeuwarderadeel
+NLD,0082,Lemsterland
+NLD,0083,Menaldumadeel
+NLD,0085,Ooststellingwerf
+NLD,0086,Opsterland
+NLD,0088,Schiermonnikoog
+NLD,0090,Smallingerland
+NLD,0091,Sneek
+NLD,0093,Terschelling
+NLD,0096,Vlieland
+NLD,0098,Weststellingwerf
+NLD,0104,Nijefurd
+NLD,0105,Anloo
+NLD,0106,Assen
+NLD,0107,Beilen
+NLD,0108,Borger
+NLD,0109,Coevorden
+NLD,0110,Dalen
+NLD,0111,Diever
+NLD,0112,Dwingeloo
+NLD,0113,Eelde
+NLD,0114,Emmen
+NLD,0115,Gasselte
+NLD,0116,Gieten
+NLD,0117,Havelte
+NLD,0118,Hoogeveen
+NLD,0119,Meppel
+NLD,0120,Norg
+NLD,0121,Nijeveen
+NLD,0122,Odoorn
+NLD,0123,Oosterhesselen
+NLD,0124,Peize
+NLD,0125,Roden
+NLD,0126,Rolde
+NLD,0127,Ruinen
+NLD,0128,Ruinerwold
+NLD,0129,Schoonebeek
+NLD,0130,Sleen
+NLD,0131,Smilde
+NLD,0132,Vledder
+NLD,0133,Vries
+NLD,0134,Westerbork
+NLD,0135,De Wijk
+NLD,0136,Zuidlaren
+NLD,0137,Zuidwolde
+NLD,0138,Zweeloo
+NLD,0140,Littenseradiel
+NLD,0141,Almelo
+NLD,0142,Ambt Delden
+NLD,0143,Avereest
+NLD,0144,Bathmen
+NLD,0147,Borne
+NLD,0148,Dalfsen
+NLD,0149,Denekamp
+NLD,0150,Deventer
+NLD,0151,Diepenheim
+NLD,0152,Diepenveen
+NLD,0153,Enschede
+NLD,0154,Genemuiden
+NLD,0156,Goor
+NLD,0157,Gramsbergen
+NLD,0158,Haaksbergen
+NLD,0159,Den Ham
+NLD,0160,Hardenberg
+NLD,0161,Hasselt
+NLD,0162,Heino
+NLD,0163,Hellendoorn
+NLD,0164,Hengelo (Ov)
+NLD,0165,Holten
+NLD,0166,Kampen
+NLD,0168,Losser
+NLD,0169,Markelo
+NLD,0170,Nieuwleusen
+NLD,0171,Noordoostpolder
+NLD,0173,Oldenzaal
+NLD,0174,Olst
+NLD,0175,Ommen
+NLD,0176,Ootmarsum
+NLD,0177,Raalte
+NLD,0178,Rijssen
+NLD,0179,Stad Delden
+NLD,0180,Staphorst
+NLD,0181,Steenwijk
+NLD,0183,Tubbergen
+NLD,0184,Urk
+NLD,0186,Vriezenveen
+NLD,0188,Weerselo
+NLD,0189,Wierden
+NLD,0190,Wijhe
+NLD,0191,Ijsselmuiden
+NLD,0192,Zwartsluis
+NLD,0193,Zwolle
+NLD,0194,Brederwiede
+NLD,0195,Ijsselham
+NLD,0196,Rijnwaarden
+NLD,0197,Aalten
+NLD,0198,Ammerzoden
+NLD,0199,Angerlo
+NLD,0200,Apeldoorn
+NLD,0202,Arnhem
+NLD,0203,Barneveld
+NLD,0206,Bemmel
+NLD,0207,Bergh
+NLD,0209,Beuningen
+NLD,0211,Borculo
+NLD,0212,Brakel
+NLD,0213,Brummen
+NLD,0214,Buren
+NLD,0216,Culemborg
+NLD,0218,Didam
+NLD,0219,Dinxperlo
+NLD,0220,Dodewaard
+NLD,0221,Doesburg
+NLD,0222,Doetinchem
+NLD,0225,Druten
+NLD,0226,Duiven
+NLD,0227,Echteld
+NLD,0228,Ede
+NLD,0229,Eibergen
+NLD,0230,Elburg
+NLD,0231,Elst
+NLD,0232,Epe
+NLD,0233,Ermelo
+NLD,0236,Geldermalsen
+NLD,0237,Gendringen
+NLD,0238,Gendt
+NLD,0239,Gorssel
+NLD,0240,Groenlo
+NLD,0241,Groesbeek
+NLD,0243,Harderwijk
+NLD,0244,Hattem
+NLD,0245,Hedel
+NLD,0246,Heerde
+NLD,0247,Heerewaarden
+NLD,0248,Hengelo (Gld)
+NLD,0251,Heteren
+NLD,0252,Heumen
+NLD,0253,Hoevelaken
+NLD,0255,Huissen
+NLD,0256,Hummelo En Keppel
+NLD,0257,Kerkwijk
+NLD,0258,Kesteren
+NLD,0260,Lichtenvoorde
+NLD,0261,Lienden
+NLD,0262,Lochem
+NLD,0263,Maasdriel
+NLD,0264,Maurik
+NLD,0265,Millingen Aan De Rijn
+NLD,0266,Neede
+NLD,0267,Nijkerk
+NLD,0268,Nijmegen
+NLD,0269,Oldebroek
+NLD,0273,Putten
+NLD,0274,Renkum
+NLD,0275,Rheden
+NLD,0276,Rossum
+NLD,0277,Rozendaal
+NLD,0278,Ruurlo
+NLD,0279,Scherpenzeel
+NLD,0280,Steenderen
+NLD,0281,Tiel
+NLD,0282,Ubbergen
+NLD,0283,Valburg
+NLD,0285,Voorst
+NLD,0286,Vorden
+NLD,0289,Wageningen
+NLD,0291,Warnsveld
+NLD,0292,Wehl
+NLD,0293,Westervoort
+NLD,0294,Winterswijk
+NLD,0295,Wisch
+NLD,0296,Wijchen
+NLD,0297,Zaltbommel
+NLD,0298,Zelhem
+NLD,0299,Zevenaar
+NLD,0301,Zutphen
+NLD,0302,Nunspeet
+NLD,0303,Dronten
+NLD,0304,Neerijnen
+NLD,0305,Abcoude
+NLD,0306,Amerongen
+NLD,0307,Amersfoort
+NLD,0308,Baarn
+NLD,0310,De Bilt
+NLD,0311,Breukelen
+NLD,0312,Bunnik
+NLD,0313,Bunschoten
+NLD,0314,Cothen
+NLD,0315,Doorn
+NLD,0316,Driebergen-Rijsenburg
+NLD,0317,Eemnes
+NLD,0318,Harmelen
+NLD,0321,Houten
+NLD,0325,Langbroek
+NLD,0326,Leersum
+NLD,0327,Leusden
+NLD,0329,Loenen
+NLD,0330,Loosdrecht
+NLD,0331,Lopik
+NLD,0332,Maarn
+NLD,0333,Maarssen
+NLD,0334,Maartensdijk
+NLD,0335,Montfoort
+NLD,0339,Renswoude
+NLD,0340,Rhenen
+NLD,0342,Soest
+NLD,0344,Utrecht
+NLD,0345,Veenendaal
+NLD,0347,Vleuten-De Meern
+NLD,0351,Woudenberg
+NLD,0352,Wijk Bij Duurstede
+NLD,0353,Ijsselstein
+NLD,0355,Zeist
+NLD,0356,Nieuwegein
+NLD,0357,Egmond
+NLD,0358,Aalsmeer
+NLD,0360,Akersloot
+NLD,0361,Alkmaar
+NLD,0362,Amstelveen
+NLD,0363,Amsterdam
+NLD,0364,Andijk
+NLD,0365,Graft-De Rijp
+NLD,0366,Anna Paulowna
+NLD,0370,Beemster
+NLD,0372,Bennebroek
+NLD,0373,Bergen  Nh
+NLD,0375,Beverwijk
+NLD,0376,Blaricum
+NLD,0377,Bloemendaal
+NLD,0381,Bussum
+NLD,0383,Castricum
+NLD,0384,Diemen
+NLD,0385,Edam-Volendam
+NLD,0388,Enkhuizen
+NLD,0390,'s-Graveland
+NLD,0392,Haarlem
+NLD,0393,Haarlemmerliede En Spaar
+NLD,0394,Haarlemmermeer
+NLD,0395,Harenkarspel
+NLD,0396,Heemskerk
+NLD,0397,Heemstede
+NLD,0398,Heerhugowaard
+NLD,0399,Heiloo
+NLD,0400,Den Helder
+NLD,0402,Hilversum
+NLD,0405,Hoorn
+NLD,0406,Huizen
+NLD,0412,Niedorp
+NLD,0415,Landsmeer
+NLD,0416,Langedijk
+NLD,0417,Laren Nh
+NLD,0418,Limmen
+NLD,0420,Medemblik
+NLD,0424,Muiden
+NLD,0425,Naarden
+NLD,0426,Nederhorst Den Berg
+NLD,0429,Obdam
+NLD,0431,Oostzaan
+NLD,0432,Opmeer
+NLD,0437,Ouder-Amstel
+NLD,0439,Purmerend
+NLD,0441,Schagen
+NLD,0444,Schoorl
+NLD,0448,Texel
+NLD,0450,Uitgeest
+NLD,0451,Uithoorn
+NLD,0453,Velsen
+NLD,0454,Venhuizen
+NLD,0457,Weesp
+NLD,0458,Schermer
+NLD,0459,Wervershoof
+NLD,0462,Wieringen
+NLD,0463,Wieringermeer
+NLD,0466,Wognum
+NLD,0473,Zandvoort
+NLD,0476,Zijpe
+NLD,0478,Zeevang
+NLD,0479,Zaanstad
+NLD,0480,Ter Aar
+NLD,0482,Alblasserdam
+NLD,0483,Alkemade
+NLD,0484,Alphen Aan Den Rijn
+NLD,0489,Barendrecht
+NLD,0491,Bergambacht
+NLD,0492,Bergschenhoek
+NLD,0493,Berkel En Rodenrijs
+NLD,0495,Bleiswijk
+NLD,0497,Bodegraven
+NLD,0498,Drechterland
+NLD,0499,Boskoop
+NLD,0501,Brielle
+NLD,0502,Capelle Aan Den Ijssel
+NLD,0503,Delft
+NLD,0504,Dirksland
+NLD,0505,Dordrecht
+NLD,0511,Goedereede
+NLD,0512,Gorinchem
+NLD,0513,Gouda
+NLD,0517,'s-Gravendeel
+NLD,0518,'s-Gravenhage
+NLD,0519,'s-Gravenzande
+NLD,0523,Hardinxveld-Giessendam
+NLD,0526,Heerjansdam
+NLD,0529,Noorder-Koggenland
+NLD,0530,Hellevoetsluis
+NLD,0531,Hendrik-Ido-Ambacht
+NLD,0532,Stede Broec
+NLD,0534,Hillegom
+NLD,0537,Katwijk
+NLD,0542,Krimpen Aan Den Ijssel
+NLD,0545,Leerdam
+NLD,0546,Leiden
+NLD,0547,Leiderdorp
+NLD,0548,Leidschendam
+NLD,0552,De Lier
+NLD,0553,Lisse
+NLD,0555,Maasland
+NLD,0556,Maassluis
+NLD,0558,Wester-Koggenland
+NLD,0559,Middelharnis
+NLD,0562,Monster
+NLD,0563,Moordrecht
+NLD,0565,Naaldwijk
+NLD,0567,Nieuwerkerk Aan Den Ijss
+NLD,0568,Bernisse
+NLD,0569,Nieuwkoop
+NLD,0571,Nieuw-Lekkerland
+NLD,0575,Noordwijk
+NLD,0576,Noordwijkerhout
+NLD,0577,Nootdorp
+NLD,0579,Oegstgeest
+NLD,0580,Oostflakkee
+NLD,0584,Oud-Beijerland
+NLD,0585,Binnenmaas
+NLD,0588,Korendijk
+NLD,0589,Oudewater
+NLD,0590,Papendrecht
+NLD,0594,Pijnacker
+NLD,0595,Reeuwijk
+NLD,0597,Ridderkerk
+NLD,0599,Rotterdam
+NLD,0600,Rozenburg
+NLD,0602,Rijnsburg
+NLD,0603,Rijswijk (Z.H.)
+NLD,0604,Sassenheim
+NLD,0606,Schiedam
+NLD,0607,Schipluiden
+NLD,0608,Schoonhoven
+NLD,0610,Sliedrecht
+NLD,0611,Cromstrijen
+NLD,0612,Spijkenisse
+NLD,0613,Albrandswaard
+NLD,0614,Westvoorne
+NLD,0617,Strijen
+NLD,0619,Valkenburg (Z.H.)
+NLD,0620,Vianen
+NLD,0622,Vlaardingen
+NLD,0623,Vlist
+NLD,0624,Voorburg
+NLD,0625,Voorhout
+NLD,0626,Voorschoten
+NLD,0627,Waddinxveen
+NLD,0628,Warmond
+NLD,0629,Wassenaar
+NLD,0630,Wateringen
+NLD,0632,Woerden
+NLD,0637,Zoetermeer
+NLD,0638,Zoeterwoude
+NLD,0642,Zwijndrecht
+NLD,0643,Nederlek
+NLD,0644,Ouderkerk
+NLD,0645,Jacobswoude
+NLD,0648,Aardenburg
+NLD,0649,Arnemuiden
+NLD,0650,Axel
+NLD,0653,Gaasterlan-Sleat
+NLD,0654,Borsele
+NLD,0656,Brouwershaven
+NLD,0657,Bruinisse
+NLD,0660,Domburg
+NLD,0662,Duiveland
+NLD,0664,Goes
+NLD,0668,West Maas En Waal
+NLD,0675,Hontenisse
+NLD,0677,Hulst
+NLD,0678,Kapelle
+NLD,0682,Kortgene
+NLD,0683,Wymbritseradiel
+NLD,0686,Mariekerke
+NLD,0687,Middelburg
+NLD,0688,Middenschouwen
+NLD,0689,Giessenlanden
+NLD,0692,Oostburg
+NLD,0693,Graafstroom
+NLD,0694,Liesveld
+NLD,0703,Reimerswaal
+NLD,0704,Sas Van Gent
+NLD,0707,Zederik
+NLD,0710,Wunseradiel
+NLD,0712,Sint Philipsland
+NLD,0713,Sluis
+NLD,0715,Terneuzen
+NLD,0716,Tholen
+NLD,0717,Veere
+NLD,0718,Vlissingen
+NLD,0720,Valkenisse
+NLD,0725,Westerschouwen
+NLD,0726,Westkapelle
+NLD,0727,Wissenkerke
+NLD,0732,Zierikzee
+NLD,0733,Lingewaal
+NLD,0736,De Ronde Venen
+NLD,0737,Tytsjerksteradiel
+NLD,0738,Aalburg
+NLD,0739,Aarle-Rixtel
+NLD,0741,Alphen En Riel
+NLD,0743,Asten
+NLD,0744,Baarle-Nassau
+NLD,0745,Bakel En Milheeze
+NLD,0746,Beek En Donk
+NLD,0748,Bergen Op Zoom
+NLD,0749,Bergeyk
+NLD,0751,Berkel-Enschot
+NLD,0752,Berlicum
+NLD,0753,Best
+NLD,0754,Bladel En Netersel
+NLD,0755,Boekel
+NLD,0756,Boxmeer
+NLD,0757,Boxtel
+NLD,0758,Breda
+NLD,0759,Budel
+NLD,0760,Chaam
+NLD,0762,Deurne
+NLD,0763,Diessen
+NLD,0764,Dinteloord En Prinsenlan
+NLD,0765,Pekela
+NLD,0766,Dongen
+NLD,0767,Drunen
+NLD,0768,Den Dungen
+NLD,0769,Dussen
+NLD,0770,Eersel
+NLD,0772,Eindhoven
+NLD,0776,Esch
+NLD,0777,Etten-Leur
+NLD,0778,Fijnaart En Heijningen
+NLD,0779,Geertruidenberg
+NLD,0781,Geldrop
+NLD,0782,Gemert
+NLD,0784,Gilze En Rijen
+NLD,0785,Goirle
+NLD,0786,Grave
+NLD,0787,'s-Gravenmoer
+NLD,0788,Haaren
+NLD,0789,Halsteren
+NLD,0791,Heesch
+NLD,0793,Heeze
+NLD,0794,Helmond
+NLD,0795,Helvoirt
+NLD,0796,'s-Hertogenbosch
+NLD,0797,Heusden
+NLD,0798,Hilvarenbeek
+NLD,0799,Hoeven
+NLD,0800,"Hoogeloon,Hapert En Cast"
+NLD,0801,Hooge En Lage Mierde
+NLD,0802,Hooge En Lage Zwaluwe
+NLD,0803,Huijbergen
+NLD,0804,Klundert
+NLD,0805,Leende
+NLD,0806,Liempde
+NLD,0807,Lieshout
+NLD,0808,Lith
+NLD,0809,Loon Op Zand
+NLD,0810,Luyksgestel
+NLD,0811,Maarheeze
+NLD,0812,Made En Drimmelen
+NLD,0814,Mierlo
+NLD,0815,Mill En Sint Hubert
+NLD,0816,Moergestel
+NLD,0817,Nieuw-Ginneken
+NLD,0818,Nieuw-Vossemeer
+NLD,0820,"Nuenen,Gerwen En Nederwe"
+NLD,0823,Oirschot
+NLD,0824,Oisterwijk
+NLD,0825,"Oost-,West-En Middelbeer"
+NLD,0826,Oosterhout
+NLD,0828,Oss
+NLD,0829,Ossendrecht
+NLD,0830,Oudenbosch
+NLD,0831,Oud En Nieuw Gastel
+NLD,0832,Prinsenbeek
+NLD,0833,Putte
+NLD,0834,Raamsdonk
+NLD,0835,Ravenstein
+NLD,0836,Reusel
+NLD,0837,Riethoven
+NLD,0838,Roosendaal En Nispen
+NLD,0839,Rosmalen
+NLD,0840,Rucphen
+NLD,0841,Rijsbergen
+NLD,0844,Schijndel
+NLD,0845,Sint Michielsgestel
+NLD,0846,Sint Oedenrode
+NLD,0847,Someren
+NLD,0848,Son En Breugel
+NLD,0849,Sprang-Capelle
+NLD,0850,Standdaarbuiten
+NLD,0851,Steenbergen
+NLD,0852,Waterland
+NLD,0853,Terheijden
+NLD,0854,Teteringen
+NLD,0855,Tilburg
+NLD,0856,Uden
+NLD,0857,Udenhout
+NLD,0858,Valkenswaard
+NLD,0860,Veghel
+NLD,0861,Veldhoven
+NLD,0862,"Vessem,Wintelre En Knegs"
+NLD,0863,Vierlingsbeek
+NLD,0864,Vlijmen
+NLD,0865,Vught
+NLD,0866,Waalre
+NLD,0867,Waalwijk
+NLD,0869,Waspik
+NLD,0870,Werkendam
+NLD,0871,Westerhoven
+NLD,0872,Willemstad
+NLD,0873,Woensdrecht
+NLD,0874,Woudrichem
+NLD,0875,Wouw
+NLD,0878,Zevenbergen
+NLD,0879,Zundert
+NLD,0880,Wormerland
+NLD,0881,Onderbanken
+NLD,0882,Landgraaf
+NLD,0885,Arcen En Velden
+NLD,0888,Beek (L)
+NLD,0889,Beesel
+NLD,0890,Belfeld
+NLD,0893,Bergen (L)
+NLD,0897,Born
+NLD,0898,Broekhuizen
+NLD,0899,Brunssum
+NLD,0902,Echt
+NLD,0905,Eijsden
+NLD,0906,Geleen
+NLD,0907,Gennep
+NLD,0912,Grubbenvorst
+NLD,0913,Gulpen
+NLD,0914,Haelen
+NLD,0917,Heerlen
+NLD,0918,Helden
+NLD,0920,Heythuysen
+NLD,0923,Horst
+NLD,0925,Hunsel
+NLD,0928,Kerkrade
+NLD,0929,Kessel
+NLD,0933,Maasbracht
+NLD,0934,Maasbree
+NLD,0935,Maastricht
+NLD,0936,Margraten
+NLD,0938,Meerssen
+NLD,0941,Meijel
+NLD,0944,Mook En Middelaar
+NLD,0946,Nederweert
+NLD,0951,Nuth
+NLD,0957,Roermond
+NLD,0962,Schinnen
+NLD,0964,Sevenum
+NLD,0965,Simpelveld
+NLD,0968,Sittard
+NLD,0971,Stein
+NLD,0973,Stramproy
+NLD,0974,Susteren
+NLD,0975,Swalmen
+NLD,0976,Tegelen
+NLD,0977,Thorn
+NLD,0981,Vaals
+NLD,0983,Venlo
+NLD,0984,Venray
+NLD,0986,Voerendaal
+NLD,0988,Weert
+NLD,0990,Wittem
+NLD,0993,Meerlo-Wanssum
+NLD,0994,Valkenburg A/D Geul
+NLD,0995,Lelystad
+NLD,0996,Zuidelijke Ijsselmeerpol
+NLD,1651,Eemsmond
+NLD,1661,Reiderland
+NLD,1663,De Marne
+NLD,1666,Zevenhuizen-Moerkapelle
+NLD,1669,Roerdalen
+NLD,1670,Roggel En Neer
+NLD,1671,Maasdonk
+NLD,1672,Rijnwoude
+NLD,1673,Liemeer
+NLD,1679,Ambt Montfort
+NLD,1684,Cuijk
+NLD,1685,Landerd
+NLD,1691,Sint Anthonis
+NLD,1937,Heel
+NLD,1987,Menterwolde
+NLD,8730,Beernem
+PAK,AK,Azad Kashmir(Pak administered)
+PAK,BAL,Balochistan
+PAK,FAT,FederalyAdministeredTribalArea
+PAK,ISL,Islamabad (CapitalTerritory)
+PAK,NA,Northern Areas (PakAdminister)
+PAK,NWF,North-West Frontier
+PAK,PUN,Punjab
+PAK,SIN,Sindh
+PRK,CD,Chagang-do
+PRK,HB,Hamgyong-bukto
+PRK,HN,Hamgyong-namdo
+PRK,HWB,Hwanghae-bukto
+PRK,HWN,Hwanghae-namdo
+PRK,KD,Kangwon-do
+PRK,KS,Kaesong-si (Special City)
+PRK,NS,Namp'o-si (Special City)
+PRK,PB,P'yongan-bukto
+PRK,PN,P'yongan-namdo
+PRK,PS,P'yongyang-si (Special City)
+PRK,YD,Yanggang-do
+QAT,DA,Ad Dawah
+QAT,KH,Al Khawr wa adh Dhakhirah
+QAT,MS,Ash Shamal
+QAT,RA,Ar Rayyan
+QAT,US,Umm Salal
+QAT,WA,Al Wakrah
+QAT,ZA,Az Zaayin
+RUS,AD,"Adygeya, Respublika"
+RUS,AL,"Altay, Respublika"
+RUS,ALT,Altayskiy kray
+RUS,AMU,Amurskaya oblast'
+RUS,ARK,Arkhangel'skaya oblast'
+RUS,AST,Astrakhanskaya oblast'
+RUS,BA,"Bashkortostan, Respublika"
+RUS,BEL,Belgorodskaya oblast'
+RUS,BRY,Bryanskaya oblast'
+RUS,BU,"Buryatiya, Respublika"
+RUS,CE,Chechenskaya Respublika
+RUS,CHE,Chelyabinskaya oblast'
+RUS,CHU,Chukotskiy avtonomnyy okrug
+RUS,CU,Chuvashskaya Respublika
+RUS,DA,"Dagestan, Respublika"
+RUS,IN,"Ingushetiya, Respublika"
+RUS,IRK,Irkutskaya oblast'
+RUS,IVA,Ivanovskaya oblast'
+RUS,KAM,Kamchatskiy kray
+RUS,KB,Kabardino-Balkarskaya Respubli
+RUS,KC,Karachayevo-Cherkesskaya Respu
+RUS,KDA,Krasnodarskiy kray
+RUS,KEM,Kemerovskaya oblast'
+RUS,KGD,Kaliningradskaya oblast'
+RUS,KGN,Kurganskaya oblast'
+RUS,KHA,Khabarovskiy kray
+RUS,KHM,Khanty-Mansiyskiy avtonomnyy
+RUS,KIR,Kirovskaya oblast'
+RUS,KK,"Khakasiya, Respublika"
+RUS,KL,"Kalmykiya, Respublika"
+RUS,KLU,Kaluzhskaya oblast'
+RUS,KO,"Komi, Respublika"
+RUS,KOS,Kostromskaya oblast'
+RUS,KR,"Kareliya, Respublika"
+RUS,KRS,Kurskaya oblast'
+RUS,KYA,Krasnoyarskiy kray
+RUS,LEN,Leningradskaya oblast'
+RUS,LIP,Lipetskaya oblast'
+RUS,MAG,Magadanskaya oblast'
+RUS,ME,"Mariy El, Respublika"
+RUS,MO,"Mordoviya, Respublika"
+RUS,MOS,Moskovskaya oblast'
+RUS,MOW,Moskva
+RUS,MUR,Murmanskaya oblast'
+RUS,NEN,Nenetskiy avtonomnyy okrug
+RUS,NGR,Novgorodskaya oblast'
+RUS,NIZ,Nizhegorodskaya oblast'
+RUS,NVS,Novosibirskaya oblast'
+RUS,OMS,Omskaya oblast'
+RUS,ORE,Orenburgskaya oblast'
+RUS,ORL,Orlovskaya oblast'
+RUS,PER,Permskiy kray
+RUS,PNZ,Penzenskaya oblast'
+RUS,PRI,Primorskiy kray
+RUS,PSK,Pskovskaya oblast'
+RUS,ROS,Rostovskaya oblast'
+RUS,RYA,Ryazanskaya oblast'
+RUS,SA,"Sakha, Respublika [Yakutiya]"
+RUS,SAK,Sakhalinskaya oblast'
+RUS,SAM,Samarskaya oblast'
+RUS,SAR,Saratovskaya oblast'
+RUS,SE,Severnaya Osetiya-Alaniya
+RUS,SMO,Smolenskaya oblast'
+RUS,SPE,Sankt-Peterburg
+RUS,STA,Stavropol'skiy kray
+RUS,SVE,Sverdlovskaya oblast'
+RUS,TA,"Tatarstan, Respublika"
+RUS,TAM,Tambovskaya oblast'
+RUS,TOM,Tomskaya oblast'
+RUS,TUL,Tul'skaya oblast'
+RUS,TVE,Tverskaya oblast'
+RUS,TY,"Tyva, Respublika [Tuva]"
+RUS,TYU,Tyumenskaya oblast'
+RUS,UD,Udmurtskaya Respublika
+RUS,ULY,Ul'yanovskaya oblast'
+RUS,VGG,Volgogradskaya oblast'
+RUS,VLA,Vladimirskaya oblast'
+RUS,VLG,Vologodskaya oblast'
+RUS,VOR,Voronezhskaya oblast'
+RUS,YAN,Yamalo-Nenetskiy avtonomnyy
+RUS,YAR,Yaroslavskaya oblast'
+RUS,YEV,Yevreyskaya avtonomnaya oblast
+RUS,ZAB,Zabaykal'skiy kray
+SAU,01,Riyadh Province
+SAU,02,Makkah Province
+SAU,03,Al Madinah Province
+SAU,04,Eastern Province
+SAU,05,Al-Qassim Province
+SAU,06,Ha'il Province
+SAU,07,Tabuk Province
+SAU,08,Northern Borders Province
+SAU,09,Jizan Province
+SAU,10,Najran Province
+SAU,11,AI BAHAH Province
+SAU,12,Al Jawf Province
+SAU,14,'Asir Province
+SSD,BN,North Bahr-al-Ghazal
+SSD,BW,Western Bahr el-Ghazal
+SSD,EC,Central Equatoria
+SSD,EE,Eastern Equatoria
+SSD,EW,Western Equatoria
+SSD,JG,Jonglei
+SSD,LK,Lakes
+SSD,NU,Upper Nile
+SSD,UY,Unity
+SSD,WR,Warrap
+THA,10,Bangkok
+THA,11,Samut Prakan
+THA,12,Nonthaburi
+THA,13,Pathum Thani
+THA,14,Phra Nakhon Si Ayutthaya
+THA,15,Ang Thong
+THA,16,Lop Buri
+THA,17,Sing Buri
+THA,18,Chai Nat
+THA,19,Saraburi
+THA,20,Chon Buri
+THA,21,Rayong
+THA,22,Chanthaburi
+THA,23,Trat
+THA,24,Chachoengsao
+THA,25,Prachin Buri
+THA,26,Nakhon Nayok
+THA,27,Sa Kaeo
+THA,30,Nakhon Ratchasima
+THA,31,Buri Ram
+THA,32,Surin
+THA,33,Si Sa Ket
+THA,34,Ubon Ratchathani
+THA,35,Yasothon
+THA,36,Chaiyaphum
+THA,37,Amnat Charoen
+THA,39,Nong Bua Lam Phu
+THA,40,Khon Kaen
+THA,41,Udon Thani
+THA,42,Loei
+THA,43,Nong Khai
+THA,44,Maha Sarakham
+THA,45,Roi Et
+THA,46,Kalasin
+THA,47,Sakon Nakhon
+THA,48,Nakhon Phanom
+THA,49,Mukdahan
+THA,50,Chiang Mai
+THA,51,Lamphun
+THA,52,Lampang
+THA,53,Uttaradit
+THA,54,Phrae
+THA,55,Nan
+THA,56,Phayao
+THA,57,Chiang Rai
+THA,58,Mae Hong Son
+THA,60,Nakhon Sawan
+THA,61,Uthai Thani
+THA,62,Kamphaeng Phet
+THA,63,Tak
+THA,64,Sukhothai
+THA,65,Phitsanulok
+THA,66,Phichit
+THA,67,Phetchabun
+THA,70,Ratchaburi
+THA,71,Kanchanaburi
+THA,72,Suphanburi
+THA,73,Nakhon Pathom
+THA,74,Samut Sakhon
+THA,75,Samut Songkhram
+THA,76,Phetchaburi
+THA,77,Prachuap Khiri Khan
+THA,80,Nakhon Si Thammarat
+THA,81,Krabi
+THA,82,Phang Nga
+THA,83,Phuket
+THA,84,Surat Thani
+THA,85,Ranong
+THA,86,Chumpon
+THA,90,Songkhla
+THA,91,Satun
+THA,92,Trang
+THA,93,Phattalung
+THA,94,Pattani
+THA,95,Yala
+THA,96,Narathiwat
+THA,S,Pattaya
+TWN,FC,Fu-chien
+TWN,KH,Kao-hsiung (Province)
+TWN,TP,T'ai-pei (Province)
+TWN,TW,T'ai-wan
+UKR,05,Vinnyts'ka Oblast'
+UKR,07,Volyns'ka Oblast'
+UKR,09,Luhans'ka Oblast'
+UKR,12,Dnipropetrovs'ka Oblast'
+UKR,14,Donets'ka Oblast'
+UKR,18,Zhytomyrs'ka Oblast'
+UKR,21,Zakarpats'ka Oblast'
+UKR,23,Zaporiz'ka Oblast'
+UKR,26,Ivano-Frankivs'ka Oblast'
+UKR,30,Kyïv
+UKR,32,Kyïvs'ka Oblast'
+UKR,35,Kirovohrads'ka Oblast'
+UKR,40,Sevastopol'
+UKR,43,Respublika Krym
+UKR,46,Lvivs'ka Oblast'
+UKR,48,Mykolaïvs'ka Oblast'
+UKR,51,Odes'ka Oblast'
+UKR,53,Poltavs'ka Oblast'
+UKR,56,Rivnens'ka Oblast'
+UKR,59,Sums'ka Oblast'
+UKR,61,Ternopil's'ka Oblast'
+UKR,63,Kharkivs'ka Oblast'
+UKR,65,Khersons'ka Oblast'
+UKR,68,Khmel'nyts'ka Oblast'
+UKR,71,Cherkas'ka Oblast'
+UKR,74,Chernihivs'ka Oblast'
+UKR,77,Chernivets'ka Oblast'
+USA,AA,Armed Forces Americas
+USA,AE,Armed Forces Europe
+USA,AK,Alaska
+USA,AL,Alabama
+USA,AP,Armed Forces Pacific
+USA,AR,Arkansas
+USA,AS,American Samoa
+USA,AZ,Arizona
+USA,CA,California
+USA,CO,Colorado
+USA,CT,Connecticut
+USA,DC,District of Columbia
+USA,DE,Delaware
+USA,FC,Foreign Country
+USA,FL,Florida
+USA,GA,Georgia
+USA,GU,Guam
+USA,HI,Hawaii
+USA,IA,Iowa
+USA,ID,Idaho
+USA,IL,Illinois
+USA,IN,Indiana
+USA,KS,Kansas
+USA,KY,Kentucky
+USA,LA,Louisiana
+USA,MA,Massachusetts
+USA,MD,Maryland
+USA,ME,Maine
+USA,MI,Michigan
+USA,MN,Minnesota
+USA,MO,Missouri
+USA,MP,Northern Mariana Islands
+USA,MS,Mississippi
+USA,MT,Montana
+USA,NC,North Carolina
+USA,ND,North Dakota
+USA,NE,Nebraska
+USA,NH,New Hampshire
+USA,NJ,New Jersey
+USA,NM,New Mexico
+USA,NV,Nevada
+USA,NY,New York
+USA,OH,Ohio
+USA,OK,Oklahoma
+USA,OR,Oregon
+USA,PA,Pennsylvania
+USA,PR,Puerto Rico
+USA,RI,Rhode Island
+USA,SC,South Carolina
+USA,SD,South Dakota
+USA,TN,Tennessee
+USA,TX,Texas
+USA,UT,Utah
+USA,VA,Virginia
+USA,VI,Virgin Islands
+USA,VT,Vermont
+USA,WA,Washington
+USA,WI,Wisconsin
+USA,WV,West Virginia
+USA,WY,Wyoming
+VEN,AM,Amazonas
+VEN,AN,Anzoategui
+VEN,AP,Apure
+VEN,AR,Aragua
+VEN,BA,Barinas
+VEN,BO,Bolivar
+VEN,CA,Carabobo
+VEN,CO,Cojedes
+VEN,DA,Delta Amacuro
+VEN,FA,Falcon
+VEN,GU,Guarico
+VEN,LA,Lara
+VEN,ME,Merida
+VEN,MI,Miranda
+VEN,MO,Monagas
+VEN,NE,Nueva Esparta
+VEN,PO,Portuguesa
+VEN,SU,Sucre
+VEN,TA,Tachira
+VEN,TR,Trujillo
+VEN,VA,Vargas
+VEN,YA,Yaracuy
+VEN,ZU,Zulia
+VNM,AG,An Giang
+VNM,BD,Binh Dinh
+VNM,BRT,Ba Ria-Vung Tau
+VNM,BT,Bac Thai
+VNM,BTE,Ben Tre
+VNM,BTN,Binh Thuan
+VNM,CB,Cao Bang
+VNM,CT,Can Tho
+VNM,DL,Dac Lac
+VNM,DN,Dong Nai
+VNM,DT,Dong Thap
+VNM,GL,Gia Lai
+VNM,HB,Ha Bac
+VNM,HBH,Hoa Binh
+VNM,HCM,Ho Chi Minh (Province)
+VNM,HG,Ha Giang
+VNM,HH,Hai Hung
+VNM,HN,Ha Noi (Province)
+VNM,HP,Hai Phong (Province)
+VNM,HTH,Ha Tinh
+VNM,HTY,Ha Tay
+VNM,KG,Kien Giang
+VNM,KH,Khanh Hoa
+VNM,KT,Kon Tum
+VNM,LA,Long An
+VNM,LC,Lai Chau
+VNM,LCA,Lao Cai
+VNM,LD,Lam Dong
+VNM,LS,Lang Son
+VNM,MH,Minh Hai
+VNM,NA,Nghe An
+VNM,NB,Ninh Binh
+VNM,NH,Nam Ha
+VNM,NT,Ninh Thuan
+VNM,PY,Phu Yen
+VNM,QB,Quang Binh
+VNM,QNG,Quang Ngai
+VNM,QNI,Quang Ninh
+VNM,QNN,Quang Nam-Da Nang
+VNM,QT,Quang Tri
+VNM,SB,Song Be
+VNM,SL,Son La
+VNM,ST,Soc Trang
+VNM,TB,Thai Binh
+VNM,TG,Tien Giang
+VNM,TH,Thanh Hoa
+VNM,TN,Tay Ninh
+VNM,TQ,Tuyen Quang
+VNM,TT,Thua Thien
+VNM,TV,Tra Vinh
+VNM,VL,Vinh Long
+VNM,VP,Vinh Phu
+VNM,YB,Yen Bai

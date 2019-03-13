@@ -1,0 +1,1846 @@
+SETID,JOBCODE,DESCR,SURVEY_JOB_CODE,JOB_FAMILY,DESCR_1
+CW_ID,900045,Customer Service Assoc (TEMP),99,TEMP,Temporary Worker
+CW_ID,900231,Warehouse Associate (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900234,Warehouse Associate (TEMP),99,TEMP,Temporary Worker
+CW_ID,900411,Recruiting Support (TEMP),99,TEMP,Temporary Worker
+CW_ID,900572,HR Assistant (TEMP),99,TEMP,Temporary Worker
+CW_ID,900704,Customer Service Mgr (TEMP),99,TEMP,Temporary Worker
+CW_ID,900800,Facilities Manager (TEMP),99,TEMP,Temporary Worker
+CW_ID,900803,FC Associate I (T),99,FC,Fulfillment Center
+CW_ID,900805,FC Associate III (T),99,FC,Fulfillment Center
+CW_ID,900806,Account Manager (TEMP),99,TEMP,Temporary Worker
+CW_ID,900807,Accounting Assistant (TEMP),99,TEMP,Temporary Worker
+CW_ID,900808,Administrative Support (TEMP),99,TEMP,Temporary Worker
+CW_ID,900810,Director - Art (TEMP),99,TEMP,Temporary Worker
+CW_ID,900811,Editor Assistant (TEMP),99,TEMP,Temporary Worker
+CW_ID,900812,Instock Manager (TEMP),99,TEMP,Temporary Worker
+CW_ID,900813,Vendor Manager (TEMP),99,TEMP,Temporary Worker
+CW_ID,900814,Business Analyst (TEMP),99,TEMP,Temporary Worker
+CW_ID,900815,Business Intel Eng (TEMP),99,TEMP,Temporary Worker
+CW_ID,900816,Buyer (TEMP),99,TEMP,Temporary Worker
+CW_ID,900817,Buyer Assistant (TEMP),99,TEMP,Temporary Worker
+CW_ID,900818,CAD Technician (TEMP),99,TEMP,Temporary Worker
+CW_ID,900819,Catalog Specialist (TEMP),99,TEMP,Temporary Worker
+CW_ID,900820,Content Eval Specialist (TEMP),99,TEMP,Temporary Worker
+CW_ID,900822,Media/Comms Support (TEMP),99,TEMP,Temporary Worker
+CW_ID,900823,Control System Tech (TEMP),99,TEMP,Temporary Worker
+CW_ID,900824,Creative Services Coord (TEMP),99,TEMP,Temporary Worker
+CW_ID,900826,Data Analyst (TEMP),99,TEMP,Temporary Worker
+CW_ID,900827,Database Administrator (TEMP),99,TEMP,Temporary Worker
+CW_ID,900828,Data Cntr Tech Ops Eng (TEMP),99,TEMP,Temporary Worker
+CW_ID,900829,Data Cntr Tech (TEMP),99,TEMP,Temporary Worker
+CW_ID,900830,Data Collect Research (TEMP),99,TEMP,Temporary Worker
+CW_ID,900831,Data Engineer (TEMP),99,TEMP,Temporary Worker
+CW_ID,900832,Data Entry Associate (TEMP),99,TEMP,Temporary Worker
+CW_ID,900833,Data Security Lead (TEMP),99,TEMP,Temporary Worker
+CW_ID,900835,Editor - Print (TEMP),99,TEMP,Temporary Worker
+CW_ID,900836,Executive Assistant (TEMP),99,TEMP,Temporary Worker
+CW_ID,900837,Facilities Technician (TEMP),99,TEMP,Temporary Worker
+CW_ID,900838,Finance Support (TEMP),99,TEMP,Temporary Worker
+CW_ID,900839,Finance Analyst (TEMP),99,TEMP,Temporary Worker
+CW_ID,900841,Designer - Graphic (TEMP),99,TEMP,Temporary Worker
+CW_ID,900843,HR Generalist (TEMP),99,TEMP,Temporary Worker
+CW_ID,900844,HR Specialist (TEMP),99,TEMP,Temporary Worker
+CW_ID,900847,Inventory Planner (TEMP),99,TEMP,Temporary Worker
+CW_ID,900848,Legal Counsel (TEMP),99,TEMP,Temporary Worker
+CW_ID,900849,Legal Support (TEMP),99,TEMP,Temporary Worker
+CW_ID,900851,Marketing/Adver Support (TEMP),99,TEMP,Temporary Worker
+CW_ID,900852,Marketing Manager (TEMP),99,TEMP,Temporary Worker
+CW_ID,900855,Network Engineer (TEMP),99,TEMP,Temporary Worker
+CW_ID,900856,Network Technician (TEMP),99,TEMP,Temporary Worker
+CW_ID,900858,Paralegal (TEMP),99,TEMP,Temporary Worker
+CW_ID,900859,Editor - Photo (TEMP),99,TEMP,Temporary Worker
+CW_ID,900860,Photographer (TEMP),99,TEMP,Temporary Worker
+CW_ID,900861,Studio Assistant (TEMP),99,TEMP,Temporary Worker
+CW_ID,900862,Press Assistant (TEMP),99,TEMP,Temporary Worker
+CW_ID,900863,Press Operator (TEMP),99,TEMP,Temporary Worker
+CW_ID,900865,Product Manager (TEMP),99,TEMP,Temporary Worker
+CW_ID,900867,Production Artist (TEMP),99,TEMP,Temporary Worker
+CW_ID,900871,Project/Program Manager (TEMP),99,TEMP,Temporary Worker
+CW_ID,900873,Quality Assurance Tech (TEMP),99,TEMP,Temporary Worker
+CW_ID,900874,Recruiter (TEMP),99,TEMP,Temporary Worker
+CW_ID,900875,Recruiting Coordinator (TEMP),99,TEMP,Temporary Worker
+CW_ID,900878,Risk Investigator (TEMP),99,TEMP,Temporary Worker
+CW_ID,900879,Sales Assistant (TEMP),99,TEMP,Temporary Worker
+CW_ID,900880,Site Merchandiser (TEMP),99,TEMP,Temporary Worker
+CW_ID,900881,Public Rel Support (TEMP),99,TEMP,Temporary Worker
+CW_ID,900882,Software Dev Engineer (TEMP),99,TEMP,Temporary Worker
+CW_ID,900886,Speech & Lang Annotator (TEMP),99,TEMP,Temporary Worker
+CW_ID,900887,Supply Chain Analyst (TEMP),99,TEMP,Temporary Worker
+CW_ID,900888,Support Engineer (TEMP),99,TEMP,Temporary Worker
+CW_ID,900889,Temp Support Specialist,99,TEMP,Temporary Worker
+CW_ID,900890,Systems Engineer (TEMP),99,TEMP,Temporary Worker
+CW_ID,900893,Technical Support (TEMP),99,TEMP,Temporary Worker
+CW_ID,900894,Technical Writer (TEMP),99,TEMP,Temporary Worker
+CW_ID,900897,User Exper Designer (TEMP),99,TEMP,Temporary Worker
+CW_ID,900899,Web Developer (TEMP),99,TEMP,Temporary Worker
+CW_ID,900901,Architect (PBC),99,PBVEN,Project Based Contractor
+CW_ID,900902,Auditor (PBC),99,PBVEN,Project Based Contractor
+CW_ID,900903,Benefits/Payroll Support (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900904,Cafeteria Worker (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900905,Corrugate/Pallet Services(OSP),99,OSP,Outsourced Service Provider
+CW_ID,900906,Delivery Associate (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900907,Elec/Mech/Const (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900908,Equip Repair/Maint (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900909,External Software Maint (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900910,External Leadership Coach (IC),99,IC,Independent Contractor
+CW_ID,900911,Ext Leg Tax Cnsl (PBC),99,PBVEN,Project Based Contractor
+CW_ID,900912,Trainee - Legal (PBC),99,PBVEN,Project Based Contractor
+CW_ID,900913,Janitor (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900914,Landlord (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900915,Mailroom Worker (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900916,Studio Model (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900917,Real Estate Broker (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900918,Tax Analyst (PBC),99,PBVEN,Project Based Contractor
+CW_ID,900919,Travel Agent (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900920,Control System Lead (PBC),99,PBVEN,Project Based Contractor
+CW_ID,900922,Control System Engineer (PBC),99,PBVEN,Project Based Contractor
+CW_ID,900923,AWS Infrastructure (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900924,Medical Rep (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900925,Trainer (PBC),99,PBVEN,Project Based Contractor
+CW_ID,900926,Control System Tech (PBC),99,PBVEN,Project Based Contractor
+CW_ID,900927,Outsourced VendorFundedResour,99,OSP,Outsourced Service Provider
+CW_ID,900930,Staffing Agency Rep (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900932,Component Manufacturing (PBC),99,PBVEN,Project Based Contractor
+CW_ID,900933,Visiting Prof (PBC),99,PBVEN,Project Based Contractor
+CW_ID,900934,Account Manager (IC),99,IC,Independent Contractor
+CW_ID,900936,Administrative Support (IC),99,IC,Independent Contractor
+CW_ID,900938,Director - Art (IC),99,IC,Independent Contractor
+CW_ID,900941,Vendor Manager (IC),99,IC,Independent Contractor
+CW_ID,900942,Business Analyst (IC),99,IC,Independent Contractor
+CW_ID,900943,Business Intel Eng (IC),99,IC,Independent Contractor
+CW_ID,900944,Buyer (IC),99,IC,Independent Contractor
+CW_ID,900945,Buyer Assistant (IC),99,IC,Independent Contractor
+CW_ID,900946,CAD Technician (IC),99,IC,Independent Contractor
+CW_ID,900947,Catalog Specialist (IC),99,IC,Independent Contractor
+CW_ID,900948,Content Eval Specialist (IC),99,IC,Independent Contractor
+CW_ID,900950,Media/Comms Support (IC),99,IC,Independent Contractor
+CW_ID,900951,Control System Tech (IC),99,IC,Independent Contractor
+CW_ID,900953,Customer Service Assoc (IC),99,IC,Independent Contractor
+CW_ID,900954,Data Analyst (IC),99,IC,Independent Contractor
+CW_ID,900956,Control System Engineer (IC),99,IC,Independent Contractor
+CW_ID,900957,Data Cntr Tech (IC),99,IC,Independent Contractor
+CW_ID,900958,Data Collect Research (IC),99,IC,Independent Contractor
+CW_ID,900959,Data Engineer (IC),99,IC,Independent Contractor
+CW_ID,900960,Data Entry Associate (IC),99,IC,Independent Contractor
+CW_ID,900961,Data Security Lead (IC),99,IC,Independent Contractor
+CW_ID,900963,Editor - Print (IC),99,IC,Independent Contractor
+CW_ID,900964,Executive Assistant (IC),99,IC,Independent Contractor
+CW_ID,900965,Facilities Technician (IC),99,IC,Independent Contractor
+CW_ID,900966,Finance Support (IC),99,IC,Independent Contractor
+CW_ID,900969,Designer - Graphic (IC),99,IC,Independent Contractor
+CW_ID,900970,HR Assistant (IC),99,IC,Independent Contractor
+CW_ID,900972,HR Specialist (IC),99,IC,Independent Contractor
+CW_ID,900973,IC IAD Logistics,99,IC,Independent Contractor
+CW_ID,900974,Designer Instructional (IC),99,IC,Independent Contractor
+CW_ID,900976,Legal Counsel (IC),99,IC,Independent Contractor
+CW_ID,900977,Legal Support (IC),99,IC,Independent Contractor
+CW_ID,900980,Marketing Manager (IC),99,IC,Independent Contractor
+CW_ID,900983,Network Engineer (IC),99,IC,Independent Contractor
+CW_ID,900984,Network Technician (IC),99,IC,Independent Contractor
+CW_ID,900986,Paralegal (IC),99,IC,Independent Contractor
+CW_ID,900987,Editor - Photo (IC),99,IC,Independent Contractor
+CW_ID,900988,Photographer (PBC),99,PBVEN,Project Based Contractor
+CW_ID,900989,Studio Assistant (OSP),99,OSP,Outsourced Service Provider
+CW_ID,900990,Press Assistant (IC),99,IC,Independent Contractor
+CW_ID,900991,Press Operator (IC),99,IC,Independent Contractor
+CW_ID,900993,Product Manager (IC),99,IC,Independent Contractor
+CW_ID,900995,Production Artist (IC),99,IC,Independent Contractor
+CW_ID,900999,Project/Program Manager (IC),99,IC,Independent Contractor
+CW_ID,901001,Quality Assurance Tech (IC),99,IC,Independent Contractor
+CW_ID,901004,Retail Vendor Manager (IC),99,IC,Independent Contractor
+CW_ID,901006,Risk Investigator (IC),99,IC,Independent Contractor
+CW_ID,901007,Sales Assistant (IC),99,IC,Independent Contractor
+CW_ID,901008,Site Merchandiser (IC),99,IC,Independent Contractor
+CW_ID,901010,Software Dev Engineer (IC),99,IC,Independent Contractor
+CW_ID,901014,Speech & Lang Annotator (IC),99,IC,Independent Contractor
+CW_ID,901015,Supply Chain Analyst (IC),99,IC,Independent Contractor
+CW_ID,901016,Support Engineer (IC),99,IC,Independent Contractor
+CW_ID,901017,IC Support Specialist,99,IC,Independent Contractor
+CW_ID,901018,Systems Engineer (IC),99,IC,Independent Contractor
+CW_ID,901021,Technical Support (IC),99,IC,Independent Contractor
+CW_ID,901024,Usability Specialist (IC),99,IC,Independent Contractor
+CW_ID,901025,User Exper Designer (IC),99,IC,Independent Contractor
+CW_ID,901026,Warehouse Associate (IC),99,IC,Independent Contractor
+CW_ID,901027,Web Developer (IC),99,IC,Independent Contractor
+CW_ID,901028,Security Supervisor (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901029,Security Guard (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901030,Security Specialist (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901031,Receptionist (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901032,Hair & Makeup Stylist (TEMP),99,TEMP,Temporary Worker
+CW_ID,901033,Public Sector Worker (NEA),99,NEA,Non-Employee Affiliate
+CW_ID,901034,Designer Industrial (IC),99,IC,Independent Contractor
+CW_ID,901035,Public Rel Support (IC),99,IC,Independent Contractor
+CW_ID,901037,Writer (IC),99,IC,Independent Contractor
+CW_ID,901038,BPO Associate Temp,99,OSP,Outsourced Service Provider
+CW_ID,901039,BPO Associate Regular,99,OSP,Outsourced Service Provider
+CW_ID,901040,BPO Team Lead,99,OSP,Outsourced Service Provider
+CW_ID,901041,BPO Manager,99,OSP,Outsourced Service Provider
+CW_ID,901042,BPO Admin,99,OSP,Outsourced Service Provider
+CW_ID,901044,BPO Intern,99,OSP,Outsourced Service Provider
+CW_ID,901045,Parking Attendent (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901046,Prof Landscaping (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901047,AV Equip Tech Support (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901048,Moving/Relocation Assoc (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901049,Fashion Expert (IC),99,IC,Independent Contractor
+CW_ID,901053,Studio Model (IC),99,IC,Independent Contractor
+CW_ID,901056,Delivery Associate (TEMP),99,TEMP,Temporary Worker
+CW_ID,901058,Stylist (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901059,HR Systems Specialist (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901060,Medical Rep (TEMP),99,TEMP,Temporary Worker
+CW_ID,901062,Audio Engineer (TEMP),99,TEMP,Temporary Worker
+CW_ID,901063,Facilities Maintenance (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901064,Property Management (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901065,Legal Support (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901066,Imaging Associate (TEMP),99,TEMP,Temporary Worker
+CW_ID,901067,Tech Consultant (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901069,Photographer (IC),99,IC,Independent Contractor
+CW_ID,901070,Health & Safety (TEMP),99,TEMP,Temporary Worker
+CW_ID,901072,Material Handler (TEMP),99,TEMP,Temporary Worker
+CW_ID,901073,Vending Attendant (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901074,Yard Jockey (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901075,Facilities Manager (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901076,Project/Program Manager (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901078,Control System Lead (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901079,Control System Tech (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901080,Marketing/Adver Support (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901081,Quality Assurance Tech (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901083,Shuttle Transport (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901084,Audio Production (TEMP),99,TEMP,Temporary Worker
+CW_ID,901088,Copywriter (TEMP),99,TEMP,Temporary Worker
+CW_ID,901090,Digital Artist (TEMP),99,TEMP,Temporary Worker
+CW_ID,901092,Digital Technician (TEMP),99,TEMP,Temporary Worker
+CW_ID,901094,Food Stylist (TEMP),99,TEMP,Temporary Worker
+CW_ID,901096,Manicurist (TEMP),99,TEMP,Temporary Worker
+CW_ID,901098,Photographer Assistant (TEMP),99,TEMP,Temporary Worker
+CW_ID,901099,Producer (TEMP),99,TEMP,Temporary Worker
+CW_ID,901103,Stylist (TEMP),99,TEMP,Temporary Worker
+CW_ID,901104,Stylist Assistant (TEMP),99,TEMP,Temporary Worker
+CW_ID,901105,Tailor (TEMP),99,TEMP,Temporary Worker
+CW_ID,901106,Trainer (TEMP),99,TEMP,Temporary Worker
+CW_ID,901107,Editor - Video (TEMP),99,TEMP,Temporary Worker
+CW_ID,901108,Wardrobe (TEMP),99,TEMP,Temporary Worker
+CW_ID,901110,Audio Production (IC),99,IC,Independent Contractor
+CW_ID,901114,Copywriter (IC),99,IC,Independent Contractor
+CW_ID,901116,Digital Artist (IC),99,IC,Independent Contractor
+CW_ID,901118,Digital Technician (IC),99,IC,Independent Contractor
+CW_ID,901120,Food Stylist (IC),99,IC,Independent Contractor
+CW_ID,901122,Manicurist (IC),99,IC,Independent Contractor
+CW_ID,901123,On-Air Personality (IC),99,IC,Independent Contractor
+CW_ID,901124,Photographer Assistant (IC),99,IC,Independent Contractor
+CW_ID,901127,Sound Technician (IC),99,IC,Independent Contractor
+CW_ID,901129,Stylist (IC),99,IC,Independent Contractor
+CW_ID,901130,Stylist Assistant (IC),99,IC,Independent Contractor
+CW_ID,901131,Tailor (IC),99,IC,Independent Contractor
+CW_ID,901132,Trainer (IC),99,IC,Independent Contractor
+CW_ID,901133,Editor - Video (IC),99,IC,Independent Contractor
+CW_ID,901134,Wardrobe (IC),99,IC,Independent Contractor
+CW_ID,901136,Finance Support (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901137,Accounting Support (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901139,Fire Protection (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901140,Shuttle Transport (TEMP),99,TEMP,Temporary Worker
+CW_ID,901141,Delivery Supervisor (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901142,Delivery Dispatcher (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901143,Administrative Support (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901144,Logistics Transport (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901145,Recruiting Support (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901146,Health & Safety (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901147,Vendor Manager (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901148,Legal Support (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901149,Account Manager (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901150,Cabling Services (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901151,Catering (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901152,Business Analyst (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901154,Assembly Technician (TEMP),99,TEMP,Temporary Worker
+CW_ID,901155,Program Facilitator (NEA),99,NEA,Non-Employee Affiliate
+CW_ID,901156,Program Participant (NEA),99,NEA,Non-Employee Affiliate
+CW_ID,901157,Procurement Associate (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901158,Public Rel Support (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901160,IT Asset Support (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901161,Delivery Station Assoc (TEMP),99,TEMP,Temporary Worker
+CW_ID,901163,AV Equip Tech Support (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901164,Applied Scientist (TEMP),99,TEMP,Temporary Worker
+CW_ID,901165,Hair & Makeup Stylist (IC),99,IC,Independent Contractor
+CW_ID,901166,Designer - Creative (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901167,IT Asset Support (TEMP),99,TEMP,Temporary Worker
+CW_ID,901168,AV Equip Tech Support (TEMP),99,TEMP,Temporary Worker
+CW_ID,901169,Hair & Makeup Stylist (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901170,Digital Technician (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901171,Stylist Assistant (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901172,Director - Art (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901175,Trainee - Softw Dev Eng (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901176,Kitchen Associate (TEMP),99,TEMP,Temporary Worker
+CW_ID,901177,Retail Associate (TEMP),99,TEMP,Temporary Worker
+CW_ID,901178,Construction Manager (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901179,Event Coordinator (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901180,Telemarketing Associate (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901181,US MilFel-Hir our Heroes (NEA),99,NEA,Non-Employee Affiliate
+CW_ID,901182,US MilFel-Train w Indust (NEA),99,NEA,Non-Employee Affiliate
+CW_ID,901183,US MilFel-SecDef ExecFel (NEA),99,NEA,Non-Employee Affiliate
+CW_ID,901184,US MilFel-USSOCOM Prog (NEA),99,NEA,Non-Employee Affiliate
+CW_ID,901185,Control System Manager (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901186,Control System Engineer (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901188,Applied Scientist (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901189,Buyer (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901190,Customer Service Assoc (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901191,Customer Service Manager (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901192,Facilities Technician (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901193,Inventory Planner (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901194,Logistics Supervisor (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901195,Warehouse Supervisor (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901196,Immigration Services (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901197,UK MilFel-Ext Plcmt Prgm (NEA),99,NEA,Non-Employee Affiliate
+CW_ID,901198,Delivery Scheduler (TEMP),99,TEMP,Temporary Worker
+CW_ID,901199,Maint/Elec Accnt Support (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901200,Maint/Elec Staff Support (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901201,ASL Interpreter (OSP),99,OSP,Outsourced Service Provider
+CW_ID,901202,Colourist (IC),99,IC,Independent Contractor
+CW_ID,901203,NOC Engineer (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901204,Field Engineer (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901205,Staging Engineer (PBC),99,PBVEN,Project Based Contractor
+CW_ID,901206,US MilFel-MilSpouse (NEA), ,NEA,Non-Employee Affiliate
+STDID,A01090,"Mgr III, Executive Office",6,ADMSPT,Administrative Support
+STDID,A01111,Executive Assistant III,6,ADMSPT,Administrative Support
+STDID,A01151,Executive Assistant II,5,ADMSPT,Administrative Support
+STDID,A01201,Executive Assistant I,4,ADMSPT,Administrative Support
+STDID,A01211,Administrative Support IV,4,ADMSPT,Administrative Support
+STDID,A01231,Administrative Support III,3,ADMSPT,Administrative Support
+STDID,A01241,Administrative Support II,2,ADMSPT,Administrative Support
+STDID,A01251,Administrative Support I,1,ADMSPT,Administrative Support
+STDID,A02031,"Director, Finance",8,FINPLN,Finance/Planning
+STDID,A02051,"Sr Manager, Finance",7,FINPLN,Finance/Planning
+STDID,A02071,Principal Finance,7,FINPLN,Finance/Planning
+STDID,A02091,"Manager III, Finance",6,FINPLN,Finance/Planning
+STDID,A02111,Financial Analyst III,6,FINPLN,Finance/Planning
+STDID,A02113,Financial Analyst III - MBA,6,FINPLN,Finance/Planning
+STDID,A02131,"Manager II, Finance",5,FINPLN,Finance/Planning
+STDID,A02151,Financial Analyst II,5,FINPLN,Finance/Planning
+STDID,A02171,"Manager I, Finance",4,FINPLN,Finance/Planning
+STDID,A02201,Financial Analyst I,4,FINPLN,Finance/Planning
+STDID,A02211,Accounting Assistant III,4,FINPLN,Finance/Planning
+STDID,A02231,Accounting Assistant II,3,FINPLN,Finance/Planning
+STDID,A02241,Accounting Assistant I,2,FINPLN,Finance/Planning
+STDID,A02250,"Accounting Assistant, Jr",1,FINPLN,Finance/Planning
+STDID,A03031,"Director, Investigation",8,INVEST,Investigation
+STDID,A03032,"Director, Protective Services",8,INVEST,Investigation
+STDID,A03051,"Sr Manager, Investigation",7,INVEST,Investigation
+STDID,A03052,"Sr Mgr, Protective Svcs",7,INVEST,Investigation
+STDID,A03070,"Principal, Protective Services",7,INVEST,Investigation
+STDID,A03091,"Manager III, Investigation",6,INVEST,Investigation
+STDID,A03092,"Mgr III, Protective Svcs",6,INVEST,Investigation
+STDID,A03110,Protective Services Mgr III,6,INVEST,Investigation
+STDID,A03131,"Manager II, Investigation",5,INVEST,Investigation
+STDID,A03132,"Manager II, Protective Svcs",5,INVEST,Investigation
+STDID,A03152,Protective Services Mgr II,5,INVEST,Investigation
+STDID,A03171,"Manager I, Investigation",4,INVEST,Investigation
+STDID,A03172,"Mgr I, Protective Svcs (EX)",4,INVEST,Investigation
+STDID,A03201,Investigation Specialist II,4,INVEST,Investigation
+STDID,A03202,Investigation Specialist Lead,4,INVEST,Investigation
+STDID,A03210,Investigation Specialist Sr,4,INVEST,Investigation
+STDID,A03211,Investigation Specialist I,3,INVEST,Investigation
+STDID,A03212,Protective Services Specialist,4,INVEST,Investigation
+STDID,A03230,Protective Services Assoc,3,INVEST,Investigation
+STDID,A04031,"Director, Legal",8,LEGAL,Legal
+STDID,A04050,"Sr. Manager, Contract Mgmt",7,LEGAL,Legal
+STDID,A04071,Principal Legal Counsel,7,LEGAL,Legal
+STDID,A04072,Paralegal IV,7,LEGAL,Legal
+STDID,A04073,Principal Contract Manager,7,LEGAL,Legal
+STDID,A04090,"Manager III, Contract Mgmt",6,LEGAL,Legal
+STDID,A04111,Legal Counsel III,6,LEGAL,Legal
+STDID,A04112,Paralegal III,6,LEGAL,Legal
+STDID,A04114,Contract Manager III,6,LEGAL,Legal
+STDID,A04130,"Manager II, Contract Mgmt",5,LEGAL,Legal
+STDID,A04151,Paralegal II,5,LEGAL,Legal
+STDID,A04152,Legal Counsel II,5,LEGAL,Legal
+STDID,A04153,Contract Manager II,5,LEGAL,Legal
+STDID,A04170,"Manager I, Contract Mgmt",4,LEGAL,Legal
+STDID,A04201,Paralegal I,4,LEGAL,Legal
+STDID,A04202,Contract Manager I,4,LEGAL,Legal
+STDID,A04211,Legal Support II,4,LEGAL,Legal
+STDID,A04212,Contract Admin,4,LEGAL,Legal
+STDID,A04231,Legal Support I,3,LEGAL,Legal
+STDID,A05031,"Director, Plan/Dev",8,PLNDEV,Planning/Development
+STDID,A05032,"Director, Business Intel",8,STAT,Statistics
+STDID,A05033,Sr Principal Business Intel,8,STAT,Statistics
+STDID,A05050,"Sr Manager, Benchmarking",7,CXSTRT,Customer Experience Strategy
+STDID,A05051,"Sr Manager, Plan/Dev",7,PLNDEV,Planning/Development
+STDID,A05052,"Sr Manager, Business Intel",7,STAT,Statistics
+STDID,A05070,Principal Benchmarking,7,CXSTRT,Customer Experience Strategy
+STDID,A05071,Principal Business Analyst,7,PLNDEV,Planning/Development
+STDID,A05072,Principal Business Intel,7,STAT,Statistics
+STDID,A05090,"Manager III, Benchmarking",6,CXSTRT,Customer Experience Strategy
+STDID,A05091,"Manager III, Plan/Dev",6,PLNDEV,Planning/Development
+STDID,A05092,"Manager III, Business Intel",6,STAT,Statistics
+STDID,A05110,Benchmarking Analyst III,6,CXSTRT,Customer Experience Strategy
+STDID,A05111,Business Analyst III,6,PLNDEV,Planning/Development
+STDID,A05112,Business Intel Engineer III,6,STAT,Statistics
+STDID,A05131,"Manager II, Plan/Dev",5,PLNDEV,Planning/Development
+STDID,A05132,"Manager II, Business Intel",5,STAT,Statistics
+STDID,A05150,Benchmarking Analyst II,5,CXSTRT,Customer Experience Strategy
+STDID,A05151,Business Analyst II,5,PLNDEV,Planning/Development
+STDID,A05152,Business Intel Engineer II,5,STAT,Statistics
+STDID,A05170,"Manager I, Business Intel",4,STAT,Statistics
+STDID,A05200,Benchmarking Analyst I,4,CXSTRT,Customer Experience Strategy
+STDID,A05201,Business Analyst I,4,PLNDEV,Planning/Development
+STDID,A05202,Business Intel Engineer I,4,STAT,Statistics
+STDID,A05230,Business Analyst Support,3,PLNDEV,Planning/Development
+STDID,A07010,"SVP, Human Resources",11,HR,Human Resources
+STDID,A07031,"Director, Human Resources",8,HR,Human Resources
+STDID,A07053,"Sr Mgr, Ops Site HR",7,HR,Human Resources
+STDID,A07054,"Sr Mgr, Recruiting",7,HR,Human Resources
+STDID,A07055,"Sr Mgr, HR Generalist",7,HR,Human Resources
+STDID,A07056,"Sr Mgr, HR Specialist",7,HR,Human Resources
+STDID,A07057,"Sr. Mgr, Compensation",7,HR,Human Resources
+STDID,A07058,"Sr. Mgr, Learning & Dev",7,HR,Human Resources
+STDID,A07070,"Principal, Recruiting",7,HR,Human Resources
+STDID,A07071,"Principal, HR Generalist",7,HR,Human Resources
+STDID,A07072,"Principal, HR Specialist",7,HR,Human Resources
+STDID,A07073,"Principal, Compensation",7,HR,Human Resources
+STDID,A07074,"Principal, Learning & Dev",7,HR,Human Resources
+STDID,A07092,"Mgr III, Recruiting",6,HR,Human Resources
+STDID,A07093,"Mgr III, HR Generalist",6,HR,Human Resources
+STDID,A07094,"Mgr III, HR Specialist",6,HR,Human Resources
+STDID,A07095,"Mgr III, Compensation",6,HR,Human Resources
+STDID,A07096,"Mgr III, Learning & Dev",6,HR,Human Resources
+STDID,A07111,HR Generalist III,6,HR,Human Resources
+STDID,A07112,HR Specialist III,6,HR,Human Resources
+STDID,A07113,Recruiter III,6,HR,Human Resources
+STDID,A07114,"Specialist III, Compensation",6,HR,Human Resources
+STDID,A07115,"Specialist III, Learning & Dev",6,HR,Human Resources
+STDID,A07131,"Mgr II, Recruiting",5,HR,Human Resources
+STDID,A07132,"Mgr II, HR Generalist",5,HR,Human Resources
+STDID,A07133,"Mgr II, HR Specialist",5,HR,Human Resources
+STDID,A07134,"Mgr II, Compensation",5,HR,Human Resources
+STDID,A07135,"Mgr II, Learning & Dev",5,HR,Human Resources
+STDID,A07151,HR Generalist II,5,HR,Human Resources
+STDID,A07152,HR Specialist II,5,HR,Human Resources
+STDID,A07153,Recruiter II,5,HR,Human Resources
+STDID,A07154,HR Specialist II - MBA,5,HR,Human Resources
+STDID,A07155,"Specialist II, Compensation",5,HR,Human Resources
+STDID,A07156,"Specialist II, Learning & Dev",5,HR,Human Resources
+STDID,A07170,"Mgr I, HR Specialist",4,HR,Human Resources
+STDID,A07201,Recruiter I,4,HR,Human Resources
+STDID,A07202,HR Generalist I,4,HR,Human Resources
+STDID,A07203,HR Specialist I,4,HR,Human Resources
+STDID,A07204,Recruiter I - Undergrad Prgm,4,HR,Human Resources
+STDID,A07205,Recruiting Coord I,4,HR,Human Resources
+STDID,A07206,"Specialist I, Compensation",4,HR,Human Resources
+STDID,A07211,HR Assistant III,4,HR,Human Resources
+STDID,A07212,"Specialist I, Learning & Dev",4,HR,Human Resources
+STDID,A07231,HR Assistant II,3,HR,Human Resources
+STDID,A07241,HR Assistant I,2,HR,Human Resources
+STDID,A08010,VP Finance - Controller,10,VPFIN,VP Finance/Planning
+STDID,A08011,VP Finance - Shared Services,10,VPFIN,VP Finance/Planning
+STDID,A08012,VP Finance,10,VPFIN,VP Finance/Planning
+STDID,A08013,VP Finance - Tax,10,VPFIN,VP Finance/Planning
+STDID,A08014,VP Finance - Tax Reporting,10,VPFIN,VP Finance/Planning
+STDID,A08015,VP Finance - Financ'l Planning,10,VPFIN,VP Finance/Planning
+STDID,A08016,VP Finance - Investor Relat'ns,10,VPFIN,VP Finance/Planning
+STDID,A09010,Chief Financial Officer,11,SVPFIN,SVP Finance/Planning
+STDID,A10010,Chairman & CEO,12,CEO,CEO
+STDID,A10011,"SVP, Corporate Affairs",11,SVPLGL,SVP Legal
+STDID,A10012,"CEO, Worldwide Consumer",11,CEO,CEO
+STDID,A10013,"CEO, Amazon Web Services",11,CEO,CEO
+STDID,A11010,General Counsel,11,SVPLGL,SVP Legal
+STDID,A12010,VP Legal - General Counsel,10,VPLEGL,VP Legal
+STDID,A12011,VP Legal - Public Policy,10,VPLEGL,VP Legal
+STDID,A12012,VP Legal,10,VPLEGL,VP Legal
+STDID,A13010,VP Human Resources - Corporate,10,VPHR,VP Human Resources
+STDID,A13011,VP Human Resources - Line,10,VPHR,VP Human Resources
+STDID,A13012,VP Human Resources - Staffing,10,VPHR,VP Human Resources
+STDID,A14030,M&A L8,8,M&A,M&A
+STDID,A14070,M&A L7,7,M&A,M&A
+STDID,A14200,M&A L4E,4,M&A,M&A
+STDID,A14210,M&A L4N,4,M&A,M&A
+STDID,A15050,"Sr Manager, Tax",7,TAX,Tax
+STDID,A15070,Principal Tax,7,TAX,Tax
+STDID,A15090,"Manager III, Tax",6,TAX,Tax
+STDID,A15110,Tax Analyst III,6,TAX,Tax
+STDID,A15130,"Manager II, Tax",5,TAX,Tax
+STDID,A15150,Tax Analyst II,5,TAX,Tax
+STDID,A15170,"Manager I, Tax",4,TAX,Tax
+STDID,A15200,Tax Analyst I,4,TAX,Tax
+STDID,A16030,"Director, Risk Management",8,RISK,Risk Family
+STDID,A16050,"Sr. Manager, Risk",7,RISK,Risk Family
+STDID,A16070,Principal Risk Manager,7,RISK,Risk Family
+STDID,A16090,"Manager III, Risk",6,RISK,Risk Family
+STDID,A16091,"Manager III, Prod Compliance",6,RISK,Risk Family
+STDID,A16092,"Manager III, Import/Export",6,RISK,Risk Family
+STDID,A16110,Risk Manager III,6,RISK,Risk Family
+STDID,A16111,Prod Compliance Specialist III,6,RISK,Risk Family
+STDID,A16112,Import/Export Specialist III,6,RISK,Risk Family
+STDID,A16130,"Manager II, Risk",5,RISK,Risk Family
+STDID,A16131,"Manager II, Prod Compliance",5,RISK,Risk Family
+STDID,A16132,"Manager II, Import/Export",5,RISK,Risk Family
+STDID,A16150,Risk Manager II,5,RISK,Risk Family
+STDID,A16151,Prod Compliance Specialist II,5,RISK,Risk Family
+STDID,A16152,Import/Export Specialist II,5,RISK,Risk Family
+STDID,A16170,"Manager I, Risk",4,RISK,Risk Family
+STDID,A16171,"Manager I, Prod Compliance",4,RISK,Risk Family
+STDID,A16172,"Manager I, Import/Export",4,RISK,Risk Family
+STDID,A16200,Risk Specialist I,4,RISK,Risk Family
+STDID,A16210,Prod Compliance Specialist I,4,RISK,Risk Family
+STDID,A16211,Import/Export Specialist I,4,RISK,Risk Family
+STDID,A16230,Prod Compliance Associate Sr.,3,RISK,Risk Family
+STDID,A16231,Import/Export Associate Sr.,3,RISK,Risk Family
+STDID,A16240,Prod Compliance Associate,2,RISK,Risk Family
+STDID,A16241,Import/Export Associate,2,RISK,Risk Family
+STDID,A17030,"Sr. Principal, Public Policy",8,PUBPOL,Public Policy
+STDID,A17031,"Director, Public Policy",8,PUBPOL,Public Policy
+STDID,A17050,"Sr. Manager, Public Policy",7,PUBPOL,Public Policy
+STDID,A17070,Principal Public Policy,7,PUBPOL,Public Policy
+STDID,A17090,"Manager III, Public Policy",6,PUBPOL,Public Policy
+STDID,A17110,Public Policy Manager III,6,PUBPOL,Public Policy
+STDID,A17130,"Manager II, Public Policy",5,PUBPOL,Public Policy
+STDID,A17150,Public Policy Manager II,5,PUBPOL,Public Policy
+STDID,A17200,Public Policy Manager I,4,PUBPOL,Public Policy
+STDID,A18210,Apprentice L4,4,APPREN,Apprentice Job Family
+STDID,A18230,Apprentice III,3,APPREN,Apprentice Job Family
+STDID,AUD000,Mgmt Associate/5,4,M&A,M&A
+STDID,AUD001,Associate/4,4,M&A,M&A
+STDID,AUD002,Mgmt Associate/6,4,M&A,M&A
+STDID,AUD003,Supervisor/6,4,M&A,M&A
+STDID,AUD004,Associate Partner/7,5,M&A,M&A
+STDID,AUD005,Associate Partner/8,5,M&A,M&A
+STDID,AUD006,Manager/8,5,M&A,M&A
+STDID,AUD007,Sr. Associate Partner/9,6,M&A,M&A
+STDID,AUD008,Sr. Manager/9,6,M&A,M&A
+STDID,AUD009,Partner/10,6,M&A,M&A
+STDID,AUD010,Director/10,6,M&A,M&A
+STDID,AUD011,Sr. Director/11,7,M&A,M&A
+STDID,AUD012,Vice President/12,8,M&A,M&A
+STDID,AUD013,Sr. Vice President/13,8,M&A,M&A
+STDID,AUD014,Exec. Vice President/15,8,M&A,M&A
+STDID,AUD015,Managing Director/14,8,M&A,M&A
+STDID,AUD016,Audible - Intern,3,M&A,M&A
+STDID,AUD017,Sr. Supervisor/7,5,M&A,M&A
+STDID,AUD018,Sr. Partner/11,7,M&A,M&A
+STDID,AUDT14,Tech Partner/10,6,M&A,M&A
+STDID,AUDT15,Tech Mgmt Associate/6,4,M&A,M&A
+STDID,AUDT16,Tech Associate Partner/7,5,M&A,M&A
+STDID,AUDT17,Tech Associate Partner/8,5,M&A,M&A
+STDID,AUDT18,Tech Sr. Associate Partner/9,6,M&A,M&A
+STDID,AUDT19,Tech Sr. Manager/9,6,M&A,M&A
+STDID,AUDT20,Tech Director/10,6,M&A,M&A
+STDID,AUDT21,Tech Sr. Director/11,7,M&A,M&A
+STDID,AUDT22,Tech Vice President/12,8,M&A,M&A
+STDID,AUDT23,Tech Exec. Vice President/15,8,M&A,M&A
+STDID,AUDT24,Sr. Tech Partner/11,7,M&A,M&A
+STDID,AUDT25,Tech Sr. Vice President/13,8,M&A,M&A
+STDID,C01110,Audio Editor III,6,AUDIO,Audio
+STDID,C01111,Audio Ops Eng III,6,AUDIO,Audio
+STDID,C01150,Audio Editor II,5,AUDIO,Audio
+STDID,C01151,Audio Ops Eng II,5,AUDIO,Audio
+STDID,C01210,Audio Editor I,4,AUDIO,Audio
+STDID,C01211,Audio Ops Eng I,4,AUDIO,Audio
+STDID,C02030,"Dir, Dgtl Med Content Acq",8,DMACQ,Digital Media Acquisition
+STDID,C02050,"Sr Mgr,Dgtl Med Content Acq",7,DMACQ,Digital Media Acquisition
+STDID,C02070,"Principal, Dgtl Med Content",7,DMACQ,Digital Media Acquisition
+STDID,C02090,"Mgr III, Dgtl Med Content Acq",6,DMACQ,Digital Media Acquisition
+STDID,C02110,Dgtl Med Content Acq Mgr III,6,DMACQ,Digital Media Acquisition
+STDID,C02130,"Mgr II, Dgtl Med Content Acq",5,DMACQ,Digital Media Acquisition
+STDID,C02150,Dgtl Med Content Acq Mgr II,5,DMACQ,Digital Media Acquisition
+STDID,C02200,Dgtl Med Content Acq Mgr I,4,DMACQ,Digital Media Acquisition
+STDID,C03030,"Dir, Dgtl Med Creative Dev",8,DMCRV,Digital Media Creative Dev
+STDID,C03050,"Sr Mgr, Dgtl Media Creative De",7,DMCRV,Digital Media Creative Dev
+STDID,C03070,Principal Dgtl Media Creative,7,DMCRV,Digital Media Creative Dev
+STDID,C03090,"Mgr III, Dgtl Med Creative Dev",6,DMCRV,Digital Media Creative Dev
+STDID,C03110,Dgtl Med Creative Devr III,6,DMCRV,Digital Media Creative Dev
+STDID,C03130,"Mgr II, Dgtl Med Creative De",5,DMCRV,Digital Media Creative Dev
+STDID,C03150,Dgtl Med Creative Devr II,5,DMCRV,Digital Media Creative Dev
+STDID,C03210,Dgtl Med Creative Devr I,4,DMCRV,Digital Media Creative Dev
+STDID,C04030,"Dir, Dgtl Media Production",8,DMPRD,Digital Media Production
+STDID,C04050,"Sr Mgr, Dgtl Media Production",7,DMPRD,Digital Media Production
+STDID,C04070,"Principal, Dgtl Media Prod",7,DMPRD,Digital Media Production
+STDID,C04090,"Mgr III, Dgtl Media Production",6,DMPRD,Digital Media Production
+STDID,C04110,Dgtl Media Production Spec III,6,DMPRD,Digital Media Production
+STDID,C04130,"Mgr II, Dgtl Media Prod",5,DMPRD,Digital Media Production
+STDID,C04150,Dgtl Media Production Spec II,5,DMPRD,Digital Media Production
+STDID,C04151,Dgtl Media Prod Spec I- TV,4,DMPRD,Digital Media Production
+STDID,C04210,Dgtl Media Prod Spec I,4,DMPRD,Digital Media Production
+STDID,C04211,Dgtl Media Prod Spec II - TV,5,DMPRD,Digital Media Production
+STDID,C05030,"Dir, Dgtl Media Bus Affairs",8,DMBLA,Digital Media Business Affairs
+STDID,C05050,"Sr Mgr, Dgtl Media Bus Affairs",7,DMBLA,Digital Media Business Affairs
+STDID,C05070,"Principal, Dgtl Media Bus Affa",7,DMBLA,Digital Media Business Affairs
+STDID,C05090,"Mgr III, Dgtl Media Bus Affair",6,DMBLA,Digital Media Business Affairs
+STDID,C05110,Dgtl Med Bus Affairs Spec III,6,DMBLA,Digital Media Business Affairs
+STDID,C05130,"Mgr II, Dgtl Media Bus Affairs",5,DMBLA,Digital Media Business Affairs
+STDID,C05150,Dgtl Media Bus Affairs Spec II,5,DMBLA,Digital Media Business Affairs
+STDID,C05200,Dgtl Media Bus Affairs Spec I,4,DMBLA,Digital Media Business Affairs
+STDID,C06030,"Director, Creative Services",8,CRSVS,Creative Services
+STDID,C06050,"Sr Mgr, Creative Services",7,CRSVS,Creative Services
+STDID,C06070,"Principal, Creative Services",7,CRSVS,Creative Services
+STDID,C06090,"Mgr III, Creative Services",6,CRSVS,Creative Services
+STDID,C06110,Creative Services Spec III,6,CRSVS,Creative Services
+STDID,C06130,"Mgr II, Creative Services",5,CRSVS,Creative Services
+STDID,C06150,Creative Services Spec II,5,CRSVS,Creative Services
+STDID,C06210,Creative Services Spec I,4,CRSVS,Creative Services
+STDID,M01030,"Director, Corp Development",8,BUSDEV,Business/Merchant Development
+STDID,M01031,"Director, Business Development",8,BUSDEV,Business/Merchant Development
+STDID,M01032,"Director, Tech Bus Dev",8,BUSDEV,Business/Merchant Development
+STDID,M01033,Sr. Principal Tech Bus Dev,8,BUSDEV,Business/Merchant Development
+STDID,M01050,"Sr Manager, Corp Development",7,BUSDEV,Business/Merchant Development
+STDID,M01051,"Sr Manager, Business Dev",7,BUSDEV,Business/Merchant Development
+STDID,M01052,"Sr Manager, Tech Business Dev",7,BUSDEV,Business/Merchant Development
+STDID,M01070,Principal Business Development,7,BUSDEV,Business/Merchant Development
+STDID,M01071,Principal Corp Development,7,BUSDEV,Business/Merchant Development
+STDID,M01072,Principal Tech Bus Dev,7,BUSDEV,Business/Merchant Development
+STDID,M01090,"Manager III, Corp Development",6,BUSDEV,Business/Merchant Development
+STDID,M01091,"Manager III, Business Dev",6,BUSDEV,Business/Merchant Development
+STDID,M01092,"Manager III, Tech Business Dev",6,BUSDEV,Business/Merchant Development
+STDID,M01111,Business Developer III,6,BUSDEV,Business/Merchant Development
+STDID,M01112,Business Developer III - MBA,6,BUSDEV,Business/Merchant Development
+STDID,M01113,Tech Business Developer III,6,BUSDEV,Business/Merchant Development
+STDID,M01114,Corporate Developer III,6,BUSDEV,Business/Merchant Development
+STDID,M01130,"Manager II, Business Dev",5,BUSDEV,Business/Merchant Development
+STDID,M01131,"Manager II, Tech Business Dev",5,BUSDEV,Business/Merchant Development
+STDID,M01151,Business Developer II,5,BUSDEV,Business/Merchant Development
+STDID,M01152,Tech Business Developer II,5,BUSDEV,Business/Merchant Development
+STDID,M01153,Corporate Developer II,5,BUSDEV,Business/Merchant Development
+STDID,M01201,Business Developer I,4,BUSDEV,Business/Merchant Development
+STDID,M01202,Corporate Developer I,4,BUSDEV,Business/Merchant Development
+STDID,M02020,"Director, UX Production",8,DESIGN,Design
+STDID,M02031,"Director, UX/Design",8,DESIGN,Design
+STDID,M02032,"Dir, UX Prototyping",8,DESIGN,Design
+STDID,M02033,Sr. Principal UX Design,8,DESIGN,Design
+STDID,M02040,"Sr. Manager, UX Production",7,DESIGN,Design
+STDID,M02051,"Sr Manager, UX/Design",7,DESIGN,Design
+STDID,M02052,"Senior Manager, UX Research",7,DESIGN,Design
+STDID,M02053,"Sr Mgr, UX Prototyping",7,DESIGN,Design
+STDID,M02060,Principal UX Producer,7,DESIGN,Design
+STDID,M02070,Principal UX Design,7,DESIGN,Design
+STDID,M02071,Principal Designer,7,DESIGN,Design
+STDID,M02072,"Principal, UX Research",7,DESIGN,Design
+STDID,M02073,"Principal, UX Prototyping",7,DESIGN,Design
+STDID,M02080,"Manager III, UX Production",6,DESIGN,Design
+STDID,M02091,"Manager III, UX/Design",6,DESIGN,Design
+STDID,M02092,"Manager III, UX Research",6,DESIGN,Design
+STDID,M02093,"Mgr III, UX Prototyping",6,DESIGN,Design
+STDID,M02100,UX Producer III,6,DESIGN,Design
+STDID,M02110,UX Designer III,6,DESIGN,Design
+STDID,M02111,Designer III,6,DESIGN,Design
+STDID,M02113,UX Researcher III,6,DESIGN,Design
+STDID,M02114,UX Prototyper III,6,DESIGN,Design
+STDID,M02121,Production Manager II,5,DESIGN,Design
+STDID,M02130,"Manager II, UX/Design",5,DESIGN,Design
+STDID,M02131,"Manager II, UX Research",5,DESIGN,Design
+STDID,M02132,"Mgr II, UX Prototyping",5,DESIGN,Design
+STDID,M02141,UX Producer II,5,DESIGN,Design
+STDID,M02150,UX Designer II,5,DESIGN,Design
+STDID,M02151,Designer II,5,DESIGN,Design
+STDID,M02152,UX Researcher II,5,DESIGN,Design
+STDID,M02153,UX Prototyper II,5,DESIGN,Design
+STDID,M02170,"Manager I, UX/Design",4,DESIGN,Design
+STDID,M02171,"Manager I, UX Research",4,DESIGN,Design
+STDID,M02181,UX Producer I,4,DESIGN,Design
+STDID,M02200,UX Designer I,4,DESIGN,Design
+STDID,M02201,Designer I,4,DESIGN,Design
+STDID,M02202,UX Researcher I,4,DESIGN,Design
+STDID,M02203,UX Prototyper I,4,DESIGN,Design
+STDID,M02211,Design Assistant II,4,DESIGN,Design
+STDID,M02231,Design Assistant I,3,DESIGN,Design
+STDID,M03031,"Director, Editorial",8,EDITOR,Editorial
+STDID,M03051,"Sr Manager, Editorial",7,EDITOR,Editorial
+STDID,M03070,Principal Editorial,7,EDITOR,Editorial
+STDID,M03071,Principal Technical Writer,7,EDITOR,Editorial
+STDID,M03091,"Manager III, Editorial",6,EDITOR,Editorial
+STDID,M03111,Editor III,6,EDITOR,Editorial
+STDID,M03112,Technical Writer III,6,EDITOR,Editorial
+STDID,M03131,"Manager II, Editorial",5,EDITOR,Editorial
+STDID,M03151,Editor II,5,EDITOR,Editorial
+STDID,M03152,Technical Writer II,5,EDITOR,Editorial
+STDID,M03171,"Manager I, Editorial",4,EDITOR,Editorial
+STDID,M03201,Editor I,4,EDITOR,Editorial
+STDID,M03202,Technical Writer I,4,EDITOR,Editorial
+STDID,M03211,Assistant Editor,4,EDITOR,Editorial
+STDID,M03230,Content Associate I,3,EDITOR,Editorial
+STDID,M03240,Content Assistant,2,EDITOR,Editorial
+STDID,M04031,"Director, Marketing",8,MKTG,Marketing
+STDID,M04051,"Sr Manager, Marketing",7,MKTG,Marketing
+STDID,M04070,Principal Marketing,7,MKTG,Marketing
+STDID,M04091,"Manager III, Marketing",6,MKTG,Marketing
+STDID,M04111,Marketing Specialist III,6,MKTG,Marketing
+STDID,M04112,Marketing Specialist III - MBA,6,MKTG,Marketing
+STDID,M04130,"Manager II, Marketing",5,MKTG,Marketing
+STDID,M04151,Marketing Specialist II,5,MKTG,Marketing
+STDID,M04201,Marketing Specialist I,4,MKTG,Marketing
+STDID,M04211,Marketing Assistant,4,MKTG,Marketing
+STDID,M05031,"Director, Product Management",8,PRDMGT,Product Management
+STDID,M05051,"Sr Manager, Product Mgmt",7,PRDMGT,Product Management
+STDID,M05071,Principal Product Management,7,PRDMGT,Product Management
+STDID,M05091,"Manager III, Product Mgmt",6,PRDMGT,Product Management
+STDID,M05111,Product Manager III,6,PRDMGT,Product Management
+STDID,M05112,Product Manager III - MBA,6,PRDMGT,Product Management
+STDID,M05130,"Manager II, Product Mgmt",5,PRDMGT,Product Management
+STDID,M05151,Product Manager II,5,PRDMGT,Product Management
+STDID,M05201,Product Manager I,4,PRDMGT,Product Management
+STDID,M06030,Principal Program Management,7,PRGMGT,Program Management
+STDID,M06031,"Director, Program Management",8,PRGMGT,Program Management
+STDID,M06051,"Sr Manager, Program Management",7,PRGMGT,Program Management
+STDID,M06091,"Manager III, Program Mgmt",6,PRGMGT,Program Management
+STDID,M06111,Program Manager III,6,PRGMGT,Program Management
+STDID,M06112,Program Manager III - MBA,6,PRGMGT,Program Management
+STDID,M06130,"Manager II, Program Mgmt",5,PRGMGT,Program Management
+STDID,M06151,Program Manager II,5,PRGMGT,Program Management
+STDID,M06201,Program Manager I,4,PRGMGT,Program Management
+STDID,M07034,"Director, Campaign Manager",8,CAMPGN,Campaign
+STDID,M07054,"Sr. Manager, Campaign Mgmt",7,CAMPGN,Campaign
+STDID,M07079,Principal Campaign Manager,7,CAMPGN,Campaign
+STDID,M07094,"Manager III, Campaign Mgmt",6,CAMPGN,Campaign
+STDID,M07100,Campaign Manager III,6,CAMPGN,Campaign
+STDID,M07134,"Manager II, Campaign Mgmt",5,CAMPGN,Campaign
+STDID,M07140,Campaign Manager II,5,CAMPGN,Campaign
+STDID,M07174,"Manager I, Campaign Mgmt",4,CAMPGN,Campaign
+STDID,M07215,Campaign Manager I,4,CAMPGN,Campaign
+STDID,M07230,Associate Campaign Manager,3,CAMPGN,Campaign
+STDID,M08010,"VP, Ads Acct Mgmt",10,ACTMGT,Account Management
+STDID,M08031,"Director, Account Management",8,ACTMGT,Account Management
+STDID,M08032,"Director, Ads Acct Mgmt",8,ACTMGT,Account Management
+STDID,M08051,"Sr Manager, Account Mgmt",7,ACTMGT,Account Management
+STDID,M08052,"Sr. Manager, Ads Acct Mgmt",7,ACTMGT,Account Management
+STDID,M08071,Principal Ads Acct Manager,7,ACTMGT,Account Management
+STDID,M08072,Principal Account Management,7,ACTMGT,Account Management
+STDID,M08091,"Manager III, Account Mgmt",6,ACTMGT,Account Management
+STDID,M08092,"Manager III, Ads Acct Mgmt",6,ACTMGT,Account Management
+STDID,M08111,Account Manager III,6,ACTMGT,Account Management
+STDID,M08112,Account Manager III - MBA,6,ACTMGT,Account Management
+STDID,M08113,Ads Account Manager III,6,ACTMGT,Account Management
+STDID,M08131,"Manager II, Account Management",5,ACTMGT,Account Management
+STDID,M08132,"Manager II, Ads Acct Mgmt",5,ACTMGT,Account Management
+STDID,M08151,Account Manager II,5,ACTMGT,Account Management
+STDID,M08152,Ads Account Manager II,5,ACTMGT,Account Management
+STDID,M08171,"Manager I, Account Management",4,ACTMGT,Account Management
+STDID,M08201,Account Manager I,4,ACTMGT,Account Management
+STDID,M08202,Ads Account Manager I,4,ACTMGT,Account Management
+STDID,M09030,"Director, Category Leadership",8,CATLDR,Category Leader
+STDID,M09031,"Director, Buying",8,BUYPLN,Buying/Planning
+STDID,M09032,"Director, Inventory Planning",8,BUYPLN,Buying/Planning
+STDID,M09033,"Director, Content Acquisition",8,BUYPLN,Buying/Planning
+STDID,M09034,"Dir, Retail Vendor Mgmt",8,BUYPLN,Buying/Planning
+STDID,M09035,"Director, Instock Mgmt",8,BUYPLN,Buying/Planning
+STDID,M09036,Country Manager,8,CATLDR,Category Leader
+STDID,M09050,"Sr Manager,Category Leadership",7,CATLDR,Category Leader
+STDID,M09051,"Sr Manager, Buying",7,BUYPLN,Buying/Planning
+STDID,M09052,"Sr Manager, Inventory Planning",7,BUYPLN,Buying/Planning
+STDID,M09054,"Sr Mgr, Content Acquisition",7,BUYPLN,Buying/Planning
+STDID,M09055,"Sr Mgr, Retail Vendor Mgmt",7,BUYPLN,Buying/Planning
+STDID,M09056,"Sr Manager, Instock Mgmt",7,BUYPLN,Buying/Planning
+STDID,M09057,"Sr Mgr, Category Merchant Mgmt",7,BUYPLN,Buying/Planning
+STDID,M09071,Principal Buyer,7,BUYPLN,Buying/Planning
+STDID,M09072,Principal Inventory Planner,7,BUYPLN,Buying/Planning
+STDID,M09074,Principal Content Acquisition,7,BUYPLN,Buying/Planning
+STDID,M09075,"Principal, Retail Vendor Mgmt",7,BUYPLN,Buying/Planning
+STDID,M09076,"Principal, Instock Mgmt",7,BUYPLN,Buying/Planning
+STDID,M09077,Principal Category Merch Mgr,7,BUYPLN,Buying/Planning
+STDID,M09091,"Manager III, Buying",6,BUYPLN,Buying/Planning
+STDID,M09092,"Mgr III, Inventory Planning",6,BUYPLN,Buying/Planning
+STDID,M09094,"Mgr III, Content Acquisition",6,BUYPLN,Buying/Planning
+STDID,M09095,"Mgr III, Retail Vendor Mgmt",6,BUYPLN,Buying/Planning
+STDID,M09096,"Manager III, Instock Mgmt",6,BUYPLN,Buying/Planning
+STDID,M09097,Mgr III Category Merchant Mgmt,6,BUYPLN,Buying/Planning
+STDID,M09110,Retail Vendor Manager III- MBA,6,BUYPLN,Buying/Planning
+STDID,M09111,Buyer III,6,BUYPLN,Buying/Planning
+STDID,M09112,Inventory Planner III,6,BUYPLN,Buying/Planning
+STDID,M09114,Content Acquisition Mgr III,6,BUYPLN,Buying/Planning
+STDID,M09115,Instock Manager III - MBA,6,BUYPLN,Buying/Planning
+STDID,M09116,Retail Rotation Program - MBA,6,BUYPLN,Buying/Planning
+STDID,M09117,Retail Vendor Manager III,6,BUYPLN,Buying/Planning
+STDID,M09118,Instock Manager III,6,BUYPLN,Buying/Planning
+STDID,M09119,Category Merchant Manager III,6,BUYPLN,Buying/Planning
+STDID,M09131,"Manager II, Buying",5,BUYPLN,Buying/Planning
+STDID,M09132,"Mgr II, Inventory Planning",5,BUYPLN,Buying/Planning
+STDID,M09134,"Mgr II, Content Acquisition",5,BUYPLN,Buying/Planning
+STDID,M09135,"Mgr II, Retail Vendor Mgmt",5,BUYPLN,Buying/Planning
+STDID,M09136,"Manager II, Instock Mgmt",5,BUYPLN,Buying/Planning
+STDID,M09137,"Mgr II, Category Merchant Mgmt",5,BUYPLN,Buying/Planning
+STDID,M09151,Buyer II,5,BUYPLN,Buying/Planning
+STDID,M09152,Inventory Planner II,5,BUYPLN,Buying/Planning
+STDID,M09154,Content Acquisition Mgr II,5,BUYPLN,Buying/Planning
+STDID,M09155,Retail Vendor Manager II,5,BUYPLN,Buying/Planning
+STDID,M09156,Instock Manager II,5,BUYPLN,Buying/Planning
+STDID,M09157,Instock Manager II - SVS,5,BUYPLN,Buying/Planning
+STDID,M09158,Retail Vendor Manager II - SVS,5,BUYPLN,Buying/Planning
+STDID,M09159,Category Merchant Manager II,5,BUYPLN,Buying/Planning
+STDID,M09200,Category Merchant Manager I,4,BUYPLN,Buying/Planning
+STDID,M09201,Buyer I,4,BUYPLN,Buying/Planning
+STDID,M09202,Inventory Planner I,4,BUYPLN,Buying/Planning
+STDID,M09204,Content Acquisition Mgr I,4,BUYPLN,Buying/Planning
+STDID,M09205,Retail Vendor Manager I,4,BUYPLN,Buying/Planning
+STDID,M09206,Retail Vendor Mgmt Asst II,4,BUYPLN,Buying/Planning
+STDID,M09207,Instock Manager I,4,BUYPLN,Buying/Planning
+STDID,M09208,Instock Manager I - SVS,4,BUYPLN,Buying/Planning
+STDID,M09209,Retail Vendor Manager I - SVS,4,BUYPLN,Buying/Planning
+STDID,M09211,Buying Assistant III,4,BUYPLN,Buying/Planning
+STDID,M09212,College Program Specialist,4,BUYPLN,Buying/Planning
+STDID,M09213,Retail Manager I - SVS,4,BUYPLN,Buying/Planning
+STDID,M09231,Buying Assistant II,3,BUYPLN,Buying/Planning
+STDID,M09232,Retail Vendor Mgmt Asst I,3,BUYPLN,Buying/Planning
+STDID,M09233,"Associate, College Prgm",3,BUYPLN,Buying/Planning
+STDID,M09234,Inventory Planning Tech III,3,BUYPLN,Buying/Planning
+STDID,M09241,Buying Assistant I,2,BUYPLN,Buying/Planning
+STDID,M09242,Inventory Planning Tech II,2,BUYPLN,Buying/Planning
+STDID,M10031,"Director, Studio",8,STUDIO,Studio/Photography
+STDID,M10050,"Sr Manager, Studio",7,STUDIO,Studio/Photography
+STDID,M10051,"Sr Mgr, Regional Studio Leader",7,STUDIO,Studio/Photography
+STDID,M10070,Principal Photographer,7,STUDIO,Studio/Photography
+STDID,M10071,Principal Stylist,7,STUDIO,Studio/Photography
+STDID,M10083,"Mgr III, Stylist",6,STUDIO,Studio/Photography
+STDID,M10090,"Manager III, Studio",6,STUDIO,Studio/Photography
+STDID,M10091,"Mgr III, Digital Imaging",6,STUDIO,Studio/Photography
+STDID,M10092,"Mgr III, Photography",6,STUDIO,Studio/Photography
+STDID,M10093,"Mgr III, Studio Ops",6,STUDIO,Studio/Photography
+STDID,M10110,Photographer III,6,STUDIO,Studio/Photography
+STDID,M10111,Studio Ops Specialist III,6,STUDIO,Studio/Photography
+STDID,M10112,Stylist III,6,STUDIO,Studio/Photography
+STDID,M10113,Imaging Specialist III,6,STUDIO,Studio/Photography
+STDID,M10130,"Manager II, Studio",5,STUDIO,Studio/Photography
+STDID,M10131,"Mgr II, Digital Imaging",5,STUDIO,Studio/Photography
+STDID,M10132,"Mgr II, Photography",5,STUDIO,Studio/Photography
+STDID,M10133,"Mgr II, Studio Ops",5,STUDIO,Studio/Photography
+STDID,M10134,"Mgr II, Styling",5,STUDIO,Studio/Photography
+STDID,M10150,Image Specialist II,5,STUDIO,Studio/Photography
+STDID,M10151,Stylist II,5,STUDIO,Studio/Photography
+STDID,M10152,Photographer II,5,STUDIO,Studio/Photography
+STDID,M10153,Studio Ops Specialist II,5,STUDIO,Studio/Photography
+STDID,M10170,"Manager I, Studio",4,STUDIO,Studio/Photography
+STDID,M10171,"Mgr I, Digital Imaging",4,STUDIO,Studio/Photography
+STDID,M10172,"Mgr I, Studio Ops",4,STUDIO,Studio/Photography
+STDID,M10173,"Mgr I, Photography",4,STUDIO,Studio/Photography
+STDID,M10174,"Mgr I, Stylist",4,STUDIO,Studio/Photography
+STDID,M10200,Imaging Specialist I,4,STUDIO,Studio/Photography
+STDID,M10201,Stylist I,4,STUDIO,Studio/Photography
+STDID,M10202,Photographer I,4,STUDIO,Studio/Photography
+STDID,M10203,Studio Ops Associate III,4,STUDIO,Studio/Photography
+STDID,M10232,Imaging Associate II,3,STUDIO,Studio/Photography
+STDID,M10233,Photographer Assistant,3,STUDIO,Studio/Photography
+STDID,M10234,Studio Ops Associate II,3,STUDIO,Studio/Photography
+STDID,M10235,Styling Assistant,3,STUDIO,Studio/Photography
+STDID,M10242,Imaging Associate I,2,STUDIO,Studio/Photography
+STDID,M10243,Studio Ops Associate I,2,STUDIO,Studio/Photography
+STDID,M12010,SVP Business Development,11,SVPBUS,SVP Business Development
+STDID,M13010,VP Business Development,10,VPBUS,VP Business Development
+STDID,M14010,SVP Product Mgmt - Divison,11,SVPPRD,SVP Product Mgmt
+STDID,M14011,SVP Product Mgmt - Engineering,11,SVPPRD,SVP Product Mgmt
+STDID,M14012,SVP Product Mgmt - Retail,11,SVPPRD,SVP Product Mgmt
+STDID,M14013,SVP Product Mgmt - Sales,11,SVPPRD,SVP Product Mgmt
+STDID,M15010,VP Country Manager,10,VPPRD,VP Product Management
+STDID,M15011,VP Retail - Category,10,CATLDR,Category Leader
+STDID,M15012,VP Retail - International,10,VPPRD,VP Product Management
+STDID,M15013,VP Product Mgmt - Dev Relat'ns,10,VPPRD,VP Product Management
+STDID,M15014,VP Product Mgmt - Global,10,VPPRD,VP Product Management
+STDID,M15015,VP Product Mgmt - NA,10,VPPRD,VP Product Management
+STDID,M15016,VP Product Mgmt - Product Dev,10,VPPRD,VP Product Management
+STDID,M15017,VP - Audible,10,VPPRD,VP Product Management
+STDID,M16010,VP Marketing,10,VPMKTG,VP Marketing/PR
+STDID,M16011,VP Marketing - Global,10,VPMKTG,VP Marketing/PR
+STDID,M17010,VP Sales - International,10,VPPRD,VP Product Management
+STDID,M17011,"VP Sales, NA",10,VPSALE,VP Sales
+STDID,M19010,VP Public Relations,10,VPPR,VP Public Relations
+STDID,M19030,"Director, Public Relations",8,PR,Public Relations
+STDID,M19050,"Sr Mgr, Public Relations",7,PR,Public Relations
+STDID,M19070,"Principal, Public Relations",7,PR,Public Relations
+STDID,M19090,"Mgr III, Public Relations",6,PR,Public Relations
+STDID,M19110,PR Specialist III,6,PR,Public Relations
+STDID,M19130,"Mgr II, Public Relations",5,PR,Public Relations
+STDID,M19150,PR Specialist II,5,PR,Public Relations
+STDID,M19170,"Mgr I, Public Relations",4,PR,Public Relations
+STDID,M19200,PR Specialist I,4,PR,Public Relations
+STDID,M19210,PR Assistant,4,PR,Public Relations
+STDID,M20030,"Dir, Retail Marketing Channel",8,RMCM,Retail Channel Marketing
+STDID,M20050,"Sr Mgr, Retail Mkgt Channel Mg",7,RMCM,Retail Channel Marketing
+STDID,M21031,"Director, Site Merchandising",8,SITEMR,Site Merchandiser
+STDID,M21051,"Sr Mgr, Site Merchandising",7,SITEMR,Site Merchandiser
+STDID,M21052,"Sr Mgr, Content Management",7,SITEMR,Site Merchandiser
+STDID,M21071,"Principal, Site Merchandising",7,SITEMR,Site Merchandiser
+STDID,M21072,Principal Content Manager,7,SITEMR,Site Merchandiser
+STDID,M21091,"Mgr III, Site Merchandising",6,SITEMR,Site Merchandiser
+STDID,M21092,"Mgr III, Content Management",6,SITEMR,Site Merchandiser
+STDID,M21111,Site Merchandiser III,6,SITEMR,Site Merchandiser
+STDID,M21112,Content Manager III,6,SITEMR,Site Merchandiser
+STDID,M21131,"Mgr II, Site Merchandising",5,SITEMR,Site Merchandiser
+STDID,M21132,"Mgr II, Content Management",5,SITEMR,Site Merchandiser
+STDID,M21151,Site Merchandiser II,5,SITEMR,Site Merchandiser
+STDID,M21152,Site Merchandiser II - SVS,5,SITEMR,Site Merchandiser
+STDID,M21153,Content Manager II,5,SITEMR,Site Merchandiser
+STDID,M21171,"Mgr I, Site Merchandising",4,SITEMR,Site Merchandiser
+STDID,M21172,"Mgr I, Content Management",4,SITEMR,Site Merchandiser
+STDID,M21201,Site Merchandiser I,4,SITEMR,Site Merchandiser
+STDID,M21202,Site Merchandiser I - SVS,4,SITEMR,Site Merchandiser
+STDID,M21203,Content Manager I,4,SITEMR,Site Merchandiser
+STDID,M22050,"Sr Mgr, Digital Ingestion",7,DIGEDT,Digital Editor
+STDID,M22090,"Mgr III, Digital Ingestion",6,DIGEDT,Digital Editor
+STDID,M22130,"Mgr II, Digital Ingestion",5,DIGEDT,Digital Editor
+STDID,M22131,"Mgr II, Digital Content Editor",5,DIGEDT,Digital Editor
+STDID,M22150,Digit Ingestion Specialist III,5,DIGEDT,Digital Editor
+STDID,M22170,"Mgr I, Digital Ingestion",4,DIGEDT,Digital Editor
+STDID,M22200,Content Lead,4,DIGEDT,Digital Editor
+STDID,M22210,Digit Ingestion Specialist II,4,DIGEDT,Digital Editor
+STDID,M22211,Digit Content Ingestion Coord,4,DIGEDT,Digital Editor
+STDID,M22230,Digital Content Associate,3,DIGEDT,Digital Editor
+STDID,M22231,Digital Ingestion Specialist I,3,DIGEDT,Digital Editor
+STDID,M22232,Digital Ingestion Lead,3,DIGEDT,Digital Editor
+STDID,M22240,Digital Content Assistant,2,DIGEDT,Digital Editor
+STDID,M22241,Digital Ingestion Assistant,2,DIGEDT,Digital Editor
+STDID,M23030,"GM, Subsidiary",8,SUBS,Subsidiary
+STDID,M23050,"Sr Leader, Subsidiary",7,SUBS,Subsidiary
+STDID,M24050,"Sr Manager, Audio",7,AUDIO,Audio
+STDID,M24090,"Manager III, Audio",6,AUDIO,Audio
+STDID,M24130,"Manager II, Audio",5,AUDIO,Audio
+STDID,M24170,"Manager I, Audio",4,AUDIO,Audio
+STDID,M24210,Audio Assistant IV,4,AUDIO,Audio
+STDID,M24230,Audio Assistant III,3,AUDIO,Audio
+STDID,M25050,"Sr Mgr, Game Artist",7,GAMING,Gaming
+STDID,M25051,"Sr Mgr, Game Design",7,GAMING,Gaming
+STDID,M25071,Principal Game Designer,7,GAMING,Gaming
+STDID,M25072,Principal Game Artist,7,GAMING,Gaming
+STDID,M25090,"Manager III, Game Artist",6,GAMING,Gaming
+STDID,M25091,"Manager III, Game Design",6,GAMING,Gaming
+STDID,M25110,Game Artist III,6,GAMING,Gaming
+STDID,M25111,Game Designer III,6,GAMING,Gaming
+STDID,M25131,"Manager II, Game Artist",5,GAMING,Gaming
+STDID,M25132,"Manager II, Game Design",5,GAMING,Gaming
+STDID,M25150,Game Artist II,5,GAMING,Gaming
+STDID,M25151,Game Designer II,5,GAMING,Gaming
+STDID,M25200,Game Artist I,4,GAMING,Gaming
+STDID,M25201,Game Designer I,4,GAMING,Gaming
+STDID,M26010,"VP, BizTech Leader",10,BIZTEC,Tech Business Line Leaders
+STDID,M26030,"Director, BizTech Leader",8,BIZTEC,Tech Business Line Leaders
+STDID,M26050,Sr. Mgr. BizTech Leader,7,BIZTEC,Tech Business Line Leaders
+STDID,M26090,"Manager III, Retail Store",6,PHYRTL,Physical Retail Store
+STDID,M26130,"Manager II, Retail Store",5,PHYRTL,Physical Retail Store
+STDID,M26170,"Manager I, Retail Store",4,PHYRTL,Physical Retail Store
+STDID,M26171,"Team Manager, Retail Store",4,PHYRTL,Physical Retail Store
+STDID,M26210,"FC Associate IV, Direct",4,PHYRTL,Physical Retail Store
+STDID,M26230,Retail Store Associate III,3,PHYRTL,Physical Retail Store
+STDID,M26231,RS Associate III (Off-Step),3,PHYRTL,Physical Retail Store
+STDID,M26233,RS Associate III (key-holder),3,PHYRTL,Physical Retail Store
+STDID,M26240,RS Associate II (Off-Step),2,PHYRTL,Physical Retail Store
+STDID,M26241,Retail Store Associate II,2,PHYRTL,Physical Retail Store
+STDID,M27030,"Director, Industry Specialist",8,INDSPC,Industry Specialist
+STDID,M27050,"Sr. Mgr, Industry Specialist",7,INDSPC,Industry Specialist
+STDID,M27070,Principal Industry Specialist,7,INDSPC,Industry Specialist
+STDID,M27090,"Mgr III, Industry Specialist",6,INDSPC,Industry Specialist
+STDID,M27110,Industry Specialist III,6,INDSPC,Industry Specialist
+STDID,M27130,"Mgr II, Industry Specialist",5,INDSPC,Industry Specialist
+STDID,M27150,Industry Specialist II,5,INDSPC,Industry Specialist
+STDID,M27200,Industry Specialist I,4,INDSPC,Industry Specialist
+STDID,M29050,"Sr. Mgr, Pharmacist PIC Reg",7,PHARM,Pharmacy
+STDID,M29090,"Mgr III, Pharmacist PIC",6,PHARM,Pharmacy
+STDID,M29091,"Mgr III, Pharmacist PIC Sr.",6,PHARM,Pharmacy
+STDID,M29130,"Mgr II, Pharm Tech",5,PHARM,Pharmacy
+STDID,M29131,"Mgr II, Pharmacist",5,PHARM,Pharmacy
+STDID,M29170,"Team Mgr, Pharm Tech",4,PHARM,Pharmacy
+STDID,M29171,"Mgr I, Pharmacist",4,PHARM,Pharmacy
+STDID,M29200,Staff Pharmacist,4,PHARM,Pharmacy
+STDID,M29210,Graduate Pharmacist,4,PHARM,Pharmacy
+STDID,M29211,Per Diem Staff Pharmacist,4,PHARM,Pharmacy
+STDID,M29230,Certified Pharm Tech,3,PHARM,Pharmacy
+STDID,M29231,Pharm Tech Specialist,3,PHARM,Pharmacy
+STDID,M29232,Pharmacist in Training,3,PHARM,Pharmacy
+STDID,M29240,Registered Pharm Tech,2,PHARM,Pharmacy
+STDID,M30010,VP – Customer Solutions Mgmt,10,CSM,Customer Solutions Management
+STDID,M30030,Sr Principal - Customer Sol,8,CSM,Customer Solutions Management
+STDID,M30031,Dir – Customer Solutions Mgmt,8,CSM,Customer Solutions Management
+STDID,M30050,Sr Mgr - Customer Solutions,7,CSM,Customer Solutions Management
+STDID,M30070,Principal - Customer Solutions,7,CSM,Customer Solutions Management
+STDID,M30090,Mgr III - Customer Solutions,6,CSM,Customer Solutions Management
+STDID,M30110,Customer Solutions Mgr III,6,CSM,Customer Solutions Management
+STDID,M30130,Mgr II - Customer Solutions,5,CSM,Customer Solutions Management
+STDID,M30150,Customer Solutions Mgr II,5,CSM,Customer Solutions Management
+STDID,M30200,Assoc Customer Solutions Mgr,4,CSM,Customer Solutions Management
+STDID,P01051,"Sr Manager, Catalog",7,CATLOG,Catalog
+STDID,P01091,"Manager III, Catalog",6,CATLOG,Catalog
+STDID,P01131,"Manager II, Catalog",5,CATLOG,Catalog
+STDID,P01151,Catalog Specialist III,5,CATLOG,Catalog
+STDID,P01171,"Manager I, Catalog",4,CATLOG,Catalog
+STDID,P01210,Data Mapping Specialist II,4,CATLOG,Catalog
+STDID,P01211,Catalog Specialist II,4,CATLOG,Catalog
+STDID,P01212,Catalog Specialist II - SVS,4,CATLOG,Catalog
+STDID,P01230,Data Mapping Specialist I,3,CATLOG,Catalog
+STDID,P01231,Catalog Specialist I,3,CATLOG,Catalog
+STDID,P01232,Catalog Lead,3,CATLOG,Catalog
+STDID,P01233,Catalog Specialist I - SVS,3,CATLOG,Catalog
+STDID,P01240,Data Mapping Assistant,2,CATLOG,Catalog
+STDID,P01241,Catalog Assistant,2,CATLOG,Catalog
+STDID,P02030,"Director, Regional CS",8,CS,Customer Service
+STDID,P02031,"Director, Customer Service",8,CS,Customer Service
+STDID,P02032,"General Mgr, Customer Service",8,CS,Customer Service
+STDID,P02051,"Sr Manager, Customer Service",7,CS,Customer Service
+STDID,P02052,"Site Manager, CS",7,CS,Customer Service
+STDID,P02091,"Manager III, Customer Service",6,CS,Customer Service
+STDID,P02093,Pathways Operations Mgr - MBA,6,FC,Fulfillment Center
+STDID,P02094,"Mgr III, Customer Service-DEL",6,CS,Customer Service
+STDID,P02095,"Mgr III, Customer Service-CJB",6,CS,Customer Service
+STDID,P02096,"Mgr III, Customer Service-PNQ",6,CS,Customer Service
+STDID,P02131,"Manager II, Customer Service",5,CS,Customer Service
+STDID,P02132,"Mgr II, Customer Service-DEL",5,CS,Customer Service
+STDID,P02133,"Mgr II, Customer Service-CJB",5,CS,Customer Service
+STDID,P02134,"Mgr II, Customer Service-PNQ",5,CS,Customer Service
+STDID,P02135,"Manager II, ECR",5,CS,Customer Service
+STDID,P02171,"Manager I, Customer Service",4,CS,Customer Service
+STDID,P02172,"Manager Team, Customer Service",4,CS,Customer Service
+STDID,P02173,"Mgr Team, Customer Service-DEL",4,CS,Customer Service
+STDID,P02174,"Mgr Team, Customer Service-CJB",4,CS,Customer Service
+STDID,P02175,"Mgr Team, Customer Service-PNQ",4,CS,Customer Service
+STDID,P02201,ECR Specialist,4,CS,Customer Service
+STDID,P02202,CS Program Specialist,4,CS,Customer Service
+STDID,P02210,Digital CS Lead,4,CS,Customer Service
+STDID,P02211,CS Representative III,4,CS,Customer Service
+STDID,P02212,CS Specialist,4,CS,Customer Service
+STDID,P02213,CS Lead,4,CS,Customer Service
+STDID,P02214,Workflow Analyst I,4,CS,Customer Service
+STDID,P02230,Digital CS Associate,3,CS,Customer Service
+STDID,P02231,CS Associate Senior,3,CS,Customer Service
+STDID,P02232,CS Resolution Specialist,3,CS,Customer Service
+STDID,P02233,Support Operations Analyst,3,CS,Customer Service
+STDID,P02234,CS Resolution Specialist-DEL,3,CS,Customer Service
+STDID,P02235,CS Resolution Specialist-CJB,3,CS,Customer Service
+STDID,P02236,CS Resolution Specialist-PNQ,3,CS,Customer Service
+STDID,P02237,Support Operations Analyst-DEL,3,CS,Customer Service
+STDID,P02238,Support Operations Analyst-CJB,3,CS,Customer Service
+STDID,P02239,Support Operations Analyst-PNQ,3,CS,Customer Service
+STDID,P02241,CS Associate,2,CS,Customer Service
+STDID,P02242,CS Associate III,3,CS,Customer Service
+STDID,P02251,Catalog Order Rep I,1,CS,Customer Service
+STDID,P03030,"Director, Transportation",8,FC,Fulfillment Center
+STDID,P03031,"Director, Operations",8,FC,Fulfillment Center
+STDID,P03032,"General Manager, Operations",8,FC,Fulfillment Center
+STDID,P03033,"Director, Regional Operations",8,FC,Fulfillment Center
+STDID,P03034,"Director, ACES",8,FC,Fulfillment Center
+STDID,P03050,"Sr Manager, Safety",7,FC,Fulfillment Center
+STDID,P03051,"Sr Manager, Operations",7,FC,Fulfillment Center
+STDID,P03052,"Sr Manager, ICQA",7,FC,Fulfillment Center
+STDID,P03053,"Sr Manager, Loss Prevention",7,FC,Fulfillment Center
+STDID,P03054,"Sr Manager, ACES",7,FC,Fulfillment Center
+STDID,P03055,"Sr Manager, Training",7,TRNG,Training
+STDID,P03056,"Site Manager, Operations",7,FC,Fulfillment Center
+STDID,P03057,"Sr. Manager, Process Imprv",7,FC,Fulfillment Center
+STDID,P03058,"Sr. Mgr, Pathways Operations",7,FC,Fulfillment Center
+STDID,P03070,"Asst General Mgr, Operations",7,FC,Fulfillment Center
+STDID,P03071,Principal ACES Analyst,7,FC,Fulfillment Center
+STDID,P03072,"Principal, Doc Control",7,FC,Fulfillment Center
+STDID,P03073,"Principal, Training",7,TRNG,Training
+STDID,P03074,"Principal, Process Imprv",7,FC,Fulfillment Center
+STDID,P03090,"Manager III, Safety",6,FC,Fulfillment Center
+STDID,P03091,"Manager III, Operations",6,FC,Fulfillment Center
+STDID,P03093,"Manager III, Loss Prevention",6,FC,Fulfillment Center
+STDID,P03094,"Manager III, ACES",6,FC,Fulfillment Center
+STDID,P03095,"Manager III, Training",6,TRNG,Training
+STDID,P03096,"Manager III, ICQA",6,FC,Fulfillment Center
+STDID,P03097,BOLD Operations Manager,5,FC,Fulfillment Center
+STDID,P03098,"Manager III, Process Imprv",6,FC,Fulfillment Center
+STDID,P03111,Training Specialist III,6,TRNG,Training
+STDID,P03112,ICQA Analyst III,6,FC,Fulfillment Center
+STDID,P03114,ACES Analyst III,6,FC,Fulfillment Center
+STDID,P03115,Doc Cntrl Specialist III,6,FC,Fulfillment Center
+STDID,P03116,Safety Specialist III,6,FC,Fulfillment Center
+STDID,P03117,Process Imprv Specialist III,6,FC,Fulfillment Center
+STDID,P03130,"Manager II, Safety",5,FC,Fulfillment Center
+STDID,P03131,"Manager II, Operations",5,FC,Fulfillment Center
+STDID,P03132,"Manager II, ICQA",5,FC,Fulfillment Center
+STDID,P03133,"Manager II, Loss Prevention",5,FC,Fulfillment Center
+STDID,P03134,"Manager II, ACES",5,FC,Fulfillment Center
+STDID,P03135,"Manager II, Training",5,TRNG,Training
+STDID,P03136,"Manager II, Process Imprv",5,FC,Fulfillment Center
+STDID,P03150,Safety Specialist II,5,FC,Fulfillment Center
+STDID,P03151,Training Specialist II,5,TRNG,Training
+STDID,P03152,ICQA Analyst II,5,FC,Fulfillment Center
+STDID,P03154,ACES Analyst II,5,FC,Fulfillment Center
+STDID,P03155,Doc Cntrl Specialist II,5,FC,Fulfillment Center
+STDID,P03156,Process Imprv Specialist II,5,FC,Fulfillment Center
+STDID,P03170,"Manager I, Safety",4,FC,Fulfillment Center
+STDID,P03171,"Manager I, Operations",4,FC,Fulfillment Center
+STDID,P03172,"Manager I, ICQA",4,FC,Fulfillment Center
+STDID,P03173,"Manager I, Loss Prevention",4,FC,Fulfillment Center
+STDID,P03174,"Manager I, ACES",4,FC,Fulfillment Center
+STDID,P03175,"Manager I, Training",4,TRNG,Training
+STDID,P03176,"Manager I, Transportation",4,FC,Fulfillment Center
+STDID,P03200,Safety Specialist I,4,FC,Fulfillment Center
+STDID,P03201,Training Specialist I,4,TRNG,Training
+STDID,P03202,ICQA Analyst I,4,FC,Fulfillment Center
+STDID,P03204,ACES Analyst I,4,FC,Fulfillment Center
+STDID,P03205,Doc Cntrl Specialist I,4,FC,Fulfillment Center
+STDID,P03206,Process Imprv Specialist I,4,FC,Fulfillment Center
+STDID,P03210,FBA Coordinator,4,FC,Fulfillment Center
+STDID,P03211,FC Associate IV,4,FC,Fulfillment Center
+STDID,P03212,Delivery Associate Lead,4,FC,Fulfillment Center
+STDID,P03213,Loss Prevention Specialist,4,FC,Fulfillment Center
+STDID,P03214,Training Coordinator,4,TRNG,Training
+STDID,P03215,Assembler Support Tech IV,4,FC,Fulfillment Center
+STDID,P03216,Sr Food Lead,4,FC,Fulfillment Center
+STDID,P03217,Transportation Specialist II,4,FC,Fulfillment Center
+STDID,P03218,Logistics Coordinator IV,4,FC,Fulfillment Center
+STDID,P03220,Operations Lead,3,FC,Fulfillment Center
+STDID,P03221,Training Associate III,3,TRNG,Training
+STDID,P03230,"FC Associate III, CDL Driver",3,FC,Fulfillment Center
+STDID,P03231,FC Associate III,3,FC,Fulfillment Center
+STDID,P03232,Delivery Associate III,3,FC,Fulfillment Center
+STDID,P03233,Delivery Associate IIIB,3,FC,Fulfillment Center
+STDID,P03235,FC Associate III (Off-Step),3,FC,Fulfillment Center
+STDID,P03236,Assembler Support Tech III,3,FC,Fulfillment Center
+STDID,P03237,Logistics Coordinator III,3,FC,Fulfillment Center
+STDID,P03238,Transportation Specialist I,3,FC,Fulfillment Center
+STDID,P03239,"FC Associate III, Direct",3,FC,Fulfillment Center
+STDID,P03241,FC Associate II,2,FC,Fulfillment Center
+STDID,P03242,Delivery Associate II,2,FC,Fulfillment Center
+STDID,P03243,Assembler Support Tech II,2,FC,Fulfillment Center
+STDID,P03244,Logistics Coordinator II,2,FC,Fulfillment Center
+STDID,P03245,Transportation Associate II,2,FC,Fulfillment Center
+STDID,P03251,FC Associate I,1,FC,Fulfillment Center
+STDID,P03252,Delivery Associate I,1,FC,Fulfillment Center
+STDID,P03253,Logistics Coordinator I,1,FC,Fulfillment Center
+STDID,P03254,"FC Associate I, Direct",1,FC,Fulfillment Center
+STDID,P03255,"Delivery Associate I, SH",1,FC,Fulfillment Center
+STDID,P03256,"Central Associate, I",1,FC,Fulfillment Center
+STDID,P04031,"Director, Ops Engineering",8,OPSENG,Ops Engineering
+STDID,P04032,"Director, Control Systems Engi",8,OPSENG,Ops Engineering
+STDID,P04033,"Director, Regional Ops Engi",8,OPSENG,Ops Engineering
+STDID,P04051,"Sr Manager, Ops Engineering",7,OPSENG,Ops Engineering
+STDID,P04052,"Sr Manager, Control Systems En",7,OPSENG,Ops Engineering
+STDID,P04070,Principal Ops Engineering,7,OPSENG,Ops Engineering
+STDID,P04071,"Principal, Control Sys Engr",7,OPSENG,Ops Engineering
+STDID,P04091,"Manager III, Ops Engineering",6,OPSENG,Ops Engineering
+STDID,P04092,"Manager III, Control Systems E",6,OPSENG,Ops Engineering
+STDID,P04111,Operations Engineer III,6,OPSENG,Ops Engineering
+STDID,P04112,Control Systems Engineer III,6,OPSENG,Ops Engineering
+STDID,P04130,"Manager II, Ops Engineering",5,OPSENG,Ops Engineering
+STDID,P04131,"Manager II, Control Systems En",5,OPSENG,Ops Engineering
+STDID,P04151,Operations Engineer II,5,OPSENG,Ops Engineering
+STDID,P04152,Control Systems Engineer II,5,OPSENG,Ops Engineering
+STDID,P04170,"Manager I, Ops Engineering",4,OPSENG,Ops Engineering
+STDID,P04171,"Manager I, Control Systems Eng",4,OPSENG,Ops Engineering
+STDID,P04201,Operations Engineer I,4,OPSENG,Ops Engineering
+STDID,P04202,Control Systems Engineer I,4,OPSENG,Ops Engineering
+STDID,P04210,Control Systems Specialist,4,OPSENG,Ops Engineering
+STDID,P04211,Control Systems Lead,4,OPSENG,Ops Engineering
+STDID,P04230,Control Systems Technician,3,OPSENG,Ops Engineering
+STDID,P05030,"Dir, HW Commodities",8,PROCUR,Internal Procurement
+STDID,P05031,"Director, Procurement",8,PROCUR,Internal Procurement
+STDID,P05032,"Sr. Principal, HW Commodities",8,PROCUR,Internal Procurement
+STDID,P05050,"Sr Manager, HW Commodities",7,PROCUR,Internal Procurement
+STDID,P05051,"Sr Manager, Procurement",7,PROCUR,Internal Procurement
+STDID,P05052,Principal Procurement,7,PROCUR,Internal Procurement
+STDID,P05070,"Principal, HW Commodities",7,PROCUR,Internal Procurement
+STDID,P05090,"Manager III, HW Commodities",6,PROCUR,Internal Procurement
+STDID,P05091,"Manager III, Procurement",6,PROCUR,Internal Procurement
+STDID,P05110,HW Commodity Specialist III,6,PROCUR,Internal Procurement
+STDID,P05111,Procurement Specialist III,6,PROCUR,Internal Procurement
+STDID,P05130,"Manager II, HW Commodities",5,PROCUR,Internal Procurement
+STDID,P05131,"Manager II, Procurement",5,PROCUR,Internal Procurement
+STDID,P05150,HW Commodity Specialist II,5,PROCUR,Internal Procurement
+STDID,P05151,Procurement Specialist II,5,PROCUR,Internal Procurement
+STDID,P05171,"Manager I, Procurement",4,PROCUR,Internal Procurement
+STDID,P05200,HW Commodity Specialist I,4,PROCUR,Internal Procurement
+STDID,P05201,Procurement Specialist I,4,PROCUR,Internal Procurement
+STDID,P05211,Purchasing Assistant III,4,PROCUR,Internal Procurement
+STDID,P05231,Purchasing Assistant II,3,PROCUR,Internal Procurement
+STDID,P05232,Purchasing Assistant II-Step,3,PROCUR,Internal Procurement
+STDID,P05241,Purchasing Assistant I,2,PROCUR,Internal Procurement
+STDID,P06031,"Director, RE/Facilities",8,RE/FAC,Real Estate/Facilities
+STDID,P06051,"Sr Manager, RE/Facilities",7,RE/FAC,Real Estate/Facilities
+STDID,P06052,"Sr. Manager, Bus. Continuity",7,RE/FAC,Real Estate/Facilities
+STDID,P06053,"Sr. Manager, Construction Mgmt",7,RE/FAC,Real Estate/Facilities
+STDID,P06054,"Sr. Manager, Transaction Mgmt",7,RE/FAC,Real Estate/Facilities
+STDID,P06055,"Sr. Manager, Asset Mgmt",7,RE/FAC,Real Estate/Facilities
+STDID,P06070,"Principal, Construction",7,RE/FAC,Real Estate/Facilities
+STDID,P06071,"Principal, Transaction Mgmt",7,RE/FAC,Real Estate/Facilities
+STDID,P06072,"Principal, Asset Mgmt",7,RE/FAC,Real Estate/Facilities
+STDID,P06073,Principal Facilities Spec,7,RE/FAC,Real Estate/Facilities
+STDID,P06091,"Manager III, Facilities",6,RE/FAC,Real Estate/Facilities
+STDID,P06092,"Manager III, Bus. Continuity",6,RE/FAC,Real Estate/Facilities
+STDID,P06093,"Manager III, Construction Mgmt",6,RE/FAC,Real Estate/Facilities
+STDID,P06094,"Manager III, Transaction Mgmt",6,RE/FAC,Real Estate/Facilities
+STDID,P06095,"Manager III, Asset Mgmt",6,RE/FAC,Real Estate/Facilities
+STDID,P06110,Construction Manager III,6,RE/FAC,Real Estate/Facilities
+STDID,P06111,Transaction Manager III,6,RE/FAC,Real Estate/Facilities
+STDID,P06112,Asset Manager III,6,RE/FAC,Real Estate/Facilities
+STDID,P06113,Facilities Specialist III,6,RE/FAC,Real Estate/Facilities
+STDID,P06131,"Manager II, Facilities",5,RE/FAC,Real Estate/Facilities
+STDID,P06132,"Manager II, Bus. Continuity",5,RE/FAC,Real Estate/Facilities
+STDID,P06133,"Manager II, Construction Mgmt",5,RE/FAC,Real Estate/Facilities
+STDID,P06134,"Manager II, Transaction Mgmt",5,RE/FAC,Real Estate/Facilities
+STDID,P06135,"Manager II, Asset Mgmt",5,RE/FAC,Real Estate/Facilities
+STDID,P06150,Construction Manager II,5,RE/FAC,Real Estate/Facilities
+STDID,P06151,Transaction Manager II,5,RE/FAC,Real Estate/Facilities
+STDID,P06152,Asset Manager II,5,RE/FAC,Real Estate/Facilities
+STDID,P06153,Facilities Specialist II,5,RE/FAC,Real Estate/Facilities
+STDID,P06171,"Manager I, Facilities",4,RE/FAC,Real Estate/Facilities
+STDID,P06172,"Manager I, Bus. Continuity",4,RE/FAC,Real Estate/Facilities
+STDID,P06173,"Manager I, Construction Mgmt",4,RE/FAC,Real Estate/Facilities
+STDID,P06174,"Manager I, Transaction Mgmt",4,RE/FAC,Real Estate/Facilities
+STDID,P06175,"Manager I, Asset Mgmt",4,RE/FAC,Real Estate/Facilities
+STDID,P06203,Facilities Specialist I,4,RE/FAC,Real Estate/Facilities
+STDID,P06211,Facilities Coordinator IV,4,RE/FAC,Real Estate/Facilities
+STDID,P06212,Service Technician III,4,RE/FAC,Real Estate/Facilities
+STDID,P06213,Drafter III,4,RE/FAC,Real Estate/Facilities
+STDID,P06214,Business Continuity Analyst,4,RE/FAC,Real Estate/Facilities
+STDID,P06215,Transaction Manager I,4,RE/FAC,Real Estate/Facilities
+STDID,P06216,Asset Manager I,4,RE/FAC,Real Estate/Facilities
+STDID,P06217,Construction Manager I,4,RE/FAC,Real Estate/Facilities
+STDID,P06231,Facilities Coordinator III,3,RE/FAC,Real Estate/Facilities
+STDID,P06232,Service Technician II,3,RE/FAC,Real Estate/Facilities
+STDID,P06233,Drafter II,3,RE/FAC,Real Estate/Facilities
+STDID,P06234,Service Technician II-Step,3,RE/FAC,Real Estate/Facilities
+STDID,P06235,Facilities Coord III-Step,3,RE/FAC,Real Estate/Facilities
+STDID,P06241,Facilities Coordinator II,2,RE/FAC,Real Estate/Facilities
+STDID,P06242,Service Technician I,2,RE/FAC,Real Estate/Facilities
+STDID,P06243,Drafter I,2,RE/FAC,Real Estate/Facilities
+STDID,P06244,Service Technician I-Step,2,RE/FAC,Real Estate/Facilities
+STDID,P06251,Facilities Coordinator I,1,RE/FAC,Real Estate/Facilities
+STDID,P06252,Security Guard,1,RE/FAC,Real Estate/Facilities
+STDID,P06253,Receptionist,1,RE/FAC,Real Estate/Facilities
+STDID,P09010,VP Operations - International,10,VPOPS,VP Operations
+STDID,P09011,VP Operations - NA,10,VPOPS,VP Operations
+STDID,P09012,VP Operations - Product Mgmt,10,VPOPS,VP Operations
+STDID,P09013,VP Operations - Logistics,10,VPOPS,VP Operations
+STDID,P10010,SVP Operations,11,SVPOPS,SVP Operations
+STDID,P11010,VP Customer Service,10,VPCS,VP Customer Service
+STDID,P12130,"Manager II, Medical Services",5,MED,Onsite Medical Services
+STDID,P12150,Medical Representative III,5,MED,Onsite Medical Services
+STDID,P12170,"Manager I, Medical Services",4,MED,Onsite Medical Services
+STDID,P12200,Medical Representative II,4,MED,Onsite Medical Services
+STDID,P12210,Medical Representative I,4,MED,Onsite Medical Services
+STDID,P12211,Injury Prevention Specialist I,4,MED,Onsite Medical Services
+STDID,P13090,"Manager III, Translation",6,LANG,Language
+STDID,P13110,Translation Specialist III,6,LANG,Language
+STDID,P13130,"Manager II, Translation",5,LANG,Language
+STDID,P13150,Translation Specialist II,5,LANG,Language
+STDID,P13170,"Manager I, Translation",4,LANG,Language
+STDID,P13200,Translation Specialist I,4,LANG,Language
+STDID,P13201,Translation Specialist Prem I,4,LANG,Language
+STDID,P13230,Translation Associate II,3,LANG,Language
+STDID,P13231,Translation Assoc Premium II,3,LANG,Language
+STDID,P13240,Translation Associate I,2,LANG,Language
+STDID,P13241,Translation Assoc Premium I,2,LANG,Language
+STDID,P14030,"Director, Supply Chain MGMT",8,SUPCHN,Supply Chain Management
+STDID,P14050,"Sr Mgr, Supply Chain MGMT",7,SUPCHN,Supply Chain Management
+STDID,P14070,"Principal, Supply Chain",7,SUPCHN,Supply Chain Management
+STDID,P14090,"Mgr III, Supply Chain",6,SUPCHN,Supply Chain Management
+STDID,P14110,Supply Chain Mgr III,6,SUPCHN,Supply Chain Management
+STDID,P14130,"Mgr II, Supply Chain",5,SUPCHN,Supply Chain Management
+STDID,P14150,Supply Chain Mgr II,5,SUPCHN,Supply Chain Management
+STDID,P14200,Supply Chain Mgr I,4,SUPCHN,Supply Chain Management
+STDID,P15130,"Manager II, CXQ Operations",5,CXQO,Cust. Experience Qualit Ops
+STDID,P15210,CXQ Operations Lead,4,CXQO,Cust. Experience Qualit Ops
+STDID,P15230,CXQ Operations Associate III,3,CXQO,Cust. Experience Qualit Ops
+STDID,P15240,CXQ Operations Associate II,2,CXQO,Cust. Experience Qualit Ops
+STDID,P17050,"Sr. Mgr, Food Production",7,FOODPR,Food Production
+STDID,P17090,"Mgr III, Food Production",6,FOODPR,Food Production
+STDID,P17130,"Mgr II, Food Production",5,FOODPR,Food Production
+STDID,P17170,"Mgr I, Food Production",4,FOODPR,Food Production
+STDID,P17210,Food Production Specialist III,4,FOODPR,Food Production
+STDID,P17211,"Buyer I, Food Production",4,FOODPR,Food Production
+STDID,P17230,Food Production Specialist I,3,FOODPR,Food Production
+STDID,P17231,Food Production Specialist II,3,FOODPR,Food Production
+STDID,P17240,Food Production Associate III,3,FOODPR,Food Production
+STDID,P17250,Food Production Associate I,1,FOODPR,Food Production
+STDID,P19030,"Dir, Data Center Materials",8,DCMAT,Data Center Materials
+STDID,P19050,"Sr Mgr, Data Center Materials",7,DCMAT,Data Center Materials
+STDID,P19090,"Mgr III, Data Center Materials",6,DCMAT,Data Center Materials
+STDID,P19110,Data Center Materials Spec III,6,DCMAT,Data Center Materials
+STDID,P19130,"Mgr II, Data Center Materials",5,DCMAT,Data Center Materials
+STDID,P19150,Data Center Materials Spec II,5,DCMAT,Data Center Materials
+STDID,P19170,"Mgr I, Data Center Materials",4,DCMAT,Data Center Materials
+STDID,P19200,Data Center Materials Spec I,4,DCMAT,Data Center Materials
+STDID,P19210,Data Center Material Assoc III,4,DCMAT,Data Center Materials
+STDID,P19230,Data Center Material Assoc II,3,DCMAT,Data Center Materials
+STDID,P19240,Data Center Material Assoc I,2,DCMAT,Data Center Materials
+STDID,P21030,"Director, ML Data Operations",8,MLDOPS,Machine Learning Data Operatio
+STDID,P21050,"Sr. Manager, ML Data Operation",7,MLDOPS,Machine Learning Data Operatio
+STDID,P21090,"Manager III, ML Data Operation",6,MLDOPS,Machine Learning Data Operatio
+STDID,P21130,"Manager II, ML Data Operations",5,MLDOPS,Machine Learning Data Operatio
+STDID,P21170,"Manager I, ML Data Operations",4,MLDOPS,Machine Learning Data Operatio
+STDID,P21210,ML Data Associate III,4,MLDOPS,Machine Learning Data Operatio
+STDID,P21230,ML Data Associate II,3,MLDOPS,Machine Learning Data Operatio
+STDID,P21240,ML Data Associate I,2,MLDOPS,Machine Learning Data Operatio
+STDID,P22090,"Manager III, Device Associate",6,DEVICE,Device associates
+STDID,P22130,"Manager II, Device Associate",5,DEVICE,Device associates
+STDID,P22170,"Manager I, Device Associate",4,DEVICE,Device associates
+STDID,P22200,Device Associate III,4,DEVICE,Device associates
+STDID,P22230,Device Associate II,3,DEVICE,Device associates
+STDID,P22240,Device Associate I,2,DEVICE,Device associates
+STDID,P23110,Residential Electrician III –A,6,TRADES,Trades
+STDID,P23111,Residential Electrician III –B,6,TRADES,Trades
+STDID,P23150,Residential Electrician II – A,5,TRADES,Trades
+STDID,P23151,Residential Electrician II – B,5,TRADES,Trades
+STDID,P23210,Residential Electrician I – A,4,TRADES,Trades
+STDID,P23211,Residential Electrician I – B,4,TRADES,Trades
+STDID,P29010,"VP, Seller Support",10,SSO,Seller Support Operations
+STDID,P29030,"Director, Seller Support",8,SSO,Seller Support Operations
+STDID,P29050,"Sr. Manager, Seller Support",7,SSO,Seller Support Operations
+STDID,P29090,"Manager III, Seller Support",6,SSO,Seller Support Operations
+STDID,P29130,"Manager II, Seller Support",5,SSO,Seller Support Operations
+STDID,P29170,"Manager I, Seller Support",4,SSO,Seller Support Operations
+STDID,P29200,Seller Support Account Manager,4,SSO,Seller Support Operations
+STDID,P29210,Seller Support Advisor,4,SSO,Seller Support Operations
+STDID,P29211,Seller Support Specialist,4,SSO,Seller Support Operations
+STDID,P29230,Seller Support Associate Sr.,3,SSO,Seller Support Operations
+STDID,P29231,Seller Sppt Associate Sr.-Step,3,SSO,Seller Support Operations
+STDID,P29240,Seller Support Associate,2,SSO,Seller Support Operations
+STDID,S01090,"Mgr III, Field Rep",6,FLDREP,Field Representatives
+STDID,S01110,Field Rep III,6,FLDREP,Field Representatives
+STDID,S01130,"Mgr II, Field Rep",5,FLDREP,Field Representatives
+STDID,S01150,Field Rep II,5,FLDREP,Field Representatives
+STDID,S01210,Field Rep I,4,FLDREP,Field Representatives
+STDID,S01236,Field Associate III,3,FLDREP,Field Representatives
+STDID,S02030,"Director, Sales Operations",8,SLSOPS,Sales Operations Job Family
+STDID,S02050,"Sr. Mgr, Sales Operations",7,SLSOPS,Sales Operations Job Family
+STDID,S02070,"Principal, Sales Operations",7,SLSOPS,Sales Operations Job Family
+STDID,S02071,"Principal, Sales Analyst",7,SLSOPS,Sales Operations Job Family
+STDID,S02090,"Manager III, Sales Operations",6,SLSOPS,Sales Operations Job Family
+STDID,S02110,Sales Operations III,6,SLSOPS,Sales Operations Job Family
+STDID,S02111,Sales Analyst III,6,SLSOPS,Sales Operations Job Family
+STDID,S02130,"Manager II, Sales Operations",5,SLSOPS,Sales Operations Job Family
+STDID,S02150,Sales Operations II,5,SLSOPS,Sales Operations Job Family
+STDID,S02151,Sales Analyst II,5,SLSOPS,Sales Operations Job Family
+STDID,S02200,Sales Operations I,4,SLSOPS,Sales Operations Job Family
+STDID,S02201,Sales Analyst I,4,SLSOPS,Sales Operations Job Family
+STDID,S03030,"Director, Ad Sales",8,SALAD,Ad Sales
+STDID,S03050,"Sr. Manager, Ad Sales",7,SALAD,Ad Sales
+STDID,S03070,Principal Ad Sales Rep 50,7,SALAD,Ad Sales
+STDID,S03071,Principal Ad Sales Rep 100,7,SALAD,Ad Sales
+STDID,S03072,Principal Ad Sales Rep,7,SALAD,Ad Sales
+STDID,S03075,Principal Ad Sales Rep 67,7,SALAD,Ad Sales
+STDID,S03090,"Manager III, Ad Sales 50",6,SALAD,Ad Sales
+STDID,S03091,"Manager III, Ad Sales 100",6,SALAD,Ad Sales
+STDID,S03092,"Manager III, Ad Sales",6,SALAD,Ad Sales
+STDID,S03095,"Manager III, Ad Sales 67",6,SALAD,Ad Sales
+STDID,S03110,Ad Sales Rep III 50,6,SALAD,Ad Sales
+STDID,S03111,Ad Sales Rep III 100,6,SALAD,Ad Sales
+STDID,S03112,Ad Sales Rep III,6,SALAD,Ad Sales
+STDID,S03113,Sales Rep III,6,SALACT,Sales/Account Management
+STDID,S03114,Sales Rep III 50,6,SALACT,Sales/Account Management
+STDID,S03115,Ad Sales Rep III 67,6,SALAD,Ad Sales
+STDID,S03130,"Manager II, Ad Sales 50",5,SALAD,Ad Sales
+STDID,S03131,"Manager II, Ad Sales 100",5,SALAD,Ad Sales
+STDID,S03132,"Manager II, Ad Sales",5,SALAD,Ad Sales
+STDID,S03150,Ad Sales Rep II 50,5,SALAD,Ad Sales
+STDID,S03151,Ad Sales Rep II 100,5,SALAD,Ad Sales
+STDID,S03152,Ad Sales Rep II,5,SALAD,Ad Sales
+STDID,S03153,Sales Rep II,5,SALACT,Sales/Account Management
+STDID,S03154,Sales Rep II 50,5,SALACT,Sales/Account Management
+STDID,S03155,Ad Sales Rep II 67,5,SALAD,Ad Sales
+STDID,S03200,Ad Sales Rep I 50,4,SALAD,Ad Sales
+STDID,S03201,Ad Sales Rep I 100,4,SALAD,Ad Sales
+STDID,S03202,Ad Sales Rep I,4,SALAD,Ad Sales
+STDID,S03203,Sales Rep I,4,SALACT,Sales/Account Management
+STDID,S03204,Sales Rep I 50,4,SALACT,Sales/Account Management
+STDID,S03205,Ad Sales Rep I 67,4,SALAD,Ad Sales
+STDID,S03208,Publishing Consultant,4,SALAD,Ad Sales
+STDID,S04030,"Director, Tech Sales",8,SALTEC,Tech Sales
+STDID,S04031,"Director, Tech Sales 43",8,SALTEC,Tech Sales
+STDID,S04032,"Director, Tech Sales 54",8,SALTEC,Tech Sales
+STDID,S04033,"Director, Tech Sales 67",8,SALTEC,Tech Sales
+STDID,S04034,"Director, Global Tech Sales",8,SALTEC,Tech Sales
+STDID,S04035,"Director, Global Tech Sales 43",8,SALTEC,Tech Sales
+STDID,S04036,"Director, Global Tech Sales 54",8,SALTEC,Tech Sales
+STDID,S04037,"Director, Global Tech Sales 67",8,SALTEC,Tech Sales
+STDID,S04038,"Director, Client Rel",8,SALTEC,Tech Sales
+STDID,S04039,"Director, Client Rel - MMT",8,SALTEC,Tech Sales
+STDID,S04040,"Director, Client Rel - ENT",8,SALTEC,Tech Sales
+STDID,S04050,"Sr. Manager, Tech Sales 43",7,SALTEC,Tech Sales
+STDID,S04051,"Sr. Manager, Tech Sales 54",7,SALTEC,Tech Sales
+STDID,S04052,"Sr. Manager, Tech Sales 67",7,SALTEC,Tech Sales
+STDID,S04053,"Sr. Manager, Tech Sales",7,SALTEC,Tech Sales
+STDID,S04054,"Sr. Mgr, Global Tech Sales 43",7,SALTEC,Tech Sales
+STDID,S04055,"Sr. Mgr, Global Tech Sales 54",7,SALTEC,Tech Sales
+STDID,S04056,"Sr. Mgr, Global Tech Sales 67",7,SALTEC,Tech Sales
+STDID,S04057,"Sr. Mgr, Global Tech Sales",7,SALTEC,Tech Sales
+STDID,S04058,"Sr Manager, Client Rel",7,SALTEC,Tech Sales
+STDID,S04059,"Sr Manager, Client Rel - MMT",7,SALTEC,Tech Sales
+STDID,S04060,"Sr Manager, Client Rel - ENT",7,SALTEC,Tech Sales
+STDID,S04070,"Principal Sales, Tech 43",7,SALTEC,Tech Sales
+STDID,S04071,"Principal Sales, Tech 54",7,SALTEC,Tech Sales
+STDID,S04072,"Principal Sales, Tech 67",7,SALTEC,Tech Sales
+STDID,S04073,Principal Tech Sales,7,SALTEC,Tech Sales
+STDID,S04074,"Principal Sales,Global Tech 43",7,SALTEC,Tech Sales
+STDID,S04075,"Principal Sales,Global Tech 54",7,SALTEC,Tech Sales
+STDID,S04076,"Principal Sales,Global Tech 67",7,SALTEC,Tech Sales
+STDID,S04077,Principal Global Tech Sales,7,SALTEC,Tech Sales
+STDID,S04078,"Principal, Client Rel",7,SALTEC,Tech Sales
+STDID,S04079,"Principal, Client Rel - MMT",7,SALTEC,Tech Sales
+STDID,S04080,"Principal, Client Rel - ENT",7,SALTEC,Tech Sales
+STDID,S04090,"Manager III, Tech Sales 43",6,SALTEC,Tech Sales
+STDID,S04091,"Manager III, Tech Sales 54",6,SALTEC,Tech Sales
+STDID,S04092,"Manager III, Tech Sales 67",6,SALTEC,Tech Sales
+STDID,S04093,"Manager III, Tech Sales",6,SALTEC,Tech Sales
+STDID,S04094,"Mgr III, Global Tech Sales 43",6,SALTEC,Tech Sales
+STDID,S04095,"Mgr III, Global Tech Sales 54",6,SALTEC,Tech Sales
+STDID,S04096,"Mgr III, Global Tech Sales 67",6,SALTEC,Tech Sales
+STDID,S04097,"Mgr III, Global Tech Sales",6,SALTEC,Tech Sales
+STDID,S04098,"Manager III, Client Rel",6,SALTEC,Tech Sales
+STDID,S04099,"Manager III, Client Rel - MMT",6,SALTEC,Tech Sales
+STDID,S04100,"Manager III, Client Rel - ENT",6,SALTEC,Tech Sales
+STDID,S04110,"Sales Rep III, Tech 43",6,SALTEC,Tech Sales
+STDID,S04111,"Sales Rep III, Tech 54",6,SALTEC,Tech Sales
+STDID,S04112,"Sales Rep III, Tech 67",6,SALTEC,Tech Sales
+STDID,S04113,"Sales Rep III, Tech",6,SALTEC,Tech Sales
+STDID,S04114,"Sales Rep III, Global Tech 43",6,SALTEC,Tech Sales
+STDID,S04115,"Sales Rep III, Global Tech 54",6,SALTEC,Tech Sales
+STDID,S04116,"Sales Rep III, Global Tech 67",6,SALTEC,Tech Sales
+STDID,S04117,"Sales Rep III, Global Tech",6,SALTEC,Tech Sales
+STDID,S04118,Client Rel Manager III,6,SALTEC,Tech Sales
+STDID,S04119,Client Rel Manager - MMT III,6,SALTEC,Tech Sales
+STDID,S04120,Client Rel Manager - ENT III,6,SALTEC,Tech Sales
+STDID,S04130,"Manager II, Tech Sales 43",5,SALTEC,Tech Sales
+STDID,S04131,"Manager II, Tech Sales 54",5,SALTEC,Tech Sales
+STDID,S04132,"Manager II, Tech Sales 67",5,SALTEC,Tech Sales
+STDID,S04133,"Mgr II, Global Tech Sales 43",5,SALTEC,Tech Sales
+STDID,S04134,"Mgr II, Global Tech Sales 54",5,SALTEC,Tech Sales
+STDID,S04135,"Mgr II, Global Tech Sales 67",5,SALTEC,Tech Sales
+STDID,S04136,"Mgr II, Global Tech Sales",5,SALTEC,Tech Sales
+STDID,S04137,"Manager II, Tech Sales",5,SALTEC,Tech Sales
+STDID,S04138,"Manager II, Client Rel",5,SALTEC,Tech Sales
+STDID,S04139,"Manager II, Client Rel - MMT",5,SALTEC,Tech Sales
+STDID,S04140,"Manager II, Client Rel - ENT",5,SALTEC,Tech Sales
+STDID,S04150,"Sales Rep II, Tech 43",5,SALTEC,Tech Sales
+STDID,S04151,"Sales Rep II, Tech 54",5,SALTEC,Tech Sales
+STDID,S04152,"Sales Rep II, Tech 67",5,SALTEC,Tech Sales
+STDID,S04153,"Sales Rep II, Tech",5,SALTEC,Tech Sales
+STDID,S04154,"Sales Rep II, Global Tech 43",5,SALTEC,Tech Sales
+STDID,S04155,"Sales Rep II, Global Tech 54",5,SALTEC,Tech Sales
+STDID,S04156,"Sales Rep II, Global Tech 67",5,SALTEC,Tech Sales
+STDID,S04157,"Sales Rep II, Global Tech",5,SALTEC,Tech Sales
+STDID,S04158,Client Rel Manager II,5,SALTEC,Tech Sales
+STDID,S04159,Client Rel Manager - MMT II,5,SALTEC,Tech Sales
+STDID,S04160,Client Rel Manager - ENT II,5,SALTEC,Tech Sales
+STDID,S04170,"Manager I, Tech Sales",4,SALTEC,Tech Sales
+STDID,S04171,"Manager I, Tech Sales 43",4,SALTEC,Tech Sales
+STDID,S04172,"Mgr I, Global Tech Sales 43",4,SALTEC,Tech Sales
+STDID,S04173,"Mgr I, Global Tech Sales 54",4,SALTEC,Tech Sales
+STDID,S04174,"Mgr I, Global Tech Sales 67",4,SALTEC,Tech Sales
+STDID,S04175,"Mgr I, Global Tech Sales",4,SALTEC,Tech Sales
+STDID,S04176,"Manager I, Tech Sales 54",4,SALTEC,Tech Sales
+STDID,S04177,"Manager I, Tech Sales 67",4,SALTEC,Tech Sales
+STDID,S04178,"Manager I, Client Rel",4,SALTEC,Tech Sales
+STDID,S04179,"Manager I, Client Rel - MMT",4,SALTEC,Tech Sales
+STDID,S04180,"Manager I, Client Rel - ENT",4,SALTEC,Tech Sales
+STDID,S04200,"Sales Rep I, Tech 43",4,SALTEC,Tech Sales
+STDID,S04201,"Sales Rep I, Tech 54",4,SALTEC,Tech Sales
+STDID,S04202,"Sales Rep I, Tech 67",4,SALTEC,Tech Sales
+STDID,S04203,"Sales Rep I, Tech",4,SALTEC,Tech Sales
+STDID,S04204,"Sales Rep I, Global Tech 43",4,SALTEC,Tech Sales
+STDID,S04205,"Sales Rep I, Global Tech 54",4,SALTEC,Tech Sales
+STDID,S04206,"Sales Rep I, Global Tech 67",4,SALTEC,Tech Sales
+STDID,S04207,Demand Generation Rep 25,4,SALTEC,Tech Sales
+STDID,S04208,"Sales Rep I, Global Tech",4,SALTEC,Tech Sales
+STDID,S04209,Demand Generation Rep 43,4,SALTEC,Tech Sales
+STDID,S04210,Demand Generation Rep,4,SALTEC,Tech Sales
+STDID,S04211,Client Rel Manager I,4,SALTEC,Tech Sales
+STDID,S04212,Client Rel Manager - MBO I,4,SALTEC,Tech Sales
+STDID,S04213,Client Rel Manager - MMT I,4,SALTEC,Tech Sales
+STDID,S04214,Client Rel Manager - ENT I,4,SALTEC,Tech Sales
+STDID,S04215,Client Rel Manager - MBO II,4,SALTEC,Tech Sales
+STDID,S05010,"VP, Sales/Account Management",10,SALACT,Sales/Account Management
+STDID,S05030,"Director, Sales",8,SALACT,Sales/Account Management
+STDID,S05050,"Sr. Manager, Sales",7,SALACT,Sales/Account Management
+STDID,S05051,"Sr. Manager, Sales 30",7,SALACT,Sales/Account Management
+STDID,S05052,"Sr. Manager, Sales Act Mgr",7,SALACT,Sales/Account Management
+STDID,S05053,"Sr. Manager, Sales Act Mgr 10",7,SALACT,Sales/Account Management
+STDID,S05054,"Sr. Manager, Sales Act Mgr 30",7,SALACT,Sales/Account Management
+STDID,S05055,"Sr. Manager, Account Rep",7,SALACT,Sales/Account Management
+STDID,S05070,Principal Sales,7,SALACT,Sales/Account Management
+STDID,S05071,"Principal, Account Rep",7,SALACT,Sales/Account Management
+STDID,S05072,"Principal, Account Rep 65",7,SALACT,Sales/Account Management
+STDID,S05090,"Manager III, Sales",6,SALACT,Sales/Account Management
+STDID,S05091,"Manager III, Sales 30",6,SALACT,Sales/Account Management
+STDID,S05092,"Manager III, Sales Act Mgr",6,SALACT,Sales/Account Management
+STDID,S05093,"Manager III, Sales Act Mgr 10",6,SALACT,Sales/Account Management
+STDID,S05094,"Manager III, Sales Act Mgr 30",6,SALACT,Sales/Account Management
+STDID,S05095,"Manager III, Account Rep",6,SALACT,Sales/Account Management
+STDID,S05111,Local Sales Rep III 50,6,SALACT,Sales/Account Management
+STDID,S05112,Account Rep III 65,6,SALACT,Sales/Account Management
+STDID,S05113,Sales Account Manager III,6,SALACT,Sales/Account Management
+STDID,S05114,Sales Account Manager III 10,6,SALACT,Sales/Account Management
+STDID,S05115,Sales Account Manager III 30,6,SALACT,Sales/Account Management
+STDID,S05116,Account Rep III,6,SALACT,Sales/Account Management
+STDID,S05130,"Manager II, Sales",5,SALACT,Sales/Account Management
+STDID,S05131,"Manager II, Sales 30",5,SALACT,Sales/Account Management
+STDID,S05132,"Manager II, Sales Act Mgr",5,SALACT,Sales/Account Management
+STDID,S05133,"Manager II, Sales Act Mgr 10",5,SALACT,Sales/Account Management
+STDID,S05134,"Manager II, Sales Act Mgr 30",5,SALACT,Sales/Account Management
+STDID,S05135,"Manager II, Account Rep",5,SALACT,Sales/Account Management
+STDID,S05151,Local Sales Rep II 50,5,SALACT,Sales/Account Management
+STDID,S05152,Account Rep II 65,5,SALACT,Sales/Account Management
+STDID,S05153,Sales Account Manager II,5,SALACT,Sales/Account Management
+STDID,S05154,Sales Account Manager II 10,5,SALACT,Sales/Account Management
+STDID,S05155,Sales Account Manager II 30,5,SALACT,Sales/Account Management
+STDID,S05156,Account Rep II,5,SALACT,Sales/Account Management
+STDID,S05158,Local Sales Rep II,5,SALACT,Sales/Account Management
+STDID,S05170,"Manager I, Sales",4,SALACT,Sales/Account Management
+STDID,S05171,"Manager I, Sales 30",4,SALACT,Sales/Account Management
+STDID,S05172,"Manager I, Sales Act Mgr",4,SALACT,Sales/Account Management
+STDID,S05173,"Manager I, Sales Act Mgr 10",4,SALACT,Sales/Account Management
+STDID,S05174,"Manager I, Sales Act Mgr 30",4,SALACT,Sales/Account Management
+STDID,S05201,Local Sales Rep I 50,4,SALACT,Sales/Account Management
+STDID,S05202,Account Rep I 65,4,SALACT,Sales/Account Management
+STDID,S05203,Sales Account Manager I,4,SALACT,Sales/Account Management
+STDID,S05204,Sales Account Manager I 10,4,SALACT,Sales/Account Management
+STDID,S05205,Sales Account Manager I 30,4,SALACT,Sales/Account Management
+STDID,S05206,Account Rep I,4,SALACT,Sales/Account Management
+STDID,S05208,Local Sales Rep I,4,SALACT,Sales/Account Management
+STDID,S05209,Account Rep I 50,4,SALACT,Sales/Account Management
+STDID,S05210,Sales Assistant IV,4,SALACT,Sales/Account Management
+STDID,S05211,Sales Assistant IV - VCP,4,SALACT,Sales/Account Management
+STDID,S05230,Phone Sales Associate Sr.,3,SALACT,Sales/Account Management
+STDID,S05231,Sales Assistant III,3,SALACT,Sales/Account Management
+STDID,S05240,Phone Sales Associate,2,SALACT,Sales/Account Management
+STDID,S05241,Sales Assistant II,2,SALACT,Sales/Account Management
+STDID,S05251,Sales Assistant I,1,SALACT,Sales/Account Management
+STDID,T01041,"Sr Manager, Database Admin",7,DBA,Database Administration
+STDID,T01061,Principal Database Admin,7,DBA,Database Administration
+STDID,T01081,"Manager III, Database Admin",6,DBA,Database Administration
+STDID,T01101,Database Administrator III,6,DBA,Database Administration
+STDID,T01120,"Manager II, Database Admin",5,DBA,Database Administration
+STDID,T01141,Database Administrator II,5,DBA,Database Administration
+STDID,T01160,"Manager I, Database Admin",4,DBA,Database Administration
+STDID,T01181,Database Administrator I,4,DBA,Database Administration
+STDID,T02021,"Director, Tech Program Mgmt",8,TPM,Technical Program Management
+STDID,T02041,"Sr Manager, Tech Program Mgmt",7,TPM,Technical Program Management
+STDID,T02061,Principal Tech Program Manager,7,TPM,Technical Program Management
+STDID,T02081,"Manager III, Tech Program Mgt",6,TPM,Technical Program Management
+STDID,T02101,Technical Program Manager III,6,TPM,Technical Program Management
+STDID,T02102,Technical Prog Mgr III - MBA,6,TPM,Technical Program Management
+STDID,T02121,"Manager II, Tech Program Mgt",5,TPM,Technical Program Management
+STDID,T02141,Technical Program Manager II,5,TPM,Technical Program Management
+STDID,T02181,Technical Program Manager I,4,TPM,Technical Program Management
+STDID,T03021,"Director, Software Development",8,SDE,Software Development
+STDID,T03023,"Director, Support Engineering",8,SUPENG,Support Engineering
+STDID,T03040,"Sr Manager, Support Engineer",7,SUPENG,Support Engineering
+STDID,T03041,"Sr Manager, Software Dev",7,SDE,Software Development
+STDID,T03042,"Sr Mgr, Programmer/Analyst",7,SDE,Software Development
+STDID,T03043,"Sr. Manager, Cloud Support Eng",7,SUPENG,Support Engineering
+STDID,T03061,Principal Software Dev Eng,7,SDE,Software Development
+STDID,T03063,Principal Software DevEng-TEST,7,SDE,Software Development
+STDID,T03064,Programmer/Analyst IV,7,SDE,Software Development
+STDID,T03065,Principal Support Engineer,7,SUPENG,Support Engineering
+STDID,T03066,Principal Front-End Engineer,7,SDE,Software Development
+STDID,T03080,"Manager III, Support Engineer",6,SUPENG,Support Engineering
+STDID,T03081,"Manager III, Software Dev",6,SDE,Software Development
+STDID,T03082,"Mgr III, Programmer/Analyst",6,SDE,Software Development
+STDID,T03083,"Manager III, Cloud Support Eng",6,SUPENG,Support Engineering
+STDID,T03101,Software Dev Engineer III,6,SDE,Software Development
+STDID,T03102,Programmer/Analyst III,6,SDE,Software Development
+STDID,T03103,Software Dev Engineer III-TEST,6,SDE,Software Development
+STDID,T03105,Support Engineer V,6,SUPENG,Support Engineering
+STDID,T03106,Cloud Support Engineer V,6,SUPENG,Support Engineering
+STDID,T03107,Front-End Engineer III,6,SDE,Software Development
+STDID,T03120,"Manager II, Support Engineer",5,SUPENG,Support Engineering
+STDID,T03121,"Manager II, Software Dev",5,SDE,Software Development
+STDID,T03122,"Mgr II, Programmer/Analyst",5,SDE,Software Development
+STDID,T03123,"Manager II, Cloud Support Eng",5,SUPENG,Support Engineering
+STDID,T03141,Software Dev Engineer II,5,SDE,Software Development
+STDID,T03142,Programmer/Analyst II,5,SDE,Software Development
+STDID,T03143,Software Dev Engineer II-TEST,5,SDE,Software Development
+STDID,T03144,Support Engineer IV,5,SUPENG,Support Engineering
+STDID,T03145,Cloud Support Engineer IV,5,SUPENG,Support Engineering
+STDID,T03146,Front-End Engineer II,5,SDE,Software Development
+STDID,T03160,"Manager I, Support Engineering",4,SUPENG,Support Engineering
+STDID,T03162,"Manager I, Cloud Support Eng",4,SUPENG,Support Engineering
+STDID,T03181,Software Dev Engineer I,4,SDE,Software Development
+STDID,T03182,Programmer/Analyst I,4,SDE,Software Development
+STDID,T03183,Software Dev Engineer I-TEST,4,SDE,Software Development
+STDID,T03184,Support Associate,4,SUPENG,Support Engineering
+STDID,T03185,Front-End Engineer I,4,SDE,Software Development
+STDID,T03190,Support Engineer III,4,SUPENG,Support Engineering
+STDID,T03191,Support Engineer II,4,SUPENG,Support Engineering
+STDID,T03192,Cloud Support Engineer II,4,SUPENG,Support Engineering
+STDID,T03193,Cloud Support Engineer III,4,SUPENG,Support Engineering
+STDID,T03221,Support Engineer I,3,SUPENG,Support Engineering
+STDID,T03222,Cloud Support Engineer I,3,SUPENG,Support Engineering
+STDID,T04021,"Director, Systems",8,SYSADM,System Planning/Administration
+STDID,T04041,"Sr Manager, Systems",7,SYSADM,System Planning/Administration
+STDID,T04042,Principal Systems Analyst,7,SYSADM,System Planning/Administration
+STDID,T04063,Principal Network/Sys Engr,7,SYSADM,System Planning/Administration
+STDID,T04081,"Manager III, Systems",6,SYSADM,System Planning/Administration
+STDID,T04101,System Admin/Engr III,6,SYSADM,System Planning/Administration
+STDID,T04102,Systems Analyst III,6,SYSADM,System Planning/Administration
+STDID,T04103,Network Engineer III,6,SYSADM,System Planning/Administration
+STDID,T04121,"Manager II, Systems",5,SYSADM,System Planning/Administration
+STDID,T04140,Network Technician III,5,SYSADM,System Planning/Administration
+STDID,T04141,System Admin/Engr II,5,SYSADM,System Planning/Administration
+STDID,T04142,Systems Analyst II,5,SYSADM,System Planning/Administration
+STDID,T04143,Network Engineer II,5,SYSADM,System Planning/Administration
+STDID,T04161,"Manager I, Systems",4,SYSADM,System Planning/Administration
+STDID,T04181,System Admin/Engr I,4,SYSADM,System Planning/Administration
+STDID,T04182,Systems Analyst I,4,SYSADM,System Planning/Administration
+STDID,T04183,Network Engineer I,4,SYSADM,System Planning/Administration
+STDID,T04193,Network Technician II,4,SYSADM,System Planning/Administration
+STDID,T04223,Network Technician I,3,SYSADM,System Planning/Administration
+STDID,T05021,"Director, Quality",8,SYSQUA,Systems Quality
+STDID,T05041,"Sr Manager, Quality",7,SYSQUA,Systems Quality
+STDID,T05060,Principal Quality Assurance,7,SYSQUA,Systems Quality
+STDID,T05081,"Manager III, Quality",6,SYSQUA,Systems Quality
+STDID,T05101,Quality Assurance Engineer III,6,SYSQUA,Systems Quality
+STDID,T05121,"Manager II, Quality",5,SYSQUA,Systems Quality
+STDID,T05141,Quality Assurance Engineer II,5,SYSQUA,Systems Quality
+STDID,T05161,"Manager I, Quality",4,SYSQUA,Systems Quality
+STDID,T05181,Quality Assurance Engineer I,4,SYSQUA,Systems Quality
+STDID,T05191,Quality Assurance Tech II,4,SYSQUA,Systems Quality
+STDID,T05221,Quality Assurance Tech I,3,SYSQUA,Systems Quality
+STDID,T06021,"Director, Technical Services",8,TECHSV,Technical Services
+STDID,T06041,"Sr Manager, Technical Services",7,TECHSV,Technical Services
+STDID,T06081,"Manager III, Technical Svcs",6,TECHSV,Technical Services
+STDID,T06121,"Manager II, Technical Srvcs",5,TECHSV,Technical Services
+STDID,T06140,Technical Support Tech III,5,TECHSV,Technical Services
+STDID,T06141,Data Ctr Support Tech III,5,TECHSV,Technical Services
+STDID,T06161,"Manager I, Technical Services",4,TECHSV,Technical Services
+STDID,T06191,Technical Support Tech II,4,TECHSV,Technical Services
+STDID,T06192,Data Ctr Support Tech II,4,TECHSV,Technical Services
+STDID,T06221,Technical Support Tech I,3,TECHSV,Technical Services
+STDID,T06222,Tech Support Associate,2,TECHSV,Technical Services
+STDID,T06223,Technical Support Tech I-Step,3,TECHSV,Technical Services
+STDID,T07040,"Sr Manager, Taxonomy",7,WEBSIT,Website Production
+STDID,T07061,Principal Taxonomist,7,WEBSIT,Website Production
+STDID,T07080,"Manager III, Taxonomy",6,WEBSIT,Website Production
+STDID,T07081,"Manager III, Website Prod",6,WEBSIT,Website Production
+STDID,T07100,Taxonomist III,6,WEBSIT,Website Production
+STDID,T07101,Web Development Engineer III,6,WEBSIT,Website Production
+STDID,T07120,"Manager II, Taxonomy",5,WEBSIT,Website Production
+STDID,T07121,"Manager II, Website Production",5,WEBSIT,Website Production
+STDID,T07140,Taxonomist II,5,WEBSIT,Website Production
+STDID,T07141,Web Development Engineer II,5,WEBSIT,Website Production
+STDID,T07180,Taxonomist I,4,WEBSIT,Website Production
+STDID,T07181,Web Development Engineer I,4,WEBSIT,Website Production
+STDID,T07221,Production Assistant I,3,WEBSIT,Website Production
+STDID,T08021,"Director, Hardware Dev",8,HWDEV,Hardware Development
+STDID,T08023,"Director, Supplier QA Engr",8,HWDEV,Hardware Development
+STDID,T08040,"Sr. Mgr, Supplier QA Engr",7,HWDEV,Hardware Development
+STDID,T08041,"Sr Mgr, Manufacturing Test Eng",7,HWDEV,Hardware Development
+STDID,T08061,Principal HW Dev Engr,7,HWDEV,Hardware Development
+STDID,T08062,Principal Mfg Test Engr,7,HWDEV,Hardware Development
+STDID,T08063,Principal Supplier QA Engr,7,HWDEV,Hardware Development
+STDID,T08081,"Manager III, Hardware Dev",6,HWDEV,Hardware Development
+STDID,T08082,"Manager III, Mfg Test",6,HWDEV,Hardware Development
+STDID,T08083,"Mgr III, Supplier QA Engr",6,HWDEV,Hardware Development
+STDID,T08100,Supplier QA Engr III,6,HWDEV,Hardware Development
+STDID,T08101,Hardware Dev Engr III,6,HWDEV,Hardware Development
+STDID,T08102,Manufacturing Test Engr III,6,HWDEV,Hardware Development
+STDID,T08103,Lab Engineer III,6,HWDEV,Hardware Development
+STDID,T08121,"Manager II, Hardware Dev",5,HWDEV,Hardware Development
+STDID,T08122,"Manager II, Mfg Test",5,HWDEV,Hardware Development
+STDID,T08123,"Mgr II, Supplier QA Engr",5,HWDEV,Hardware Development
+STDID,T08140,Supplier QA Engr II,5,HWDEV,Hardware Development
+STDID,T08141,Hardware Dev Engr II,5,HWDEV,Hardware Development
+STDID,T08142,Manufacturing Test Engr II,5,HWDEV,Hardware Development
+STDID,T08143,Lab Engineer II,5,HWDEV,Hardware Development
+STDID,T08161,"Manager I, Hardware Dev",4,HWDEV,Hardware Development
+STDID,T08180,Supplier QA Engr I,4,HWDEV,Hardware Development
+STDID,T08181,Hardware Dev Engr I,4,HWDEV,Hardware Development
+STDID,T08182,Manufacturing Test Engr I,4,HWDEV,Hardware Development
+STDID,T08183,Lab Engineer I,4,HWDEV,Hardware Development
+STDID,T08411,"Sr Manager, Hardware Dev",7,HWDEV,Hardware Development
+STDID,T10020,"Director, Industrial Design",8,PRDDES,Product Design
+STDID,T10021,Sr Principal Industrial Design,8,PRDDES,Product Design
+STDID,T10040,"Sr Manager, Industrial Design",7,PRDDES,Product Design
+STDID,T10061,Principal Industrial Design,7,PRDDES,Product Design
+STDID,T10080,"Manager III, Industrial Design",6,PRDDES,Product Design
+STDID,T10101,Industrial Designer III,6,PRDDES,Product Design
+STDID,T10120,"Manager II, Industrial Design",5,PRDDES,Product Design
+STDID,T10141,Industrial Designer II,5,PRDDES,Product Design
+STDID,T10160,"Manager I, Industrial Design",4,PRDDES,Product Design
+STDID,T10181,Industrial Designer I,4,PRDDES,Product Design
+STDID,T11040,"Sr Manager, Data Engineering",7,BINTEL,Business Intelligence
+STDID,T11060,Principal Data Engineering,7,BINTEL,Business Intelligence
+STDID,T11081,Data Engineer III,6,BINTEL,Business Intelligence
+STDID,T11082,"Manager III, Data Engineering",6,BINTEL,Business Intelligence
+STDID,T11120,"Manager II, Data Engineering",5,BINTEL,Business Intelligence
+STDID,T11141,Data Engineer II,5,BINTEL,Business Intelligence
+STDID,T11160,"Manager I, Data Engineering",4,BINTEL,Business Intelligence
+STDID,T11181,Data Engineer I,4,BINTEL,Business Intelligence
+STDID,T12010,VP Technology - Info Security,10,VPTECH,VP Technology
+STDID,T12020,"Director, Security Engineering",8,SYSSEC,Systems Security Engineering
+STDID,T12040,"Sr Manager, Security Engineer",7,SYSSEC,Systems Security Engineering
+STDID,T12060,Principal Security Engineering,7,SYSSEC,Systems Security Engineering
+STDID,T12080,"Manager III, Security Engineer",6,SYSSEC,Systems Security Engineering
+STDID,T12100,Security Engineer III,6,SYSSEC,Systems Security Engineering
+STDID,T12120,"Manager II, Security Engineer",5,SYSSEC,Systems Security Engineering
+STDID,T12140,Security Engineer II,5,SYSSEC,Systems Security Engineering
+STDID,T12180,Security Engineer I,4,SYSSEC,Systems Security Engineering
+STDID,T13020,Principal Technical Acct Mgmt,7,TAM,Technical Account Management
+STDID,T13021,"Director, Technical Acct Mgmt",8,TAM,Technical Account Management
+STDID,T13040,"Sr Manager, Tech Acct Mgmt",7,TAM,Technical Account Management
+STDID,T13080,"Manager III, Tech Acct Mgmt",6,TAM,Technical Account Management
+STDID,T13100,Technical Account Manager III,6,TAM,Technical Account Management
+STDID,T13120,"Manager II, Tech Acct Mgmt",5,TAM,Technical Account Management
+STDID,T13140,Technical Account Manager II,5,TAM,Technical Account Management
+STDID,T13160,"Manager I, Tech Acct Mgmt",4,TAM,Technical Account Management
+STDID,T13180,Technical Account Manager I,4,TAM,Technical Account Management
+STDID,T13190,TAM Lead,4,TAM,Technical Account Management
+STDID,T13191,Technical CS Specialist,4,TCS,Technical Customer Support
+STDID,T13220,TAM Associate,3,TAM,Technical Account Management
+STDID,T13222,Technical CS Associate,3,TCS,Technical Customer Support
+STDID,T15010,VP Technology - Product Dev,10,VPTECH,VP Technology
+STDID,T15011,VP Technology - Software Dev,10,VPTECH,VP Technology
+STDID,T15012,VP Technology - Function/Unit,10,VPTECH,VP Technology
+STDID,T15013,VP Technology - Info Systems,10,VPTECH,VP Technology
+STDID,T15014,VP Technology - Systems,10,VPTECH,VP Technology
+STDID,T15015,VP Technology - Hardware Dev,10,VPTECH,VP Technology
+STDID,T15016,VP Technology - Solutions Arch,10,VPTECH,VP Technology
+STDID,T16010,Chief Information Officer,11,SVPCIO,SVP Systems Plan/Information
+STDID,T17022,"Director, Research Science",8,RSRCH,Research Science
+STDID,T17041,"Sr Manager, Research Science",7,RSRCH,Research Science
+STDID,T17061,Principal Research Scientist,7,RSRCH,Research Science
+STDID,T17081,"Manager III, Research Science",6,RSRCH,Research Science
+STDID,T17101,Research Scientist III,6,RSRCH,Research Science
+STDID,T17120,"Manager II, Research Science",5,RSRCH,Research Science
+STDID,T17141,Research Scientist II,5,RSRCH,Research Science
+STDID,T17181,Research Scientist I,4,RSRCH,Research Science
+STDID,T19040,"Sr Mgr, Field Engineer",7,FLDENG,Field Engineering
+STDID,T19080,"Mgr III, Field Engineer",6,FLDENG,Field Engineering
+STDID,T19100,Field Engineer III,6,FLDENG,Field Engineering
+STDID,T19120,"Mgr II, Field Engineer",5,FLDENG,Field Engineering
+STDID,T19140,Field Engineer II,5,FLDENG,Field Engineering
+STDID,T19160,"Mgr I, Field Engineer",4,FLDENG,Field Engineering
+STDID,T19180,Field Engineer I,4,FLDENG,Field Engineering
+STDID,T19191,Sr. Field Technician,4,FLDENG,Field Engineering
+STDID,T19220,Field Technician,3,FLDENG,Field Engineering
+STDID,T20040,"Sr Mgr, Localization Engineer",7,LOCENG,Localization Engineering
+STDID,T20080,"Mgr III, Localization Engineer",6,LOCENG,Localization Engineering
+STDID,T20100,Localization Engineer III,6,LOCENG,Localization Engineering
+STDID,T20120,"Mgr II, Localization Engineer",5,LOCENG,Localization Engineering
+STDID,T20140,Localization Engineer II,5,LOCENG,Localization Engineering
+STDID,T20160,"Mgr I, Localization Engineer",4,LOCENG,Localization Engineering
+STDID,T20180,Localization Engineer I,4,LOCENG,Localization Engineering
+STDID,T21020,"Dir, Solutions Architecture",8,SOLARC,Solution Architect
+STDID,T21021,"Director, Enterprise Act Engr",8,SOLARC,Solution Architect
+STDID,T21040,"Sr Mgr, Solutions Architecture",7,SOLARC,Solution Architect
+STDID,T21041,"Sr Mgr, Enterprise Act Engr",7,SOLARC,Solution Architect
+STDID,T21060,"Principal, Solutions Architect",7,SOLARC,Solution Architect
+STDID,T21061,Principal Enterprise Act Engr,7,SOLARC,Solution Architect
+STDID,T21080,"Mgr III, Solutions Arch",6,SOLARC,Solution Architect
+STDID,T21081,"Mgr III, Enterprise Act Engr",6,SOLARC,Solution Architect
+STDID,T21100,Solutions Architect III,6,SOLARC,Solution Architect
+STDID,T21101,Enterprise Act Engineer III,6,SOLARC,Solution Architect
+STDID,T21120,"Mgr II, Solutions Architecture",5,SOLARC,Solution Architect
+STDID,T21140,Solutions Architect II,5,SOLARC,Solution Architect
+STDID,T21141,Enterprise Act Engineer II,5,SOLARC,Solution Architect
+STDID,T21180,Solutions Architect I,4,SOLARC,Solution Architect
+STDID,T21181,Enterprise Act Engineer I,4,SOLARC,Solution Architect
+STDID,T23020,"Director, Tech Ops Engineering",8,DCENGO,Tech Ops Engineering
+STDID,T23040,"Sr Manager, Tech Ops Eng",7,DCENGO,Tech Ops Engineering
+STDID,T23060,Principal Tech Ops Eng,7,DCENGO,Tech Ops Engineering
+STDID,T23080,"Manager III, Tech Ops Eng",6,DCENGO,Tech Ops Engineering
+STDID,T23100,Tech Ops Engineer III,6,DCENGO,Tech Ops Engineering
+STDID,T23120,"Manager II, Tech Ops Eng",5,DCENGO,Tech Ops Engineering
+STDID,T23121,"Mgr II, DC Sys Admin",5,DCENGO,Tech Ops Engineering
+STDID,T23140,Tech Ops Engineer II,5,DCENGO,Tech Ops Engineering
+STDID,T23141,DC Sys Admin II,5,DCENGO,Tech Ops Engineering
+STDID,T23160,"Manager I, Tech Ops Eng",4,DCENGO,Tech Ops Engineering
+STDID,T23161,"Mgr I, DC Sys Admin",4,DCENGO,Tech Ops Engineering
+STDID,T23180,Tech Ops Engineer I,4,DCENGO,Tech Ops Engineering
+STDID,T23181,Operations Tech II,4,DCENGO,Tech Ops Engineering
+STDID,T23190,DC Sys Admin I,4,DCENGO,Tech Ops Engineering
+STDID,T23220,Operations Tech I,3,DCENGO,Tech Ops Engineering
+STDID,T23221,DC Sys Associate III,3,DCENGO,Tech Ops Engineering
+STDID,T24020,"Director, Applied Science",8,APSCI,Applied Science
+STDID,T24040,"Sr Manager, Applied Science",7,APSCI,Applied Science
+STDID,T24060,"Principal, Applied Scientist",7,APSCI,Applied Science
+STDID,T24080,"Manager III, Applied Science",6,APSCI,Applied Science
+STDID,T24100,Applied Scientist III,6,APSCI,Applied Science
+STDID,T24120,"Manager II, Applied Science",5,APSCI,Applied Science
+STDID,T24140,Applied Scientist II,5,APSCI,Applied Science
+STDID,T24160,"Manager I, Applied Science",4,APSCI,Applied Science
+STDID,T24180,Applied Scientist I,4,APSCI,Applied Science
+STDID,T25020,"Dir, IT App Mgmt",8,ITAPP,IT Application Engineering
+STDID,T25021,"Dir, IT App Dev Engrng",8,ITAPP,IT Application Engineering
+STDID,T25040,"Sr Mgr, IT App Mgmt",7,ITAPP,IT Application Engineering
+STDID,T25041,"Sr Mgr, IT App Dev Engrng",7,ITAPP,IT Application Engineering
+STDID,T25060,IT App Analyst IV,7,ITAPP,IT Application Engineering
+STDID,T25061,"Principal, IT App Dev Engr",7,ITAPP,IT Application Engineering
+STDID,T25080,"Manager III, IT App Mgmt",6,ITAPP,IT Application Engineering
+STDID,T25081,"Manager III, IT App Dev Engrng",6,ITAPP,IT Application Engineering
+STDID,T25100,IT App Analyst III,6,ITAPP,IT Application Engineering
+STDID,T25101,IT App Dev Engr III,6,ITAPP,IT Application Engineering
+STDID,T25120,"Manager II, IT App Mgmt",5,ITAPP,IT Application Engineering
+STDID,T25121,"Manager II, IT App Dev Engrng",5,ITAPP,IT Application Engineering
+STDID,T25140,IT App Analyst II,5,ITAPP,IT Application Engineering
+STDID,T25141,IT App Dev Engr II,5,ITAPP,IT Application Engineering
+STDID,T25180,IT App Analyst,4,ITAPP,IT Application Engineering
+STDID,T25181,IT App Dev Engr I,4,ITAPP,IT Application Engineering
+STDID,T26021,"Dir, System Development",8,SYSDE,System Development Engineering
+STDID,T26041,"Sr. Mgr, System Development",7,SYSDE,System Development Engineering
+STDID,T26061,Principal System Dev Engineer,7,SYSDE,System Development Engineering
+STDID,T26081,"Manager III, System Dev",6,SYSDE,System Development Engineering
+STDID,T26101,System Dev Engineer III,6,SYSDE,System Development Engineering
+STDID,T26121,"Manager II, System Dev",5,SYSDE,System Development Engineering
+STDID,T26141,System Development Engineer II,5,SYSDE,System Development Engineering
+STDID,T26181,System Development Engineer I,4,SYSDE,System Development Engineering
+STDID,T27020,"Dir, ASIC",8,ASIC,ASIC
+STDID,T27040,"Sr Mgr, ASIC",7,ASIC,ASIC
+STDID,T27060,"Principal, ASIC",7,ASIC,ASIC
+STDID,T27080,"Mgr III, ASIC",6,ASIC,ASIC
+STDID,T27100,ASIC III,6,ASIC,ASIC
+STDID,T27120,"Mgr II, ASIC",5,ASIC,ASIC
+STDID,T27140,ASIC II,5,ASIC,ASIC
+STDID,T28020,"Director, Network Development",8,NDE,Network Development
+STDID,T28040,"Sr Manager, Network Dev",7,NDE,Network Development
+STDID,T28060,Principal Network Dev Eng,7,NDE,Network Development
+STDID,T28080,"Manager III, Network Dev",6,NDE,Network Development
+STDID,T28100,Network Dev Engineer III,6,NDE,Network Development
+STDID,T28120,"Manager II, Network Dev",5,NDE,Network Development
+STDID,T28140,Network Dev Engineer II,5,NDE,Network Development
+STDID,T28160,"Manager I, Network Dev",4,NDE,Network Development
+STDID,T28180,Network Dev Engineer I,4,NDE,Network Development
+STDID,T29030,"Director, Professional Service",8,PROSRV,Professional Services
+STDID,T29031,Sr. Principal Prof. Services,8,PROSRV,Professional Services
+STDID,T29040,"Sr. Mgr, Principal Prof. Serv.",7,PROSRV,Professional Services
+STDID,T29060,Principal Professional Service,7,PROSRV,Professional Services
+STDID,T29080,"Mgr III, Professional Services",6,PROSRV,Professional Services
+STDID,T29180,Professional Services I,4,PROSRV,Professional Services
+STDID,T29181,Professional Services II,5,PROSRV,Professional Services
+STDID,T29182,Professional Services III,6,PROSRV,Professional Services
+STDID,T30020,Sr. Principal Technologist,8,TECH,Technology
+STDID,T30030,"Director, Economist",8,ECON,Economist
+STDID,T30050,"Sr Manager, Economist",7,ECON,Economist
+STDID,T30070,"Principal, Economist",7,ECON,Economist
+STDID,T30090,"Manager III, Economist",6,ECON,Economist
+STDID,T30110,Economist III,6,ECON,Economist
+STDID,T30130,"Manager II, Economist",5,ECON,Economist
+STDID,T30150,Economist II,5,ECON,Economist
+STDID,T30200,Economist I,4,ECON,Economist
+STDID,T31040,"Sr Manager, Technical Training",7,TECHTR,Technical Training
+STDID,T31060,"Principal, Technical Training",7,TECHTR,Technical Training
+STDID,T31080,Manager III Technical Training,6,TECHTR,Technical Training
+STDID,T31100,TechTraining Specialist III,6,TECHTR,Technical Training
+STDID,T31120,"Manager II, Technical Training",5,TECHTR,Technical Training
+STDID,T31140,Tech Training Specialist II,5,TECHTR,Technical Training
+STDID,T31180,Tech Training Specialist I,4,TECHTR,Technical Training
+STDID,T32040,"Sr Manager, Database Engineer",7,DBE,Database Engineer
+STDID,T32060,Principal Database Engineer,7,DBE,Database Engineer
+STDID,T32080,"Manager III, Database Engineer",6,DBE,Database Engineer
+STDID,T32100,Database Engineer III,6,DBE,Database Engineer
+STDID,T32140,Database Engineer II,5,DBE,Database Engineer
+STDID,T33020,"Director, Tech Evangelism",8,EVANG,Evangelist (Tech) Job Family
+STDID,T33021,"Sr. Principal Evangelist, Tech",8,EVANG,Evangelist (Tech) Job Family
+STDID,T33040,"Sr. Manager, Tech Evangelism",7,EVANG,Evangelist (Tech) Job Family
+STDID,T33060,"Principal Evangelist, Tech",7,EVANG,Evangelist (Tech) Job Family
+STDID,T33110,"Evangelist III, Tech",6,EVANG,Evangelist (Tech) Job Family
+STDID,T35030,Amazon Scholar,0,SCHLAR,Amazon Scholars
+STDID,T36020,"Director, Data Science",8,SCIENC,Science
+STDID,T36040,"Sr Manager, Data Science",7,SCIENC,Science
+STDID,T36060,"Principal, Data Scientist",7,SCIENC,Science
+STDID,T36080,"Manager III, Data Science",6,SCIENC,Science
+STDID,T36100,Data Scientist III,6,SCIENC,Science
+STDID,T36120,"Manager II, Data Science",5,SCIENC,Science
+STDID,T36140,Data Scientist II,5,SCIENC,Science
+STDID,T36180,Data Scientist I,4,SCIENC,Science
+STDID,T37020,"Dir, DC Infrastructure Eng",8,DCIE,Data Center Infrastructure Eng
+STDID,T37040,"Sr Mgr, DC Infra Eng",7,DCIE,Data Center Infrastructure Eng
+STDID,T37060,Principal DC Infra Eng,7,DCIE,Data Center Infrastructure Eng
+STDID,T37080,"Mgr III, DC Infra Eng",6,DCIE,Data Center Infrastructure Eng
+STDID,T37100,DC Infra Eng III,6,DCIE,Data Center Infrastructure Eng
+STDID,T37120,"Mgr II, DC Infra Eng",5,DCIE,Data Center Infrastructure Eng
+STDID,T37140,DC Infra Eng II,5,DCIE,Data Center Infrastructure Eng
+STDID,T37190,DC Infra Eng I,4,DCIE,Data Center Infrastructure Eng
+STDID,T38010,"VP Technology, Product Dev",10,PMT,Product Management - Technical
+STDID,T38020,"Director, Prod Mgmt - Tech",8,PMT,Product Management - Technical
+STDID,T38021,"Sr Principal, Prod Mgmt - Tech",8,PMT,Product Management - Technical
+STDID,T38040,"Sr Manager, Prod Mgmt - Tech",7,PMT,Product Management - Technical
+STDID,T38060,"Principal, Product Mgmt - Tech",7,PMT,Product Management - Technical
+STDID,T38080,"Manager III, Prod Mgmt - Tech",6,PMT,Product Management - Technical
+STDID,T38100,Product Mgr III - Tech,6,PMT,Product Management - Technical
+STDID,T38101,Product Mgr III - Tech - MBA,6,PMT,Product Management - Technical
+STDID,T38120,"Manager II, Prod Mgmt - Tech",5,PMT,Product Management - Technical
+STDID,T38140,Product Mgr II - Tech,5,PMT,Product Management - Technical
+STDID,T38141,Product Mgr II - Tech - MBA,5,PMT,Product Management - Technical

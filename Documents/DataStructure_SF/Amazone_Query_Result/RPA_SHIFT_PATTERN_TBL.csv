@@ -1,0 +1,3901 @@
+AZ_SHIFT_PATTERN,DESCR,DESCRSHORT
+0001,Mon-Fri 1400-2230,Mon-Fri
+0002,Sun-Thu 0000-0830,Sun-Thu
+0003,Sun-Wed 1000-2030,Sun-Wed
+0004,Wed-Sat 1000-2030,Wed-Sat
+0005,"Sun-Mon, Fri-Sat 0530-1900","Su-M, F-Sa"
+0006,Tue-Sat 08:00-16:30,Tue-Sat
+0007,Mon-Fri 11:30-20:00,Mon-Fri
+0008,Mon-Fri 06:45-15:15,Mon-Fri
+0009,Sun-Thu 19:00-0330,Sun-Thu
+0010,Sun-Thu 18:30-0300,Sun-Thu
+0011,Sun-Wed 0800-1830,Sun-Wed
+0012,Wed-Sat 0800-1830,Wed-Sat
+0013,Sun-Thur 12:30-21:00,Su-Th12:30
+0014,"Sun-Tue, Sat 7-17:30","Su-Tu, Sa"
+0015,"Sun-Mon, Wed, Sat 7-17:30","Su-M,W,Sa"
+0016,"Su, Tu-Th 1800-0430","SU, TU-TH"
+0017,Mon-Fri 0800-1630,Mon-Fri
+0018,Mon-Fri 14:30-23:00,M-F 14:30
+0019,Mon-Fri 18:30-03:00,M-F 18:30
+0020,"M, Tu, Th, Fr 5-15:30",Dnut 5-153
+0021,M-F 5-13:30,M-F 5-13:3
+0022,Su-W 7-18:00,Su-W 7-18
+0023,W-Sa 7-18:00,W-Sa 7-18
+0024,W-Sa 18-5:00,W-Sa 18-5
+0025,Su-W 18:00-5:00,Su-W 18-5
+0026,"Sun-Mon,Fri-Sat 7-17:30","Su-M, F-Sa"
+0027,Mon-Fri 08:00-16:30,M-F 8-1630
+0028,Mon-Fri 08:30-17:00,M-F 8:30-5
+0029,"Tu-W,F-Sa 07:00-17:30",TuWFSa 7
+0030,Sun-Thur 18:00-02:30,Su-Th6-230
+0031,Sun-Wed 1900-0330,Sun-Wed
+0032,Mon-Fri 12:00-20:30,M-F 12-830
+0033,Tue-Fri 08:00-16:30,Tu-F 8-430
+0034,"W,F,Sa 0730-1800,Th 07:30-1730",W-Sa Reduc
+0035,M-F 11-19:30,M-F11-1930
+0036,Mon-Fri 07:45-16:15,M-F745-415
+0037,"Sun 12-830, M-Th 730-4","Su, M-Th"
+0038,"Su-M, Sa 1800-0430; F 0015-430","Su-M, F-Sa"
+0039,"W,Sa 7:30-6, Th-F 7:30-4","W,Sa, Th-F"
+0040,"M-Tu, Th-F 07:00-17:30","M,T,Th,F"
+0041,"M,Tu 730-1800, Th,F 7-1730","M,Tu,Th, F"
+0042,"W 730-1800, Th-Sa 700-1730","W730,T-F7"
+0043,Su-Wed 0700-1730,Su-W 7-530
+0044,"Su,W 7-530; M-Tu 730-6","S,W; M-Tu"
+0045,"W-F 730-1800, Sa 7-1730","W-F730,Sa7"
+0046,W-Sa 0700-1730,W-Sa 7-530
+0047,"W,Sa 700-1730, Th-F 730-1800","W,Sa,Th-F"
+0048,"M,W,T7-330 Tu11-730 F0400-1230",M-F3Times
+0049,Wed-Sat 06:30-17:00,W-Sa 06:30
+0050,Sun-Thur 13:00-21:30,Su-Th1-930
+0051,Mon-Fri 0900-1730,Mon-Fri
+0052,Sun-Thu 1945 - 0415,Sun-Thu
+0053,W-Sat,W-Sat
+0054,"Sun 730-1800, M-W 730-1630",Sun-W
+0055,W-Sat,W-Sat
+0056,Sun-Thu 0900-1730,Sun-Thu
+0057,"Su,Sa 900-1930; M-Tu 0930-1800",Su M-Tu Sa
+0058,"Sun, Sat 0900-1930","Sun, Sat"
+0059,Mon-Fri 0900-1730,Mon-Fri
+0060,Mon-Fri 1800-0230,Mon-Fri
+0061,Mon-Fri 0930-1800,Mon-Fri
+0062,Mon-Fri 1830-0300,Mon-Fri
+0063,Tue-Sat 0700-1530,Tue-Sat
+0064,Tu-Sat 0900-1730,Tu-Sat
+0065,Wed-Sat,W-Sat
+0066,Sun-Weds,Sun-Weds
+0067,Mon-Tu & Thu-Fri 07301600,"M-Tu,Thu-F"
+0068,Tu-Fri 1600-0230,Tu- Fri
+0069,Mon-Thur 1600-0230,Mon-Thu
+0070,Mon-Fri 0730-1600,Mon-Fri
+0071,"Mon-Tue, Thu-Fri 0730-1800","M-Tu, Th-F"
+0072,Sun-Thu 0730-1600,Sun-Thu
+0073,Sun-Wed 0730-1800,Sun-Wed
+0074,Tue-Sat 0730-1600,Tue-Sat
+0075,Wed-Sat 0730-1800,Wed-Sat
+0076,"Mon, Wed, Fri 1800-0430","M,W,F"
+0077,Mon-Fri 1030-1900,Mon-Fri
+0078,"Wed-Fri 13:35-18:00, Sat 07:30",Wed-Sat
+0079,"Sun, Fri-Sat 0730-1800","Sun, Fr-Sa"
+0080,"M, W-F 12:30-23:00",MWThF1230
+0081,7DAYS OFF 0730-1800,7DAYS OFF
+0082,Mon-Fri 21:30-06:00,M-F 2130-6
+0083,Mon-Fri 0800-1630,Mon-Fri
+0084,Mon-Fri Times Vary,Mon-Fri
+0085,M-Fri 07:30-11:30,M-Fri
+0086,"Sun-Tue, Sat","Sun-Tue, S"
+0087,Mon-Fri 0700-1530,Mon-Fri
+0088,Wed-Sat,Wed-Sat
+0089,Mon-Fri 04:00-12:30,M-F 4-1230
+0090,"Wed-Sat, Thur","Wed-Sat, T"
+0091,"M, Thur-Sat 1730-2800","M, Thur-Sa"
+0092,Sun-Tues 0700-1730,Sun-Tues
+0093,Mon-Weds 1800-2830,Mon-Weds
+0094,Sun-Wed 7:30AM - 12:30PM,Su-W
+0095,Mon-Fri 10:30 - 19:00,M-F
+0096,Mon-Fri 22:00 - 06:30,M-F
+0097,Tue-Thur 07:00-15:30,T-Th FLEX
+0098,"W, F, Sa 18:00-04:30, Th 21:00","W,F,Sa,Th"
+0099,Sun-Thur 09:00-17:30,Su-Th9-530
+00A1,"Sun - Wed, 07:00 - 17:30",Su-W
+00A2,"Sun - Wed, 0730 - 1800",Su - W
+00A3,Sun-Wed 0800-1830,Sun-Wed 08
+00AI,Sun-Wed 7-17:30,Su-W 7:00
+00AO,Sun-Wed 7:30-18:00,S-W 7:30
+00AQ,Sun-Wed 7:30 - 18:00,Su-W 730
+00B1,"Wed - Sat, 07:00 - 17:30",Wed-Sat
+00B2,"Wed - Sat, 07:30 - 18:00",W-Sa
+00B3,Wed-Sat	0800-1830,Wed-Sat	08
+00BI,Wed-Sat 7:00-17:30,W-Sa 7:00
+00BO,Wed-Sat 7:30-18:00,W-Sa 7:30
+00BQ,Wed-Sat 7:30 - 18:00,W-Sa 730
+00C1,"M, T, Th, F	0700-1730","M, T, Th,F"
+00C2,"M-Tu, Th-F, 0730-1800","M-T, Th-F"
+00C3,"M, T, Th, F	0800-1830","M, T, Th,F"
+00CI,"M,T,Th,F 7-17:30","M,T,Th,F 7"
+00CO,"M,T,Th,F 7:30-18:00","M,T,Th,F"
+00CQ,"M,T,Th,F 7:30-18:00","M,T,Th,F"
+00D1,"Su,M,F,Sa	0700-1730","Su,M,F,Sa7"
+00D2,"Su,M,F,Sa 0730-1800","Su,M,F,Sa"
+00D3,"Sun-Mon, Fri-Sat, 08:00 - 18:3","Su-M,F-Sa"
+00DO,"Su,M,F,Sa 7:30-18:00","S,M,F,S730"
+00DQ,"Su, M, F, Sa 7:30-18:00","S,M,F,S730"
+00E1,"Su,Sa	0700-1730","Su,Sa 0700"
+00E2,"Su,Sa	0730-1800","Su,Sa	0730"
+00E3,"Su,Sa	0800-1830","Su,Sa	0800"
+00EO,"Sun, Sat 7:30-18:00","Su,Sa 7:30"
+00F1,Mon-Fri 0700-1530,Mon-Fri 07
+00F2,"Mon - Fri, 0730 - 1600",M - F
+00F3,Mon-Fri 0800-1630,Mon-Fri 08
+00F4,Mon-Fri 0730 - 1800,Mon-Fri
+00I1,BCN1-A,00I1
+00I2,BCN1-A,00I2
+00I3,BCN1-A,00I3
+00I4,BCN1-A,00I4
+00I5,BCN1-A,00I5
+00I6,BCN1-A,00I6
+00I7,BCN1-A,00I7
+00I8,BCN1-A,00I8
+00I9,BCN1-A,00I9
+00IN,BCN1-A,00IN
+00O1,BCN1-A,00O1
+00O2,BCN1-A,00O2
+00O3,BCN1-A,00O3
+00O4,BCN1-A,00O4
+00O5,BCN1-A,00O5
+00O6,BCN1-A,00O6
+00O7,BCN1-A,00O7
+00O8,BCN1-A,00O8
+00OE,BCN1-A,00OE
+00ON,BCN1-A,00ON
+00T1,Sun-Thu 1830-0300,Su-Th63p-3
+00TO,Sun-Thur 18:30-03:00,Su-Th 1830
+00TQ,Sun-Th 18:30-3:00,Su-Th 1830
+00UO,Tue-Sat 18:30-03:00,Tu-Sa 1830
+00VI,Mon-Fri 18:00-02:30,M-F 18:00
+0100,Mon - Fri 1200 - 2030,M-F
+0101,"Wed, Fri-Sat 1800-0430","Wed, Fri-S"
+0102,"Tu-Fri, Sat","Tu-Fri, Sa"
+0104,Mon-Fri 06:00-14:30,M-F 6a-230
+0105,Sun-Wed 18:00-04:30,Su-W6p-430
+0106,Mon-Fri 13:30-22:00,M-F 13:30
+0107,Fri-Sat 0700-1730,Fri-Sat
+0108,Sun-Weds,Sun-Weds
+0109,Mon-Fri 2000-0430,Mon-Fri
+0110,"Sun-Tue, Sat 0800-1830","Sun-Tu, Sa"
+0111,Fri-Sun 0800-1830,Fri-Sun
+0112,Mon-Wed 09:00-16:00,M-W 9-4pm
+0113,"Sun, Thur-Sat 14:00-00:30","Sun,Thur-S"
+0114,Mon-Fri 16:30 - 1:00,M-F
+0115,Mon - Fri; 16:00 - 00:30,M-F
+0116,Sun-Wed 16:30 - 03:00,Su-W
+0117,Mon-Thu 16:30-03:00,M-Th
+0118,Mon-Fri 1400-2230,M-F
+0119,"Mon-Tue, Thu-Fri 0800-1730","M-Tu, Th-F"
+0120,Sun-Thur 09:00-17:30,Su-Th9-530
+0121,Mon-Fri 17:30-02:00,M-F530p-2a
+0122,Sun-Wed 08300-1900,Sun-Wed
+0123,Wed-Sat 0830-1900,Wed-Sat
+0124,Mon-Fri 0900 - 1800,Mon-Fri
+0125,"Sun-Tue,Sat 0730-1800","Sun-Tue,Sa"
+0126,Sun-Thu 1900-0330,Sun-Thu
+0127,"Mon-Tue, Thu-Fri 12:00 - 22:30","M-T, Th-F"
+0128,Mon-Fri 0900-1730,Mon-Fri
+0129,"Sun, Wed-Sat 06:45-17:15","Su,W-Sa645"
+0130,"Su,W 7:30-6; M-Tu 7:30-4:30",Sch Accom
+0131,Sun-Thu 15:30-00:00,Su-Thu Sch
+0132,Sun-Wed 18:00-23:00,Su-W Schoo
+0133,Sun-Tu 18:00-04:30,Su-Tu Scho
+0134,Mon-Fri 17:30-02:30,M-F School
+0135,"Su,W 7-530; Mon-Tu 7-1230",Su-W Schoo
+0136,Su-Tu07:00-17:30; W07:00-16:00,Su-W Schoo
+0137,"Su,Tu-W7:00-17:30; M7:00-15:30",Su-W Schoo
+0139,Mon-Thu 18:00-04:30,M-Th 6pm
+0140,Sun-Thu 16:00-00:30,Su-Th 1600
+0141,Tue-Fri 06:30-17:00,Tu-F 630-5
+0142,Mon-Thu 06:30-17:00,M-Th 630-5
+0143,"M,W,Th,F 06:30-17:00","M,W,Th,F"
+0144,Sun-Thu 6:00 - 14:30,Su - Th
+0145,Tue - Sat 6:00 - 14:30,Tu - Sa
+0146,Sun - Thu 14:00 - 22:30,Su - Th
+0147,Tue - Sat 14:00 - 22:30,Tu - Sa
+0148,Sun - Thu 22:00 - 6:30,Su - Th
+0149,Tue - Sat 22:00 - 6:30,Tu - Sa
+0150,Sun - Wed 6:00 - 16:30,Su - W
+0151,Wed - Sat 6:00 - 16:30,W - Sa
+0152,Sun - Wed 16:00 - 02:30,Su - W
+0153,Wed - Sat 16:00 - 02:30,W - Sa
+0154,Mon - Fri 7:00 - 15:30,M-F
+0155,Sun - Wed 6:00 - 14:30,Su - W
+0156,Wed - Sat 6:00 - 14:30,W - Sa
+0157,Mon - Fri 14:00 - 00:30,M - F
+0159,Mon-Thu 07:00-17:30,M-Th 7-530
+0160,Mon-Fri 1700-0130,M-F
+0161,Mon-Fri 0630-1500,Mon-Fri
+0162,M-Fri 1500-2330,M-Fri
+0163,"Sun, Sat 0700-1730","Sun, Sat"
+0164,"Sun,Wed,Sat 0700-1730","Sun,Wed,Sa"
+0165,"Sun,Wed,Sat 0730-1800","Sun,Wed,Sa"
+0166,CVG1 Days and Hours Vary, 
+0167,"Sun,Wed1800-0430;M,Tu1900-0430","Sun,Wed180"
+0168,Tue-Sat 17:30-02:00,Tu-Sa
+0169,Tue-Sat,Tue-Sat
+0170,Tue-Sat 1900-0330,Tue-Sat
+0171,Wed-Sat 1800-0430,Wed-Sat
+0172,"Sun, Thu-Sat 0730-1800","Su, Th-Sat"
+0173,Sun-Thu 1400-2230,Sun-Thu
+0174,Mon-Thu 0700-1730,Mon-Thu
+0175,Sun-Thu 0700-1730,Sun-Thu
+0176,Sun-Thu 10:00-18:30,Sun-Thu
+0177,Mon-Fri 13:30 - 23:00,M-F
+0178,SUN-WED 09:30 - 20:00,Su-W
+0179,"Wed - Sat, 20:30 - 07:00",W - Sa
+0180,"M10-18:0,Tu 11-19:0,W-F 630-15",Mon-Fri
+0181,"M63-15,T-W9-173,T10-183,F7-153",Mon-Fri
+0182,Mon - Fri 15:30 - 24:00,M-F
+0183,Sun-Thu 17:30-02:00,Sun-Thu
+0184,Mon - Fri 08:30 - 17:00,M-F
+0185,Sun - Thu 13:00 - 21:30,S - Th
+0186,Sun - Thur 16:30 1:00,Su-Th
+0187,Tues - Sat 7:00 15:30,Tu-Sa
+0188,Tues - Sat 16:30 1:00,Tu-Sa
+0189,Tues - Sat 17:00 1:30,Tu-Sa
+0190,"Su - Mo , Fr - Sa 7:30 16:00","Su,M,F,Sa"
+0191,"Su - Mo , Fr - Sa 16:30 1:00","Su,M,F,Sa"
+0192,"Su - Mo , Fr - Sa 17:00 1:30","Su,M,F,Sa"
+0193,"Sun , Sat 16:30 1:00","Su, Sa"
+0194,"Sun , Sat 17:00 1:30","Su, Sa"
+0195,Mon - Fri 12:30 - 21:00,M-F
+0196,"Sun-Tue, Fri-Sat 20:00-4:30","S-T, F-Sat"
+0197,"Mon-Sat, 12:00 - 22:30",Mon-Sat
+0198,"Mon - Fri, 06:00 - 16:30",M-F
+0199,Sun-Thur 1730-0400,Sun-Thur
+01AI,Sun-Wed 7:30 to 18:00,Sun-Wed
+01BI,Wed-Sat 7:30 to 18:00,Wed-Sat
+01CI,"M,T,TH,FRI 7:30 to 18:00","M,T,TH,FRI"
+0200,Sun-Wed 0630-1730,Sun-Wed
+0201,Wed-Sat 0630-1730,Wed-Sat
+0202,Mon - Fri  16:00 - 01:00,M-F
+0203,Mon-Fri 1130-2200,Mon-Fri
+0204,Sun-Thu 1130-2200,Sun-Thu
+0205,Tue-Sat 0830-1900,Tue-Sat
+0206,Mon-Fri 0930-2000,Mon-Fri
+0207,Sun - Fri   18:30 - 05:00,S-F
+0208,Sun - Fri  19:00 - 05:30,S-F
+0209,"Sun, Sat 18:30-05:00","Su,Sa"
+0210,Mon-Fri 04:00-14:30,M-F4a-230p
+0211,"Sun, Sat  18:00 - 04:30",Sat - Sun
+0212,Mon - Fri 8:00 - 17:00,M - F
+0213,TUES-SAT 07:00-16:30,Tue-Sat
+0214,SUN-THU 06:30-16:00,Su-Th
+0215,SUN - THU 08:00-16:30,Su-Th
+0216,SUN-THU 07:00-16:30,Su-Th
+0217,Tues-Sat 1600-1230,Tues-Sat
+0218,Tue-Sat 6:30-16:00,Tue-Sat
+0219,"Sun-Mon,Fri-Sat 1400-2230","Sun-Mon,Fr"
+0220,Mon - Fri  08:30 - 17:00,M-F 830-17
+0221,"Tue - Sat, 08:00 - 16:30",T-Sa
+0222,"Tue - Sat, 04:30 - 15:30",T - Sa
+0223,"Sun - Thurs, 04:30 - 15:30",Sun - Th
+0224,"Mon-Tue, Thu-Fri 0630-1700", 
+0225,"Mon-Fri, 0730-1530",Mon-Fri
+0226,"Wed, Fri-Sat, 0700-1730","Wed, Fri-S"
+0227,Sun-Wed,Sun-Wed
+0228,"Tue-Wed,Fri-Sat 1800-0430","Tue-Wed,Fr"
+0229,"Wed, Fri-Sat 0730-1800","Wed, Fri-S"
+0230,Sun-Wed,Sun-Wed
+0231,"Sun - Wed, 08:30 - 19:00",Su - W
+0232,"Sun, Wed-Sat  07:00-15:30","Su, W-Sat"
+0233,"Sun, Fri-Sat  07:00-17:30","Su,Fr-Sa"
+0234,"Sun-Tue, Sat  08:00-18:30","Su-Tu,Sa"
+0235,Mon-Thu  13:30-24:00,Mon-Th
+0236,Mon-Fri 7:30-15:00,M-F
+0237,M-Tu 1330-1730; Th-F 0700-1730,"M&T, Th&F"
+0238,"Sat-Su 7:30-16, M-Tu&F 9:30-18","Sa-Su,MTF"
+0239,Sun-Sat 0600-1600,Sun-Sat
+0240,Sun-Sat 0800-1800,Sun-Sat
+0241,Sun-Sat 2000-0600,Sun-Sat
+0242,Sun-Wed 0430-1500,Sun-Wed
+0243,Wed-Sat 0430-1500,Wed-Sat
+0244,Sun-Wed 1200-2230,Sun-Wed
+0245,Wed-Sat 1200-2230,Wed-Sat
+0246,"Sun-Tue 22-830, Sat 22-830","Sun-Tue, S"
+0247,Tue-Fri 2200-0830,Tue-Fri
+0248,Sun-Wed 1430-0100,Sun-Wed
+0249,"Sun 1430-1, Wed-Sat 1430-1","Sun, W-Sat"
+0250,Mon-Fri 1500-2330,Mon-Fri
+0251,Mon-Fri 0430-1400,Mon-Fri
+0252,Mon-Fri 0630-1500,Mon-Fri
+0253,"M-T, Thu- Fri 0800-1830","M-T, Thu-F"
+0254,Mon-Fri 0800-1730,Mon-Fri
+0255,Sun-Thu 1930-0430,Sun-Thu
+0256,Fri-Mon 0830-1900,Fri-Mon
+0257,Mon-Fri 1430-2300,Mon-Fri
+0258,"Mon,Wed,Fri-Sat 0700-1730","M,W,Fr,Sat"
+0259,Sun-Wed Varies,Sun-Wed
+0260,Tue - Sat 05:00 - 15:30,Tue-Sat
+0261,Sun-Thur 0900-1730,Sun-Thur
+0262,"Sun - Wed, 07:00 - 17:30",Su - W
+0263,"Wed - Sun, 18:30 - 05:00",W - Su
+0264,"Wed - Sat, 08:30 - 19:00",W - Sa
+0265,"Wed - Sat, 19:30 - 06:00",W - Sa
+0266,Wed-Sat 0700-1800,Wed-Sat
+0267,"Sun-Tue 7-1730, Wed-Thur 7-12",Sun-Thur
+0268,Sun-Tue 0730-1800,Sun-Tue
+0269,Mon-Thur 14:00-24:30,Mon-Thurs
+0270,Mon-Fri 15:30-02:00,Mon-Fri
+0271,Sunday-Thursday 08:00-16:30,Sun-Thu
+0272,"Sun, Mon, & Wed 07:30-18:00","Su,Mon,Wed"
+0273,Tuesday and Thursday,Tue & Thur
+0274,"SuTuTh 1830-0000, M.W1830-0300",Sun-Thur
+0275,Sun - Thur 15:30 - 00:00,Sun - Thur
+0276,"Tue, Thur-Fri 07:30-16:00","Tu,Th,F"
+0277,"Mon - Fri, 06:00 - 14:30",M-F 6-1430
+0278,Tue-Fri 07:30-16:00,Tu-F 730-4
+0279,"Mon, Wed, Fri 07:00-15:30","M,W,F"
+0280,"Sun, Fri-Sat 0730-1800","Sun, Fri-S"
+0281,"Mon - Fri, 07:30 - 16:00",M-F 730-16
+0282,"M,T,W,F 8 - 16:30;Th 6:30 - 15",Mon-Fri
+0283,"Sun-Wed, 18:30-04:30",Sun-Wed
+0284,"W,Sa 0700-1730; Th-F 0630-1700",SchoolAcc
+0285,Tue-Fri 18:00-04:30,Tu-F18-430
+0286,Mon-Thu 18:00-04:30,M-Th18-430
+0287,"Mon-Tue, Fri-Sat 8:00 -18:30","M-Tu,F-Sa"
+0288,"Sun, Fri-Sat 0600-1630","Sun, Fri-S"
+0289,"Tue-Sat, 18:30-03:00",Tue-Sat
+0290,Mon - Thur 18:00-02:30,Mon-Thu
+0291,Sunday - Thursday 07:00-15:30,Sun-Thus
+0292,"Wed-Thur,Sat 1800-0430, Fri","Wed-Thur,S"
+0293,"Wed,Fri-Sat 1800-0430, Thu","Wed,Fri-Sa"
+0294,"Sun - Wed, Sat 07:00 - 15:15","Su - W, Sa"
+0295,"Sun - Wed, Sat 10:00 - 18:15","Su - W, Sa"
+0296,"Tue - Sat, 07:00 - 15:15",Tu - Sa
+0297,"Tue - Sat, 10:00 - 18:15",Tu - Sa
+0298,"Mon - Fri, 07:00 - 15:15",M - F
+0299,"Mon - Fri, 10:00 - 18:15",M - F
+0300,"Sun - Thurs, 16:30 - 00:30",Su - Th
+0301,"Sun - Thurs, 19:00 - 03:15",Su - Th
+0302,"Wed - Sat, 07:30 - 12:30",W - Sa
+0303,"W,F,Sa 0730-1800 Thu 0730-1230", 
+0304,"Mon-Tu, Fri-Sat 0730-1800","Mon-Tu, Fr"
+0305,Sun-Wed 12:30-23:00,Sun-Wed
+0306,"Sun, Thu-Sat 12:30 - 23:00","Sun, Th-Sa"
+0307,"Sun, Tue, Thu, Fri 0700-1730", 
+0308,Tue-Fri 18:00-02:30,Tu-F6p-230
+0309,"Sun-Mon, Wed-Thu 07:00-18:00","Su,M,W,Th"
+0310,"Sun-Mon, Wed-Thu 18:00-05:00","S,M,W,Th"
+0311,"Tue-Wed, Fri-Sat 07:00-18:00","Tu,W,F,Sa"
+0312,"Tue-Wed, Fri-Sat 18:00-05:00","Tu,W,F,Sa"
+0313,"M,W-F 0900-1730 Tu 0830-1700", 
+0314,"Su-M, W 7-1730, Tu 1230-1730","Su-M,Tu,W"
+0315,"Sun - Mon, Wed 07:00 - 17:30","Su-M, W"
+0316,"Sun-Mon, Wed, Fri 0700-1730","Su-M,W,F"
+0317,"Sun-Mon, Fri-Sat 07:30 - 18:00","Su-M,F-Sa"
+0318,"Mon-Thu 730- 415, Fri 730-1600","M-Th, Fr"
+0319,Sun - Wed 0700-1730,Su-W7-530p
+0320,Sun - Wed 2030-0700,Su-W830p-7
+0321,Wed-Sat 0700 - 1730,W-Sa7-530p
+0322,Wed-Sat 2030-0700,W-Sa830p-7
+0323,Mon-Fri 1230-2100,M-F1230-9p
+0324,"M,W,TH,F 0700-1600;Tu 800-1630","MWTHF,T"
+0325,"Sun - Thurs, 17:30 - 02:00",Su-Th
+0326,Mon-Thu 1700-0330,M-Th5p-330
+0327,Sun-Wed 1700-0330,Su-W5p-330
+0328,Sun-Wed 2200-0830,Su-W10p-83
+0329,Wed-Sat 2200-0830,W-Sa10p-83
+0330,Mon-Fri 0700-1530,M-F 7a-330
+0331,Mon-Fri 0930-1800,M-F930-6p
+0332,Fri-Tue 0730-1800,F-Tu730-6p
+0333,Sun-Wed 0630-1700,Su-W630-5p
+0334,Wed-Sat 0630-1700,W-Sa630-5p
+0335,"M,T,Th,F 0630-1700",MTThF630-5
+0336,"M,T,Th,F 1800-0430",MTTHF6p-43
+0337,"M-Tu,Th-Fri 0830-1700, Wed", 
+0338,"M,Tu,Th,Fri 1830-0500",MTThF630-5
+0339,M-Th 12:15-16:30;F 08:00-16:30,"M-Th,Fr"
+0340,"Sun-Mon, Fri-Sat 07:00-15:15","Su,M,F,Sa"
+0341,"SUN-TUE, THU 07:30-18:00","Su-Tu,Th"
+0342,"Sun-Tue, Thu 18:00-04:00","Su-Tu, Th"
+0343,Sun - Thurs 23:00 - 07:30,Sun - Thur
+0344,Mon-Fri 1730-0200,M-F530p-2a
+0345,Sun-Wed 1730-0400,Su-W530-4a
+0346,Wed-Sat 1730-0400,W-Sa530p-4
+0347,Mon-Fri 2000-0430,M-F8p-430a
+0348,Thu-Sat 07:00-17:30,Thu-Sat
+0349,"Sun-Mon, Fri-Sat 15:00 - 23:15","Su-M,F-Sa"
+0350,"M,W-F 0630-1500; Tu 1030-1900","M,W-F;Tu"
+0351,Sun-Wed 0700-1530,Su-W7a-330
+0352,Thurs-Sun 7:30a - 6:00p,Th-S 730-6
+0353,Tue; Thur-Sat 0730-1800,T;Th-Sa73-
+0354,"Thur,Fri,Sat 1800-0430",Th-Sa6p-43
+0355,Sun-Thur 1730-0200,Su-Th53p-2
+0356,Mon and Tue 1830-0500,M/Tu1830-5
+0357,Su-Tue 0730-1800;Wed 730-1730,Su-Tu73-6p
+0358,Sun-Wed 0700-1730,Su-W7-530p
+0359,M-Tu; Th-F 0700-1730,"MTu,TF7-53"
+0360,Wed-Sat 0700-1730,W-Sa7-530p
+0362,"M,T,TH 5-1:30","M,T,TH"
+0363,Wed-Fri 0730-1800; Sat,Wed-Fri:S
+0364,Wed-Fri 0730-1800; Sat,Wed-Fri:Sa
+0365,Sun 0730-1800; Sat 0700-1730,Sun; Sat
+0366,"M,W-F 0900-1730, Tu 0800-1630", 
+0367,Mon - Fri 07:00 - 16:00,M - F 7-16
+0368,HR Varies; M-F,HR Varies
+0369,"Wed - Sun, 09:00 - 17:30",W - Su
+0370,Tue - Sat 0630-1500,Tue-Sat
+0371,Mon-Fri 08:30-17:30,M-F830-530
+0372,Mon-Thu 18:30-03:00,M-Th
+0373,Mon-Fri 1300-2130,M-F1p-930p
+0374,"Tue - Sat, 08:00 - varies","T-Sa, vary"
+0375,"Tue - Sat, 08:00 - varies","T-Sa, vary"
+0376,Mon-Thurs 20:00 - 04:30,Mon-Thurs
+0377,Mon-Fri 12:30-23:00,Mon-Fri
+0378,Sun-Wed 14:00-12:30,Sun-Wed
+0379,Wed-Sat 14:00-12:30,Wed-Sat
+0380,"Mon, Tues, Wed, Thu-Fri","M,T,W,Th-F"
+0381,M-F Varies,Mon-Fri
+0382,"Sun 8-430, Mon-Thurs 1230-9","S,M-Th"
+0383,Tue-Fri 18:00-04:30,Tue-Fri
+0385,"M,W,Fri-Sat 07:30-18:00","M,W,Fri-Sa"
+0386,Mon-Fri Varies,Mon-Fri
+0387,"Sun,Tue-Thur,Fri Varies","Su,Tu-Th,F"
+0388,"Sun, Sat 1800--0430","Sun, Sat"
+0389,Tue - Fri 10:30 - 19:00,Tue - Fri
+0390,Sat 09:00-17:30,Sat
+0391,Mon-Fri 11:00-20:00,Mon-Fri
+0392,Sun-Wed 0630p-0500a,S-W630p-5
+0393,Mon-Fri 08:00-16:30,Mon-Fri
+0394,Sun-Thurs 21:00 - 05:30,Sun-Thurs
+0395,"Sun-Tue, Sat 06:30-17:00","Sun-Tue,Sa"
+0396,Wed-Sat 18:00 - 05:00,W-Sa 18-5
+0397,Tue-Fri 07:30-18:00,Tue-Fri
+0398,"Sun,Sat 0730-1800; Mon,Wed","Su,M,W,SA"
+0399,Wed - Sat 1730-0400,W-Sa530-4a
+0400,"Thu 7-15:00, Fri-Sat 07-17:30","Th,Fri-Sat"
+0401,"Sun - Wed, 17:30 - 04:00",Su-W
+0402,"Sun, Thu-Sat 0630-1700","Su,Thu-S"
+0403,"Sun, Wed-Sat 0800-1630","Su, W-Sa"
+0404,Tues-Fri 1300-2330,T-F1p-1130
+0405,Sun-Tue ; Sat 1300-2330,Su-Tu1p-11
+0406,Mon-Fri 17:30-02:00,Mon-Fri
+0407,Sun-Thurs 18:00-02:30,Sun-Thurs
+0409,Tue-Fri 08:00-18:30,Tue-Fri
+0410,Mon-Thurs 08:00-18:30,Mon-Thurs
+0411,Mon - Thurs. 08:00 - 18:30,M-Th
+0412,Tues-Sat 08:00-16:30,Tues-Sat
+0413,Sun-Thurs 17:00-01:30,Sun-Thurs
+0414,Tue-Fri  19:00-03:30,Tue-Fri
+0415,"S, M,T,W,F 1730-0200/0400/0100","S,M,T,W,F"
+0416,Wed-Sat 1800-0430,W-Sa6p-430
+0417,Su-Th MOT Sat 6:45 - 15:00,"Su-Th,Sat"
+0418,Su-Th MOT Fri 6:45 - 15:00,"Su-Th, Fri"
+0419,Tu-Sa MOT Mon 6:45 - 15:00,"Tu-Sa, Mo"
+0420,Tu-Sa MOT Sun 6:45 - 15:00,Tue-Sun
+0421,Su-Th MOT Sat 14:45 - 23:00,"Su-Th, Sat"
+0422,Su-Th MOT Fri 14:45 - 23:00,Sun-Fri
+0423,Tu-Sa MOT Mon 14:45 - 23:00,Mon-Sat
+0424,Tu-Sa MOT Sun 14:45 - 23:00,Tue-Sun
+0425,Su-Th MOT Sat 22:45 - 7:00,Sat-Thur
+0426,Su-Th MOT Fri 22:45 - 7:00,Sun-Fri
+0427,Tu-Sa MOT Mon 22:45 - 7:00,Mon-Sat
+0428,Tu-Sa MOT Sun 22:45 - 7:00,Tue-Sun
+0430,Sun–Wed 7:00 - 5:15,Sun–Wed
+0431,Sun-Wed 18:00-04:15,Sun-Wed
+0432,Sun-Wed 1730-0400,Su-W1730-4
+0433,Sun-Wed 1800-0430,Su-w6p-430
+0434,Sun-Wed 1830-0500,Su-W630-5a
+0435,Su-Tu; Sat  0730-1800,S-T;Sa73-6
+0436,Su-W; Sa 0730-1800,Su-W;Sa
+0437,Sun-Thu; Sat 0730-1800,Su-R;Sa73-
+0438,Mon-Fri 1900-0430,M-F17p-430
+0439,Sun-Tue; Sa 0700-1730,S-TuSa7-53
+0440,Sun-Wed; Sa 0700-1730,S-W;Sa7-53
+0441,Sun-Thur; Sat 0700-1730,S-R;Sa7-53
+0442,Su-Thur; Sat 0730-1800,S-R;Sa73-6
+0443,Sun;Wed-Sat 0730-1800,S-WSa730-6
+0444,Sun;Tue-Sat 0730-1800,S;TSa730-6
+0445,Sun; Thur-Sat 0700-1730,S;R-S7-530
+0446,Sun;Wed-Sat 0700-1730,S;W-S7-530
+0447,Sun; Tue-Sat 0700-1730,S;T-S7-530
+0448,Mon-Thur 0700-1730,M-Th7-530p
+0449,Mon-Thur; Sat 0700-1730,M-R-Sa7-53
+0450,Sun-Thur; Sat 0700-1730,S-R;S7-530
+0451,Sun-Tue; Thur 0730-1800,"Su-T,R73-6"
+0452,"Sun-Tue; Th, Fri 0730-1800","S-T;R,F730"
+0453,Sun-Tue; Thur-Sat 0730-1800,S-T;R-S730
+0454,"Sun,Mon,Fri,Sat : 18:00-2:30","S,M,F,S"
+0455,Mon-Fri 10:00 - 18:30,Mon-Fri
+0456,Mon-Fri 20:30-05:00,Mon-Fri
+0457,Sun-Fri 07:30-18:00,Sun-Fri
+0458,"M-T, W-Sa 07:30 - 18:00","M-T, W-Sa"
+0459,Mon-Fri 07:30 - 18:00,Mon-Fri
+0460,Sun-Fri 07:30 - 18:00,Sun-Fri
+0461,Mon-Fri 07:30 - 18:00,Mon-Fri
+0462,Mon-Sat 07:30 - 18:00,Mon-Sat
+0463,"Sun-Tue, Fri-Sat 07:30 - 18:00","S-Tu, F-Sa"
+0464,"Sun-Tue, Thu-Sat 07:30 - 18:00","S-T, Th-Sa"
+0465,"Sun-Mon, Fri-Sat 07:30 - 18:00","S-M, F-Sa"
+0467,"Sun-Mon, Thur-Sat 07:30 - 18:0","S-M, Th-Sa"
+0468,"Sun-Mon, Thur-Sat 07:30-18:00","S-M, Th-Sa"
+0469,Sun-Thur 18:30 - 07:00,Sun-Thur
+0470,Tue-Sat 18:30 - 05:00,Tue-Sat
+0471,Tue-Sat 18:30 - 07:00,Tue-Sat
+0472,"Sun-Tue, Fri-Sat 18:30 - 05:00","S-T, F-Sa"
+0473,"Sun-Tue, Fri-Sat 18:30 - 07:00","S-T, F-Sa"
+0474,"Sun-Mon, Fri-Sat 18:30 - 05:00","S-M, F-Sa"
+0475,"Sun-Mon, Thur-Sat 18:30 - 05:0","S-M, Th-Sa"
+0476,"Sun-Mon, Thur-Sat 18:30-07:00","S-M, Th-Sa"
+0477,Mon-Fri 18:30 - 05:00,Mon-Fri
+0478,Mon-Fri 18:30 - 07:00,Mon-Fri
+0479,Sun-Thur 07:00 - 17:30,Sun-Thur
+0480,Sun-Fri 07:00 - 17:30,Sun-Fri
+0481,Tue-Sat 07:00 - 17:30,Tue-Sat
+0482,Mon-Sat 07:00 - 17:30,Mon-Sat
+0483,"Sun-Tue, Thur-Fri 07:00-17:30","S-T, Th-F"
+0484,Sun-Fri 07:00 - 17:30,Sun-Fri
+0485,"Mon-Tue, Thur-Fri 07:00 - 17:3","M-T, Th-F"
+0486,"Mon-Tue, Thur-Sat 07:00-17:30","M-T, Th-Sa"
+0487,Mon-Sat 07:00 - 17:30,Mon-Sat
+0488,Sun-Thur 18:00 - 04:30,Sun-Thur
+0489,Sun-Thur 18:00 - 06:30,Sun-Thur
+0490,Tue-Sat 18:00 - 04:30,Tue-Sat
+0491,Tue-Sat 18:00 - 06:30,Tue-Sat
+0492,Mon-Fri 18:00 - 04:30,Mon-Fri
+0493,Mon-Fri 18:00 - 06:30,Mon-Fri
+0494,Sat-Tue 06:30-05:00,Sat-Tues
+0495,"Thu, Fri, Sun, Mon17:00-03:30","Th-F, Su-M"
+0496,Mon-Thu 0700-1730,M-Th
+0497,"Sun, Wed-Sat - School Acc.","Sun,W - Sa"
+0498,Sun;Tue; Thur ; Mon;Wed 1830-3,S;T;R183-3
+0499,"Mon - Fri, 13:00 - 21:30",M-F
+0500,"Mon-Tue, Thur-Fri 18:30-05:00","M-T, Th-F"
+0501,"Mon - Fri, 07:00 - 13,15,17:30",M-F
+0502,"Sun-Mon, Fri-Sat: 6:30-17:00","Su-Mo,Fr-S"
+0503,"Sun-Mon,Fri-Sat: 17:00-3:30","Su-Mo,Fr-S"
+0504,Mon-Fri (Varies),Mon-Fri
+0505,Mon-Fri (Varies),Mon-Fri
+0506,Wed-Sat 16:30-03:00,Wed-Sat
+0507,"Sun-Tue 830-7pm, Wed 800-630pm","S-Tu,W Day"
+0508,Sun-Thurs 18:30-06:00,Sun-Thur
+0509,"Sun-Wed, Sat  18:30 - 05:00","Sun-Wed,Sa"
+0510,"Wed - Sat, Sun 18:30-05:00","Wed-Sat,Su"
+0511,"MTTF, Sat OT Day 18:30-5:00","MTTF, Sat"
+0512,"Sun-Wed, Sat 7:00-17:30","Sun-Wed,Sa"
+0513,"Wed - Sat, Sun 7:00 - 17:30","Wed-Sat,Su"
+0514,"Sun, Fri - Sat, 07:00 - 17:30","Su, F-Sa"
+0515,"Sun- Mon, Thur-Fri 1900-500","S, M,Th,Fr"
+0516,09:00-06:30 M-F,Mon-Fri
+0517,Mon-Fri 8:00p-5:30a,Mon-Fri
+0518,Sun;Sat 0630-1700,Su-Sa6305p
+0519,Mon-Fri 1730-0400,M-F1730-4
+0520,Wed-Sat 04:00-14:30,Wed-Sat
+0521,"Su 6:30-1730, M-Th 6:30-1800",Sun - Fri
+0522,Sun ; Sat 1430-2300,S;Sa230-11
+0523,Sun-Sat 19:30 - 04:30,Sun-Sat
+0524,"Sun, Sat 18:30-05:00","Sun, Sat"
+0525,Tue-Sat 1900-0530,T-S7p-530a
+0526,"WED-SAT, SUN OT 730-1800", 
+0527,"Sun-Tue, Sat 15:30-02:00","S-Tue, Sat"
+0528,"Sun, Wed-Sat 17:30-02:00","S, Wed-Sat"
+0529,Mon-Thur 19:30-06:00,Mon-Thur
+0530,"Sun-Mon, Fri-Sat 18:30-07:00","S-M, F-Sa"
+0531,"Wed - Sat, 21:00 - 07:30",We-Sa
+0532,"Mon - Fri, 07:30 - 18:00",M-F 730-18
+0533,Mon-Fri 18:00-03:00,M-F 6p-3a
+0534,Sun-Wed 21:00-07:30,Sun-Wed
+0535,Mon-Tue; Thur-Fri 1700-0400,"M,T,R,F5-4"
+0536,Wed-Sat 1630- 03:00am,wed-sat
+0537,Mon-Fri 0430-1500,M-F430-3p
+0538,Sun-Mon;Fri-Sat 0430-1500,S-M;FS43-3
+0539,Sun-Mon; Fri-Sat 1200-2230,S-M;F-S 12
+0540,Sun-Wed 1630-0500,Su-W1630-5
+0541,Wed-Sat 1630-0500,W-Sa1630-5
+0542,Sun-Mon;Fri-Sat 2200-0830,"S,M,F,S,10"
+0543,Sun 7-1730; M-W 0730-1800,S;M-W73-6p
+0544,Sun-Wed 2130-0800,Su-W930-8a
+0545,Sun-Wed 2200-0830,S-W2200-83
+0546,Tue-Fri 0200-1230,T-F2a-1230
+0547,M-T;T-F 1400-2230,"T,T,T,F"
+0548,"Sun-Wed, Fri 18:30-05:00","S-W, F"
+0549,Sun-Thurs 06:30-15:00,Sun-Thurs
+0550,Tue-Sat 06:30-15:00,Tue-Sat
+0551,Sun-Thurs 08:00-16:30,Sun-Thurs
+0552,Tue-Sat 08:00-16:30,Tue-Sat
+0553,Sun-Thurs 15:30-00:00,Sun-Thurs
+0554,Sun-Thurs 23:00-07:30,Sun-Thurs
+0555,Sun-Thurs 23:00-07:30,Sun-Thurs
+0556,Tue-Sat 23:00-07:30,Tue-Sat
+0557,"Mon - Thurs, 18:00 - 04:30",M-Th18-430
+0558,"Sun,Sat 0730-1800; Mon,Fri","Su,M,F,Sa"
+0559,"M-W, Fri 1800 - 0230","M-W, Fri"
+0560,Sun-Mon; Thu;Fri 1830 - 0500,"S,M,R,F630"
+0561,"M,T11-730;W1p-930;Th,F10-630","MT,W,ThF"
+0562,Tue - Fri 17:00 - 03:30, 
+0563,"Su,M,W1830-0300,Tu-Th2300-0300", 
+0564,"W-Th 0730-1645, F-Sa 0730-1915", 
+0565,"Su,Tu,Th1830-0500,M,W2245-0300", 
+0566,"Su,Tu,Thu 1800-0230, Mon & Wed", 
+0567,"MWF 1300-1800, Sun 0730-1800", 
+0568,Tue - Sat 16:30-03:00,Tue-Sat
+0569,Tue - Fri 16:30-03:00,Tue - Fri
+0570,MON-FRI 13:00-21:30,MON-FRI
+0571,"Sun - Thurs, 07:00 - 15:30",Su-Th
+0572,"Mon - Fri, 13:00 - 21:30",M-F13-2130
+0573,"Tue, Thu, Sat, 06:30 - 17:00","Tu,Th, Sa"
+0574,"Sun-Mon 730-18, Tue-Wed 13-18",Su-W
+0575,Sun-Wed 16:30-03:00,Sun-Wed
+0576,Sun-thur 15:00-23:30,Sun-Thur
+0577,"Mon - Thurs, 14:30 - 23:00",Mo-Th
+0578,"Mon,Wed-Fri 1900-0530","M,W-F"
+0579,"Mon, Wed, Thu, 18:00 - 04:30","M,W,Th"
+0580,"Tues - Fri, 19:00 - 05:30",Tue - Fri
+0581,"Sun - Thurs, School Accom.",Su-Th
+0582,"Wed - Sat, 07:00 - 16:30/17:30",We-Sa
+0583,Sun-Sat 8am-8pm,sun-sat
+0584,"M 730 -1800; Tu,Th,F 730-1200","M-Tu, Th-F"
+0585,"Sun - Wed, School Accom",Su-W
+0586,"M,Tu,Th,F 06:00-17:00","M,Tu,Th,F"
+0587,Wed-Sa 07:30/13:00;13:00/18:00,Wed-Sat
+0588,"Mon, Wed, Fri, 07:30 - 18:00","M,W,F"
+0589,"Mon,Tue,Fri,Sat 2:00-12:30","M,Tu,F,Sa"
+0590,Mon-Fri 830-1700/900-1730,Mon-Fri
+0591,"Sun, Tue 0730-1800","Sun,Tue"
+0592,"Mon, Wed-Fri 0730-1800","M, W-F"
+0593,"M-Tu, Th-Fr 0645am-0515pm","M-Tu, Th-F"
+0594,Sun - Wed 18:45 - 05:15,Sun-W
+0595,"Mon-Tue, Thu-Fri 1845-0515","M-Tu, Th-F"
+0596,Wed-Sat 18:45 - 05:15,Wed-Sat
+0597,"Tues - Fri, 18:30 - 05:00",Tues-Fri
+0598,"Sun, Sat, 06:45 - 17:15","Sun,Sat"
+0599,"Sun, Sat, 18:45 - 05:15","Su,Sa Nigh"
+0600,"Sun, Sat, 07:00 - 17:30","Su,Sa Days"
+0601,"Sun, Sat, 19:00 - 05:30","Su,SaNight"
+0602,"Mon-Tue, Thu-Fri 07:00 - 17:30","M-Tu,Th-F"
+0603,"Mon-Tue, Thu-Fri 19:00 - 05:30","M-T,Th-F"
+0604,"Wed - Sat, 19:00 - 05:30",W-Sa Night
+0605,"Sun-Mon, Thur-Fri18:30-05:00","S,M,TH,F"
+0606,"Sun - Wed, 16:30 - 03:00",Su-Wed
+0607,"Tue - Fri, 16:30 - 03:00",Tue-Fri
+0608,"Tue - Fri, 16:00 - 02:30",Tue - Fri
+0609,"Sun - Wed, 16:00 - 02:30",Sun - Wed
+0610,"Sun - Wed, 17:00 - 03:30",Sun-Wed
+0611,"Tue - Fri, 17:00 - 03:30",Tue-Fri
+0612,"Tue-Thu, Fri 16:30-03:00/02:30","Tue-Thu,F"
+0615,"Tue-Thu/Fri, 17/16-03:30/02:30",Tue-Thu/Fr
+0616,"M, Tu, Th, Fr 0930-1800","M,Tu,Th,Fr"
+0617,"Tue, Wed-Fri, Sat Varies","T, W-F, S"
+0618,Sun-Wed Varies,Sun-Wed
+0619,"Su, Mo, Wed, 1800-430","Su,M,W"
+0620,Sun-Wed 0500-1530,Sun-Wed
+0621,"Tue, Thur-Fri 07:30-18:00","Tu, Th-Fr"
+0622,"Mon-Tue, Thurs-Sat","M-T, Th-Sa"
+0623,"M-W, Fri 0700-1730","M-W, Fri"
+0624,Sun-Thu (varies),Sun-Thu
+0625,"W,F 0730-1230 Th, Sa 0730-1800",Wed-Sat
+0626,"Tue-Fri, 18:30-05:00/23:30",Tue-Fri
+0627,Sun-Wed 05:15 to15:45,Sun-Wed
+0628,Wed-Sat 05:15 to15:45,Wed-Sat
+0629,Sun-Wed 17:15 to 03:45,Sun-Wed
+0630,Wed-Sat 17:15 to 03:45,Wed-Sat
+0631,"Tue, Thu-Fri 07:00-17:30","Tu,Thu-Fri"
+0632,"Mon - Fri, 07:30 - 18:00","M-F,730-18"
+0633,Mon-Fri 13:00-21:30,Mon-Fri
+0634,Wed-Sat 7:30-12:30,Wed-Sat
+0635,Wed-Sat 07:30-16:00,Wed-Sat
+0636,"Su-Tu 0800-1600, Fr 1600-0230","Su-Tu, Fr"
+0637,Sa-Su 0730-1800 W-Th 1630-0300,Sa-Su W-Th
+0638,Mon-Thu 17:00 to 01:30,Mon-Thu
+0639,Sun-Wed 19:30-Varies,Sun-Wed
+0640,M-F 04:00 - 12:30,M-F 4-1230
+0641,"Mon-Wed, Thu, Fri","Mo-W,Th,Fr"
+0642,Sun-Wed 1830-0300,Sun-Wed
+0643,"Sun, Tue-Thu 1630-0300","Sun, Tu-Th"
+0644,"M,Tu,Th,F 6:30-15:00",MTTF630-15
+0645,"Sun-Mo 0730-1800, We 1300-1800","Sun, Mo, W"
+0646,Tue-Fri 18:00-04:00,Tu-F 18-4
+0647,"M,Tu,Thu,F 800-1630 W 830-1700", 
+0648,Thur-Sat 07:00-5:30pm,Th-Sa
+0649,"Tue-Wed, Fri-Sat, 07:00-17:30","Tu-W,F-Sa"
+0650,Mon-Fri 16:00-00:30,Mon-Fri
+0651,M-Fri school accom.,M-Fri
+0652,Sun-Wed 0700-1200,Sun-Wed
+0653,Fri-Sat 07:30-18:00,Fri-Sat
+0654,Mon-Fr 1:00- 11:30,M-F
+0655,Sun-Wed 7:30-16:00,Sun- Wed
+0656,Tues-Sat 9:30-18:00,Tues- Sat
+0657,"M,Tu, Wed-Fri","M,Tu, Wed-"
+0658,"M-Tu,Wed-Thu","M-Tu,Wed-T"
+0659,"Sun, Wed-Fri 6:30-17:00",Wun-Wed-Th
+0660,"Sun, Mon, Wed 1430-0300","S, M, Wed"
+0661,Mon-Fri 05:00-13:30,Mon-Fri
+0662,Sun-Wed 0600-1800,Sun-Wed
+0663,"M,T,Th F 0700-1630,W 0900-2000",MT Th F
+0664,"M,Tu,Th 730-1700, Fri 730-1800", 
+0665,"Sun, Thu-Sat 0100-1130","Sun, Th-Sa"
+0666,M-F (varies),M-F
+0667,M-Th 1230-2300,M-Th 1230-
+0668,"Sun - Wed, 06:30 - 17:00",Sun-Wed
+0669,"Wed - Sat, 07:00 - 15:30",Wed-Sat
+0670,"Mon - Fri, 10:00 - 18:30",Mon-Fri
+0671,"Sun, Fri - Sat, 07:30 - 18:00","Sun, F-Sa"
+0672,School Accom - Wed - Sat,School Acc
+0673,School Accom - Mon - Fri,School M-F
+0674,"Sun - Wed, 07:00 - 17:00","Su-W, 7-17"
+0675,"Wed-Sat, 06:30-17:30",W-Sat
+0676,"Sat-Tue, 07:00-17:30",Sat-Tue
+0677,"Tue & Thurs-Sun, 07:00-17:00",Tue/Thu-Su
+0678,"Mon-Fri, 18:00-03:00",M-F 18-3
+0679,"Mon-Fri, 07:00-16:00",M-F 7-16
+0680,"Sun - Wed, 16:30 - 03:00",Sun-Wed
+0681,"Sun-Thur, 18:00-03:00",Su-Th 18-3
+0682,"Thurs, Sun, Fri","Th,Sun,Fri"
+0683,Tue-Sat 18:00-03:00,Tu-Sa 18-3
+0684,Mon-Fri 06:30-17:00,M-F 630-17
+0685,Saturday 07:00-17:30,Sat 7-1730
+0686,Mon-Thu 1730-0400,M-Thu
+0687,M-F varies,M-F
+0688,"17:00p-1:30a S,M,T,R 16:30 W","S,M,T,W,R"
+0689,M-F varies,M-F
+0690,"0730-1800 M,Fr, 0730-1600T,TH","M,T,TH,FR"
+0691,"Wed - Sat, 18:00 - 04:30",W-Sat
+0700,M-F 0800-1400,M-F 0800-1
+0701,M-F 14:00-00:00,M-F 14:00-
+0702,M-F 00:00-0800,M-F 00:00-
+0703,"Sun - Wed, 05:30 - 16:00",S-W 530-16
+0704,"Wed - Sat, 05:30 - 16:00",W-S 530-16
+0705,"Sun - Wed, 15:00 - 01:30",S-W 15-130
+0706,"Wed - Sat, 15:00 - 01:30",W-S 15-130
+0707,"M,T 730-1730; Th,F 0730-1800","M,Tu,Th,Fr"
+0708,"Sun, Fri, Sat 730 - 1800",F-Su730-18
+0709,"Mon - Thu, 19:00 - 05:30",M-T 19-530
+0710,"Mon - Fri, 05:30 - 14:00",M-F 530-14
+0711,"Sun - Wed, 06:30 - 18:00",S-W 630-18
+0712,"Wed - Sat, 06:30 - 18:00",W-S 630-18
+0713,"Sun - Wed, 13:30 - 00:00",S-W 1330-0
+0714,"Wed - Sat, 13:30 - 00:00",W-S 1330-0
+0715,"Mon - Fri, 13:30 - 22:00",M-F1330-22
+0716,"Sun - Wed, 17:30 - 05:00",S-W 1730-5
+0717,"Wed - Sat, 17:30 - 05:00",W-S 1730-5
+0718,Sun-Wed,Sun-Wed
+0719,"Mon - Fri, 14:00 - 22:00",M-F
+0720,"Mon - Fri, 06:00 - 14:00",M-F
+0721,"Mon - Thu, 06:00 - 14:00",M-Th
+0722,"Mon - Tue, 22:00 - 06:00",M-Tue
+0723,"Mon - Wed, 22:00 - 06:00",M-W
+0724,"Sun, Thu, Sat, 14:00 - 22:00","Su,Th,Sa"
+0725,M-F 0800-1600,M-F 0800-1
+0726,M-F 1600-0000,M-F 1600-0
+0727,"Sun, Wed - Sat, 22:00 - 06:00","Su,W-Sa"
+0728,"Sun, Sat, 06:00 - 14:00","Su,Sa"
+0729,"Sun, Mon-Wed, Sat, 06:00-14:00","Su,M-W,Sa"
+0730,"Sun, Sat, 14:00 - 22:00","Su,Sa"
+0731,"Sun - Thu, 14:00 - 22:00",Su-Th
+0732,"Sun-Tue, Fri-Sat 06:00 - 14:00","Su-Tu,F-Sa"
+0733,"Sun-Tue, Fri-Sat 14:00 - 22:00","Su-Tu,F-Sa"
+0734,"Sun-Tue, Fri-Sat 22:00 - 06:00","Su-Tu,F-Sa"
+0735,"Sun, Tue - Sat, 22:00 - 06:00","Su,Tu-Sa"
+0736,"Sun, Wed - Sat, 06:00 - 14:00","Su,W,Sa"
+0737,"Mon - Fri, 12:45 - 16:45",M-F
+0738,Sun-Wed 1900-0530,S-W 19-530
+0740,Tue - Fri:1730 - 0400,T-F:1730-4
+0741,"M-F, 4 p.m.-2:30 a.m.","M-F,4p-230"
+0742,"Sun-Tues,Thurs-Fri:06:45-17:15","S-T,Th-F06"
+0743,"M-T,TH-Sa:6:45 – 17:15","M-T,TH-Sa"
+0744,"Sun,Mon,Sat:6:45 – 17:15","Su,Mon,Sat"
+0745,"Su-We, Sat 18:45 – 5:15","Su-W,S1845"
+0746,Mon-Tues & Thu-Sat:18:45-05:15,"M-T,Th-Sa"
+0747,"Sun,Wed-Sat:18:45-05:15","S,W-Sa:18"
+0748,"Sun-Mon,Sa:18:45 – 5:15","S-M,Sa:18"
+0749,"Sun-Mon,Sat:07:00-17:30","S-M,Sa:7a"
+0750,"Sun-Wed,Sat:19:00-05:30","S-W,Sa:7pm"
+0751,"Mon,Tue & Thur-Sat:19:00-05:30","M,T&Th,Sa"
+0752,"Sun-Tue, Fri-Sat 06:30 - 17:00","S-Tu,F-S"
+0753,"Sun-Mon, Thu-Sat 06:30 - 17:00","Su-M,Th-S"
+0754,"Sun-Tue, Fri-Sat, 17:30-04:00","Su-T,F-S"
+0755,"Sun-Mon, Thu-Sat 17:30 - 04:00","Su-M,Th-Sa"
+0756,"Sun-Wed,Sat: 6:45–17:15","Su-W,S"
+0757,"Mo,Tu,Th,Fr,& Sun:06:45–17:15", 
+0758,"Wed-Sat, Sun 6:45 – 17:15",W-S645-17
+0759,"Sat-Sun,Monday:18:45 – 05:15", 
+0760,"Sun-Wed,Sat: 07:00 – 17:30","S-W,S7-173"
+0761,"Mon,Tue,Thu,Fri;Sa:7:00-17:30","MTTF,Sa"
+0762,Wed-Sat;Sun:07:00 – 17:30,W-S;Su
+0763,"Mon,Tue,Thu&Fri;Sun:19:00-5:30",MTTFSu19
+0764,Wed-Sat;Sun:19:00-05:30,W-Sa;Su:19
+0765,Sat-Sun;Mon:19:00–05:30,Sa-Su;M19
+0766,Sun-Wed;Sat:06:45–17:15,S-W;Sa:6
+0767,"Mon,Tu,Thu&Fri;Sun:18:45–05:15",MTTF;S18
+0768,"Mon,Tu,Thu,&Fri;Sun:6:30-17:00",MTTF;Su630
+0769,"Mon,Tu,Thu,&Fri;Wed:6:30-17:00",MTTF;W:630
+0770,"Sun,Mon,Fri,Sat;Tues:0700-1730",SMFSA;T700
+0771,"Sun,Mon,Fri,Sat;Thu:07:00-17:3",SMFC:TH700
+0772,"Sun,Mon,Fri,Sat;Tues:1900-0530",SMFSa;Tu19
+0773,"Sun,Mon,Fri,Sat;Thu:1900-0530",SMFSa;Th19
+0774,"Sun,Mon,Fri,Sat:07:00-17:30",SMFSa 0700
+0775,"Sun,Mon,Fri,Sat:1900-0530",SMFSa1900
+0776,Sun-Wed;Thu:18:30-05:00,S-W;Th1830
+0777,Sun-Wed;Thu:06:30-17:00,S-W;Th0630
+0778,Sun-Wed 1800-0600,Sun-Wed
+0779,Wed-Sat 0600-1800,Wed-Sat
+0780,Wed-Sat 1800-0600,Wed-Sat
+0781,Mon-Fri1800-330,Mon-Fri
+0782,"Sun, Tu, Th, Sat 730-1230/1800","Su,Tu,Th,S"
+0783,"Mon,Tu,Th,Fri ICQA 0630-1700","M,Tu,Th,Fr"
+0784,W-Sa 1330/1200/1330/0730-1800,W-Sa
+0785,"Su,M,Th,F 1800-0430","Su,M,Th,F"
+0786,"Su,M,Th,F 1800-0430","Su,M,Th,F"
+0787,Sun-Thurs mult to 2330,Sun-Thurs
+0788,"Su1500-2130,Tu,We,Th 1500-2330","S,Tu,We,Th"
+0789,"Tue-Fri, 19:00-05:30",Tue-Fri
+0790,"Tue-Fri, 18:00-04:30",Tue-Fri
+0791,"Tue-Fri, 17:30-04:00",Tue-Fri
+0792,"Tu-W,1200-2230, Th-F,1830-500","Tu-We,Th-F"
+0793,"Tu, 1800-0300, We-Fr, 1800-500","Tue,We-Fri"
+0794,"Sun-Tue,1800-500, Wed,1800-300","Sun-Tue,We"
+0795,"Tue-Fri, 1830-500",Tue-Fri
+0796,"Tue-Fri, 18:00-04:30",Tue-Fri
+0797,Sun-Wed 17:30-04:00,Sun-Wed
+0798,"Sun-Mon, Thur-Fri, 17:30-04:00","Su,Mo,Th,F"
+0799,"Tue-Fri, 17:30-04:00",Tue-Fri
+0800,Sun-Wed:06:00-16:30,S-W06-1630
+0801,Wed-Sat:06:00-16:30,W-Sa6-1630
+0802,"Mon,Tue,Thurs,Fri:06:00-16:30",MTTF6-1630
+0803,"Mon - Fri, 15:00 - 23:30",M-F15-2330
+0804,"Tue - Sat, 08:30 - 17:00",Tu-Sa
+0805,"Tue - Sat, 18:00 - 02:30",Tu-Sa
+0806,Sun-Thu:12:00 - 20:30,Su-Th12-20
+0807,Sun-Wed:19:30-06:00,S-W:1930-6
+0808,Mon-Thurs:19:30-06:00,M-Th1930-6
+0809,"Sun,Tues,Wed,Sat: 19:30-06:00",STWSa1930
+0810,Fri-Mon:19:30-06:00,Fri-Mon193
+0811,Thurs-Sun:19:30-06:00,Th-Sun1930
+0812,"Sun,Mon,Thu,Fri:19:30-06:00",SMThF1930
+0813,"Mon - Fri, 12:00 - 17:00",M-F 12-17
+0814,"Sun, Thu - Sat, 06:30 - 17:00","Su, Th-Sa"
+0815,"Sun - Wed, 15:00 - 20:00",Su-W
+0816,"Wed - Sat, 15:00 - 20:00",We-Sa
+0817,"Mon-Tue, Thu-Fri, 18:30-05:00","M-T,Th-F"
+0818,"Mon, Wed-Sat 1830-0500","M, Wed-Sa"
+0819,"Sun - Thu, 12:00 - 17:00",Su-Th12-17
+0820,"Tue - Sat, 12:00 - 17:00",T-Sa 12-17
+0821,"Sun-Mon Fri-Sat, 06:00 - 16:30","Su-M,F-Sa"
+0822,"Mon-Tue, Thu-Sat 08:00 - 16:30","M-T,Th-Sa"
+0823,"Mon-Tue, Thu-Sat 08:00 - 16:30","M-Tu,Th-Sa"
+0824,"Mon-Tue, Thu-Sat 08:00 - 16:30","M-Tu,Th-Sa"
+0825,"Tue - Sat, 08:00 - 16:30",Tu-Sa
+0826,"Tue - Sat, 08:00 - 16:30",Tu-Sa
+0827,"Mon - Thu, 18:00 - 04:30",M-Th18-430
+0828,"Mon - Thu, 12:30 - 23:00",M-Th
+0829,"Sun 0700-1530, M-Th 0800-1630","Su, M-Th"
+0830,"Tu-F 0900-1730, Sa 0700-1530","Tu-F, Sa"
+0831,"Sun-Mon,Wed, Fri-Sat 0730-1800","S-M,W,F-Sa"
+0832,"Mon - Fri, 15:30 - 24:00",M-F1530-24
+0833,"Sun-Mon, Fri-Sat 0700-1730","S-M, F-Sa"
+0834,"Sun-Mon, Fri-Sat 1830-0500","S-M, F-Sa"
+0835,"Mon-Tue, Thu-Fri 0700-1730","M-T, Th-F"
+0836,"Mon-Tue, Thu-Fri 1830-0500","M-T, Th-F"
+0837,"Sun-Mon, Thur-fri, 17:30-04:00","Su-M,Th-Sa"
+0838,Tues-Fri 17:30-05:00,Tues-Fri
+0839,"Mon-Tue, Thur-Fri, 08:00-18:30","Mo-Tu,Th-F"
+0840,"Mon-Tue, Thu-Fri 06:30-17:00","M-Tu,Thu-F"
+0841,"Sun-Th, 06:30/8:00-15:00-16:30",Sun-Thurs
+0842,"Sun-Thur, 19:00-23:30/03:30/01",S-T
+0843,"Sun, Tue-Thur 19:00-01:30/03:3",Su-Tu
+0844,Tuesday - Saturday 17:30-04:00,Tue-Sat
+0845,Sun-Thurs 10:30 am - 3:30 pm,Sun-Thurs
+0846,Mon-Fri 0630-1530,Mon-Fri
+0847,"Mon-Wed, Fri; 07:30 to 18:00","M-W, F"
+0848,Sun-Wed 1600-0430,Sun-Wed
+0849,Thurs-Sun 18:00-04:30,Thurs-Sun
+0850,Fri-Mon 09:00-15:00,Fri-Mon
+0851,"Thur, Fri,Sun,Mon 17:00-03:30", 
+0852,Mon-Thurs 08:00-16:00,M-T 8-16
+0853,"Fri, Sat, Sun, Mon 7-1730", 
+0854,"Mon - Fri, 10:00 - 18:30",M-F10-1830
+0855,"M-T, Th-Fr, 17:00-23:30","M,T,TH,F"
+0856,Mon-Fri:10:30-15:30,MF1030-153
+0857,Mon-Fri:0600-1100,MF600-1100
+0858,Sun-Thu:1500-2000,SuTh15-20
+0859,Mon-Fri:1500-2000,M-F:15-20
+0860,Sat & Mon:0600-1430,SaMon:6143
+0861,Sa(0600-1430) & Sun(1500-2330),SatSun
+0862,"Wed-Sat, Varies",Wed-Sat
+0863,Sun-Mon 07:30-18:00,Sun-Mon
+0864,Sun-Mon 18:30-05:00,Sun-Mon
+0865,Mon-Tue12-22:30Wed-Th 8:30-19,Mon-Thu
+0866,"Tu, Fr  8/930-18, W-Th11-23:30",Tu-Fri
+0867,Mon-Thu 7:30-16 Fri 9:30-18:00,Mon-Fri
+0868,Sun-Thur 06:00 -11:00,Sun-Thur
+0869,Wed - Sat 7:30-11:30,Wed - Sat
+0876,Mon - Fri 17:30 - 21:30,Mon - Fri
+0877,Wed-Sat 12:30-16:30,Wed-Sat
+0878,Mon-Thurs 07:30 - 18:00,Mon-Thurs
+0879,Tue-Fri 20/18-4:30,Tue-Fri
+0880,Sun-Wed 18:45/00:30-05:15,Sun-We
+0888,Fri-Mon: 18:45-05:15,Fri-M18145
+0889,"Mon-Tue, Thur-Fri7:30-12:30/18","Mo,Tu,Th,F"
+0890,Mon-Fri  Shift Varies,Mon-Fri
+0891,Mon-Thurs 12-2230,M-Th
+0892,"Mon-Tues, Thurs-Fri 1300-2330","M,T,Th,Fri"
+0893,Fri-Mon 7:30 to 18:00,Fri-Mon
+0894,Mon-Fri 1830-2330,Mon-Fri
+0900,Tue-Sat 7:30-11:30/16:00/18:00,Tue-Sat
+0901,"Tue-Wed, Fri-Sat: 07:30-18:00","Tu-W,F-Sa"
+0902,"Tue- Wed, Fri-Sat: 18:30-05:00","Tu-W,F-Sa"
+0903,"Sun-Mon, Wed-Thu: 07:30-18:00","Su-M,W-Thu"
+0904,"Sun-Mon, Wed-Thu: 18:30-05:00","Su-M, W-Th"
+0906,Tues-Sat 18:30-23:30,Tue-Sat
+0907,"Mon,Tue & Thur-Sat 05:30-14:00","M-Tu,Th-Sa"
+0908,Tue - Sat 7:30 - 14:00,Tue-Sat
+09UDEB4Z,"PN B4 MoS 9,5 ZA", 
+09UDEC4Z,"PN C4 MoS 9,5 ZA", 
+0I10,BCN1-A,0I10
+0IC1,BCN1-A,0IC1
+0IC2,BCN1-A,0IC2
+0IC3,BCN1-A,0IC3
+0IC4,BCN1-A,0IC4
+0IC5,BCN1-A,0IC5
+0IC6,BCN1-A,0IC6
+0IC7,BCN1-A,0IC7
+0IC8,BCN1-A,0IC8
+0ICN,BCN1-A,0ICN
+0RI1,BCN1-A,0RI1
+0RI10,BCN1-A,0RI10
+0RI2,BCN1-A,0RI2
+0RI3,BCN1-A,0RI3
+0RI4,BCN1-A,0RI4
+0RI5,BCN1-A,0RI5
+0RI6,BCN1-A,0RI6
+0RI7,BCN1-A,0RI7
+0RI8,BCN1-A,0RI8
+0RI9,BCN1-A,0RI9
+0RIE,BCN1-0RIE,0RIE
+0RIM,BCN1-A,0RIM
+0RIN,BCN1-A,0RIN
+0RO1,BCN1-A,0RO1
+0RO2,BCN1-A,0RO2
+0RO3,BCN1-A,0RO3
+0RO4,BCN1-A,0RO4
+0RO5,BCN1-A,0RO5
+0RO6,BCN1-A,0RO6
+0RO7,BCN1-A,0RO7
+0RO8,BCN1-A,0RO8
+0ROE,BCN1-A,0ROE
+0RON,BCN1-A,0RON
+10UDEA4Z,"PN A4 MoS 10,5 ZA", 
+10UDEB4Z,"PN B4 DFS 10,0 ZA", 
+10UDEC4Z,"PN C4 MoS 10,0 ZA", 
+11UDEA4Z,"PN A4 MoS 11,0 ZA", 
+123456,FC Sun-Mon 8 hours 1030,123456
+14D3,Sun-Mon & Fri-Sat: 7:30-18:00,"S,M,F,Sa7"
+14UDEB1Z,"PN B1 MDM 14,25 ZA", 
+14UDEB2Z,"PN B2 DFS 14,25 ZA", 
+14UDEC1Z,"PN C1 MDM 14,25 ZA", 
+14UDEC2Z,"PN C2 DFS 14,25 ZA", 
+14UDEG1Z,"PN G1 MoS 14,0 ZA", 
+14UDEH1Z,"PN H1 FS 14,0 ZA", 
+14WEFFSM,"PN WEFFSM 14,50 ZA", 
+14WESFSM,"PN WESFSM 14,50 ZA", 
+15UDEA1Z,"PN A1 MDM 15,75 ZA", 
+15UDEA2Z,"PN A2 DFS 15,75 ZA", 
+15UDEB1Z,"PN B1 MDM 15,0 ZA", 
+15UDEB2Z,"PN B2 DFS 15,0 ZA", 
+15UDEC1Z,"PN C1 MDM 15,0 ZA", 
+15UDEC2Z,"PN C2 DFS 15,0 ZA", 
+15UDEG2Z,"PN G2 MoS 15,0 ZA", 
+15UDEH2Z,"PN H2 FS 15,0 ZA", 
+16UDEA1Z,"PN A1 MDM 16,5 ZA",PN A1 MDM
+16UDEA2Z,"PN A2 DFS 16,5 ZA", 
+185JDD1M,DLA1 Generic,DLAGeneric
+1FRA,Shift 1 Fr Off Outsourced Deca,1FRA
+1FRC,Shift 1 Fr off C-Returns,1FRC
+1FRD,Shift 1 Fr Off Trans-Out Dpt.,1FRD
+1FRQ,1FRQ Shift 1 Fr off Quality T, 
+1FRV,Shift 1 Fr off V-Returns,1FRV
+1FRW,Shift 1 Fr off Warehouse Deals,1FRW
+1MOA,Shift 1 Mo Off Outsourced Deca,1MOA
+1MOC,Shift 1 Mo off C-Returns,1MOC
+1MOD,Shift 1 Mo Off Trans-Out Dpt.,1MOD
+1MOQ,1MOQ Shift 1 Mo off Quality T, 
+1MOV,Shift 1 Mo off V-Returns,1MOV
+1MOW,Shift 1 Mo off Warehouse Deals,1MOW
+1WEC,Shift 1 We off C-Returns,1WEC
+1WEV,Shift 1 We off V-Returns,1WEV
+1WEW,Shift 1 We off Warehouse Deals,1WEW
+20AMZLFS,"AMZL MDMDF 20,0 F", 
+20AMZLSS,"AMZL MDMDF 20,0 S", 
+20BER1,H 20 Std BER1,20BER1
+20FMDMF,"PN FMDMDFS 20,00 ZA", 
+20SMDMF,"PN SMDMDFS 20,00 ZA", 
+21UDEI1Z,"PN I1 MDM 21,0 ZA", 
+21UDEI2Z,"PN I2 MDM 21,0 ZA", 
+21UDEJ1Z,"PN J1 DFS 21,0 ZA", 
+21UDEJ2Z,"PN J2 DFS 21,0 ZA", 
+21WDMD,"PN WDMD 21,75 ZA", 
+25FMDMFS,"PN FMDMDFS 25,00 ZA", 
+25SMDMFS,"PN SMDMDFS 25,00 ZA", 
+27UDEF1Z,"PN F1 MDMFS 27,5 ZA", 
+27UDEF2Z,"PN F2 DMDFS 27,5 ZA", 
+2FRA,Shift 2 Fr Off Outsourced Deca,2FRA
+2FRC,Shift 2 Fr off C-Returns,2FRC
+2FRD,Shift 2 Fr Off Trans-Out Dpt.,2FRD
+2FRV,Shift 2 Fr off V-Returns,2FRV
+2FRW,Shift 2 Fr off Warehouse Deals,2FRW
+2MOA,Shift 2 Mo Off Outsourced Deca,2MOA
+2MOC,Shift 2 Mo off C-Returns,2MOC
+2MOD,Shift 2 Mo Off Trans-Out Dpt.,2MOD
+2MOV,Shift 2 Mo off V-Returns,2MOV
+2MOW,Shift 2 Mo off Warehouse Deals,2MOW
+2WEC,Shift 2 We off C-Returns,2WEC
+2WEV,Shift 2 We off V-Returns,2WEV
+2WEW,Shift 2 We off Warehouse Deals,2WEW
+30BER1,H 30 Std BER1,30BER1
+30UDEA5Z,"PN A5 MDMDF 30,0 ZA", 
+30UDEB5Z,"PN B5 MDMDF 30,0 ZA", 
+35AMZLFS,"AMZL MDMDF 35,0 F", 
+35AMZLNS,"AMZL MDMDF 35,0 N", 
+35AMZLSS,"AMZL MDMDF 35,0 S", 
+35DTMFSN,AMZL ZA DTM8, 
+35UDEA6Z,"PN A6 MDMDF 35,0 ZA", 
+35UDEB6Z,"PN B6 MDMDF 35,0 ZA", 
+35UDED1Z,"PN D1 DMDFS 35,0 ZA", 
+36FMDMFS,"PN FMDMDFS 36,25 ZA", 
+36MDDFS,"PN MDDFS 36,25 ZA", 
+36SMDMFS,"PN SMDMDFS 36,25 ZA", 
+37UDED2Z,"PN D2 MDMFS 37,5 ZA", 
+37UDED3Z,"PN D3 DMDFS 37,5 ZA", 
+37UDEE1Z,"PN E1 MDMDF 37,5 ZA", 
+37UDEE2Z,"PN E2 DMDFS 37,5 ZA", 
+38DMU00F,38DMU00F, 
+38DMU01S,38DMU01S, 
+38DMU02N,38DMU02N, 
+38DMU03N,38DMU03N, 
+38DMU04F,38DMU04F, 
+38DMU05S,38DMU05S, 
+38DMU06N,38DMU06N, 
+38DMU07N,38DMU07N, 
+38UDEAA1,"PN A1 MDMDS; 38,75 Rot",PN A1 MDMD
+38UDEAA2,"PN A2 MDDFS; 38,75 Rot",PN A2 MDDF
+38UDEAA3,"PN A3 MDMFS; 38,75 Rot",PN A3 MDMF
+38UDEAB1,"PN B1 MDMDS; 38,75 Rot",PN B1 MDMD
+38UDEAB2,"PN B2 MDDFS; 38,75 Rot",PN B2 MDDF
+38UDEAB3,"PN B3 MDMFS; 38,75 Rot",PN B3 MDMF
+398,"Mon&Wed,Tue,Th-Fr","M&W,T,Th-F"
+398ADBIB,Tue - Fri 7:00a - 5:30p (Sa),Tu-F 7-530
+398ADBOB,Wed - Sat 7:30a - 6:00p (Mon),W-Sa 730-6
+398ADBOF,Wed-Sat 0730-1800,Wed-Sat
+398ADDIC,"M, T, Th, F 7:00a - 5:30p (Sa)",MTTF 7-530
+398ADDOC,"M, T, Th, F 7:30a - 6:00p (Su)",MTTF 730-6
+398ADDOG,"Mon-Tue, Thu-Fri 0730-1800",MTThF
+398ADFIA,Mon - Thur 7:00a - 5:30p (Su),M-Th 7-530
+398ADFOA,Sun - Wed 7:30a - 6:00p (Th),Su-W 730-6
+398ADFOE,Sun-Wed 0730-1800,Sun-Wed
+398ADOOD,Fri - Mon 7:30a - 6:00p (Tue),F-M 730-6
+398FDBIB,Tue - Fri 7:00a - 5:30p (Sa),Tu-F 7-530
+398FDBOB,Wed - Sat 7:30a - 6:00p (Mon),W-Sa 730-6
+398FDDIC,"M, T, Th, F 7:00a - 5:30p (Sa)",MTTF 7-530
+398FDDOC,"M, T, Th, F 7:30a - 6:00p (Su)",MTTF 730-6
+398FDDOE,"M, T, Th, F 7:30a - 6:00p (Sa)",MTTF 730-6
+398FDFIA,Mon - Thur 7:00a - 5:30p (Su),M-Th 7-530
+398FDFOA,Sun - Wed 7:30a - 6:00p (Th),Su-W 730-6
+398FDMID,Mon - Fri 7:00a - 3:30p (Sa),M-F 7-330
+398FDOOE,Fri - Mon 7:30a - 6:00p (Tue),F-M 730-6
+398HDMIF,Mon - Fri 7:00a - 3:30p (Sa),M-F 7-330
+3FRQ,Shift 3 Fr off Quality Team,3FRQ Fr of
+3MOQ,Shift 3 Mo off Quality Team,3MOQ Mo of
+3THQ,Shift 3 Th off Quality Team,3THQ Th of
+3WEQ,Shift 3 We off Quality Team,3WEQ We of
+40BER1H,H 40 Std BER1,40BER1H
+40BER1S,S 40 Std BER1,40BER1S
+40NHCS,NH-CS MDMDF 40.0,40NHCS
+40UDE1A1,"PN U1 1 MDMFS 40,0", 
+40UDE1A2,"PN U1 2 MDMFS 40,0", 
+40UDE1A3,"PN U1 3 MDMFS 40,0", 
+40UDE1A4,"PN U1 4 MDMFS 40,0", 
+40UDE1A5,"PN U1 5 MDMFS 40,0", 
+40UDE1A6,"PN U1 6 MDMFS 40,0", 
+40UDE3A1,"PN U3 A1 MDMDS 40,0", 
+40UDE3A2,"PN U3 A2 MDDFS 40,0", 
+40UDE3B1,"PN U3 B1 MDMDS 40,0", 
+40UDE3B2,"PN U3 B2 MDDFS 40,0", 
+40UDE3C1,"PN U3 C1 MDDFS 40,0", 
+40UDE3C2,"PN U3 C2 MDDFS 40,0", 
+40UDE3D1,"PN U3 D1 MDDFS 40,0", 
+410A,Sun-Wed 6:30am-5:00pm,Sun-Wed AM
+410B,Sun-Wed 12:30pm-11:00pm,Sun-Wed PM
+410C,Wed-Sat 6:30am-5:00pm,Wed-Sat AM
+410D,Wed-Sat 12:30pm-11:00pm,Wed-Sat PM
+4FRQ,Shift 4 Fr off Quality Team,4FRQ Fr of
+4MOQ,Shift 4 Mo off Quality Team,4MOQ Mo of
+4THQ,Shift 4 Th off Quality Team,4THQ Th of
+4WEQ,Shift 4 We off Quality Team,4WEQ We of
+582ADB0A,ONT2 Outbound Sun-Wed - Days10, 
+582ADB0B,ONT2 Outbound Wed-Sat - Days10, 
+582ADB0C,M/Tu/Th/Fr (7:30a - 18:00p), 
+582ADB1F,"Mon - Fri, Generic Day",Mon-Fri
+582ADB2A,ONT2 Outbound Su-We 7-5:30, 
+582ADB2B,ONT2 Outbound We-Sa 7-5:30, 
+582ADC0A,ONT2 ICQA Sun-Wed - Days 10hr, 
+582ADC0B,ONT2 ICQA Wed-Sat - Days 10hr, 
+582ADC0C,M/Tu/Th/Fr (07:00a - 17:30p), 
+582ADF0A,ONT2 Facilities Sun-Wed - Days,10hr Sched
+582ADF0B,ONT2 Facilities Wed-Sat - Days, 
+582ADF1A,"Sun - Wed, Day Generic",Sun-Wed
+582ADF1B,"Wed - Sat, Day Generic",Wed-Sat
+582ADF3A,ONT2 Facility-Su-Wed 7:30-6, 
+582ADI1A,ONT2 IT Su-Wed Days Generic, 
+582ADI1B,ONT2 IT Wed-Sat Days Generic, 
+582ADL0A,ONT2 Learning Sun-Wed-Days 10, 
+582ADL0B,ONT2 Learning Wed-Sat-Days 10, 
+582ADN0A,ONT2 Inbound Sun-Wed - Days 10, 
+582ADN0B,ONT2 Inbound Wed-Sat - Days 10, 
+582ADN0C,M/Tu/Th/Fr (7:00a - 17:30p), 
+582ADN2A,ONT2 Inbound Su-We Days 6:30-5, 
+582ADS1A,ONT2 Support - Generic Sun-Wed, 
+582ADS1B,ONT2 Support - Generic Wed-Sat, 
+582ADS5A,ONT2 Support-Su-We-Days 8-6:30, 
+582ADS5B,ONT2 Support-We-Sa-Days 8-6:30, 
+582ADZ0A,Sun-Wed 6:00 16:30,Sun-Wed
+582ADZ0B,Wed-Sat  6:00 16:30,Wed-Sat
+582ADZ0C,Donut  6:00 16:30,Donut
+582ANB0S,M/Tu/Th/Fr (18:30p - 05:00a), 
+582ANB0W,ONT2 Outbound Sun-Weds - Night, 
+582ANB0X,ONT2 Outbound Wed-Sat - Nights, 
+582ANC0S,M/Tu/Th/Fr (18:00p - 04:30a), 
+582ANC0W,ONT2 ICQA Sun-Weds - Nights 10, 
+582ANC0X,ONT2 ICQA Wed-Sat - Nights 10h, 
+582ANF0W,ONT2 Facilitie Sun-Weds -Night, 
+582ANF0X,ONT2 Facilities Wed-Sat -Night, 
+582ANF1W,ONT2 Facility Sun - Wed Nights, 
+582ANF1X,"Wed - Sat, Night Generic",Wed-Sat
+582ANI1W,ONT2 IT Wed-Sat Nights Generic, 
+582ANL0W,ONT2 Learning Sun-Weds - Night, 
+582ANL0X,ONT2 Learning Wed-Sat - Nights, 
+582ANN0S,M/Tu/Th/Fr (18:00p - 04:30a), 
+582ANN0W,ONT2 Inbound Sun-Weds - Nights, 
+582ANN0X,ONT2 Inbound Wed-Sat - Nights, 
+582ANS1W,ONT2 Support - Sun-Wed Nights, 
+582ANS1X,ONT2 Support - Wed-Sat-Nights, 
+582ANS5W,ONT2 Support-Su-We-Night7-5:30, 
+582ANS5X,ONT2 Support-We-Sa-Night7-5:30, 
+582ANZ0C,Mon - Fri 17:00 - 3:30 DONUT,Mon-Fri
+582ANZ0E,Mon-Thurs 17:00 3:30,Mon-Thurs
+582ANZ0I,SuMThF 17:00 - 3:30 FRESH,SuMThF
+582ANZ0K,Tue-Fri 17:00 3:30,Tu-Fri
+582ANZ0N,SuThFSa 17:00 - 3:30 FRESH,SuThFSa
+582ANZ0P,"Sun-Mon,Wed-Thurs 17:00 3:30",SuMWTh
+582ANZ0Q,"Mon-Tue, Fri-Sat 17:00 3:30",MTuFSa
+582ANZ0V,SuTuWSa 17:00 - 3:30 FRESH,SuTuWSa
+582ANZ0W,ONT4 Su-W Nights 10 hrs Sche,Su-W
+582ANZ0X,ONT4 W-Sa Nights 10 hr Sched,W - Sa
+582AWWMD,Fri-Mon 6:45a-5:00p,F-M 645-5
+582AWWOD,Fri-Mon 7:00a-5:15p,F-M 7-515
+582AWZ0D,Fri-Mon 6:00 16:30,Fri-Mon
+582AXWMY,Fri-Mon 7:30p-5:45a,F-M730-545
+582AXWNY,Fri-Tue 6:00p-2:30a,F-T 6-2:30
+582AXWOY,Fri-Mon 8:00p-6:15a,F-M 8-615
+582AXWQY,Fri-Mon 7:30p-5:45a,F-M730-545
+582AXZ0L,Sat-Tue 17:00 3:30,Sa-Tue
+582AXZ0Y,Fri-Mon 17:00 3:30,Fri-Mon
+582HDA0A,ONT2 Pack Sun - Thur - Days 8, 
+582HDA0B,ONT2 Pack Tues - Sat - Days 8, 
+582HDBBB,Tue-Sat 9:30a-6:00p,T-Sa 930-6
+582HDBCB,Tue-Sat 9:00a-5:30p,T-Sa 9-530
+582HDBDB,Tue-Sat 9:00-5:30p,T-Sa 9-530
+582HDBNB,Tue-Sat 9:00a-5:30p,T-Sa 9-530
+582HDBSB,"Tue - Sat, 09:00 - 17:30",T-S 9-1730
+582HDC0A,ONT2 ICQA Sun - Thur - Days 8, 
+582HDC0B,ONT2 ICQA Tues - Sat - Days 8, 
+582HDC0F,ONT2 ICQA Mon - Fri - Days 8, 
+582HDF0A,ONT2 Fac Sun-Thur-Days 8, 
+582HDF0B,ONT2 Fac Tues - Sat - Days 8, 
+582HDF0F,ONT2 Fac Mon - Fri - Days 8, 
+582HDF1A,ONT2 Fac Sun - Thu Days, 
+582HDF1B,ONT2 Fac Tue - Sat Days, 
+582HDF1F,ONT2 Fac - Gen M-F-Days 8, 
+582HDF3A,930am-6pm ONT2 Fac Su-Th-Days8,Sun-Thur
+582HDFBA,Sun-Thu 9:30-6:00p,S-Th 930-6
+582HDFCA,Sun-Thu 9:00a-5:30p,S-Th 9-530
+582HDFDA,Sun-Thu 9:00a-5:30p,S-Th 9-530
+582HDFNA,Sun-Thu 9:00a-5:30p,S-Th 9-530
+582HDFSA,Sun-Thu 9:00a-5:30p,S-Th9-530
+582HDH0A,ONT2 Ship Sun - Thur - Days 8, 
+582HDH0B,ONT2 Ship Tues - Sat - Days 8, 
+582HDH0D,ONT2 Ship Fri- Tues- Days 8 hr,ONT2 Fr-Tu
+582HDH0F,ONT2 Ship Mon-Fri - Days 8 hr,ONT2 M-Fr
+582HDH2A,Sun-Thur 09:00-17:30,Sun-Thurs
+582HDH2B,Tue - Sat 09:00-17:30,Tue-Sat
+582HDI0A,ONT2 IT Sun - Thur - Days 8, 
+582HDI0B,ONT2 IT Tues - Sat - Days 8, 
+582HDI0F,ONT2 IT Mon - Fri - Days 8, 
+582HDI1A,ONT2 IT- Gen Sun-Thur - Days 8,Sun-Thu
+582HDI1B,ONT2 IT- Gen Tue - Sat - Day 8,Tue - Sat
+582HDI1F,ONT2 IT - Gen Mon - Fri- Day 8,Mon - Fri
+582HDI1V,ONT2 IT - Gen Mon-Fri-Night 8,Mon -Fri
+582HDL0A,ONT2 Learning Sun-Thur Days 8, 
+582HDL0B,ONT2 Learning Tues-Sat-Days 8, 
+582HDL0F,ONT2 Learning Mon-Fri-Days 8, 
+582HDL1F,ONT2 Learning-Generic M-F-Days, 
+582HDM0A,ONT2 MOD Sun - Thur - Days 8, 
+582HDM0B,ONT2 MOD Tues - Sat - Days 8, 
+582HDM8A,Sun-Thurs 07:00-15:30,Sun-Thurs
+582HDM8B,Tue-Sat 07:00-15:30,Tue-Sat
+582HDMCF,Mon-Fri 9:00a-5:30p,M-F 9-530
+582HDMSF,Mon-Fri 6:00a-5:30p,M-F 6-530
+582HDO0A,ONT2 Sort Sun - Thur - Days 8, 
+582HDO0B,ONT2 Sort Tues - Sat - Days 8, 
+582HDP0A,ONT2 Pick Sun - Thur - Days 8, 
+582HDP0B,ONT2 Pick Tues - Sat - Days 8, 
+582HDR0A,ONT2 Receive Sun-Thur-Days 8, 
+582HDR0B,ONT2 Receive Tues -Sat-Days 8, 
+582HDR2A,Sun-Thurs 08:30-17:00,Sun-Thurs
+582HDR4A,Sun-Thurs 08:00-16:30,Sun-Thur
+582HDR4F,"ONT2 Rec Mon-Fri-Days 8,8-1630",M-F
+582HDS0A,ONT2 Supp Sun - Thur - Days 8, 
+582HDS0B,ONT2 Supp Tues - Sat - Days 8, 
+582HDS0F,ONT2 Supp Mon - Fri - Days 8, 
+582HDS1A,ONT2 Supp - Gen Sun-Thur-Day 8, 
+582HDS1B,ONT2 Supp-Gen Tues-Sat-Days 8, 
+582HDS1F,ONT2 Supp Gen Mon-Fri-Days 8, 
+582HDS4F,"Mon-Fri, 08:00-16:30",Mon-Fri
+582HDS5A,ONT2 Supp-Su-Th-Days 10-6:30, 
+582HDS5B,ONT2 Supp-Tu-Sa-Days 10-6:30, 
+582HDS8F,ONT2 Support-M-F-Days 7-3:30, 
+582HDT0A,ONT2 Stow Sun-Thur-Days 8, 
+582HDT0B,ONT2 Stow Tues - Sat - Days 8, 
+582HDT8A,700-1530 ONT2 Stow Su-Th Days8,Sun -Thur
+582HDV1F,Mon-Fri 7:00a-3:30p,M-F 7-330
+582HDV2F,Mon-Fri 7:30a-4:00p,M-F 730-4
+582HDV3F,Mon-Fri 08:00a-16:30p,M-F
+582HDV4F,Mon-Fri 8:30a-5:00p,M-F 830-5
+582HDV6F,Mon - Fri 07:00 - 15:30,Mon-Fri
+582HDV8F,ONT2 Vflex M - F 6:00 - 14:30,ONT2 Vflex
+582HDY0A,ONT2 Safety Sun - Thur-Days 8, 
+582HDY0B,ONT2 Safety Tues-Sat - Days 8, 
+582HDY0F,ONT2 Safety Mon - Fri - Days 8, 
+582HDY1A,ONT2 Safety Sun - Thur Days, 
+582HDY1B,ONT2 Safety Tue - Sat Days, 
+582HDY1F,ONT2 Safety Mon - Fri Days, 
+582HDZ1F,ONT4 Fresh M - F Days Generic,ONT4 Fresh
+582HDZ5F,ONT4 Mon - Fri 7:00 - 15:30,M-F
+582HDZ5G,Sun - Thu 7:00 - 15:30,Sun - Thu
+582HDZ9F,ONT4 Mon - Fri 8:00 - 16:30,M-F
+582HNA0W,ONT2 Pack Sun-Thurs-Nights 8, 
+582HNA0X,ONT2 Pack Tues-Sat -Nights 8, 
+582HNA2X,Tue-Sat 18:00-02:30,Tue-Sat
+582HNBBX,Tue-Sat 6:30p-3:00a,T-Sa 630-3
+582HNBCX,Tue-Sat 6:00p-2:30a,T-Sa 6-230
+582HNBDX,Tue-Sat 6:00p-2:30a,T-Sa6-230
+582HNBNX,Tue-Sat 6:00p-2:30a,T-Sa 6-230
+582HNBSX,"Tue - Sat, 18:00 - 02:30",T-S 18-230
+582HNC0W,ONT2 ICQA Sun - Thurs-Nights 8, 
+582HNC0X,ONT2 ICQA Tues - Sat -Nights 8, 
+582HNF0V,ONT2 Fac Mon - Fri - Nights 8, 
+582HNF0W,ONT2 Fac Sun - Thurs - Nights, 
+582HNF0X,ONT2 FacTues - Sat - Nights, 
+582HNF1W,ONT2 Fac Sun - Thu Nights, 
+582HNF1X,ONT2 Fac Tue - Sat Nights, 
+582HNFBW,Sun-Thu 6:30p-3:00a,S-Th 630-3
+582HNFCW,Sun-Thu 6:00p-2:30a,S-Th 6-230
+582HNFDW,Sun-Thu 6:00p-2:30a,S-Th 6-230
+582HNFNW,Sun-Thu 6:00p-2:30a,S-Th 6-230
+582HNFSW,Sun-Thu 6:00p-2:30a,S-Th 6-230
+582HNH0W,ONT2 Ship Sun-Thurs-Nights 8, 
+582HNH0X,ONT2 Ship Tues - Sat -Nights 8, 
+582HNI0V,ONT2 IT Mon - Fri - Nights 8, 
+582HNI0W,ONT2 IT Sun - Thurs - Nights 8, 
+582HNI0X,ONT2 IT Tues - Sat - Nights 8, 
+582HNI1U,ONT2 IT - Gen Tue-Sat-Night 8,Tue - Sat
+582HNI1W,ONT2 IT-Gen Sun -Thur-Night 8, 
+582HNL0V,ONT2 Learning Mon-Fri-Nights 8, 
+582HNL0W,ONT2 Learning Sun-Thurs-Nigh 8, 
+582HNL0X,ONT2 Learning Tues-Sat-Nigh 8, 
+582HNM0W,ONT2 MOD Sun-Thurs -Nights 8, 
+582HNM0X,ONT2 MOD Tues - Sat - Nights 8, 
+582HNMSV,Mon-Fri 6:00p-2:30a,M-F 6-230
+582HNO0W,ONT2 Sort Sun-Thurs-Nights 8, 
+582HNO0X,ONT2 Sort Tues - Sat-Nights 8, 
+582HNO2X,Tue-Sat 18:00-02:30,Tue-Sat
+582HNP0W,ONT2 Pick Sun-Thurs-Nights 8, 
+582HNP0X,ONT2 Pick Tues - Sat -Nights 8, 
+582HNR0W,ONT2 Receive Sun-Thurs-Nig 8, 
+582HNR0X,ONT2 Receive Tues-Sat-Nights 8, 
+582HNS0V,ONT2 Supp Mon - Fri - Nights 8, 
+582HNS0W,ONT2 Supp Sun-Thurs-Nights 8, 
+582HNS0X,ONT2 Supp Tues-Sat-Nights 8, 
+582HNS1V,ONT2 Supp-Gen Mon-Fri-Nights 8, 
+582HNS1W,ONT2 Supp-Gen Sun-Thurs-Nigh 8, 
+582HNS1X,ONT2 Supp-Gen Tues-Sat-Nigh 8, 
+582HNS4X,ONT2 Supp- Tue-Sat-Nigh 5-1:30, 
+582HNS5W,ONT2 Supp-Su-Th-Nights 7-3:30, 
+582HNS5X,ONT2 Supp-Tu-Sa-Nights 7-3:30, 
+582HNT0W,ONT2 Stow Sun-Thurs-Nights 8, 
+582HNT0X,ONT2 Stow Tues-Sat-Nights 8, 
+582HNV1V,Mon-Fri 3:00p-11:30p,M-F 3-1130
+582HNV2V,Mon-Fri 3:30p-12:00a,M-F 330-12
+582HNV3V,Mon-Fr 4:00p-12:30a,M-F 4-1230
+582HNV4V,Mon-Fri 4:30p-1:00a,M-F 430-1
+582HNY0V,ONT2 Safety Mon - Fri - Nigh 8, 
+582HNY0W,ONT2 Safety Sun-Thurs-Nights 8, 
+582HNY0X,ONT2 Safety Tues-Sat-Nights 8, 
+582HNY1V,ONT2 Safety Mon - Fri Nights, 
+582HNY1W,ONT2 Safety Sun - Thur Nights, 
+582HNY1X,ONT2 Safety Tues - Sat Nights, 
+582HNZ5V,ONT4 M - F Nights 8 hr Sched,M-F
+582HWA0D,ONT2 Pack Fri - Tue - Days 8, 
+582HWC0D,ONT2 ICQA Fri - Tue - Days 8, 
+582HWH0D,ONT2 Ship Fri - Tue - Days 8, 
+582HWM0D,ONT2 MOD Fri - Tue - Days 8, 
+582HWO0D,ONT2 Sort Fri-Mon-RT- Days 8, 
+582HWP0D,ONT2 Pick Fri - Tue - Days 8, 
+582HWR0D,ONT2 Receive Fri -Tue -Days  8, 
+582HWT0D,ONT2 Stow Fri - Tue - Days 8, 
+582HWWBD,Fri-Tue 9:30a-6:00p,F-T  930-6
+582HWWCD,Fri-Tue 9:00a-5:30p,F-T 9-530
+582HWWDD,Fri-Tue 9:00a-5:30p,F-T 9-530
+582HWWND,Fri-Tue 9:00a-5:30p,F-T 9-530
+582HXA0Y,ONT2 Pack Fri-Tues-Nights 8, 
+582HXC0Y,ONT2 ICQA Fri -Tues -Nights  8, 
+582HXH0Y,ONT2 Ship Fri - Tues-Nights 8, 
+582HXM0Y,ONT2 MOD Fri - Tues - Nights 8, 
+582HXO0Y,ONT2 Sort Fri - Tues-Nights  8, 
+582HXP0Y,ONT2 Pick Fri-Tues-Nights 8, 
+582HXR0Y,ONT2 Receive Fri-Tues-Nights 8, 
+582HXT0Y,ONT2 Stow Fri - Tues-Nights 8, 
+582HXWBY,Fri-Tue 6:30p-3:00a,F-T 630-3
+582HXWCY,Fri-Tue 6:00p-2:30a,F-T 6-230
+582HXWDY,Fri-Tue 6:00p-2:30a,F-T 6-230
+582HXWNY,Fri-Tue 6:00p-2:30a,F-T 6-2:30
+582IWA0D,ONT2 Pack Fri - Mon-RT-Days 8, 
+582IWC0D,ONT2 ICQA Fri - Mon-RT-Days 8, 
+582IWH0D,ONT2 Ship Fri-Mon-RT-Days 8, 
+582IWM0D,ONT2 MOD Fri -Mon -RT-Days 8, 
+582IWO0D,ONT2 Sort Fri-Mon-RT- Days 8, 
+582IWP0D,ONT2 Pick Fri-Mon-RT-Days 8, 
+582IWR0D,ONT2 Receive Fri-Mon-RT-Days 8, 
+582IWT0D,ONT2 Stow Fri - Mon-RT -Days 8, 
+582IWWBD,Fri–Mon:9:30 – 18:00,F-M:930-18
+582IWWCD,Fri – Mon:9:00 – 17:30,F-M:9-1730
+582IWWDD,Fri–Mon:9:00 – 17:30,F-M:9-1730
+582IWWND,Fri–Mon:9:00–17:30,F-M:9-1730
+582IXA0Y,ONT2 Pack Fri-Mon-RT-Nights 8, 
+582IXC0Y,ONT2 ICQA Fri -Mon-RT-Nights 8, 
+582IXH0Y,ONT2 Ship Fri-Mon-RT- Nights 8, 
+582IXM0Y,ONT2 MOD Fri-Mon-RT-Nights 8, 
+582IXO0Y,ONT2 Sort Fri-Mon-RT-Nights 8, 
+582IXP0Y,ONT2 Pick Fri-Mon -RT-Nights 8, 
+582IXR0Y,ONT2 Receive Fri-Mon-RT-Nig 8, 
+582IXT0Y,ONT2 Stow Fri-Mon-RT-Nights 8, 
+582IXWBY,Fri–Mon:18:30–3:00,F-M:1830-3
+582IXWCY,Fri–Mon:18:00–2:30,F-M:18-230
+582IXWDY,Fri–Mon:18:00 – 2:30,F-M:18-230
+582IXWNY,Fri–Mon:18:00–2:30,F-M:18-230
+582SWWQD,Fri-Mon 6:45a-5:00p,F-M 645-5
+5S,Mon-Fri 9:00-16:40, 
+639,Mon-Fri:5pm-2AM(17:00-26:00),M-F 5p-2a
+640,Tue-Sat 6p-2:30a(18:00-02:30),T-Sa6p-230
+641,Wed - Sat 17:00 to 01:30am,W-S:5p-130
+649ADF1A,"Sun - Wed, Day Generic",Sun-WEd
+649ADF1B,"Wed - Sat, Day Generic",Wed-Sat
+649ADM0A,ONT2 MOD Sun-Wed - Days 10hr, 
+649ADM0B,ONT3 MOD Wed-Sat - Days 10hr, 
+649ADM0C,M/Tu/Th/Fr 7:00 - 17:30,M/Tu/Th/Fr
+649ANF1W,"Sun - Wed, Night Generic",Sun-Wed
+649ANF1X,"Wed - Sat, Night Generic",Wed-Sat
+649ANM0S,M/Tu/Th/Fr 18:00 - 04:30,M/Tu/Th/Fr
+649ANM0W,ONT3 MOD Sun-Weds - Nights 10h, 
+649ANM0X,ONT3 MOD Wed-Sat - Nights 10hr, 
+649HDM0F,ONT3 MOD Mon-Fri- 9:00 - 17:30,ONT3 MOD
+A,"HMD mo,tu,thurs-sat 1000-1845", 
+A003,Sun - Tues; Sat 0730-1800,S-TSa730-6
+A004,Sun; Thur-Sat 0730-1800,S;R-Sa73-6
+A1,Fri-Mon 7:30a-6:00p,F-M 730-6
+A1AR,Sun-Wed Days Thurs OT, 
+A1ARF,SUN-WED DAY OT THURS,SUN-WED D
+A1BR,SUN-WED DAYS OT FRI,SUN - WED
+A1BRF,SUN-WED DAYS OT FRI,SUN-WED D
+A1I,"Sun - Wed, 06:30 - 17:00",Sun-Wed
+A1O,"Sun - Wed, 07:00 - 17:30",Sun-Wed
+A1R,"Sun - Wed, 06:00 - 16:30",Sun-Wed
+A1RF,"Sun - Wed, 05:45 - 16:15",Sun-Wed
+A2,Fri-Mon 7:30a-6:00p,F-M 730-6
+A2AR,WED-SAT DAYS OT TUES,WED-SAT DA
+A2ARF,WED-SAT DAYS OT TUES,WED-SAT D
+A2BR,WED-SAT DAYS OT MON,WED-SAT DA
+A2BRF,WED-SAT DAYS OT MON,WED-SAT D
+A2DD,Mon-Fri 0630-1500,M-F630a-3p
+A2I,"Wed - Sat, 06:30 - 17:00",Wed-Sat
+A2O,"Wed - Sat, 07:00 - 17:30",Wed - Sat
+A2R,"Wed - Sat, 06:00 - 16:30",Wed-Sat
+A2RF,"Wed - Sat, 05:45 - 16:15",Wed-Sat
+A3,Fri-Mon 8:00a-6:30p,F-M 8-6:30
+A3AR,"M,T,TH, F DAYS OT WED","M,T,TH,F D"
+A3ARF,"M,T,TH,F DAYS OT WED","M,T,TH,F D"
+A3BR,"M,T,TH,F DAYS OT SAT","M,T,TH,F D"
+A3BRF,"M,T,TH,F DAYS OT SAT","M,T,TH,F D"
+A3DD,Sun - Wed 2000-0630,S-W
+A3I,"Mon-Tue Thu-Fri, 06:30 - 17:00","M,T,Th,F"
+A3IB,"Sun - Tue, 06:30 - 17:00",Su-Tu
+A3O,"Mon-Tue Thu-Fri, 18:00 - 04:30","M,T,Th,F"
+A3R,"Mon-Tue Thu-Fri, 06:00 - 16:30","M,T,Th,F"
+A3RF,"Mon-Tue Thu-Fri, 05:45 - 16:15","M,T,Th,F"
+A4,"Thurs - Sun, 07:30 - 18:00",Th-Su
+A4DD,Sun - Wed 0600-1630,S-W 6-430p
+A5,Sat-Sun 12:00-19:00,Peak Temp
+A5DD,Sun-Wed 0900-1930,S-W 9-730p
+A6DD,Wed - Sat 0800-1830,W-S 8-630p
+A7O,"Sun - Tue, Thu, 07:00 - 17:30","Su-T, Th"
+AA,"sun10-1830 tue,thu,fri 1030-19", 
+AA01,Wed-Fri 7-1530,W-F7-15:30
+AA02,M-F 2100-530,M-F21-5:30
+AA03,M-F  0800-1630,M-F8-1630
+AA10,sun-thurs 1315-2200, 
+AA12,tue-sat 1315-2200, 
+AA13,mon-fri 0800-1645, 
+AA16,"sun, wed-sat 1315-2200", 
+AA17,mon-fri 0900-1745, 
+AA18,tue-sat 0700-1545, 
+AA19,"sun, wed-sat 1015-1900", 
+AA2,tue-sat 1115-2000, 
+AA3,sun-thurs 1315-2200, 
+AA4,mon-fri 0700-1545, 
+AA5,"sun, wed-sat 0700-1545", 
+AA6,tue-sat 0900-1745, 
+AA7,sun-mon thu-sat 0900-1745, 
+AA8,"sun, wed-sat 0800-1615", 
+AA9,tue-sat 0800-1645, 
+AAAA,FC Variable Sched,Varies
+AAAATZ20,Salarys_TZ_MDMDF_20, 
+AAAB,GBL FC Variable Sched,Varies
+AAAC,CAN FC Variable Sched,AAAC
+AAAT,US FC CA Variable Sched 10s,AAAT
+AAATZ17,St Aushilfe 17std, 
+AAD3,3 Day Shift,3 Days SSP
+AAN1,Rotation 1 00:00-08:30,N1
+AAN2,Rotation 2 00:00-08:30,N2
+AAN3,Rotation 3 00:00-08:30,N3
+AAOB,Mon-Fri 09:30-18:00,Mon-Fri
+AAT1,AAT1,AAT1
+AAT2,AAT2,AAT2
+AAT3,AAT3,AAT3
+AB,"mon, tue, thur-sat 10000-1845", 
+AB01,CSA PT - 07.45-16.30,AB01
+AB02,Tu-Fr,AB02
+ABE0,Mon-Fri 8:30a-5:00p,M-F 830-5
+ABE2,M-F 800-1700,M-F 8-1700
+ABE3,Tue-Fri 8-18:30,Tue-Fri
+AC,"sun, mon, tue, fri, sat", 
+ACCCOM,CAN FC Accommodation,ACCCOM
+ACCCRT,CAN FC Accomodation,ACCCRT
+ACCFX,Variable Flex Time,ACCFX
+ACCOM,FC Accommodation,ACCOM
+ACCPT,Variable Part Time,ACCPT
+ACCRT,Variable Reduced Time,ACCRT
+ACCTFX,Variable California Flex Time,ACCTFX
+ACCTM,US FC CA Accommodation,ACCTM
+ACCTPT,Variable California Part Time,ACCTPT
+ACCTRT,Variable California RT,ACCTRT
+ACDA,Vendor Day Shift TUL1,Vendor Day
+ACNT,Vendor Night Shift TUL1,VendorNigh
+AD,"sun,mon,thu-sat10-1830,1215-21", 
+AD01,Sun-Wed 700-1730,Sun-Wed
+AD02,Sun-Wed 730-1800,Sun-Wed
+AD03,Sun-Wed 800-1830,Sun-Wed
+AD04,Sun-Wed 500-1530,Sun-Wed
+AD05,Sun-Wed 600-1630,Sun-Wed
+AD06,Sun-Wed 1200-2230,Sun-Wed
+AD07,Sun-Wed 0630-1700,Su-W 630-5
+AD08,Sun-Wed 11:30a-10:00p,S-W1130-10
+AD09,Sun-Wed 11:00a-9:00p,S-W 11-9
+AD51,Shift A,A
+AD52,"Shift A OT 50h, Thur",A OT 50h
+AD53,"Shift A OT 50h, Thur",Shift A 50
+AD61,"Shift A OT 60h, Thu & Fri",A OT 60h
+AD62,"Shift A OT 60h, Thu & Fri",A OT 60h
+AD63,"Shift A OT 60h, Thu & Fri",Shift A 60
+ADIB,Sun-Wed 06:30-17:00,Su-W630-5p
+ADIC,Sun-Wed 06:30-16:00,Su-W630-16
+ADMIN,Central shift for Admin, 
+ADMIN1,Support Functions, 
+ADMIN1-S,ADMIN1-S, 
+ADMN,ADMN_MDMDF,MDMDF
+AE,"su,mo,tu,fr,sa 1030-19,1215-21", 
+AF,"mon,tue,thurs-sat 0900-1745", 
+AFL1,"Sun-Wed, 06:30-17:30",Sun-Wed
+AFL2,"Wed-Sat, 06:30-17:30",Wed-Sat
+AFL3,"Sun-Wed, 19:30-06:30",Sun-Wed
+AFL4,"Wed-Sat, 19:30-06:30",Wed-Sat
+AFL5,"Mon-Tue, Thur-Fri 630-1730","M,Tu,Th,F"
+AG,"mon,tues,thurs-sat 0900-1745", 
+AG01,AG01,AG01
+AH,"mon, tues, thurs-sat 0900-1745", 
+AHR,M-F 08:00-16:30,M-F 8-16:3
+AI,"su,mo,tu,fr,sa 1030-19,1215-21", 
+AI10,Inbound M-F 15:00-23:15,InboundM-F
+AI11,Inbound M-F 23:00-7:15, 
+AI12,M-F 6:45-15:00,M-F 6:45
+AJAD,SUN-THU 17:30 - 23:30, 
+ALO1,Arrêts longue durée 1, 
+ALO2,Arrêts longue durée 2, 
+AM06,AM06, 
+AM1P,Sun-Wed 07:15-17:45,Su-W 7:15
+AM22,AM22,AM22
+AM23,AM23,AM23
+AM24,YC94, 
+AM2P,Sun-Wed 17:00-03:30,Su-W 17:00
+AM3P,Wed-Sat 07:15-17:45,W-Sa 7:15
+AM4P,Wed-Sat 17:00-03:30,W-Sa 17:00
+AM59,AM59, 
+AM60,AM60, 
+AM61,AM61, 
+AM62,AM62, 
+AM63,AM63,AM63
+AM64,AM64, 
+AM65,AM65, 
+AM66,AM66, 
+AM67,AM67, 
+AM68,AM68, 
+AM88,AM88, 
+AMC1,Sun-Wed 07:00-18:00,Su-W 7-18
+AMC2,Wed-Sa 07:00-18:00,W-Sa 7-18
+AMF1,Sun-Wed 7AM - 5:30PM,Sun-Wed 7A
+AMF10,Sun-Wed:06:00-16:30,S-W:6-1630
+AMF11,Wed-Sat:06:00-16:30,W-Sa6-1630
+AMF12,"Mon,Tue,Thurs,Fri:06:00-16:30",MTTF6-1630
+AMF2,Wed - Sat 7AM - 5:30PM,Wed - Sat
+AMF4,MON-TUES/THUR-FRI 0700-1730,AMF4
+AMF6,Fri-Mon 07:00 - 17:30,AMF6
+AMF9,Wed-Fri 2000-2500,AMF9
+AMFA,Wed-Sat 20:00-06:30,Wed-Sat
+AMFF,"Sun,Tue-Wed,Sat 8pm-630am",TEMP PM
+AMFG,"Sun-Mon,Thu-Fri 8pm-630am",TEMP PM
+AMFH,"Sun, Wed-Fri 20:00-06:00","Sun, W-Fri"
+AMFI,"Sun - Wed, 20:00 - 06:30",Su-W
+AMFJ,"Mon - Thur, 20:00 - 06:30",M-Th
+AMFK,"Tue - Fri, 20:00 - 06:30",Tu-F
+AMFL,"Sun-Mon Fri-Sat, 20:00 - 06:30","Su,M,F,Sa"
+AMFM,"Sun - Tue, Sat, 20:00 - 06:30","Su-T, Sa"
+AMFN,"Sun-Thur, 07:00-15:30",Sun-Thur
+AMFO,"Tues-Sat, 07:00-15:30",Tues-Sat
+AMFP,"Thur-Sun, 20:00-0630am",Thur-Sun
+AMFQ,Fri-Sat 20:00-06:30,F-Sa8p-630
+AMFR,"Sun, Sat 07:00-17:30",Su-Sa7-530
+AMFS,"Sun-Mon, Fri-Sat 06:45-17:15","S,M, F, Sa"
+AMFT,"Tuesday - Friday, 06:45-17:15",Tue-Fri
+AMZLFLEX,AMZL ZA 35 Std Flexi, 
+AMZL_001,"AMZL_001 38,75 L3", 
+AMZL_002,"AMZL_002 38,75 L3", 
+AMZL_003,"AMZL_003 38,75 L3", 
+AMZL_004,"AMZL_004 38,75 L3", 
+AMZL_005,"AMZL_005 38,75 L3", 
+AMZL_006,"AMZL_006 38,75 L3", 
+AMZL_007,"AMZL_007 38,75 L3", 
+AMZL_008,"AMZL_008 38,75 L3", 
+AMZL_009,"AMZL_009 38,75 L3", 
+AMZL_010,"AMZL_010 38,75 L3", 
+AMZL_011,"AMZL_011 38,75 L3", 
+AMZL_012,"AMZL_012 38,75 L3", 
+AMZL_013,"AMZL_013 38,75 L3", 
+AMZL_014,"AMZL_014 38,75 L3", 
+AMZL_015,"AMZL_015 38,75 L3", 
+AMZL_016,"AMZL_016 38,75 L3", 
+AMZL_017,"AMZL_017 38,75 L3", 
+AMZL_018,"AMZL_018 38,75 L3", 
+AMZL_019,"AMZL_019 38,75 L3", 
+AMZL_020,"AMZL_020 38,75 L3", 
+AMZL_021,"AMZL_021 38,75 L3", 
+AMZL_022,"AMZL_022 38,75 L3", 
+AMZL_023,"AMZL_023 38,75 L3", 
+AMZL_024,"AMZL_024 38,75 L3", 
+AMZL_025,"AMZL_025 38,75 L3", 
+AO12,M-F 23:00-07:15,M-F 23:00
+AO13,M-F 15-23:15,M-F 15:00
+AO14,"Sun-Mon, Fri-Sat 7-17:15","Su-M, F-Sa"
+AO1A,Sun-Thurs OT Fri 700-1515,"S-Th, OT F"
+AO1B,"Sun-Thurs, OT Sat 0700 - 1515","S-Th, OT S"
+AO2C,"Tue-Sat, OT Mon 0700-1515","T-Sa, OT M"
+AO2D,"Tue-Sat, OT Sun 0700-1515","T-Sa, OT S"
+AO3A,Sun-Thurs OT Fri 1500-2315,"S-Th, OT F"
+AO3B,"Sun-Thurs, OT Sat 1500-2315","S-Th, OT S"
+AO4C,"Tue-Sat, OT Mon 1500-2315","T-Sa, OT M"
+AO4D,"Tue-Sat, OT Sun 1500-2315","T-Sa, OT S"
+AO5A,"Sun-Thurs, OT Fri 2300-0715","S-Th, OT F"
+AO5B,"Sun-Thurs, OT Sat 2300-0715","S-Th, OT S"
+AO6C,"Tue-Sat, OT Mon 2300-0715","T-Sa, OT M"
+AO6D,"Tue-Sat, OT Sun 2300 - 0715","T-Sa, OT S"
+APP1,Apprentice, 
+AS01,AS01, 
+AS02,AS02, 
+ASP,"Mon - Fri, 07:00 - 15:30",M-F 7-1530
+AT11,"Su,M,W,F,Sa 0900-1745",AT11
+AT96,Sun;Mon;Wed;Fri;Sat, 
+AV20,"Su-M, F-Sa 20-6:15","S,M,F,Sa"
+AVAD,M-F 6:00-14:30,M-F 6-1430
+AVAE,M-Th 18:45-29:15,M-Th 18:45
+AVAF,Tu-Sa  6:00-14:30,Tu-Sa
+AVAG,M-F 09:00-17:30,M-F 9-1730
+AVAH,Su-Sa 7-19:00,Su-Sa 7:00
+AVAI,Su-Sa 19:00-7:00,Su-Sa 1900
+AVAJ,M-F 6:30-15:15,M-F 6:30
+AVAK,Su-Th 7-15:15,Su-Th 7
+AVAL,Su-Th 15:00-23:15,Su-Th 15:
+AVAM,Su-Th 23-07:15,Su-Th 2300
+AVAN,M-F 7:30-15:30,M-F 7:30
+AVAO,M-F 8-16:30,M-F 8-16:3
+AVAP,M-F 9-17:00,M-F 9-17:0
+AVAQ,M-F 15:30-24:00,M-F15:3-24
+AVAR,M-F 18:00 pm-02:30 am,18:00-2:30
+AVAT,Mon-Fri 08:30-17:00,M-F 8:30-5
+AVF1,M-F 09:00-17:30,M-F 9-1730
+AVF2,Tue-Sat 17:00 - 01:00,Tue-Sat
+AVF3,Mon-Fri 01:00-09:30,M-F
+AVI0,Mon-Fri 1000-1800,Mon-Fri
+AVI1,Sun-Thurs  06:45-15:00,Sun-Thurs
+AVI2,Tues-Sat 06:45-15:00,Tues-Sat
+AVI3,Sun-Thurs 14:45-23:00,Sun-Thurs
+AVI4,Tues-Sat 14:45-23:00,Tues-Sat
+AVI5,Sun-Thurs 22:45-07:00,Sun-Thurs
+AVI6,Tues-Sat 22:45-07:00,Tues-Sat
+AVO1,Sun-Thurs 07:00-15:15,Sun-Thurs
+AVO2,Tues-Sat 07:00-15:15,Tues-Sat
+AVO3,Sun-Thurs 15:00-23:15,Sun-Thurs
+AVO4,Tues-Sat 15:00-23:15,Tues-Sat
+AVO5,Sun-Thurs 23:00-07:15,Sun-Thurs
+AVO6,Tues-Sat 23:00-07:15,Tues-Sat
+AVQ1,Sun-Thurs 07:00-15:15,Sun-Thurs
+AVQ2,Tues-Sat 07:00-15:15,Tues-Sat
+AVQ3,Su-Th 15:00-23:15,Su-Th
+AVQ4,Tu-Sa 15:00-23:15,Tu-Sa
+AVQ5,Su-Th 23:00-07:15,Su-Th
+AVQ7,M-F 07:00-15:15,M-F
+AVQ8,Tu-Sa 2230-0715,Tu-Sa
+AVQ9,"S, M, W, Th, Fri 16:00-00:30","S, M-W-F"
+AVV1,Sun-Thur 07:00-15:15,Su-Th7-315
+AVV2,Tu-Sat 07:00-15:15,Tu-Sa7-315
+AWAY,Mon-Fri 7:00am to 3:30 pm,Mon-Fri
+AZ1,Mon-Th 0900-1745 Sat 0700-1545,AZ1
+AZ2,Sun 0700-1545 M-Thu 1015-1900,AZ2
+AZ3,M-Wed 0915-1800 F-Sa 1015-1900,AZ3
+AZ4,"Su 1015-1900 M,Tu,Th,F 08-1645",AZ4
+AZUB,AZUB_MDMDF,MDMDF
+B,"HMD su-tu,fr,sa 1030-19,9-1745", 
+B ICQA,Mon-Thurs 5:30pm-4:00am, 
+B004,Mon-Thur 0730-1800,M-Th730-6p
+B1,Mon-Thur 7:30a-6:00p,M-Th 730-6
+B1AR,MON-THURS NGHT OT FRI,M-TH NIGHT
+B1ARF,M-TH NGHT OT FRI,M-TH NGHT
+B1BR,MON-THURS NGHT OT SAT,M-TH NIGHT
+B1BRF,M-TH NGHT OT SAT,M-TH NGHT
+B1I,"Sun - Wed, 17:30 - 04:00",S-W 1730-4
+B1O,"Sun - Wed, 18:00 - 04:30",S-W 18-430
+B1RF,"Sun - Wed, 17:15 - 03:45",Sun-Wed
+B2,Mon-Thur 7:30a-6:00p,M-Th 730-6
+B2AR,WED-SAT NGHT OT TUES,W-SAT NGHT
+B2ARF,WED-SAT NGHT OT TUES,WED-SAT N
+B2BR,WED-SAT NGHT OT MON,W-SAT NGHT
+B2BRF,WED-SAT NGHT OT MON,WED-SAT N
+B2I,"Wed - Sat, 17:30 - 04:00",W-S 1730-4
+B2O,"Wed - Sat, 18:00 - 04:30",W-S 18-430
+B2RF,"Wed - Sat, 17:15 - 03:45",Wed-Sat
+B3,Mon-Fri 12:30p-9:00p,M-F 1230-9
+B3I,"Mon-Tue Thu-Fri, 17:30 - 04:00","M,T,Th,F"
+B3O,"Mon-Tue Thu-Fri, 18:00 - 04:30","M,T,TH,F"
+B3OB,"Sun - Tue, 07:30 - 18:00",Su-Tu
+B3RF,"Mon-Tue Thu-Fri, 17:15 - 03:45","M,T,TH,F"
+B4DD,Wed - Sat 0600-1630,W-Sa6-430p
+B5,Sun-Thur 1230-2100,Sun-Thur
+B5DD,Wed-Sat 0900-1930,W-Sa9-730p
+B6,"Sun - Tue, Thu 07:30 - 18:00","Su-Tu, Th"
+B6A1,Fresh A1 38.75, 
+B6A2,Fresh A2 38.75, 
+B6AI11A,Fresh I1-1a 38.75,B6AI11A
+B6AI21A,Fresh I2-1a 38.75,B6AI21A
+B6AO11A,Fresh O1-1a 38.75,B6AO11A
+B6AO21A,Fresh O2-1a 38.75,B6AO21A
+B6B3,Fresh B3 38.75, 
+B6B4,Fresh B4 38.75, 
+B6C2,Fresh C2 38.75, 
+B6D3,Fresh D3 38.75, 
+B6DD,Wed-Sat 07:30-18:00,Wed-Sat
+B6IB1A,"F B6IB1A 39,0", 
+B6IB1B,"F B6IB1B 39,0", 
+B6IB1C,"F B6IB1C 39,0", 
+B6IB1D,"F B6IB1D 39,0", 
+B6IB2A,"F B6IB2A 39,0", 
+B6IB2B,"F B6IB2B 39,0", 
+B6IB2C,"F B6IB2C 39,0", 
+B6IB2D,"F B6IB2D 39,0", 
+B6ICQAM1,Fresh ICQA-M1 38.75, 
+B6ICQAM2,Fresh ICQA-M2 38.75, 
+B6ICQAM3,Fresh ICQA-M3 38.75, 
+B6LA1,Fresh A1 Lead 38.75, 
+B6LA2,Fresh A2 Lead 38.75, 
+B6LB3,Fresh B3 Lead 38.75, 
+B6LB4,Fresh B4 Lead 38.75, 
+B6LC2,Fresh C2 Lead 38.75, 
+B6LD3,Fresh D3 Lead 38.75, 
+B6LI11A,Fresh I1-1a 38.75 Lead,B6LI11A
+B6LI21A,Fresh I2-1a 38.75 Lead,B6LI21A
+B6LIB1A,"F B6LIB1A Lead 39,0", 
+B6LIB1B,"F B6LIB1B Lead 39,0", 
+B6LIB1C,"F B6LIB1C Lead 39,0", 
+B6LIB1D,"F B6LIB1D Lead 39,0", 
+B6LIB2A,"F B6LIB2A Lead 39,0", 
+B6LIB2B,"F B6LIB2B Lead 39,0", 
+B6LIB2C,"F B6LIB2C Lead 39,0", 
+B6LIB2D,"F B6LIB2D Lead 39,0", 
+B6LO11A,Fresh O1-1a 38.75 Lead,B6LO11A
+B6LO21A,Fresh O2-1a 38.75 Lead,B6LO21A
+B6LOB1A,"F B6LOB1A Lead 39,0", 
+B6LOB1B,"F B6LOB1B Lead 39,0", 
+B6LOB1C,"F B6LOB1C Lead 39,0", 
+B6LOB1D,"F B6LOB1D Lead 39,0", 
+B6LOB2A,"F B6LOB2A Lead 39,0", 
+B6LOB2B,"F B6LOB2B Lead 39,0", 
+B6LOB2C,"F B6LOB2C Lead 39,0", 
+B6LOB2D,"F B6LOB2D Lead 39,0", 
+B6OB1A,"F B6OB1A 39,0", 
+B6OB1B,"F B6OB1B 39,0", 
+B6OB1C,"F B6OB1C 39,0", 
+B6OB1D,"F B6OB1D 39,0", 
+B6OB2A,"F B6OB2A 39,0", 
+B6OB2B,"F B6OB2B 39,0", 
+B6OB2C,"F B6OB2C 39,0", 
+B6OB2D,"F B6OB2D 39,0", 
+B6SUP1,"F B6SUP1 39,0", 
+B6SUP2,"F B6SUP2 39,0", 
+B6SUP3,"F B6SUP3 39,0", 
+B6SUPPO,Fresh Support,B6SUPPO
+B6TZ12,"F B6TZ12  12,0", 
+B6TZ20,"F B6TZ20 20,00", 
+B6TZ32,"F B6TZ32  32,0", 
+B6TZ32A,"F B6TZ32A 32,0", 
+B6TZ32B,"F B6TZ32B 32,0", 
+B6TZ4,"F B6TZ4 4,0", 
+B6TZ8,"F B6TZ8  8,0", 
+B6Z,"Mon-Tue Thu-Fri, 14:00 - 00:30","M,T,TH,F"
+BA-1,BA-1, 
+BA-2,BA-2, 
+BA-3,BA-3, 
+BA-4,BA-4, 
+BB-1,BB-1, 
+BB-2,BB-2, 
+BB-3,BB-3, 
+BB-4,BB-4, 
+BB22,Sun;Mon;Tue; Fri;Sat, 
+BB24,Sun-Wed;Sat 09:15-18:00, 
+BBA,Plot B Sun to Thurs 0730-1600,B Shift A
+BBB,Plot B Tues to Sat 0730-1600,B Shift B
+BBBB,Mon-Fri 07:30 – 16:00,Mon-Fri 07
+BC-1,BC-1, 
+BC-2,BC-2, 
+BC-3,BC-3, 
+BC-4,BC-4, 
+BC01,BC01, 
+BCN203,Mo-Fr E7:50-16:00/L11:45-19:55,BCN203
+BCN2ADMI,Support Functions-Weekly hours,BCN2ADMIN
+BCN2C3,Mo-Fr E:6:50-15:00/L:15-23:10, 
+BCN2DA1,Mo-Fr E7:05-15:15/L15:15-23:25, 
+BCN2DA2,Mo-Fr E7:05-15:15/L15:15-23:25, 
+BCN2DA3,BCN2DA3,BCN2DA3
+BCN2DA4,BCN2DA4,BCN2DA4
+BCN2DA7,BCN2DA7,BCN2DA7
+BCN2DA8,BCN2DA8,BCN2DA8
+BCN2DANO,Da Noc,BCN2DANO
+BCN2ENG,Facilities - Weekly hours,BCN2ENG
+BCN2I1,Mo-Fr E:6:50-15:00/L:15-23:10, 
+BCN2I1R1,Mo-Fr E:6:50-10:50/ 20h weekly, 
+BCN2I1R2,Mo-Fr E:11:00-15:00/20h weekly, 
+BCN2I2,Mo-Fr E:6:50-15:00/L:15-23:10, 
+BCN2I2R1,Mo-Fr E:15:00-19:00/20h weekly, 
+BCN2I2R2,Mo-Fr E:19:10-23:10/20h weekly, 
+BCN2I3,BCN2I3,BCN2I3
+BCN2I4,BCN2I4,BCN2I4
+BCN2I7,BCN2I7,BCN2I7
+BCN2I8,BCN2I8,BCN2I8
+BCN2IBNO,Inbound Noc,BCN2IBNO
+BCN2IC1,Mo-Fr7:20-15:30/L: 11:15-11:45, 
+BCN2IC2,Mo-FrE15:30-23:40/L19:15-19:45, 
+BCN2O1,Mo-Fr E7:20-15:30/L15:30-23:40, 
+BCN2O2,Mo-Fr E7:20-15:30/L15:30-23:40, 
+BCN2O3,BCN2O3,BCN2O3
+BCN2OBNO,Outbound Noc,BCN2OBNO
+BCN2ST1,Mo-Fr E7:20-15:30/L15:30-23:40, 
+BCN2ST2,Mo-Fr E7:20-15:30/L15:30-23:40, 
+BCN2SUP,Support Functions-Weekly hours,BCN2SUP
+BCN2SUP1,Mo-Fr E:08:30-17:30, 
+BCN2VRET,Early7.20-15.30Late15.30-23.40,BCN2VRET
+BCN3E1,ES BCN3E1, 
+BCN3E2,ES BCN3E2, 
+BCN3E3,ES BCN3E3, 
+BCN3E4,ES BCN3E4, 
+BCN3E5,ES BCN3E5, 
+BCN3F7,Mo-Su E:6-14:10/L:15-23:10, 
+BCN3HR1,Mon-Fri 8:30-17:30, 
+BCN3I1,ES BCN3I1, 
+BCN3I2,ES BCN3I2, 
+BCN3I3,ES BCN3I3, 
+BCN3I4,ES BCN3I4, 
+BCN3I5,Fixed Sat & Sun 15:00-23:10, 
+BCN3IT1,Mon-Fri 8:00-17:00, 
+BCN3LD1,Mon-Fri 6:00-14:15, 
+BCN3LD2,Mon-Fri 13:00-21:15, 
+BCN3LI1,ES BCN3LI1, 
+BCN3LI2,ES BCN3LI2, 
+BCN3LI3,ES BCN3LI3, 
+BCN3LI4,ES BCN3LI4, 
+BCN3LO1,ES BCN3LO1, 
+BCN3LO2,ES BCN3LO2, 
+BCN3LO3,ES BCN3LO3, 
+BCN3LO4,ES BCN3LO4, 
+BCN3O1,ES BCN3O1, 
+BCN3O1L,OB:Mo-Su E:6-14:10/L:15-23:10, 
+BCN3O2,ES BCN3O2, 
+BCN3O2L,OB: Mo-Su E:6-14:10/L:15-23:10, 
+BCN3O3,ES BCN3O3, 
+BCN3O3',OB: Mo-Su E:6-14:10/L:15-23:10, 
+BCN3O3E,OB: Mo-Su E:6-14:10/L:15-23:10, 
+BCN3O3L,OB: Mo-Su E:6-14:10/L:15-23:10,BCN3O3L
+BCN3O4,ES BCN3O4, 
+BCN3O4E,Mon-Fr (from 6.00h to 14.10h),BCN3O4E
+BCN3O4L,Sunday - Thursday 15:00-23:10,BCN3O4L
+BCN3O5,ES BCN3O5, 
+BCN3O6,ES BCN3O6, 
+BCN3O6L,"Fri-Tue (15:00-23:10), weekly", 
+BCN3O7,ES BCN3O7, 
+BCN3O7L,OB: Mo-Su E:6-14:10/L:15-23:10, 
+BCN3O8L,OB: Mo-Su E:6-14:10/L:15-23:10, 
+BCN3S1,Mon-Fri 8:00-17:00, 
+BCN3STOR,Mo-Fri 10:00-18:10,Store
+BCN9 3C,BCN9_TUE-SAT_13:00-18:45, 
+BCN9 3D,BCN9_WED-SUN_13:00-18:45, 
+BCN9 3E3,BCN9_3E_TUE-THU_13:00-18:45, 
+BCN9 3F,BCN9_FRI-TUE_13:00-18:45, 
+BCN9 4B,BCN9_MON-FRI_19:00-03:10, 
+BCN9 4BP,BCN9_MON-FRI_19:00-00:45, 
+BCN9 4C,BCN9_TUE-SAT_19:00-3:10, 
+BCN9 4CP,BCN9_TUE-SAT_19:00-00:45, 
+BCN9 4D,BCN9_WED-SUN_19:00-03:10, 
+BCN9 4DP,BCN9_WED-SUN_19:00-00:45, 
+BCN9 4E3,BCN9_4E_TUE-THU_19:00-03:10, 
+BCN9 4F,BCN9_FRI-TUE_19:00-03:10, 
+BCN9 4FP,BCN9_FRI-TUE_19:00-00:45, 
+BCN9 HR,BCN9_HR, 
+BCN9 L&D,BCN9_L&D, 
+BCN9SV1,05:00-13:30,BCN9SV1
+BCN9SV10,17:30-2:00,BCN9SV10
+BCN9SV11,19:00-3:30,BCN9SV11
+BCN9SV12,20:30-5:00,BCN9SV12
+BCN9SV2,08:00-16:30,BCN9SV2
+BCN9SV3,10:00-18:30,BCN9SV3
+BCN9SV4,05:00-13:30,BCN9SV4
+BCN9SV5,08:00-16:30,BCN9SV5
+BCN9SV6,10:00-18:30,BCN9SV6
+BCN9SV7,17:30-2:00,BCN9SV7
+BCN9SV8,19:00-3:30,BCN9SV8
+BCN9SV9,20:30-5:00,BCN9SV9
+BCN9YMM3,BCN9_MON-FRI_6:00-14:00,BCN9YMM3
+BCN9YMM4,BCN9_MON-FRI_6:00-14:00,BCN9YMM4
+BCN9YMM5,BCN9_SAT-WED_6:00-14:00,BCN9YMM5
+BCN9YMM6,BCN9_FRI-TUE_6:00-14:00,BCN9YMM6
+BCN9YMN3,BCN9_MON-FRI_22:00-6:00,BCN9YMN3
+BCN9YMN4,BCN9_TUE-SAT_22:00-6:00,BCN9YMN4
+BCN9YMN5,BCN9_SAT-WED_22:00-6:00,BCN9YMN5
+BCN9YMN6,BCN9_SAT-WED_22:00-6:00,BCN9YMN6
+BCN9YMN7,BCN9_TUE-SAT_22-610, 
+BCN9YMT3,BCN9_MON-FRI_14:00-22:00,BCN9YMT3
+BCN9YMT4,BCN9_MON-FRI_14:00-22:00,BCN9YMT4
+BCN9YMT5,BCN9_SAT-WED_14:00-22:00,BCN9YMT5
+BCN9YMT6,BCN9_WED-SUN_14:00-22:00,BCN9YMT6
+BCN9_3B,BCN9_MON-FRI_13:00-18:45,BCN9_3B
+BCN9_3C,BCN9_WED-SUN_13:00-18:45,BCN9_3C
+BCN9_3D,BCN9_FRI-TUE_13:00-18:45,BCN9_3D
+BCN9_3E,BCN9_TUE-THU_13:00-18:45,BCN9_3E
+BCN9_4A,BCN9_TUE-SAT_20:00-04:10,BCN9_4A
+BCN9_4B,BCN0_MON-FRI_20:00-04:10,BCN9_4B
+BCN9_4C,BCN9_WED-SUN_20:00-04:10,BCN9_4C
+BCN9_4D,BCN9_FRI-TUE_20:00-04:10,BCN9_4D
+BCN9_4E,BCN9_TUE-THU_20:00-04:10,BCN9_4E
+BCNICQA1,Mon-Fri 6:00-14:10, 
+BCNICQA2,Mon-Fri 15:00-23:10, 
+BD-1,BD-1, 
+BD-2,BD-2, 
+BD-3,BD-3, 
+BD-4,BD-4, 
+BD01,Wed-Sat 700-1730,Wed-Sat
+BD02,Wed-Sat 730-1800,Wed-Sat
+BD03,Wed-Sat 800-1830,Wed-Sat
+BD04,Wed-Sat 500-1530,Wed-Sat
+BD05,Wed-Sat 1200-2230,Wed-Sat
+BD06,Wed-Sat 600-1630,Wed-Sat
+BD07,Wed-Sat 0630-1700,W-Sa 630-5
+BD09,Wed-Sat 12:00p-10:00p,W-S 12-10
+BD51,Shift B,Shift B
+BD52,"Shift B OT 50h, Tue",B OT 50h
+BD53,"Shift B OT 50h, Tue",Shift B 50
+BD61,"Shift B OT 60h, Mon & Tue",B OT 60h
+BD62,"Shift B OT 60h, Mon & Tue",B OT 60h
+BD63,"Shift B OT 60h, Mon & Tue",Shift B 60
+BDOB,Sun-Wed 07:30-18:00,Su-W730-6p
+BEAG,Tue-Fri 7:30a-6:00p (Eagle),T-F Eagle
+BER6_16,"F BER6_16  16,0", 
+BER6_IC1,"BER6_IC1 39,0", 
+BER6_IC2,"BER6_IC2 39,0", 
+BER6_SU1,BER6_SU1, 
+BER6_SU2,BER6_SU2, 
+BER6_SUP,"BER6_SUP 39,0", 
+BGIA,Tue-Fri 7:30a-6:00p (Giant),T-F Giant
+BI1-S,"I1-S DMDFS 38,75",BI1-S
+BI11A,"I1-1A DMDFS 38,75",BI11A
+BI11B,"I1-1B DMDFS 38,75",BI11B
+BI12A,"I1-2A DMDFS 38,75",BI12A
+BI12B,"I1-2B DMDFS 38,75",BI12B
+BI13A,I1-3A Q4,S-ZS1-1
+BI2-3A,Inbound I2-3A,S-ZS4
+BI2-S,"I2-S DMDFS 38,75",BI2-S
+BI21A,"I2-1A DMDFS 38,75",BI21A
+BI21B,"I2-1B DMDFS 38,75",BI21B
+BI22A,"I2-2A MDMDF 38,75",BI22A
+BI22B,"I2-2B MDMDF 38,75",BI22B
+BI23A,Inbound,S-ZS2-1
+BIC1A,"ICQA-1A DMDFS 38,75",BIC1A
+BIC1B,"ICQA-1B DMDFS 38,75",BIC1B
+BIC2A,"ICQA-2A DMDFS 38,75",BIC2A
+BIC2B,"ICQA-2B DMDFS 38,75",BIC2B
+BITZ450F,BITZ450F, 
+BITZ8DF,BITZ8DF, 
+BM01,Tuesday-Friday 7-1730,T-F 7-1730
+BM02,M-Th 7:30-18,M-Th 7:30
+BM03,Su-Th 9:30-18:00,Su-Th 9:30
+BO1-S,"O1-S MMDFS 38,75",BO1-S
+BO11A,"O1-1A MMDFS 38,75",BO11A
+BO11B,"O1-1B MDDFS 38,75",BO11B
+BO11C,"O1-1C MDMFS 38,75",BO11C
+BO11D,"O1-1D MDMDS 38,75",BO11D
+BO12A,"O1-2A MMDFS 38,75",BO12A
+BO12B,"O1-2B MDDFS 38,75",BO12B
+BO12C,"O1-2C MDMFS 38,75",BO12C
+BO12D,"O1-2D MDMDS 38,75",BO12D
+BO13A,BO13A,S-ZS3
+BO2-S,"O2-S MMDFS 38,75",BO2-S
+BO21A,"O2-1A MMDFS 38,75",BO21A
+BO21B,"O2-1B MDDFS 38,75",BO21B
+BO21C,"O2-1C MDMFS 38,75",BO21C
+BO21D,"O2-1D MDMDS 38,75",BO21D
+BO22,BO22, 
+BO22A,"O2-2A MMDFS 38,75",BO22A
+BO22B,"O2-2B MDDFS 38,75",BO22B
+BO22C,"O2-2C MDMFS 38,75",BO22C
+BO22D,"O2-2D MDMDS 38,75",BO22D
+BO23A,BO23A,S-ZS4
+BOB1,Test Shift for Louise's Use,Louise
+BOS1,Mon-Fri 9:00a-5:30p,M-F 9-5:30
+BOTZ450M,BOTZ450M, 
+BOTZ8MDS,BOTZ8MDS, 
+BSDF16,BSDF16, 
+BSDF16L,BSDF16L, 
+BSDF17,BSDF17, 
+BSDF17L,BSDF17L, 
+BSDF1L,BSDF1L, 
+BSDF26,BSDF26, 
+BSDF26L,BSDF26L, 
+BSDF27,BSDF27, 
+BSDF27L,BSDF27L, 
+BSDF2L,BSDF2L, 
+BSDF36,BSDF36, 
+BSDF36L,BSDF36L, 
+BSDF37,BSDF37, 
+BSDF37L,BSDF37L, 
+BSDF3L,BSDF3L, 
+BSDF46,BSDF46, 
+BSDF46L,BSDF46L, 
+BSDF47,BSDF47, 
+BSDF47L,BSDF47L, 
+BSDF4L,BSDF4L, 
+BSDF56,BSDF56, 
+BSDF56L,BSDF56L, 
+BSDF57,BSDF57, 
+BSDF57L,BSDF57L, 
+BSDS1,BSDS1,BSDS1
+BSDS2,BSDS2,BSDS2
+BSDS3,BSDS3,BSDS3
+BSDS4,BSDS4,BSDS4
+BSTZ1,BSTZ1, 
+BSTZ2,BSTZ2, 
+BSTZ3,BSTZ3, 
+BSTZ4,BSTZ4, 
+BSTZ4B,BSTZ4B, 
+BSTZ5,BSTZ5, 
+BSTZ5A,BSTZ5A, 
+BSTZ5B,BSTZ5B, 
+BSTZ5C,BSTZ5C, 
+BSUP1,Support MDMDF 38.75 Early,BSUP1
+BSZS1,B-SZS1, 
+BSZS2,B-SZS2, 
+BSZS3,B-SZS3, 
+BSZS4,B-SZS4, 
+BT01,sun9-20;mon-thu 14:00-21:00, 
+BT05,su9-18m-tu9-1745wd9-1715sa9-18, 
+BT06,sun-mon;thu-sat12:15-21:00, 
+BT07,BT07, 
+BT1,"mon-thu,sat	1115-2000,1115",BT1
+BT2,"su-m,w-f 1019,1215-21,1230-21",BT2
+BT3,"s,m,t,fr,sa 10-19,1015-19,1030",BT3
+BT4,"sun-tue,fri,sat 1100-1945",BT4
+BWI0,Mon-Fri 8:30a-5:00p,M-F 8:30-5
+BWI2,Tu-Fri 8-18:30,Tu-Fri
+BWIS,Tues-Fri 8:00-6:30,Tu-F 8-630
+C,"HMD su,m,th-sa 1030-19,1215-21", 
+C000,Tues-Sat 13:00 - 22:00,Tu-Sa 1300
+C001,Wed-Sat 5:45-16:45,W-Sa 5:45
+C002,Sun- Weds 05:45 - 16:45,Su-We 5:45
+C003,"Mo,Tu, Th, Fr 05:45 - 16:45",MTTF 05:45
+C004,Mon-Fri 05:45 - 14:45,M-F 5:45
+C005,Weds - Sat 5:45- 14:45,W-Sa 05:45
+C006,"Sun-Tues, Sat 8:00-19:00",Su-Tu Sa 8
+C007,Tues-Fri 8:30-19:30,Tu-F 8:30
+C008,"Mon, Wed-Fri 9:30-20:30",M W-F 9:30
+C009,"Sun, Mon, Fri-Sat 11:00 - 22:0","Su,M,F-Sa"
+C1A1,C1A1_MDMDF,MDMDF
+C1B1,C1B1_MDMDF,MDMDF
+C1C1,C1C1_MDMDF,MDMDF
+C1D1,C1D1_MDMDF,MDMDF
+C1R0,C1R0_MDMDF,MDMDF
+C1R4,C1R4_MDMDF,MDMDF
+C1R5,C1R5_MDMDF,MDMDF
+C2,"Sun - Wed, 19:30 - 06:00",Su-W
+C201,Sun-Mon Fri-Sat 1900-0530,Su-M F-Sa
+C202,Tue-Sat 1900-0330,Tue-Sat PM
+C203,Fri-Mon 7:30A-18:00 P,F-M 730-18
+"C23,25L","23,25L","C23,25L"
+C23_25L,C23_25L,C23_25L
+C2A1,C2A1_MDMDF,MDMDF
+C2B1,C2B1_MDMDF,MDMDF
+C2C1,C2C1_MDMDF,MDMDF
+C2D1,C2D1_MDMDF,MDMDF
+C2R0,C2R0_MDMDF,MDMDF
+C2R5,C2R5_MDMDF,MDMDF
+C3,ES C3, 
+C3IB,"Thu - Sat, 06:30 - 17:00",Th-Sa
+C3NN,Sun - Wed 2030-0700,Su-W830p-7
+C4NN,Sun-Wed 1800-0430,Su-W6p-430
+C5NN,Sun-Wed 2100-0730,Su-W9p-730
+C6NN,Tu-Fri 2030-0700,Tu-F830p-7
+CAA20,"Salarys_DM_F 6,66",CAA20
+CAA30,Salarys_MDMDF_30,CAA30
+CAAAA,Salarys_MDMDF_40,CAAAA
+CAAATZ17,St Aushilfe 17std,CAAATZ17
+CAAATZ20,Salarys_TZ_MDMDF_20,CAAATZ20
+CALL,7 OFF 7:00-19:30,7 OFF
+CAN,CAN, 
+CAPEX,CAPEX, 
+CC01,Mon-Fri 7-15:30,7-15:30
+CC02,"F7-15:30,Sa/Su7-17:30,M7-15:30",E1530/1730
+CC03,"Su, M,F,Sa 7-15:30","Su,M,F,Sa7"
+CCCC,Mon – Fri 0800 – 16:30,Mon – Fri
+CCW1,"M,Tu,F,Sa 07:30-18:00",M/T/F/Sa
+CCW2,"Mon-Tue, Thu-Fri 0730-1730",M-Tu Th-F
+CD01,Now Sun-Thu 0700-1100,PrimeNow
+CD02,Now Sun-Thu 1045-1515,PrimeNow
+CD03,Now Sun-Thu 1500-1930,PrimeNow
+CD04,Now Sun-Thu 1915-2315,PrimeNow
+CD05,Now Sun-Thu 0700-1145,PrimeNow
+CD10,Now Sun-Thu 1130-1630,PrimeNow
+CD11,Now Sun-Thu 1615-2115,PrimeNow
+CD12,Now Fri-Mon 0700-1200,PrimeNow
+CD20,Now Fri-Mon 1200-1700,PrimeNow
+CD21,Now Fri-Mon 1700-2200,PrimeNow
+CD22,Now Fri-Mon 0700-1100,PrimeNow
+CD23,Now Fri-Mon 1045-1515,PrimeNow
+CD51,Now Fri-Mon 1500-1930,PrimeNow
+CD52,Now Fri-Mon 1915-2315,PrimeNow
+CD53,Now Fri-Mon 0700-1145,PrimeNow
+CD54,Now Fri-Mon 1130-1630,PrimeNow
+CD55,Now Fri-Mon 1615-2115,PrimeNow
+CD56,Now Tue-Sat 0700-1100,PrimeNow
+CD57,Now Tue-Sat 1045-1515,PrimeNow
+CD58,Now Tue-Sat 1500-1930,PrimeNow
+CD59,Now Tue-Sat 1915-2315,PrimeNow
+CD61,Now Tue-Sat 0700-1145,PrimeNow
+CD62,Now Tue-Sat 1130-1630,PrimeNow
+CD63,Now Tue-Sat 1615-2115,PrimeNow
+CD64,"Shift C OT 60h, Wed & Sat",C OT 60h
+CD65,"Shift C OT 60h, Wed & Sun",Shift C 60
+CD66,"M,Tu,Th, Fri 1:15PM-11:45 PM","M,Tu,Th,F"
+CD71,"Mon-Tue, Thu-Fri 0700-1730","M, T, R, F"
+CD72,"Mon-Tue, Thu-Fri 0730-1800","M, T, R, F"
+CD81,"Mon-Tue, Thu-Fri 0700-1730","M, T, R, F"
+CD82,"Mon-Tue, Thu-Fri 0730-1800","M, T, R, F"
+CD91,"Mon-Tue, Thu-Fri 0700-1730","M, T, R, F"
+CD92,"Mon-Tue, Thu-Fri 0730-1800","M, T, R, F"
+CDIB,Wed-Sat 06:30-17:00,W-Sa630-5p
+CDJ1,Sun-Wed 0700-1730,S-W 7-1730
+CDJ2,Wed-Sat 0700-1730,W-S 7-1730
+CDJ3,"M,T,Th,F 0700-1730",Donut
+CDJ4,M-F 18:00-2:30,M-F 18-2:3
+CDJ5,Sa-Tu 7:00-17:30,Sa-Tu
+CDJ6,W-Sa 7:30-16:00,W-Sa 7:30
+CDT1,Mon-Fri 8:30 AM-5:00 PM,M-F
+CDT2,CDT2,CDT2
+CDT3,Wed-Sat 7:30 AM to 6 PM,W-Sa
+CDT4,Mon - Fri 9:00AM - 5:30PM,M-F 9-5:30
+CDT5,M-F 11:00-21:30,M-F
+CDT6,Tues - Sat 9:30A - 6:00P,CDT6
+CE01,Sun-Weds 0700-1530,Sun-Weds
+CE03,Wed-Sat 0700-1530,Wed-Sat
+CE05,"Mon-Tue,Thur-Fri 0700-1530","M-Tu,Th-Fr"
+CEFNA,"EFN A_DMDFS_38,75",CEFNA
+CEFNB,"EFN B_DMDFS_38,75",CEFNB
+CH01,CH01, 
+CH02,Sun-Thu (11.30-20.15),CH02
+CH03,Tues-Sat (11.30-20.15),CH03
+CH04,Mon-Fri (11.30-20.15),CH04
+CH05,MON-FRI( 09.45-18.30),CH05
+CI11A,"I1-1a_DMDFS_38,75",CI11A
+CI11A20,"I1-1a_DMDFS_20,00",CI11A20
+CI11AF,"I1-1a_DMDFS_38,75 DF",CI11AF
+CI11C,"I1-1C_MDMDF_38,75",CI11C
+CI12A,"I1-2a_DMDFS_38,75",CI12A
+CI12AF,"I1-2a_DMDFS_38,75 DF",CI12AF
+CI12AS,"I1-2a-DMDFS_38,75 DS",CI12AS
+CI1A,"I1-a MDDFS 38,75",CI1A
+CI1AF,"I1-a-F MDDFS 38,75",CI1AF
+CI1AS,"I1-a-S MDDFS 38,75",CI1AS
+CI1B,"I1-b MDDFS 38,75",CI1B
+CI1BF,"I1-b-F MDDFS 38,75",CI1BF
+CI1BS,"I1-b-S MDDFS 38,75",CI1BS
+CI1C,"I1-c MDDFS 38,75",CI1C
+CI1CF,"I1-c-F MDDFS 38,75",CI1CF
+CI1CS,"I1-c-S MDDFS 38,75",CI1CS
+CI1D,"I1-d MDDFS 38,75",CI1D
+CI1DF,"I1-d-F MDDFS 38,75",CI1DF
+CI1DS,"I1-d-S MDDFS 38,75",CI1DS
+CI1DTZ,"I1-d-F MDDFS 22,5",CI1DTZ
+CI1F6,"I1-F6_MDMDF_38,75",CI1F6
+CI1F628,"I1-F6_MDMDF_28,75",CI1F628
+CI1S,"I1-S_DMDFS_38,75",CI1S
+CI1TZ31,I1-TZ_DMDF_31,CI1TZ31
+CI1TZ4,"I1-TZ450_S_7,75",CI1TZ4
+CI1TZ8,"I1-TZ800_FS_15,5",CI1TZ8
+CI1TZMMF,"I-TZ-MMF_23,25",CI1TZMMF
+CI21A,"I2-1a_DMDFS_38,75",CI21A
+CI21AF,"I2-1a_DMDFS_38,75 DF",CI21AF
+CI21AS,"I2-1a_DMDFS_38,75 DS",CI21AS
+CI21B,"I2-1b_MDDFS_38,75",CI21B
+CI22A,"I2-2a_DMDFS_38,75",CI22A
+CI22AF,"I2-2a_DMDFS_38,75 DF",CI22AF
+CI22AS,"I2-2a_DMDFS_38,75 DS",CI22AS
+CI22B,"I2-2b_MDDFS_38,75",CI22B
+CI22C,"I2-2C_MDMDF_38,75",CI22C
+CI27,Sun-Wed 19:00-05:30,Sun-Wed
+CI28,Wed-Sat 19:00-05:30,Wed-Sat
+CI29,"Mon,Tue,Thur,Fri 19:00-05:30","M,T,Th,Fr"
+CI2A,"I2-a MDDFS 38,75",CI2A
+CI2AF,"I2-a-F MDDFS 38,75",CI2AF
+CI2AS,"I2-a-S MDDFS 38,75",CI2AS
+CI2B,"I2-b MDDFS 38,75",CI2B
+CI2BF,"I2-b-F MDDFS 38,75",CI2BF
+CI2BS,"I2-b-S MDDFS 38,75",CI2BS
+CI2C,"I2-c MDDFS 38,75",CI2C
+CI2CF,"I2-c-F MDDFS 38,75",CI2CF
+CI2CS,"I2-c-S MDDFS 38,75",CI2CS
+CI2D,"I2-d MDDFS 38,75",CI2D
+CI2DF,"I1-d-F MDDFS 38,75",CI2DF
+CI2DS,"I2-d-S MDDFS 38,75",CI2DS
+CI2F6,"I2-F6_MDMDF_38,75",CI2F6
+CI2MD,I2-Mo-Do_31,CI2MD
+CI2TZ4,"I2-TZ450_S_7,75",CI2TZ4
+CI2TZ8,"I2-TZ800_FS_15,5",CI2TZ8
+CI2TZA,I2-TZ_DMDF_31,CI2TZA
+CI2TZB,I2-TZ_MDDF_31,CI2TZB
+CIB1,Mon-Fri 8 AM-4:30 PM,M-F
+CIB2,Mon-Fri 8 AM-4:30 PM,M-F
+CIB3,M-F 7:00-15:30,CIB3
+CIB4,Sun-Wed 07:00-17:30,Sun-Wed
+CIB5,Wed-Sat 07:00-17:30,Wed-Sat
+CIB9,"Mon,Tue,Thur,Fri 07:00-17:30","M,T,Th,Fr"
+CIC1A,"ICQA1a_MDMDS_38,75",CIC1A
+CIC1AS,"ICQA1a_MDMDS38,75_DS",CIC1AS
+CIC1B,"ICQA1b_MDMDS_38,75",CIC1B
+CIC2A,"ICQA2a_MDMDS_38,75",CIC2A
+CIC2B,"ICQA2b_MDMDS_38,75",CIC2B
+CIC2BF,"ICQA-F6_MDMDF_38,75",CIC2BF
+CICM,"ICQA M_MDMDS_38,75",CICM
+CICQAM,"ICQA M_MDMDS_38,75",CICQAM
+CIF25,"I-F Mo-Fr 25,0",CIF25
+CIN2,IB M-F 18:30-3:00,IB M-F
+CIN3,Su/Sa 7:30-16:00,Su/Sa 7:30
+CK01,Cork CS 01,CK01
+CK02,Cork CS 02,CK02
+CK03,Cork CS 03,CK03
+CK04,Cork CS 04,CK04
+CK05,Cork CS 05,CK05
+CK06,Cork CS 06,CK06
+CK07,Cork CS 07,CK07
+CK08,Cork CS 08,CK08
+CK09,Cork CS 09,CK09
+CK10,Cork CS 10,CK10
+CK11,Cork CS 11,CK11
+CK12,Cork CS 12,CK12
+CK13,Cork CS 13,CK13
+CK14,Cork CS 14,CK14
+CK15,Cork CS 15,CK15
+CK16,Cork CS 16,CK16
+CK17,Cork CS 17,CK17
+CK18,Cork CS 18,CK18
+CK19,CS Cork CK19,CK19
+CK20,Cork CS 20,CK20
+CK21,CS Cork CK21,CK21
+CK22,CS Cork CK22,CK22
+CK23,CS Cork CK23,CK23
+CK24,Cork CS CK24,CK24
+CK36,Cork CS CK36,CK36
+CK38,Cork CS CK38,CK38
+CK39,Cork CS CK39,CK39
+CK40,Cork CS CK40,CK40
+CK41,Cork CS CK41,CK41
+CK42,Cork CS 42,CK42
+CK48,"mon,tue,wed,thu,sat",CK48
+CK49,"sun,mon,tue,fri,sat",CK49
+CK50,"sun,mon,tue,thur,fri",CK50
+CK51,CK51,CK51
+CK52,CK52,CK52
+CK59,CK59,CK59
+CK60,ck60,ck60
+CK63,CK63, 
+CK65,Ck65, 
+CKE1,Cork Evening Delivery 1,CKE1
+CKE2,Cork Evening Delivery 2,CKE2
+CKE3,Cork Evening Delivery 3,CKE3
+CKE4,Cork Evening Delivery 4,CKE4
+CKE5,Cork Evening Delivery 5,CKE5
+CLE1,Cleaner 1,CLE1
+CLE2,Cleaners 2,CLE2
+CLE3,Cleaners - 3,CLE3
+CLN1,Mon - Fri 6:00am - 2:30pm,M-F 6-230
+CLN2,Mon-Fri 19:00-3:30,M-F 19-3:3
+CLN3,"Mon - Fri, 07:00 - 15:00",M-F
+CLN4,"Mon - Fri, 15:00 - 23:30",M-F
+CLN5,"Mon - Fri, 23:00 - 07:30",M-F
+CLN6,"Fri - Tues, 07:00 - 15:00",F - Tu
+CLN7,"Fri - Tues, 15:00 - 23:30",F - Tu
+CLN8,"Fri - Tues, 23:00 - 07:30",F - Tu
+CLND,Day Shift Cleaning 7 off,7 OFF
+CLNN,Night Shift Cleaning 7 OFF,7 OFF
+CM8DF5,"Salarys_M8_D-F 5,5",CM8DF5
+CN10,Weds - Sat 9:30PM - 8:00AM,W-S ON
+CN8M-F09,CN8M-F0900 Corporate,CN8M-F09
+CN8_A,"CN8_A 38,78",CN8_A
+CN8_B,"CN8_B 38,78",CN8_B
+CNDAM-S,CN DA Mon-Sunday 1 Day,CNDAM-S
+CNR1,Cleaner Days,CNR Days
+CNR2,Cleaner Weekend,CNR W/Ends
+CNR3,Cleaner Lates,CNR Lates
+CNR4,Atlas Staff,CNR4
+CNR5,Atlas Staff,CNR5
+CNT1,CVG3 19:30-4:00 AM,CVG3 Night
+CNT2,CNT2  19:30-4:00,CVG3 Nite2
+CNT3,Sun - Thu 7:30PM - 4:00AM,CNT3
+CNT4,CVG Su-Th 1800-0230,CVG NT
+CNT5,CVG Monday-Friday 1830-2230,M-F
+CO11A,"O1-1a_MMDFS_38,75",O11A
+CO11AF,"O1-1a_MMDFS_38,75 DF",CO11AF
+CO11AS,"O1-1a_MMDFS_38,75 DS",CO11AS
+CO11AXS,"O1-1aXS_MMDFS_38,75",CO11aXS
+CO11B,"O1-1b_MDDFS_38,75",CO11B
+CO11BF,"O1-1b_MDDFS_38,75 DF",CO11BF
+CO11BS,"O1-1b_MDDFS_38,75 DS",CO11BS
+CO11BXS,"O1-1bXS_MDDFS_38,75",CO11bXS
+CO11C,"O1-1c_MDMFS_38,75",CO11C
+CO11CF,"O1-1c MDMFS_38,75 DF",CO11CF
+CO11CS,"O1-1c_MDMFS_38,75 DS",CO11CS
+CO11CXS,"O1-1cXS_MDMFS_38,75",CO11cXS
+CO11D,"O1-1d_MDMDS_38,75",CO11D
+CO11DDS,"O1-1d_MDMDS_38,75_DS",CO11DDS
+CO11DF,"O1-1d_MDMDS_38,75 DF",CO11DF
+CO11DXS,"O1-1dXS_MDMDS_38,75",CO11dXS
+CO11E,"O1-1E_MDMDS_38,75", 
+CO11E_DF,"O1-1E_MDMDS_38,75_DF", 
+CO11E_DS,"O1-1E_MDMDS_38,75_DS", 
+CO11F,"O1-1F_MDMFS_38,75", 
+CO11F_DF,"O1-1F_MDMFS_38,75_DF", 
+CO11F_DS,"O1-1F_MDMFS_38,75_DS", 
+CO11G,"O1-1G_MDDFS_38,75", 
+CO11G_DF,"O1-1G_MDDFS_38,75_DF", 
+CO11G_DS,"O1-1G_MDDFS_38,75_DS", 
+CO11H,"O1-1H_MMDFS_38,75", 
+CO11H_DF,"O1-1H_MMDFS_38,75_DF", 
+CO11H_DS,"O1-1H_MMDFS_38,75_DS", 
+CO14T,O1-4 Tage MDMDS_31,CO14T
+CO14T31,"O1-4T_MDDF_31,00 L",CO14T31
+CO1F6,"O1-F6_MDMDF_38,75",CO1F6
+CO1S6,"O-DS_ MDMDF_38,75",CO1S6
+CO1Z3,O-TZ_MDDF_31,CO1Z3
+CO1_1AX,"O1-1aX_MMDFS_38,75",CO1_1aX
+CO1_1BX,"O1-1bX_MDDFS_38,75",CO1_1bX
+CO1_1CX,"O1-1cX_MDMFS_38,75",CO1_1cX
+CO1_1DX,"O1-1dX_MDMDS_38,75",CO1_1dX
+CO2-1BDF,"O2-1b_MDDFS_38,75 DF", 
+CO21A,"O2-1a_MMDFS_38,75",CO21A
+CO21AF,O2-1a  MMDFS DF,CO21AF
+CO21AS,"O2-1a_MMDFS_38,75 DS",CO21AS
+CO21AXS,"O2-1aXS_MMDFS_38,75",CO21aXS
+CO21B,"O2-1b_MDDFS_38,75",CO21B
+CO21BF,"O2-1b_MDDFS_38,75 DF", 
+CO21BS,"O2-1b_MDDFS_38,75 DS",CO21BS
+CO21BXS,"O2-1bXS_MDDFS_38,75",CO21bXS
+CO21C,"O2-1c_MDMFS_38,75",CO21C
+CO21CF,"O2-1c_MDMFS_38,75 DF",CO21CF
+CO21CS,"O2-1c_MDMFS_38,75 DS",CO21CS
+CO21CXS,"O2-1cXS_MDMFS_38,75",CO21cXS
+CO21D,CO21D, 
+CO21DF,"O2-1d_MDMDS_38,75 DF",CO21DF
+CO21DS,"O2-1d_MDMDS_38,75 DS",CO21DS
+CO21DTZ,"O2-1d_MDMDS_38,75",CO21DTZ
+CO21DXS,"O2-1dXS_MDMDS_38,75",CO21dXS
+CO21E,"O2-1E_MDMDS_38,75", 
+CO21E_DF,"O2-1E_MDMDS_38,75_DF", 
+CO21E_DS,"O2-1E_MDMDS_38,75_DS", 
+CO21F,"O2-1F_MDMFS_38,75", 
+CO21F_DF,"O2-1F_MDMFS_38,75_DF", 
+CO21F_DS,"O2-1F_MDMFS_38,75_DS", 
+CO21G,"O2-1G_MDDFS_38,75", 
+CO21G_DF,"O2-1G_MDDFS_38,75_DF", 
+CO21G_DS,"O2-1G_MDDFS_38,75_DS", 
+CO21H,"O2-1H_MMDFS_38,75", 
+CO21H_DF,"O2-1H_MMDFS_38,75_DF", 
+CO21H_DS,"O2-1H_MMDFS_38,75_DS", 
+CO2TZ1D,O2-1d_MDMS_31,CO2TZ1D
+CO2TZ31,O2-1d_MDMS_31,CO2TZ31
+CO2TZ8FS,O2-TZ800_FS,CO2TZ8FS
+CO2TZMDM,"O2-F6_MDM_23,25",CO2TZMDM
+CO2_1AX,"O2-1aX_MMDFS_38,75",CO2_1aX
+CO2_1BX,"O2-1bX_MDDFS_38,75",CO2_1bX
+CO2_1CX,"O2-1cX_MDMFS_38,75",CO2_1cX
+CO2_1DX,"O2-1dX_MDMDS_38,75",CO2_1dX
+CO450NS,"450_EFN_A_NS_6,5", 
+CO450SF,"O-TZ450_S 7,75 DF",CO450SF
+CO450SS,"O-TZ450_S 7,75DS",CO450SS
+CO800MD,"O-TZ 800_MD_15,5 L_S",CO800MD
+CO800SM,O-TZ800 SaMo,CO800SM
+CO800SMF,O-TZ800 SaMo DF,CO800SMF
+CO800SMS,O-TZ800 SaMo DS,CO800SMS
+COB1,Sun-Wed 6:30-17:00,Sun-Wed
+COB2,"M-T,Th-F 06:30-17:00","M-T,Th-F"
+COB3,M-F 9:30-18:00,COB3
+COB4,Sun-Wed 18:30-05:00,Sun-Wed
+COB5,Mon-Thur 18:30-05:00,Mon-Thur
+COB6,"Mo, Tu, Th, Fr:0 6:30-17:00",MTTF630-17
+COM1,"sun, wed-sat 1315-2200", 
+COM2,"sun, mon, wed, fri 1000-1845", 
+COM3,tue-sat 1315-2200, 
+COM4,mon-fri 1315-2200, 
+COMID,OMID,OMID
+COMID2,COMID2,OMID2
+CON1,"Fri, Sat, Sun 7:00PM - 5:30AM",CON1
+CON3,null,null
+CON6,OB S-W 19:00-5:30,OB S-W
+CON7,OB W-Sat 19:00-5:30,OB W-Sat
+CON8,"OB M, Tu, Th, Fr 19:00-5:30",OB M-T T-F
+CON9,OB Sat & Sun 19:00-5:30,OB Sa & Su
+CONE,Mon-Fri 0600 - 1400 Paid Break,CONE
+COR1,Sun-Wed 0700-1730,COR1
+COR2,Wed-Sat 0700-1730,COR2
+COR4,"M-T, Th-F 0700-1730",COR4
+COR9,Wed-Fri 2000-2500,COR9
+CORF,"Sun,Tue-Wed,Sat 8pm-630am",TEMP PM
+CORG,"Sun-Mon,Thu-Fri 8pm-630am",TEMP PM
+CORH,"Mon,Tue,Sat 8pm-1am",Split
+CORI,"Sun - Wed, 20:00 - 6:30am","Sun - Wed,"
+CORJ,"Mon - Thur, 20:00 - 6:30am",Mon - Thur
+CORK,"Tue - Fri, 20:00 - 6:30am","Tue - Fri,"
+CORL,"Sun - Mon, Fri - Sat, 20:00 -","Sun - Mon,"
+CORM,"Sun - Tue, Sat, 20:00 - 6:30am","Sun - Tue,"
+CORP,"Thur-Sun, 20:00-0630am",Thur-Sun
+CORQ,Fri-Sat 20:00-06:30,F-Sa8p-630
+CORR,"Sun, Sat 07:00-17:30","Su,Sa7-530"
+COTZ17,O-TZ 800_MDS_17,COTZ17
+COTZ2,"O-TZ_DFS_23,5",COTZ2
+COTZ31,O-TZ_MDMD_31,COTZ31
+COTZ4MO,"O-TZ400_M_8,3",COTZ4MO
+CP,Sun-Wed 7:00p-5:30a,Su-W 7-530
+CP10,Cork CS Part Time 10,CP10
+CP11,Sun-Tues;Fri-Sat,CP11
+CP12,Cork CS Part Time 12,CP12
+CP13,Cork CS Part Time 13,CP13
+CP14,Cork CS Part Time 14,CP14
+CP15,CS Cork CP15,CP15
+CP16,CS Cork CP16,CP16
+CP17,CS Cork CP17,CP17
+CP18,CS Cork CP18,CP18
+CP19,Cork CS CP19,CP19
+CP2,"Sun - Wed, 19:00 - 05:30",Su-W
+CP21,cp21,cp21
+CP22,CP22,CP22
+CP24,CP24 - ORK1,CP24
+CP25,CP25 - ORK1,CP25
+CP26,CP26 - ORK1,CP26
+CP27,CP27 - ORK1,CP27
+CP28,CP28 - ORK1,CP28
+CP46,CP46, 
+CPPT,M-F 7:30am - 11:30 am,M-F
+CPT1,Sa-Sun Days (PT) 7:00-17:30,SaSu Days
+CPT2,Cork CS Part Time 2,CPT2
+CPT3,Cork CS Part Time 3,CPT3
+CPT4,Cork CS Part Time 4,CPT4
+CPT5,Cork CS Part Time 5,CPT5
+CPT6,Cork CS Part Time 6,CPT6
+CPT7,Cork CS Part Time 7,CPT7
+CPT8,Cork CS Part Time 8,CPT8
+CPT9,Cork CS Part Time 9,CPT9
+CPTS,Monday-Friday 6:30pm-5am,Mon-Fri pm
+CR1,C-return, 
+CR2,C-return, 
+CR3,CRET, 
+CR4,CRET, 
+CR7,CRET, 
+CRE1,CRE1_MDMDF,MDMDF
+CRE2,CRE2_MDMDF,MDMDF
+CRNIGHT,C-Returns Night shift, 
+CRNOC,ES CR Noct, 
+CRO1,Customer Returns Early,CRO1
+CRO2,Customer Returns Lates,CRO2
+CRRED,CRET RED, 
+CS01,Customer Svc Fri - Mon 10am-9p,CS01
+CS02,CS Mon - Thur 10:00am-9:00pm,CS02
+CS04,CS Mon - Thur 10:30am-9:30pm,CS04
+CS05,CS Mon - Fri 11:00am-8:00pm,CS05
+CS09,CS Fri - Tues 3:00pm -12:00am,CS09
+CS1,Sun-Wed 7:00a-5:30p (CS),Su-We7-530
+CS10,CS Mon - Fri 3:00pm -12:00am,CS10
+CS11,CS Mon - Fri 4:00pm-8:00pm,CS11
+CS12,CS Mon - Fri 5:00pm-2:00am,CS12
+CS13,CS Mon - Fri 5:00pm-10:00pm,CS13
+CS19,CS Fri - Tues 5:45am-2:45pm,CS19
+CS2,Wed-Sat 7:00a-5:30p (CS),We-Sa7-530
+CS20,CS Mon - Fri 5:45am-2:45pm,CS20
+CS21,CS Mon - Fri 5:45am-2:45pm,CS21
+CS29,CS Mon - Fri 6:30am-11:30am,CS29
+CS35,CS Fri - Mon 7:00am-6:00pm,CS35
+CS36,CS Mon - Fri 7:00am-11:00am,CS36
+CS39,CS Mon - Fri 7:30am-4:30pm,CS39
+CS41,CS Fri - Tues 8:00am-5:00pm,CS41
+CS42,CS Mon - Fri 8:00am-12:00pm,CS42
+CS44,CS Mon - Fri 8:30am -5:30pm,CS44
+CS45,CS Mon - Fri 9:00am-6:00pm,CS45
+CSAM,Customer Service AM,CS - AM
+CSC0,Corps Security Cover 0, 
+CSDF,CS Default,CS Default
+CSDY,Customer Service - Day,CS - Day
+CSHR,HR Employee Access,CSHR
+CSN1,Customer Service - Night T1,CS - NT T1
+CSN2,Customer Service - Night T2/3,CS-NT T2/3
+CSNE,Customer Service -Night Exempt,CS-exempt
+CSPM,Customer Service - PM,CS - PM
+CSPT,Customer Service Part-Time,CS - PT
+CSR1,Corps Security Rota 1, 
+CSR2,Corps Security Rota 2, 
+CSR3,Corps Security Rota 3, 
+CSR4,Corps Security Rota 4, 
+CSR5,Corps Security Rota 5, 
+CSR6,Corps Security Rota 6, 
+CSR7,Corps Security Rota 7, 
+CSR8,Corps Security Rota 8, 
+CSR9,Corps Security Rota 9, 
+CSSM,WWCS CSSM,CSSM
+CSSMA,UK/IE CSSMA,CSSMA
+CSSMFL,Flex Schedule Employees CS,Flex CS
+CSSMFLEX,WWCS CSSM Flex,CSSMFLEX
+CST1,Sat-Tues 7:30 -18:00,Sat-Tues 7
+CSTE,Customer Service - Telecommute,CS-Telecom
+CTPT,CVG M-F 1800-2200,CVG PT
+CTS1,Tues-Sat 09:30-18:00,Tues-Sat 0
+CV01,Tue-Sat 19:30-28:00,T-Sa Night
+CV02,M-F 19:30-03:30,M-F Nights
+CV03,M-F 8-17:00,M-F Days
+CV04,Su-W  8-18:30,Su-W8-1830
+CV05,W-Sa 8-18:30,W-Sa8-1830
+CV06,Tues-Sat 18:30-3:00,Tues-Sat
+CV07,Sun-Thur 18:30-3:00,Su-Th18:30
+CV08,Sun-Mon Fri-Sat 0730-1800,S-M F-Sa
+CV09,"Sun, Wed-Sat 07:30-16:00","Sun, We-Sa"
+CV10,Monday-Friday 18:15-02:45,M-F 18:15
+CVPT,CVG Saturday-Sunday 1330-2200,Sa-Su
+CW1-A,"W1-A FS MDMFS 7,75",CW1-A
+CW1-B,"W1-B_FS_MDMDS_7,75",CW1-B
+CW1-C,"W1-C_S_MDMFS_7,75",CW1-C
+CW1-D,"W1-D_S_MDMDS_7,75",CW1-D
+CW10,"Su-Tu,Th,Sa 0900 to 1745",cw10
+CW11,"Su-M,W-Th,Sa 0900 to 1745",CW11
+CW12,"Su,Tu,Th-Sa",CW12
+CW13,"Su,Tu,W,F,Su",CW13
+CW14,"Su-W,F 1215 to 2100",CW14
+CW15,"M,Tu,Th-Sa 0900 to 1745",CW15
+CW16,"M,Tu,Th-Sa 0900 to 1745",CW16
+CW17,"M-W,F-Sa 0900 to 1745",CW17
+CWS,Comprehensive working hour(CN),comp
+CY02,Cork CS Cy02,CY02
+CZ0A1000, CZ CORP Sun-Wed 10 hr,CZ0A1000
+CZ0A6300,CZ CORP Sun-Wed 10 hr 0630,CZ0A6300
+CZ0B0630, CZ CORP Wed-Sat 10 hr,CZ0B0630
+CZ0B1000, CZ CORP Wed-Sat 10 hr,CZ0B1000
+CZ0B6300,CZ FC Wed-Sat 10 hr 0630,CZ0B6300
+CZ0F0630, CZ CORP Mon-Thu 10 hr,CZ0F0630
+CZ0F1000, CZ CORP Mon-Thu 10 hr,CZ0F1000
+CZ0K0630, CZ CORP Tue-Fri 10 hr,CZ0K0630
+CZ0K1000, CZ CORP Tue-Fri 10 hr,CZ0K1000
+CZ100930,Fri-Mon 9:30 - 20:00 10 hr,CZ100930
+CZ106070,Sun-Mon/Thu 10 hr 7:00-17:00,CZ106070
+CZ2TEAM1,FC Rotate 4 week 12 hr B,CZ2TEAM1
+CZ2TEAM2,FC Rotate 4 week 12 hr D,CZ2TEAM2
+CZ2TEAM3,FC Rotate 4 week 12 hr A,CZ2TEAM3
+CZ2TEAM4,FC Rotate 4 week 12 hr C,CZ2TEAM4
+CZ40016,Mon-Fri 16:00 - 20:00 4 hr,CZ40016
+CZ510630,Sun-Mon 10.00 hr 6:30 - 17:00,CZ510630
+CZ550630,Thu-Fri 10.00 hr 6:30 - 17:00,CZ550630
+CZ560630,Fri-Sat 10.00 hr 6:30 - 17:00,CZ560630
+CZ5APIN,CZ FC Tues 9hr/Wed-Thur 8hr,CZ5APIN
+CZ5E0930,CZ FC Mon-Thu 8.00 hr,CZ5E0930
+CZ5F0BLU,CZ FC Mon-Thu Blue 5.00 hr, 
+CZ5F0RED,CZ FC Mon-Thu Red 5.00 hr, 
+CZ5F6GRE,CZ FC Mon-Thu green 5.00 hr,CZ5F6GRE
+CZ5F6ORA,CZ FC Mon-Thu orange 5.00 hr,CZ5F6ORA
+CZ5F6PUR,CZ FC Mon-Thu purple 5.00 hr,CZ5F6PUR
+CZ5F6YEL,CZ FC Mon-Thu yellow 5.00 hr,CZ5F6YEL
+CZ5H0BLU,CZ FC Fri-Mon Blue 5.00 hr, 
+CZ5H0RED,CZ FC Fri-Mon Red 5.00 hr, 
+CZ5H3GRE,CZ FC Fri-Mon green 5.00 hr,CZ5H3GRE
+CZ5H3ORA,CZ FC Fri-Mon orange 5.00 hr,CZ5H3ORA
+CZ5H3PUR,CZ FC Fri-Mon purple 5.00 hr,CZ5H3PUR
+CZ5H3YEL,CZ FC Fri-Mon yellow 5.00 hr,CZ5H3YEL
+CZ5MTTFA,Afternoon part time donut 5 hr,CZ5MTTFA
+CZ5MTTFE,Evening part time donut 5 hr,CZ5MTTFE
+CZ7E0800,CZ CORP Mon-Fri 7.5 hr 0800,CZ7E0800
+CZ7E0830,Mon-Fri 7 hr 8:30-16:00,CZ7E0830
+CZ8E0700,CZ FC Mon-Fri 8.00 hr,CZ8E0700
+CZ8E0701,CZ FC Mon-Fri 8.00 hr,CZ8E0701
+CZ8E0730,CZ FC Mon-Fri 8.00 hr,CZ8E0730
+CZ8E0731,CZ FC Mon-Fri 8.00 hr,CZ8E0731
+CZ8E0800,CZ FC Mon-Fri 8.00 hr,CZ8E0800
+CZ8E0801,CZ FC Mon-Fri 8.00 hr,CZ8E0801
+CZ8E0830,CZ FC Mon-Fri 8.00 hr,CZ8E0830
+CZ8E0831,CZ FC Mon-Fri 8.00 hr,CZ8E0831
+CZ8E0900,CZ FC Mon-Fri 8.00 hr,CZ8E0900
+CZ8E0901,CZ FC Mon-Fri 8.00 hr,CZ8E0901
+CZ8E0930,CZ FC Mon-Fri 8.00 hr,CZ8E0930
+CZ8E0931,CZ FC Mon-Fri 8.00 hr,CZ8E0931
+CZ8E1000,CZ FC Mon-Fri 8.00 hr,CZ8E1000
+CZ8E1001,CZ FC Mon-Fri 8.00 hr,CZ8E1001
+CZ8E1083,CZ FC Mon-Fri 8:30-17:00,CZ8E1083
+CZ8G0700,CZ FC Sun-Thu 8.00 hr,CZ8G0700
+CZ8G0701,CZ FC Sun-Thu 8.00 hr,CZ8G0701
+CZ8G0730,CZ FC Sun-Thu 8.00 hr,CZ8G0730
+CZ8G0731,CZ FC Sun-Thu 8.00 hr,CZ8G0731
+CZ8G0800,CZ FC Sun-Thu 8.00 hr,CZ8G0800
+CZ8G0801,CZ FC Sun-Thu 8.00 hr,CZ8G0801
+CZ8G0830,CZ FC Sun-Thu 8.00 hr,CZ8G0830
+CZ8G0831,CZ FC Sun-Thu 8.00 hr,CZ8G0831
+CZ8G0900,CZ FC Sun-Thu 8.00 hr,CZ8G0900
+CZ8G0901,CZ FC Sun-Thu 8.00 hr,CZ8G0901
+CZ8G0930,CZ FC Sun-Thu 8.00 hr,CZ8G0930
+CZ8G0931,CZ FC Sun-Thu 8.00 hr,CZ8G0931
+CZ8G1000,CZ FC Sun-Thu 8.00 hr,CZ8G1000
+CZ8G1001,CZ FC Sun-Thu 8.00 hr,CZ8G1001
+CZ8M0700,CZ FC Tue-Sat 8.00 hr,CZ8M0700
+CZ8M0701,CZ FC Tue-Sat 8.00 hr,CZ8M0701
+CZ8M0730,CZ FC Tue-Sat 8.00 hr,CZ8M0730
+CZ8M0731,CZ FC Tue-Sat 8.00 hr,CZ8M0731
+CZ8M0800,CZ FC Tue-Sat 8.00 hr,CZ8M0800
+CZ8M0801,CZ FC Tue-Sat 8.00 hr,CZ8M0801
+CZ8M0830,CZ FC Tue-Sat 8.00 hr,CZ8M0830
+CZ8M0831,CZ FC Tue-Sat 8.00 hr,CZ8M0831
+CZ8M0900,CZ FC Tue-Sat 8.00 hr,CZ8M0900
+CZ8M0901,CZ FC Tue-Sat 8.00 hr,CZ8M0901
+CZ8M0930,CZ FC Tue-Sat 8.00 hr,CZ8M0930
+CZ8M0931,CZ FC Tue-Sat 8.00 hr,CZ8M0931
+CZ8M1000,CZ FC Tue-Sat 8.00 hr,CZ8M1000
+CZ8M1001,CZ FC Tue-Sat 8.00 hr,CZ8M1001
+CZ8N0900,CZ FC Tue-Sat 8.00 hr,CZ8N0900
+CZ9A0083,Sun-Wed 10 hours No Rotation,CZ9A0083
+CZ9A1BLU,"9.67 hr, rotates 2 weeks, FH",CZ9A1BLU
+CZ9A1RED,"9.67 hr, rotates 2 weeks, FH",CZ9A1RED
+CZ9A5BLU,CZ FC Sun-Wed Blue 9.67 hr, 
+CZ9A5GRE,CZ FC Sun-Wed green 9.40 hr,CZ9A5GRE
+CZ9A5ORA,CZ FC Sun-Wed orange 9.40 hr,CZ9A5ORA
+CZ9A5PUR,CZ FC Sun-Wed purple 9.40 hr,CZ9A5PUR
+CZ9A5RED,CZ FC Sun-Wed Red 9.67 hr, 
+CZ9A5YEL,CZ FC Sun-Wed yellow 9.40 hr,CZ9A5YEL
+CZ9A9RED,"8:30 - 6:40pm, Mon - Thu",CZ9A9RED
+CZ9B0083,Wed-Sat 10 hours No Rotation,CZ9B0083
+CZ9B0410,"FC M,Tu 8a-6p we,th 1p-11p",CZ9B0410
+CZ9B1GRE,CZ FC Wed-Sat green 9.40 hr,CZ9B1GRE
+CZ9B1ORA,CZ FC Wed-Sat orange 9.40 hr,CZ9B1ORA
+CZ9B1PUR,CZ FC Wed-Sat purple 9.40 hr,CZ9B1PUR
+CZ9B1YEL,CZ FC Wed-Sat yellow 9.40 hr,CZ9B1YEL
+CZ9B2BLU,"9,67 hr, rotates 2 weeks, BH",CZ9B2BLU
+CZ9B2RED,"9.67 hr, rotates 2 weeks, BH",CZ9B2RED
+CZ9B3BLU,CZ FC Wed-Sat Blue 9.67 hr, 
+CZ9B3RED,CZ FC Wed-Sat Red 9.67 hr, 
+CZ9C0GRE,CZ FC M/T/T/F green 9.40 hr,CZ9C0GRE
+CZ9C0NIG,"Night Donut, 9.67, no rotation",CZ9C0NIG
+CZ9C0ORA,CZ FC M/T/T/F orange 9.40 hr,CZ9C0ORA
+CZ9C0PUR,CZ FC M/T/T/F purple 9.40 hr,CZ9C0PUR
+CZ9C0YEL,CZ FC M/T/T/F yellow 9.40 hr,CZ9C0YEL
+CZ9C1BLU,CZ FC M/T/T/F Blue 9.67 hr, 
+CZ9C1RED,CZ FC M/T/T/F Red 9.67 hr, 
+CZ9D1YEL,CZ FC M/T/T/F Yellow 9.67 hr,CZ9D1YEL
+CZ9D2GRE,CZ FC M/T/T/F Green 9.67 hr,CZ9D2GRE
+CZ9DOBLU,"9.67 hr, rotates 2 weeks,tu-fr",CZ9DOBLU
+CZ9DORED,"9.67 hr, rotates 2 weeks,tu-fr",CZ9DORED
+CZ9DXPUR,Rotate 4 week Wed-Sat 9.67 hr,CZ9DXPUR
+CZ9DXYEL,Rotate 4 week Wed-Sat 9.67 hr,CZ9DXYEL
+CZ9E3RED,CZ FC Sun-Wed 10hr,CZ9E3RED
+CZ9F1YEL,CZ FC Sun-Wed Yellow 9.67 hr,CZ9F1YEL
+CZ9F2GRE,CZ FC Sun-Wed Green9.67 hr,CZ9F2GRE
+CZ9F6BLU,CZ FC Mon-Thu Blue 9.67 hr, 
+CZ9F6DAY,CZ FC Mon-Thurs 9.67 hr,CZ9F6DAY
+CZ9F6RED,CZ FC Mon-Thu Red 9.67 hr, 
+CZ9FFDAY,CZ FC Mon-Thur 10 hr,CZ9FFDAY
+CZ9H3BLU,CZ FC Fri-Mon Blue 9.67 hr, 
+CZ9H3RED,CZ FC Fri-Mon Red 9.67 hr, 
+CZ9K2BLU,CZ FC Tue-Fri Blue 9.67 hr, 
+CZ9K2DAY,CZ FC Tues-Fri 9.67 hr,CZ9K2DAY
+CZ9K2RED,CZ FC Tue-Fri Red 9.67 hr, 
+CZ9KFDAY,CZ FC Tue-Fri 10 hr,CZ9KFDAY
+CZ9LIBLU,"9.67 hr, rotates 2 weeks odd",CZ9LIBLU
+CZ9LIRED,"9.67 hr, rotates 2 weeks odd",CZ9LIRED
+CZ9PART1,"PT Mon-Tue, 9.67 hr, Rotates",CZ9PART1
+CZ9PART2,"PT Thur - Fri, 9.67, Rotates",CZ9PART2
+CZ9PART3,"PT Sun - Mon, 9.67, Rotates",CZ9PART3
+CZ9PART4,part time Mon-Tue 9.67 rotates,CZ9PART4
+CZ9PART5,part time Thu-Fri 9.67 rotates,CZ9PART5
+CZ9PART6,part time Sun-Mon 9.67 rotates,CZ9PART6
+CZ9SUBLU,"9.67 hr, rotates 2 weeks even",CZ9SUBLU
+CZ9SURED,"9.67 hr, rotates 2 weeks even",CZ9SURED
+CZ9XCPUR,CZ FC M/T/T/F purple 9.40 hr,CZ9XCPUR
+CZ9XCYEL,CZ FC M/T/T/F yellow 9.40 hr,CZ9XCYEL
+CZ9XDPUR,Rotate 4 week Sun-Wed 9.67 hr,CZ9XDPUR
+CZ9XDYEL,Rotate 4 week Sun-Wed 9.67 hr,CZ9XDYEL
+CZ9Z1YEL,CZ FC Wed-Sat Yellow 9.67 hr,CZ9Z1YEL
+CZ9Z2GRE,CZ FC Wed-Sat Green 9.67 hr,CZ9Z2GRE
+CZA40BLU,CZ FC Sat-Sun Blue 9.67 hr, 
+CZA40GRE,CZ FC Sat-Sun green 9.40hr,CZA40GRE
+CZA40ORA,CZ FC Sat-Sun orange 9.40 hr,CZA40ORA
+CZA40PUR,CZ FC Sat-Sun PURn 9.40 hr,CZA40PUR
+CZA40RED,CZ FC Sat-Sun Red 9.67 hr, 
+CZA40YEL,CZ FC Sat-Sun yellow 9.40hr,CZA40YEL
+CZA4NYEL,CZ FC Sat-Sun Yellow 9.40 hr,CZA4NYEL
+CZA50BLU,CZ FC Mon/Fri Blue 9.67 hr, 
+CZA50GRE,CZ FC Mon/Fri green 9.40 hr,CZA50GRE
+CZA50ORA,CZ FC Mon/Fri orange 9.40 hr,CZA50ORA
+CZA50PUR,CZ FC Mon/Fri PURn 9.40 hr,CZA50PUR
+CZA50RED,CZ FC Mon/Fri Red 9.67 hr, 
+CZA50YEL,CZ FC Mon/Fri yellow 9.40 hr,CZA50YEL
+D,"HMD sun-tues, fri - sat", 
+D0-X0430,MX FC Su-F 8 hr 0430,D0-X0430
+D0-X0730,MX FC Su-F 8 hr 0730,D0-X0730
+D0-X1200,MX FC Su-F 8 hr 1200,D0-X1200
+D001,Sun-Tue+Wed-5a-330p,pkdyrecv
+D002,Sun-Tues+Thur 5a-330p,pkdyrecv
+D003,Sun-Tues+Fri 5a-330p,pkdyrecv
+D004,Sun-Tues+Sat 5a-330p,pkdyrecv
+D005,Wed-Sat 5a-330p,pkdyrecv
+D006,Sun-Tue +Wed & Thu,pkdyrecv
+D007,Sun-Tue + Wed & Fri,pkdyrecv
+D008,Sun-Tue +Wed & Sat 5a-330p,pkdyrecv
+D009,Sun-Tue +Thu & Fri 5a-330p,pkdyrecv
+D010,Sun-Tue +Thu & Sat 5a-330p,pkdyrecv
+D011,Sun-Tue +Fri & Sat 5a-330p,pkdyrecv
+D012,Sun + Wed-Sat 5a-330p,pkdyrecv
+D013,Mon + Wed-Sat 5a-330p,pkdyrecv
+D014,Tue + Wed-Sat 5a-330p,pkdyrecv
+D015,Sun-Tue +Wed 4p-230a,pkswrec-ic
+D016,Sun-Tue +Thu 4p-230a,pkswrec-ic
+D017,Sun-Tue +Fri 4p-230a,pkswrec-ic
+D018,Sun-Tue +Sat 4p-230a,pkswrec-ic
+D019,Wed-Sat 4p-230a,pkswrec-ic
+D020,Sun-Tue +Wed & Thu,pkswrec-ic
+D021,Sun-Tue +Wed & Fri,pkswrec-ic
+D022,Sun-Tue +Wed & Sat,pkswrec-ic
+D023,Sun-Tue +Thu & Fri 4p-230a,pkswrec-ic
+D024,Sun-Tue +Thu & Sat 4p-230a,pkswrec-ic
+D025,Sun-Tue +Fri & Sat 4p-230a,pkdyrec-ic
+D026,Sun +Wed-Sat 4p-230a,pkswrec-ic
+D027,Mon +Wed-Sat 4p-230a,pkswrec-ic
+D028,Tue +Wed-Sat 4p-230a,pkswrec-ic
+D029,Thu-Sat 6a-430p,pkdypick
+D030,Sun-Tue 6a-430p,pkdypick
+D031,Sun-Tue +Wed 6a-430p,pkdypick
+D032,Sun-Tue +Thu 6a-430p,pkdypick
+D033,Sun-Tue +Fri 6a-430p,pkdypick
+D034,Sun-Tue +Sat 6a-430p,pkdypick
+D035,Wed-Sat 6a-430p,pkdypick
+D036,Sun-Tue +Wed & Thu 6a-430p,pkdypick
+D037,Sun-Tue +Wed & Fri 6a-430p,pkdypick
+D038,Sun-Tue +Wed & Sat 6a-430p,pkdypick
+D039,Sun-Tue +Thu & Fri 6a-430p,pkdypick
+D040,Sun-Tue +Thu & Sat 6a-430p,pkdypick
+D041,Sun-Tue +Fri & Sat 6a-430p,pkdypick
+D042,Sun +Wed-Sat 6a-430p,pkdypick
+D043,Mon +Wed-Sat 6a-430p,pkdypick
+D044,Tue +Wed-Sat 6a-430p,pkdypick
+D045,Thu-Sat 7a-530p,pkdyvdf-oa
+D046,Sun-Tue 7a-530p,pkdyvdf-oa
+D047,Sun-Tue +Wed 7a-530p,pkdyvdf-oa
+D048,Sun-Tue +Thu 7a-530p,pkdyvdf-oa
+D049,Sun-Tue +Fri 7a-530p,pkdyvdf-oa
+D050,Sun-Tue +Sat 7a-530p,pkdyvdf-oa
+D051,Wed-Sat 7a-530p,pkdyvdf-oa
+D052,Sun-Tue +Wed & Thu 7a-530p,pkdyvdf-oa
+D053,Sun-Tue +Wed & Fri 7a-530p,pkdyvdf-oa
+D054,Sun-Tue +Wed & Sat 7a-530p,pkdyvdf-oa
+D055,Sun-Tue +Thu & Fri 7a-530p,pkdyvdf-oa
+D056,Sun-Tue +Thu & Sat 7a-530p,pkdyvdf-oa
+D057,Sun-Tue +Fri & Sat 7a-530p,pkdyvdf-oa
+D058,Sun +Wed-Sat 7a-530p,pkdyvdf-oa
+D059,Mon +Wed-Sat 7a-530p,pkdyvdf-oa
+D060,Tue +Wed-Sat 7a-530p,pkdyvdf-oa
+D061,Thu-Sat 730a-6p,pkdybeb
+D062,Sun-Tue 730a-6p,pkdybeb
+D063,Sun-Tue +Wed 730a-6p,pkdybeb
+D064,Sun-Tue +Thu 730a-6p,pkdybeb
+D065,Sun-Tue +Fri 730a-6p,pkdybeb
+D066,Sun-Tue +Sat 730a-6p,pkdybeb
+D067,Wed-Sat 730a-6p,pkdybeb
+D068,Sun-Ties +Wed & Thu 730a-6p,pkdybeb
+D069,Sun-Tue +Wed & Fri 730a-6p,pkdybeb
+D070,Sun-Tue +Wed & Sat 730a-6p,pkdybeb
+D071,Sun-Tue +Thu & Fri 730a-6p,pkdybeb
+D072,Sun-Tue +Thu & Sat 730a-6p,pkdybeb
+D073,Sun-Tue +Fri & Sat 730a-6p,pkdybeb
+D074,Sun +Wed-Sat 730a-6p,pkdybeb
+D075,Mon +Wed-Sat 730a-6p,pkdybeb
+D076,Tue +Wed-Sat 730a-6p,pkdybeb
+D077,Sun-Tue 7p-530a,pkntpick
+D078,Sun-Tue +Wed 7p-530a,pkntpick
+D079,Sun-Tue +Thu 7p-530a,pkntpick
+D080,Sun-Tue +Fri 7p-530a,pkntpick
+D081,Sun-Tue +Sat 7p-530a,pkntpick
+D082,Wed-Sat 7p-530a,pkntpick
+D083,Sun-Tue +Wed & Thu 7p-530a,pkntpick
+D084,Sun-Tue +Wed & Fri 7p-530a,pkntpick
+D085,Sun-Tue +Wed & Sat 7p-530a,pkntpick
+D086,Sun-Tue +Thu & Fri 7p-530a,pkntpick
+D087,Sun-Tue +Thu & Sat 7p-530a,pkntpick
+D088,Sun-Tue +Fri & Sat 7p-530a,pkntpick
+D089,Sun +Wed-Sat 7p-530a,pkntpick
+D090,Mon +Wed-Sat 7p-530a,pkntpick
+D091,Tue +Wed-Sat 7p-530a,pkntpick
+D092,Sun-Tue 8p-630a,pkntvdf-oa
+D093,Sun-Tue +Wed 8p-630a,pkntvdf-oa
+D094,Sun-Tue +Thu 8p-630a,pkntvdf-oa
+D095,Sun-Tue +Fri 8p-630a,pkntvdf-oa
+D096,Sun-Tue +Sat 8p-630a,pkntvdf-oa
+D097,Wed-Sat 8p-630a,pkntvdf-oa
+D098,Sun-Tue +Wed & Thu 8p-630a,pkntvdf-oa
+D099,Sun-Tue +Wed & Fri 8p-630a,pkntvdf-oa
+D10-0800,FC Mon/Wed-Fri 10 hr 0800,D10-0800
+D10-ACOM,FC Mon/Wed-Fri 10 hr ACOM,D10-ACOM
+D100,Sun-Tue +Wed & Sat 8p-630a,pkntvdf-oa
+D101,Sun-Tue +Thu & Fri 8p-630a,pkntvdf-oa
+D102,Sun-Tue +Thu & Sat 8p-630a,pkntvdf-oa
+D103,Sun-Tue +Fri & Sat 8p-630a,pkntvdf-oa
+D104,Sun +Wed-Sat 8p-630a,pkntvdf-oa
+D105,Mon +Wed-Sat 8p-630a,pkntvdf-oa
+D106,Tue +Wed-Sat 8p-630a,pkntvdf-oa
+D107,Sun-Tue 830p-7a,pkntbeb
+D108,Sun-Tue +Wed 830p-7a,pkntbeb
+D109,Sun-Tue +Thu 830p-7a,pkntbeb
+D10A0800,FC Mon/Wed-Fri 10 hr 0800,D10A0800
+D10TACOM,US FC CA Mon/We-Fr 10 hr ACOM,Mon/We-F
+D110,Sun-Tue +Fri 830p-7a,pkntbeb
+D111,Sun-Tue +Sat 830p-7a,pkntbeb
+D112,Wed-Sat 830p-7a,pkntbeb
+D113,Sun-Tue +Wed & Thu 830p-7a,pkntbeb
+D114,Sun-Tue +Wed & Fri 830p-7a,pkntbeb
+D115,Sun-Tue +Wed & Sat 830p-7a,pkntbeb
+D116,Sun-Tue +Thu & Fri 830p-7a,pkntbeb
+D117,Sun-Tue +Thu & Sat 830p-7a,pkntbeb
+D118,Sun-Tue +Fri & Sat 830p-7a,pkntbeb
+D119,Sun +Wed-Sat 830p-7a,pkntbeb
+D120,Mon +Wed-Sat 830p-7a,pkntbeb
+D121,Tue +Wed-Sat 830p-7a,pkntbeb
+D122,M-F 4pm-2:30am,M-F 4pm-2:
+D123,M-F 12p-8p,M-F 12p-8p
+D13-0600,FC Mon/Wed-Fri 10 hr 0600,D13-0600
+D13-0630,FC Mon/Wed-Fri 10 hr 0630,D13-0630
+D13-0730,FC Mon/Wed-Fri 10 hr 0730,D13-0730	
+D140,"Sun-Tue + Wed,Thu,Fri",D140
+D141,"Sun-Tue + Wed,Thu,Sat",D141
+D142,"Sun-Tue + Wed,Fri,Sat",D142
+D143,"Sun-Tue + Thu,Fri,Sat",D143
+D144,"Mon,Tue + Wed-Sat",D144
+D145,"Sun,Tue + Wed-Sat 6am-4:30pm",D145
+D146,Sun & Mon+Wed-Sat 6a-4:30p,D146
+D147,"Sun-Tue+Wed, Thu, Fri 7a-5:30p",D147
+D148,"Sun-Tue+Wed, Thu, Sat 7a-5:30p",D148
+D149,"Sun-Tue+Wed, Fri, Sat 7a-5:30p",D149
+D150,"Sun-Tue+Thu, Fri, Sat 7a-5:30p",D150
+D151,Mon & Tue+Wed-Sat 7a-5:30p,D151
+D152,Sun & Tue+Wed-Sat 7a-5:30p,D152
+D153,Sun & Mon+Wed-Sat 7a-5:30p,D153
+D154,Sun-Fri 0730-1800,S-F 703-18
+D155,"Sun-Tue+Wed, Thu, Sat 7:30a-6p",D155
+D156,"Sun-Tue+Wed, Fri, Sat 7:30a-6p",D156
+D157,"Sun-Tue+Thu, Fri, Sat 7:30a-6p",D157
+D158,Mon & Tue+Wed-Sat 7:30a-6p,D158
+D159,Sun & Tue+Wed-Sat 7:30a-6p,D159
+D160,Sun & Mon+Wed-Sat 7:30a-6p,D160
+D161,"Sun-Tue+Wed, Thu, Fri 7p-5:30a",D161
+D162,"Sun-Tue+Wed, Thu, Sat 7p-5:30a",D162
+D163,"Sun-Tue+Wed, Fri, Sat 7p-5:30a",D163
+D164,"Sun-Tue+Thu, Fri, Sat 7p-5:30a",D164
+D165,Mon & Tue+Wed-Sat 7p-5:30a,D165
+D166,Sun & Tue+Wed-Sat 7p-5:30a,D166
+D167,Sun & Mon+Wed-Sat 7p-5:30a,D167
+D168,"Sun-Tue+Wed, Thu, Fri 8p-6:30a",D168
+D169,"Sun-Tue+Wed, Thu, Sat 8p-6:30a",D169
+D170,"Sun-Tue+Wed, Fri, Sat 8p-6:30a",D170
+D171,"Sun-Tue+Thu, Fri, Sat 8p-6:30a",D171
+D172,Mon & Tue+Wed-Sat 8p-6:30a,D172
+D173,Sun & Tue+Wed-Sat 8p-6:30a,D173
+D174,Sun & Mon+Wed-Sat 8p-6:30a,D174
+D175,"Sun-Tue+Wed, Thu, Fri 8:30p-7a",D175
+D176,"Sun-Tue+Wed, Thu, Sat 8:30p-7a",D176
+D177,"Sun-Tue+Wed, Fri, Sat 8:30p-7a",D177
+D178,"Sun-Tue+Thu, Fri, Sat 8:30p-7a",D178
+D179,Mon & Tue+Wed-Sat 8:30p-7a,D179
+D180,Sun & Tue+Wed-Sat 8:30p-7a,D180
+D181,Sun & Mon+Wed-Sat 8:30p-7a,D181
+D182,Mon-Fri 10:30a-9p,D182
+D183,Mon-Fri+Sat 10:30a-9p,D183
+D184,Mon-Fri+Sun 10:30a-9p,D184
+D185,Mon-Fri 8:30a-7p,D185
+D186,Mon-Fri+Sat 8:30a-7p,D186
+D187,Mon-Fri+Sun 8:30a-7p,D187
+D188,Mon-Fri 5a-3:30p,D188
+D189,Mon-Fri+Sat 5a-3:30p,D189
+D190,Mon-Fri+Sun 5a-3:30p,D190
+D191,Sun-Tue+Wed 7:30a-6p,D191
+D192,Sun-Tue+Thu 7:30a-6p,D192
+D193,Sun-Tue+Fri 7:30a-6p,D193
+D194,Sun-Tue+Sat 7:30a-6p,D194
+D195,Sun-Tue+Wed & Thu 7:30a-6p,D195
+D196,Sun-Tue+Wed & Fri 7:30a-6p,D196
+D197,Sun-Tue+Wed & Sat 7:30a-6p,D197
+D198,Sun-Tue+Thu & Fri 7:30a-6p,D198
+D199,Sun-Tue+Thu & Sat 7:30a-6p,D199
+D1F1,Sun-Thu 7a-3:30p,D1F1
+D1F2,Sun-Thu 8a-4:30p,D1F2
+D2,"Wed - Sat, 19:30 - 06:00",Wed-Sat
+D20-0730,FC Thus/Sat-Mon 10 hr 0730,D20-0730
+D20-ACOM,FC Su/M/Th/Sa 10 hr ACOM,Su/M/Th/S
+D200,Sun-Tue+Fri & Sat 7:30a-6p,D200
+D201,"Sun-Tue+Wed, Thu, Fri 7:30a-6p",D201
+D202,"Sun-Tue+Wed, Thu, Sat 7:30a-6p",D202
+D203,"Sun-Tue+Wed, Fri, Sat 7:30a-6p",D203
+D204,"Sun-Tue+Thu, Fri, Sat 7:30a-6p",D204
+D205,Wed - Sat 6:30a-5p,D205
+D206,Sun+Wed-Sat 6:30a-5p,D206
+D207,Mon+Wed-Sat 6:30a-5p,D207
+D208,Tue+Wed-Sat 6:30a-5p,D208
+D209,Mon & Tue+Wed-Sat 6:30a-5p,D209
+D20TACOM,US FC CA Su/M/Th/Sa 10 hr ACOM,Su/M/Th/
+D210,Sun & Tue+Wed-Sat 6:30a-5p,D210
+D211,Sun & Mon+Wed-Sat 6:30a-5p,D211
+D212,Mon-Fri 2p-10:30p,D212
+D213,Su-We 6:30am-5pm,D213
+D214,Su-Tu+Th 6:30a-5p,D214
+D215,Su-Tu+Fri 6:30-5,D215
+D216,Mo-Fr 6:30a-5p,D216
+D217,Fr 6p-10p + Sa-Su 6a-4:30p,D217
+D218,Sa-Mo 6:30a-7p,D218
+D219,Tu-Fr 7:30a-6p,D219
+D220,Mo-Th 7:30p-6a,D220
+D221,We-Fr 7:30a-6p,D221
+D222,"Mo,Tu,Th,Fr 7a-3:30p",D222
+D223,We-Sa 7a-3:30p,D223
+D224,D224,D224
+D225,"Su-Mo 6:30a-7p (S), 7:30a-6p (",D225
+D226,"Th,Fr 7:30a-6p",D226
+D227,"We,Fr 7:30a-6p",D227
+D228,"Fr-Sa 7:30a-6p F, 6:30a-7p S",D228
+D229,Sa 6:30a-7p,D229
+D23-0730,FC Su/M/Th/Sa 10 hr 0730, 
+D230,"We,Th 7a-11a",D230
+D231,"We,Th 11:30a-3p",D231
+D232,"We,Fr 7a-11a",D232
+D233,"We,Fr 11:30a-3p",D233
+D234,"Tu,We 7a-11a",D234
+D235,"Tu,We 11:30a-3p",D235
+D236,"Mo,We 7:30a-12:30p",D236
+D237,"Mo,We 1p-6p",D237
+D238,"Th,Fr 7:30a-12:30p",D238
+D239,"Th,Fr 1p-6p",D239
+D23T0730,US FC CA Su/M/Th/Sa 10 hr 0730,D23T0730
+D240,"Su,Mo 6:30a-12:30p",D240
+D241,"Su,Mo 1p-7p",D241
+D242,We 7:30a-6p,D242
+D250,Peak Temp Mon 7:30p-11:30p,D250
+D26-0730,FC Su/M/Th/Sa 10 hr 0730,D26-0730
+D26T0730,FC CA Su/M/Th/Sa 10 hr 0730,D26T0730
+D2B1,"Tue-Thur, 7:30am-18:00pm PT",T-Th 730-6
+D2C1,"Mon-Wed,7:30pm-6:00am PT",M-W 730-6
+D2F1,5x8 day mon-fri 7a-330p,m-f7a-330p
+D2F2,5x8 day mon-fri 8a-430p,m-f8a-430p
+D2F3,5x8 day mon-fri 9a-530p,m-f9a-530p
+D2F4,5x8 day mon-fri 730a-6p,m-f630A-7p
+D2F5,D2F5,D2F5
+D2F6,D2F6,D2F6
+D2P1,D2P1,D2P1
+D2P2,4x8 day mon-thur 8a-430p,m-r8a-430p
+D2P3,4x8 day mon-thur 9a-530p,m-r9a-530p
+D2P4,4x8 day mon-thur 930a-6p,m-r930a-6p
+D2T1,Sun-Wed 7:30-18:00,Sun-Wed
+D2T2,Wed-Sat 7:30-18:00,Wed-Sat
+D2T3,"Mon-Tue, Thur-Fri 7:30-18:00",M/T/Th/F
+D30-ACOM,FC Mon-Wed/Fri 10 hr ACOM,Mon-Wed/F
+D30TACOM,US FC CA Mon-Wd/Fri 10 hr ACOM,Mon-Wd/F
+D31-0800,UK FC M/Tu/W/F10 hr 0800,D31-0800
+D35-0730,FC M/Tu/W/F 10 hr 0730,D35-0730
+D35-0800,UK FC M/Tu/W/F 10 hr 0800,D35-0800
+D35-0830,UK FC M/Tu/W/F 10 hr 0830,D35-0830
+D3F1,5x8 day tue-sat 7a-330p,t-s7a-330p
+D3F2,5x8 day tue-sat 8a-430p,t-s8a-430p
+D3F3,5x8 tue-sat 9a-530p,t-s9a-530p
+D3F4,5x8 day tue-sat 930a-6p,t-s930a-6p
+D3F5,5x8 day Sun-Thur 930a-6p,T-S 9:30-6
+D3OB,"Thu - Sat, 07:30 - 18:00",Th-Sa
+D3P1,D3P1,D3P1
+D40-ACOM,FC M/Tu/Th/F/Sa  10 hr ACOM,M/Tu/Th/F
+D41-0530,FC M/T/T/F/Sa 8 hr 0530,D41-0530
+D42T0600,"FC Sun,Tue,Wed,Thur 10 hr 0600", 
+D4NN,Wed-Sat 1800-0430,W-Sa6p-430
+D4P1,D4P1,D4P1
+D4P2,4x8 day wed-sat 8a-430p,w-s8a-430p
+D4P3,4x8 day wed-sat 9a-530p,w-s9a-530p
+D4P4,4x8 day wed-sat 930a-6p,w-s930a-6p
+D52Q0600,US FC Quidsi 10 hr 0600,D52Q0600
+D54-0630,FC T/Th-Sa 10 hr 0630,D54-0630
+D54-0800,FC T/Th-Sa 10 hr 0800,D54-0800
+D5NN,Wed - Sat 1900-0530,W-Sa7p-530
+D62-0800,FC Su/W/Th/Sa 10 hr 0800,D62-0800
+D6NN,Wed - Sat 2100-0730,W-Sa9p-730
+D80-0830,FC Tu/W/Th/Sa 10 hr 0830,D80-0830
+D80-ACOM,FC Tu/W/Th/Sa 10 hr ACOM,D80-ACOM
+D81-0700,FC Tu/W/Th/Sa 10 hr 0700,D81-0700
+D81-0730,FC Tu/W/Th/Sa 10 hr 0730,D81-0730
+D86T0530,US FC CA T/W/T/Sa 10 hr 0530,D86T0530
+D86T0600,US FC CA T/W/T/Sa 10 hr 0600,D86T0600
+D9-X0600,MX FC M-Sa 8 hr 0600,D9-X0600
+D9-X0730,MX FC M-Sa 8 hr 0730,D9-X0730
+D9-X0800,MX FC M-Sa 8 hr 0800,D9-X0800
+D9-X1200,MX FC M-Sa 8 hr 1200,D9-X1200
+D9-X1600,MX FC M-S 8 hr 1600,D9-X1600
+D90-0500,FC Su/M/W-F 8 hr 0500,D90-0500
+D90-1700,FC Su/M/W-F 8 hr 1700,D90-1700
+D97-0645,FC Su/M/W-F 8 hr 0645,D97-0645
+DA-X0600,MX FC Su-W 12 hr 0600,DA-X0600
+DA-X0700,MX FC Su-W 12 hr 0700,DA-X0700
+DA-X0730,MX FC Su-W 12 hr 0730,DA-X0730
+DA-X0800,MX FC Sun-Wed 12hr 0800,DA-X0800
+DA0-0500,FC Sun-Wed 10 hr 0500,DA0-0500
+DA0-0600,FC Sun-Wed 10 hr 0600,DA0-0600
+DA0-0645,FC Sun-Wed 10 hr 0645,DA0-0645
+DA0-0700,FC Sun-Wed 10 hr 0700,DA0-0700
+DA0-0800,UK FC Sun/ Mon-Wed 10 hr 0800,DA0-0800
+DA0-0930,FC Sun-Wed 10 hr 0930,DA0-0930
+DA0-1030,FC Sun-Wed 10 hr 1030,DA0-1030
+DA0-1300,FC Sun-Wed 10 hr 1300,DA0-1300
+DA0-ACOM,FC Sun-Wed 10 hr ACOM,Sun-Wed
+DA01,M-F Days,Shift 1
+DA03,"S,S,M,T Days",Shift 3
+DA05,Thur-Sunday Days,Shift 5
+DA0C0630,CAN FC Sun-Wed 10 hr 0630,DA0C0630
+DA0C0700,CAN FC Sun-Wed 10 hr 0700,DA0C0700
+DA0C0730,CAN FC Sun-Wed 10 hr 0730,DA0C0730
+DA0C1300,CAN FC Sun-Wed 10 hr 1300,DA0C1300
+DA0CACOM,CAN FC Sun-Wed 10 hr ACCOM,DA0CACOM
+DA0P1000,CNS/M/T/W/Th/F8hr10am-7pm, 
+DA0T0530,FC Sun-Wed 10 hr 0530,DA0T0530
+DA0T0700,US FC CA Sun-Wed 10 hr 0700,DA0T0700
+DA0T0830,US FC CA Sun-Wed 10 hr 0830,DA0T0830
+DA0TACOM,US FC CA Sun-Wed 10 hr ACOM,Sun-Wed
+DA1,ES DA1, 
+DA1A,DA1A_MDMDF,MDMDF
+DA1B,DA1B_MDMDF,MDMDF
+DA1C,DA1C_MDMDF,MDMDF
+DA1D,DA1D_MDMDF,MDMDF
+DA1P1000,CNM/T/W/Th/F/Sa7hr10am-6pm, 
+DA1R1,Mo-Fr E:7:05-11:05/ 20h weekly, 
+DA1R2,Mo-Fr E:11:15-15:15/20h weekly, 
+DA2,ES DA2, 
+DA2-0430,FC Sun-Wed 10 hr 0430,DA2-0430
+DA2A,DA2A_MDMDF,MDMDF
+DA2B,DA2B_MDMDF,MDMDF
+DA2C,DA2C_MDMDF,MDMDF
+DA2D,DA2D_MDMDF,MDMDF
+DA2P1000,CNS/M/T/Th/F/Sa8hr10am-7pm, 
+DA2R1,Mo-Fr E:15:15-19:15/20h weekly, 
+DA2R2,Mo-Fr E:19:25-23:25/20h weekly, 
+DA3-0730,FC Sun-Wed 10 hr 0730,DA3-0730
+DA3P1000,CNS/T/W/Th/F/Sa8hr10am-7pm, 
+DA4P1000,CNS/M/T/W/Th/F7hr10am-6pm, 
+DA5-0400,FC Sun-Wed 10 hr 0400,DA5-0400
+DA5-0430,FC Sun-Wed 10 hr 0430,DA5-0430
+DA5-0445,FC Sun-Wed 10 hr 0445,DA5-0445
+DA5-0500,FC Sun-Wed 10 hr 0500,DA5-0500
+DA5-0515,FC Sun-Wed 10 hr 0515,DA5-0515
+DA5-0530,FC Sun-Wed 10 hr 0530,DA5-0530
+DA5-0545,FC Sun-Wed 10 hr 0545,DA5-0545
+DA5-0600,FC Sun-Wed 10 hr 0600,DA5-0600
+DA5-060A,"Su-Wed, 4th Sun off 10 hr 0600", 
+DA5-060B,"Su-Wed, 4th Sun off 10 hr 0600", 
+DA5-060C,"Su-Wed, 4th Sun off 10 hr 0600", 
+DA5-060D,"Su-Wed, 4th Sun off 10 hr 0600", 
+DA5-0615,FC Sun-Wed 10 hr 0615,DA5-0615
+DA5-0630,FC Sun-Wed 10 hr 0630,DA5-0630
+DA5-063A,"Su-Wed, 4th wk M-Th 10 hr 0630", 
+DA5-063B,"Su-Wed, 4th wk M-Th 10 hr 0630", 
+DA5-063C,"Su-Wed, 4th wk M-Th 10 hr 0630", 
+DA5-063D,"Su-Wed, 4th wk M-Th 10 hr 0630", 
+DA5-0645,FC Sun-Wed 10 hr 0645,DA5-0645
+DA5-0700,FC Sun-Wed 10 hr 0700,DA5-0700
+DA5-0715,FC Sun-Wed 10 hr 0715,DA5-0715
+DA5-0730,FC Sun-Wed 10 hr 0730,DA5-0730
+DA5-0735,FC Sun-Wed 10 hr 0735,DA5-0735
+DA5-0740,FC Sun-Wed 10 hr 0740,DA5-0740
+DA5-0745,FC Sun-Wed 10 hr 0745,DA5-0745
+DA5-0800,US FC Sun-Wed 10 hr 0800,DA5-0800
+DA5-0830,US FC Sun-Wed 10 hr 0830,DA5-0830
+DA5-0900,US FC Sun-Wed 10 hr 0900,DA5-0900
+DA5-0930,FC Sun-Wed 10 hr 0930,DA5-0930
+DA5-ACOM,FC Sun-Wed 10 hr ACOM,DA5-ACOM
+DA5-I,Sun-Wed OT Thurs,Sun-Wed D
+DA5-O,SUN-WED DAYS OT THURS,SUN-WED D
+DA5A0600,FC Sun-Wed 10 hr 0600,DA5A0600
+DA5A0630,FC Sun-Wed 10 hr 0630,DA5A0630
+DA5A0730,FC Sun-Wed 10 hr 0730,DA5A0730
+DA5A0745,FC Sun-Wed 10 hr 0745,DA5A0745
+DA5A0800,FC Sun-Wed 10 hr 0800,DA5A0800
+DA5B0600,FC Sun-Wed 10 hr 0600,DA5B0600
+DA5B0630,FC Sun-Wed 10 hr 0630,DA5B0630
+DA5B0700,FC Sun-Wed 10 hr 0700 NO BRK,DA5B0700
+DA5C0700,CAN FC Sun-Wed 10 hr 0700,DA5C0700
+DA5C0730,CAN FC Sun-Wed 10 hr 0730,DA5C0730
+DA5C0800,CAN FC Sun-Wed 10 hr 0800,DA5C0800
+DA5P1000,CNT/W/Th/F/Sa8hr10am-7pm, 
+DA5T0330,US FC CA Sun-Wed 10 hr 0330,DA5T0330
+DA5T0400,US FC CA Sun-Wed 10 hr 0400,DA5T0400
+DA5T0430,FC Sun-Wed 10 hr 0430,DA5T0430
+DA5T0500,US FC CA Sun-Wed 10 hr 0500,DA5T0500
+DA5T0530,US FC CA Sun-Wed 10 hr 0530,DA5T0530
+DA5T0600,US FC CA Sun-Wed 10 hr 0600,DA5T0600
+DA5T0630,US FC CA Sun-Wed 10 hr 0630,DA5T0630
+DA5T0645,US FC CA Sun-Wed 10 hr 0645,DA5T0645
+DA5T0700,US FC CA Sun-Wed 10 hr 0700,DA5T0700
+DA5T0730,US FC CA Sun-Wed 10 hr 0730,DA5T0730
+DA5T0800,US FC CA Sun-Wed 10 hr 0800,DA5T0800
+DA5T0830,US FC CA Sun-Wed 10 hr 0830,DA5T0830
+DA5T0900,US FC CA Sun-Wed 10 hr 0900,DA5T0900
+DA5T1230,FC Sun-Wed 10 hr 1230,DA5T1230
+DA5X0600,US FC Sun-Wed 11.5 hr 0600,DA5X0600
+DA5X0630,US FC Sun-Wed 11.5 hr 0630,DA5X0630
+DA5X0700,US FC Sun-Wed 11.5 hr 0700,DA5X0700
+DA6-0430,FC Sun-Wed 10 hr 0430,DA6-0430
+DA6-0500,US FC Sun-Wed 10 hr 0500,DA6-0500
+DA6-0530,FC Sun-Wed 10 hr 0530,DA6-0530
+DA6-0600,US FC Sun-Wed 10 hr 0600,DA6-0600
+DA6-0615,US FC Sun-Wed 10 hr 0615,DA6-0615
+DA6-0630,US FC Sun-Wed 10 hr 0630,DA6-0630
+DA6-0645,FC Sun-Wed 10 hr 0645,DA6-0645
+DA6-0700,US FC Sun-Wed 10 hr 0700,DA6-0700
+DA6-0715,US FC Sun-Wed 10 hr 0715,Sun-Wed 10
+DA6-0730,US FC Sun-Wed 10 hr 0730,DA6-0730
+DA6-0735,FC Sun-Wed 10 hr 0735,DA6-0735
+DA6-0800,FC Sun-Wed 10 hr 0800,DA6-0800
+DA6-I,Sun-Wed OT Fri,Sun-Wed D
+DA6-O,SUN-WED DAYS OT FRI,SUN-WED D
+DA6C0700,CAN FC Sun-Wed 10 hr 0700,DA6C0700
+DA6C0730,CAN FC Sun-Wed 10 hr 0730,DA6C0730
+DA6P1000,CNS/M/W/Th/F/Sa8hr10am-7pm, 
+DA6T0500,US FC CA Sun-Wed 10 0500,DA6T0500
+DA6T0700,US FC CA Sun-Wed 10 hr 0700,DA6T0700
+DA6T0730,US FC CA Sun-Wed 10 hr 0730,DA6T0730
+DA6X0600,US FC Sun-Wed 11.5 hr 0600,DA6X0600
+DA6X0630,US FC Sun-Wed 11.5 hr 0630,DA6X0630
+DA6X0700,US FC Sun-Wed 11.5 hr 0700,DA6X0700
+DA7,SUN-WED OT SAT ICQA,SUN-WED
+DA7-0430,FC Sun-Wed 10 hr 0430,DA7-0430
+DA7-0500,US FC Sun-Wed 10 hr 0500,DA7-0500
+DA7-0530,FC Sun-Wed 10 hr 0530,DA7-0530
+DA7-0600,FC Sun-Wed 10 hr 0600,DA7-0600
+DA7-0615,US FC Sun-Wed 10 hr 0615,DA7-0615
+DA7-0630,US FC Sun-Wed 10 hr 0630,DA7-0630
+DA7-0645,US FC Sun-Wed 10 hr 0645,DA7-0645
+DA7-0700,US FC Sun-Wed 10 hr 0700,DA7-0700
+DA7-0715,US FC Sun-Wed 10 hr 0715,DA7-0715
+DA7-0730,US FC Sun-Wed 10 hr 0730,DA7-0730
+DA7-0745,FC Sun-Wed 10 hr 0745,DA7-0745
+DA7-0800,FC Sun-Wed 10 hr 0800,DA7-0800
+DA7A0800,FC Sun-Wed 10 hr 0800,DA7A0800
+DA7C0700,FC Sun-Wed 10 hr 0700,DA7C0700
+DA7C0730,CAN FC Sun-Wed 10 hr 0730,DA7C0730
+DA7P1000,CNS/W/Th/F/Sa8hr10am-7pm, 
+DA7T0400,US FC CA Sun-Wed 10 hr 0400,DA7T0400
+DA7T0500,US FC CA Sun-Wed 10 0500,DA7T0500
+DA7T0600,US FC CA Sun-Wed 10 hr 0600,DA7T0600
+DA7T0700,US FC CA Sun-Wed 10 hr 0700,DA7T0700
+DA7T0730,US FC CA Sun-Wed 10 hr 0730,DA7T0730
+DA7X0600,US FC Sun-Wed 11.5 hr 0600,DA7X0600
+DA7X0630,US FC Sun-Wed 11.5 hr 0630,DA7X0630
+DA7X0700,US FC Sun-Wed 11.5 hr 0700,DA7X0700
+DA8P1000,CNS/T/W/Th/F/Sa7hr10am-6pm, 
+DA9P1000,CNS/M/T/W/Th/Sa7hr10am-6pm, 
+DAA0-830,FC Su/Tu/Th/Sa 10 hr 0830,DAA0-830
+DAAP1000,CNS/M/T/W/Sa7hr10am-6pm, 
+DABP1000,CNS/M/T/Th/F/Sa7hr10am-6pm, 
+DACP1000,CNS/M/T/W/F/Sa7hr10am-6pm, 
+DADP1000,CNS/W/Th/F/Sa7hr10am-6pm, 
+DAE10700,FC Sun-Wed 10 hr 0700,DAE10700
+DAE10730,FC Sun-Wed 10 hr 0730,DAE10730
+DAE20700,FC Sun-Wed 10 hr 0700,DAE20700
+DAE20730,FC Sun-Wed 10 hr 0730,DAE20730
+DAEP1000,CNS/M/W/Th/F/Sa7hr10am-6pm, 
+DAF0,6:30 - 3 with a 1/2 hour lunch,DAF0
+DAF1,Sun-Wed 7:00 - 17:30,Sun-Wed
+DAF2,Sun-Thur 7:00-17:30,Sun-Thur
+DAF3,Sun-Thu 7:00PM - 3:30AM,Sun-Thur
+DAF4,Mon-Fri 11:30AM - 8:00PM,Mon-Fri
+DAF5,DAF5,DAF5
+DAF6,DAF6,DAF6
+DAF7,DAF7,DAF7
+DAF8,DAF8,DAF8
+DAF9,6:30 - 3:30 with 1 hour lunch,DAF9
+DAFP0900,CNM/T/W/Th/F8hr9am-6pm, 
+DAM20600,FC Su-W (1) Su-T (2) 11 h 0600,DAM20600
+DAM20630,FC Su-W (1) Su-T (2) 11 h 0630,DAM20630
+DAP1,DAP1,DAP1
+DAP2,DAP2,DAP2
+DAP3,DAP3 sun-wed 12p-5p,DAP3
+DAP4,sun-wen 1p-6p,DAP4
+DAP5,DAP5,DAP5
+DAP6,DAP6,DAP6
+DAP7,DAP7,DAP7
+DAQP0830,CNS/M/T/W/Th/F6.5hr8.30am-4pm, 
+DAR2,EDI4 - ReLo PT Sat/Sun,ReLo PT
+DARP0830,CNS/T/W/Th/F/Sa6.5hr8.30am-4pm, 
+DASP0830,CNS/M/T/W/F/Sa6.5hr8.30am-4pm, 
+DAT1,Sun - Wed  6:30 - 17:00,Temp - A1
+DAT2,Sun - Wed 7:00 - 17:30,Temp - A2
+DAT3,Sun - Wed 7:30 - 18:00,Temp - A3
+DATP0830,CNS/M/T/Th/F/Sa6.5hr8.30am-4pm, 
+DAUP0830,CNS/M/W/Th/F/Sa6.5hr8.30am-4pm, 
+DAVP0830,CNS/M/T/W/Th/Sa6.5hr8.30am-4pm, 
+DAW1,Sat-Sun 0730-1600,Weekend
+DAW2,Sat - Sun,DAW2
+DAW3,Sat - Tues 07.30-18.00,Weekend 3
+DAW4,Sat-Wed 0730-1600,Sat-Wed
+DAWA,Sat & Sun (6am - 4.30pm),DAWA
+DAWB,Sat & Sun (11.30am - 10pm),DAWB
+DAWC,DAWC, 
+DAWP0830,CNM/T/W/Th/F/Sa6.5hr8.30am-4pm, 
+DAWR,EDI4 ReLo PT Sat/Sun shift,ReLo PT
+DAX-0600,FC Sun-Wed 11.5 hr 0600,DAX-0600
+DAX-0630,US FC Sun-Wed 11.5 hr 0630,DAX-0630
+DAX-0700,US FC Su-W 11.5 hr 0700,DAX-0700
+DAY,Day Shift,DAY
+DAY-MAD8,"MAD8 13h00-18h30,5h30 no break",D
+DAY1,Tue-Sat 13:30 – 22:00, 
+DAY2,Sun-Thurs  13:30 – 22:00, 
+DAY3,DAY3, 
+DAYA,CS - Edinburgh 9.00 - 18.00,CS- DAYA
+DAYB,DAY Backshift, 
+DAYE,Mon - Fri 10am -2pm, 
+DAYP,Day Shift P/T Tue-Fri,DAYP
+DAYS,CS - Days 8.30 - 17.30,CS-Days
+DAYT,DAYT (Mon-Fri Varied Hrs),DAYT
+DAYZ,Day Shift (various hours),Day Shift
+DA_1,ES Transfer Out, 
+DA_1-DA,ES Transfer Out, 
+DB-X0600,MX FC W-Sa 12 hr 0600,DB-X0600
+DB-X0700,MX FC W-Sa 12 hr 0700,DB-X0700
+DB-X0730,MX FC W-Sa 12 hr 0730,DB-X0730
+DB-X0800,MX FC W-SA 12hr 0800,DB-X0800
+DB0-0430,FC Wed-Sat 10 hr 0430,DB0-0430
+DB0-0500,FC Wed-Sat 10 hr 0500,DB0-0500
+DB0-0645,FC Wed-Sat 10 hr 0645,DB0-0645
+DB0-0700,FC Wed-Sat 10 hr 0700,DB0-0700
+DB0-0900,FC Wed-Sat 10 hr 0900,DB0-0900
+DB0-0930,FC Wed-Sat 10 hr 0930,DB0-0930
+DB0-1000,FC Wed-Sat 8 hr 1000,DB0-1000
+DB0-1030,FC Wed-Sat 10 hr 1030,DB0-1030
+DB0-1300,FC Wed-Sat 10 hr 1300,DB0-1300
+DB0-ACOM,US FC Wed-Sat 10 hr ACOM,Wed-Sat
+DB0C0630,CAN FC Wed-Sat 10 hr 0630,DB0C0630
+DB0C0700,CAN FC Wed-Sat 10 hr 0700,DB0C0700
+DB0C0730,CAN FC Wed-Sat 10 hr 0730,DB0C0730
+DB0C1300,CAN FC Wed-Sat 10 hr 1300,DB0C1300
+DB0CACOM,CAN FC Wed-Sat 10 hr ACOM,DB0CACOM
+DB0T0530,FC Wed-Sat 10 hr 0530,DB0T0530
+DB0T0830,US FC CA Wed-Sat 10 hr 0830,DB0T0830
+DB0TACOM,US FC CA Wed-Sat 10 hr ACOM,Wed-Sat
+DB1,WED-SAT DAYS OT SUN ICQA,WED-SAT D
+DB1-0430,FC Wed-Sat 10 hr 0430,DB1-0430
+DB1-0500,US FC Wed-Sat 10 hr 0500,DB1-0500
+DB1-0530,FC Wed-Sat 10 hr 0530,DB1-0530
+DB1-0600,US FC Wed-Sat 10 hr 0600,DB1-0600
+DB1-0615,FC Wed-Sat 10 hr 0615,DB1-0615
+DB1-0630,US FC Wed-Sat 10 hr 0630,DB1-0630
+DB1-0645,US FC Wed-Sat 10 hr 0645,DB1-0645
+DB1-0700,US FC Wed-Sat 10 hr 0700,DB1-0700
+DB1-0715,US FC Wed-Sat 10 hr 0715,DB1-0715
+DB1-0730,US FC Wed-Sat 10 hr 0730,DB1-0730
+DB1-0745,FC Wed-Sat 10 hr 0745,DB1-0745
+DB1-0800,FC Wed-Sat 10 hr 0800,DB1-0800
+DB1-0830,US FC Wed-Sat 10 hr 0830,DB1-0830
+DB1-ACOM,FC Wed-Sat 10 hr ACOM,DB1-ACOM
+DB1A0800,FC Wed-Sat 10 hr 0800,DB1A0800
+DB1B0700,FC Wed-Sat 8 hr 0700,DB1B0700
+DB1C0700,FC Wed-Sat 10 hr 0700,DB1C0700
+DB1C0730,CAN FC Wed-Sat 10 hr 0730,DB1C0730
+DB1T0400,US FC CA Wed-Sat 10 hr 0400,DB1T0400
+DB1T0500,US FC CA Wed-Sat 10 hr 0500,DB1T0500
+DB1T0530,US FC CA Wed-Sat 10 hr 0530,DB1T0530
+DB1T0600,US FC CA Wed-Sat 10 hr 0600,DB1T0600
+DB1T0700,US FC CA Wed-Sat 10 hr 0700,DB1T0700
+DB1T0730,US FC CA Wed-Sat 10 hr 0730,DB1T0730
+DB1T1830,US FC CA Wed-Sat 10 hr 1830,DB1T1830
+DB1X0600,US FC Wed-Sat 11.5 hr 0600,DB1X0600
+DB1X0630,US FC Wed-Sat 11.5 hr 0630,DB1X0630
+DB1X0700,US FC Wed-Sat 11.5 hr 0700,DB1X0700
+DB2-0430,FC Sun-Wed 10 hr 0430,DB2-0430
+DB2-0500,US FC Wed-Sat 10 hr 0500,DB2-0500
+DB2-0530,FC Wed-Sat 10 hr 0530,DB2-0530
+DB2-0600,US FC Wed-Sat 10 hr 0600,DB2-0600
+DB2-0630,US FC Wed-Sat 10 hr 0630,DB2-0630
+DB2-0645,FC Wed-Sat 10 hr 0645,DB2-0645
+DB2-0700,US FC Wed-Sat 10 hr 0700,DB2-0700
+DB2-0715,US FC Wed-Sat 10 hr 0715,Wed-Sat 10
+DB2-0730,US FC Wed-Sat 10 hr 0730,DB2-0730
+DB2-0745,FC Wed-Sat 10 hr 0745,DB2-0745
+DB2-0800,US FC Wed-Sat 10 hr 0800,DB2-0800
+DB2-I,Wed-Sat Days OT Mon,Wed-Sat D
+DB2-O,WED-SAT DAYS OT MON,WED-SAT D
+DB2A0730,FC Wed-Sat 10 hr 0730,DB2A0730
+DB2A0745,FC Wed-Sat 10 hr 0745,DB2A0745
+DB2A0800,FC Wed-Sat 10 hr 0800,DB2A0800
+DB2B0700,FC Wed-Sat 10 hr 0700 NOBRK,DB2B0700
+DB2C0600,CAN FC Wed-Sat 10 hr 0600,DB2C0600
+DB2C0700,CAN FC Wed-Sat 10 hr 0700,DB2C0700
+DB2C0730,CAN FC Wed-Sat 10 hr 0730,DB2C0730
+DB2T0630,US FC CA Wed-Sat 10 hr 0630, 
+DB2T0700,US FC CA Wed-Sat 10 hr 0700,DB2T0700
+DB2T0730,US FC CA Wed-Sat 10 hr 0730,DB2T0730
+DB2X0600,US FC Wed-Sat 11.5 hr 0600,DB2X0600
+DB2X0630,US FC Wed-Sat 11.5 hr 0630,DB2X0630
+DB2X0700,US FC Wed-Sat 11.5 hr 0700,DB2X0700
+DB3-0400,US FC Wed-Sat 10 hr 0400,DB3-0400
+DB3-0430,US FC Wed-Sat 10 hr 0430,DB3-0430
+DB3-0445,US FC Wed-Sat 10 hr 0445,DB3-0445
+DB3-0500,US FC Wed-Sat 10 hr 0500,DB3-0500
+DB3-0515,US FC Wed-Sat 10 hr 0515,DB3-0515
+DB3-0530,US FC Wed-Sat 10 hr 0530,DB3-0530
+DB3-0545,US FC Wed-Sat 10 hr 0545,DB3-0545
+DB3-0600,US FC Wed-Sat 10 hr 0600,DB3-0600
+DB3-0615,FC Wed-Sat 10 hr 0615,DB3-0615
+DB3-0630,US FC Wed-Sat 10 hr 0630,DB3-0630
+DB3-0645,US FC Wed-Sat 10 hr 0645,DB3-0645
+DB3-0700,US FC Wed-Sat 10 hr 0700,DB3-0700
+DB3-0715,US FC Wed-Sat 10 hr 0715,DB3-0715
+DB3-0730,US FC Wed-Sat 10 hr 0730,DB3-0730
+DB3-0735,US FC Wed-Sat 10 hr 0735,DB3-0735
+DB3-0740,FC Wed-Sat 10 hr 0740,DB3-0740
+DB3-0745,US FC Wed-Sat 10 hr 0745,DB3-0745
+DB3-0800,US FC Wed-Sat 10 hr 0800,DB3-0800
+DB3-0830,US FC Wed-Sat 10 hr 0830,DB3-0830
+DB3-0900,US FC Wed-Sat 10 hr 0900,DB3-0900
+DB3-ACOM,FC Wed-Sat 10 hr ACOM,DB3-ACOM
+DB3-I,Wed-Sat Days OT Tues,Wed-Sat D
+DB3-O,WED-SAT DAYS OT TUES,WED-SAT D
+DB3A0600,FC Wed-Sat 10 hr 0600,DB3A0600
+DB3A0630,FC Wed-Sat 10 hr 0630,DB3A0630
+DB3A0800,FC Wed-Sat 10 hr 0800,DB3A0800
+DB3B0600,FC Wed-Sat 10 hr 0600,DB3B0600
+DB3B0630,FC Wed-Sat 10 hr 0630,DB3B0630
+DB3C0700,CAN FC Wed-Sat 10 hr 0700,DB3C0700
+DB3C0730,CAN FC Wed-Sat 10 hr 0730,DB3C0730
+DB3C0800,CAN FC Wed-Sat 10 hr 0800,DB3C0800
+DB3Q0600,US FC Quidsi 10 hr 0600,DB3Q0600
+DB3T0330,US FC CA Wed-Sat 10 hr 0330,DB3T0330
+DB3T0400,US FC CA Wed-Sat 10 hr 0400,DB3T0400
+DB3T0430,FC Wed-Sat 10 hr 0430,DB3T0430
+DB3T0500,US FC CA Wed-Sat 10 hr 0500,DB3T0500
+DB3T0530,US FC CA Wed-Sat 10 hr 0530,DB3T0530
+DB3T0600,US FC CA Wed-Sat 10 hr 0600,DB3T0600
+DB3T0630,US FC CA Wed-Sat 10 hr 0630, 
+DB3T0645,US FC CA W-Sa 10hr 0645,DB3T0645
+DB3T0700,US FC CA Wed-Sat 10 hr 0700,DB3T0700
+DB3T0730,US FC CA Wed-Sat 10 hr 0730,DB3T0730
+DB3T0800,US FC CA Wed-Sat 10 hr 0800,DB3T0800
+DB3T083X,US FC CA W-F 10hr 0830 Sa0700,W-F10 0830
+DB3T0900,US FC CA Wed-Sat 10 hr 0900,DB3T0900
+DB3T1230,FC Wed-Sat 10 hr 1230,DB3T1230
+DB3X0600,US FC Wed-Sat 11.5 hr 0600,DB3X0600
+DB3X0630,US FC Wed-Sat 11.5 hr 0630,DB3X0630
+DB3X0700,US FC Wed-Sat 11.5 hr 0700,DB3X0700
+DB4P1100,CNM/T/W/Th/F6hr11am-6pm, 
+DB5-0900,FC Wed-Sat 10 hr 0900,DB5-0900
+DB5P1100,CNS/M/T/W/Th/F6hr11am-6pm, 
+DB6P1100,CNM/T/W/Th/F/Sa6hr11am-6pm, 
+DB7P1100,CNS/M/T/W/Sa6hr11am-6pm, 
+DB8P1100,CNS/W/Th/F/Sa6hr11am-6pm, 
+DB9P1100,CNT/W/Th/F/Sa6hr11am-6pm, 
+DBAP1100,CNS/M/Th/F/Sa6hr11am-6pm, 
+DBBP1100,CNS/M/W/Th/F/Sa6hr11am-6pm, 
+DBE10700,FC Wed-Sat 10 hr 0700,DBE10700
+DBE10730,FC Wed-Sat 10 hr 0730,DBE10730
+DBE20700,FC Wed-Sat 10 hr 0700,DBE20700
+DBE20730,FC Wed-Sat 10 hr 0730,DBE20730
+DBE2_FSN,AMZL ZA DBE2, 
+DBEAFSN,AMZL ZA DBE1 35 Std, 
+DBF0,DBF0,DBF0
+DBF1,"Sun-Tue, Thur 7:00-17:30","Su-T, Th"
+DBF2,"Mon-Tue, Thur-Sat 7:00-17:30","M-T, Th-Sa"
+DBF3,"Sun-Tue, Sat 7:00-17:30","Su-T, Sa"
+DBF4,DBF4,DBF4
+DBF5,DBF5,DBF5
+DBF6,DBF6,DBF6
+DBF7,DBF7,DBF7
+DBF8,Mon-Fri 10:00-18:00,Mon-Fri
+DBF9,Tue-Fri 7:00-17:30,Tue-Fri
+DBKP1000,CNS/M/W/Th/F/Sa9hr10am-8pm, 
+DBLP1000,CNS/T/W/Th/F/Sa9hr10am-8pm, 
+DBM20600,FC Th-Sa (1) W-Sa (2) 11 hr 06,DBM20600
+DBM20630,FC Th-Sa(1)W-Sa(2)11 hr 6:30,DBM20630
+DBMP1000,CNS/M/T/W/Th/Sa9hr10am-8pm, 
+DBNP1000,CNM/T/W/Th/F/Sa9hr10am-8pm, 
+DBO-0645,UK FC Wed-Fri/Sat 10 hr 0645,DBO-0645
+DBOP1000,CNS/M/T/Th/F/Sa9hr10am-8pm, 
+DBP0,DBP0,DBP0
+DBP1,DBP1,DBP1
+DBP2,DBP2,DBP2
+DBP3,DBP3,DBP3
+DBP4,DBP4,DBP4
+DBP5,DBP5,DBP5
+DBP6,"M,Tu,Th,F 13:00 - 18:00",MTTF 13:00
+DBP7,DBP7,DBP7
+DBPP1000,CNS/M/T/W/Th/F9hr10am-8pm, 
+DBQP1000,CNS/M/T/W/F/Sa9hr10am-8pm, 
+DBRP0800,CNS/M/T/W/Th9hr8am-6pm, 
+DBSP0900,CNS/M/T/W/Th8hr9am-6pm, 
+DBT5,"M,Tu,Th,F 7:00 - 12:00",Temp MTTF
+DBT6,"M,Tu,Th,F 13:00 - 18:00",Temp MTTF
+DBTP0800,CNM/T/W/Th/F8.5hr8am-5.30pm, 
+DBUP0800,CNS/M/T/W/F8.5hr8am-5.30pm, 
+DBVP0800,CNS/M/Th/F/Sa8.5hr8am-5.30pm, 
+DBW1_FSN,AMZL ZA DBW1 35 Std, 
+DBWP0800,CNS/M/T/W/Sa8.5hr8am-5.30pm, 
+DBX-0600,FC Wed-Sat 11.5 hr 0600,DBX-0600
+DBX-0630,US FC Wed- Sat 11.5 hr 0630,DBX-0630
+DBX-0700,US FC W-Sa 11.5 hr 0700,DBX-0700
+DBXP0800,CNS/M/T/F/Sa8.5hr8am-5.30pm, 
+DBYP0800,CNS/W/Th/F/Sa8.5hr8am-5.30pm, 
+DBZP0800,CNT/W/Th/F/Sa8.5hr8am-5.30pm, 
+DC-X0700,MX FC M/Tu/Th/F 12 hr 0700,DC-X0700
+DC-X0730,MX FC M/Tu/Th/F 12 hr 0730,DC-X0730
+DC-X0800,MX FC M/Tu/Th/F 12 hr 0800,DC-X0800
+DC0-0430,FC M/T/T/F 10 hr 0430,DC0-0430
+DC0-0645,FC M/T/T/F 10 hr 0645,DC0-0645
+DC0-0700,US FC M/T/T/F 10 hr 0700,DC0-0700
+DC0-0730,US FC M/T/T/F 10 hr 0730,DC0-0730
+DC0-0900,FC M/Tu/Th/F 10 hr 0900,DC0-0900
+DC0-0930,FC M/Tu/Th/F 10 hr 0930,DC0-0930
+DC0-1000,FC M/T/T/F 10 hr 1000,DC0-1000
+DC0-ACOM,US FC M/T/T/F 10 hr ACOM,M/T/T/F
+DC01,DC01,DC01
+DC02,DC02,DC02
+DC08,DC08,DC08
+DC0C0700,CAN FC M/Tu/Th/F 10 hr 0700,DC0C0700
+DC0C0730,CAN FC M/Tu/Th/F 10 hr 0730,DC0C0730
+DC0P0800,CNS/M/T/W/Th8.5hr8am-5.30pm, 
+DC0T0430,US FC CA M/T/T/F 10 hr 0430,DC0T0430
+DC0T0530,FC M/T/Th/F 10 hr 0530,DC0T0530
+DC0T0800,FC M/T/Th/F 10 hr 0800,DC0T0800
+DC0T1000,US FC CA M/Tu/Th/F 10 hr 1000,DC0T1000
+DC0TACOM,US FC CA M/T/T/F 10 hr ACOM,M/T/T/F
+DC1,"M,T,TH,F DAYS OT SUN ICQA","M,T,TH,F D"
+DC1-0430,FC M/TU/TH/F 10 hr 0430,DC1-0430
+DC1-0500,FC M/T/Th/F 10 hr 0500,DC1-0500
+DC1-0530,US FC M/T/T/F 10 hr 0530,DC1-0530
+DC1-0600,US FC Mon-Tue/Thur-Fri 10 0600,DC1-0600
+DC1-0615,US FC M/T/Th/F 10 hr 0615,DC1-0615
+DC1-0630,US FC M/T/T/F 10 hr 0630,DC1-0630
+DC1-0645,US FC M/T/T/F 10 hr 0645,DC1-0645
+DC1-0700,US FC M/T/T/F 10 hr 0700,DC1-0700
+DC1-0715,US FC M/T/T/F 10 hr 0715,DC1-0715
+DC1-0730,US FC M/T/T/F 10 hr 0730,DC1-0730
+DC1-0735,US FC M/T/T/F 10 hr 0735,DC1-0735
+DC1-0740,FC M/T/T/F 10 hr 0740,DC1-0740
+DC1-0745,FC M/T/T/F 10 hr 0745,DC1-0745
+DC1-0800,US FC M/Tu/Th/F 10 hr 0800,DC1-0800
+DC1-0830,US FC M/T/T/F 10 hr 0830,DC1-0830
+DC1-0900,US FC M/T/T/F 10 hr 0900,DC1-0900
+DC1-I,"M,T,TH,FRI DAYS OT SUN","M,T,TH,F D"
+DC1-O,"M,T,TH,F DAYS OT SUN","M,T,TH,F D"
+DC10,DC10,DC10
+DC1A0730,FC M/T/T/F 10 hr 0730,DC1A0730
+DC1A0745,FC M-Tu/Th-F 10 hr 0745,DC1A0745
+DC1A0800,FC M/T/T/F 10 hr 0800,DC1A0800
+DC1C0700,FC M/T/T/F 10 hr 0700,DC1C0700
+DC1C0730,CAN FC M/T/T/F 10 hr 0730,DC1C0730
+DC1P0830,CN F-Th 11hr 8.30am-8.30pm, 
+DC1T0330,US FC CA M/T/Th/Fri 10 hr 0330,DC1T0330
+DC1T0400,FC M/Tu/Th/F 10 hr 0400,DC1T0400
+DC1T0500,US FC CA M/Tu/Thu/Fr 10hr 0500,DC1T0500
+DC1T0530,US FC CA Mon/Tue/Thu/Fri 10 hr,DC1T0530
+DC1T0600,US FC CA M/T/T/F 10 hr 0600,M/T/T/F
+DC1T0645,US FC CA M/T/Th/F 10 hr 0645,DC1T0645
+DC1T0700,US CA FC M/T/T/F 10 hr 0700,DC1T0700
+DC1T0730,US CA FC M/T/T/F 10 hr 0730,DC1T0730
+DC1T0800,US FC CA M/Tu/Th/F 10 hr 0800,DC1T0800
+DC22,DC22,DC22
+DC23,DC23,DC23
+DC24,DC24,DC24
+DC2P0800,CNM/T/W/Th/F/Sa8hr8am-5pm, 
+DC3-0700,US FC M/T/Th/F 10 hr 0700,DC3-0700
+DC3P0800,CNS/M/T/Th/F/Sa10hr8am-7pm, 
+DC4-0415,FC Mon/Tue/Thu/Fri 10 hr 0415,DC4-0415
+DC4-0430,FC Mon/Tu/Th/Fri 10 hr 0430,DC4-0430
+DC4-0445,US FC M/T/T/F 10 hr 0445,DC4-0445
+DC4-0500,US FC M/T/Th/F 10 hr 0500,DC4-0500
+DC4-0530,FC Mon/Tu/Th/Fri 10 hr 0530,DC4-0530
+DC4-0545,US FC M/T/T/F 10 hr 0545,DC4-0545
+DC4-0600,US FC M/T/T/F 10 hr 0600,DC4-0600
+DC4-0615,US FC M/T/Th/F 10 hr 0615,DC4-0615
+DC4-0630,US FC M/T/T/F 10 hr 0630,DC4-0630
+DC4-0645,US FC M/T/T/F 10 hr 0645,DC4-0645
+DC4-0700,US FC M/T/T/F 10 hr 0700,DC4-0700
+DC4-0715,US FC M/T/T/F 10 hr 0715,DC4-0715
+DC4-0730,US FC M/T/T/F 10 hr 0730,DC4-0730
+DC4-0745,UK FC M/T/T/F 10 hr 0745,DC4-0745
+DC4-0800,US FC M-Tu/Th-F 10 hr 0800,DC4-0800
+DC4-0830,UK FC M/T/Th/F 10 hr 0830,DC4-0830
+DC4C0600,CAN FC M/T/Th/F 10 hr 0600,DC4C0600
+DC4C0700,CAN FC Mon/Tue/Thur/Fri 10 hr,DC4C0700
+DC4C0730,CAN FC M/T/T/F 10 hr 0730,DC4C0730
+DC4C0800,CAN FC M/T/T/F 10 hr 0800,DC4C0800
+DC4P0800,CNS/M/W/Th/F/Sa7hr8am-4pm, 
+DC4T0430,US FC CA M/Tu/Th/F 10 hr 0430,DC4T0430
+DC4T0500,US FC CA M/T/Th/F 10 hr 0500,DC4T0500
+DC4T0530,US FC CA M/T/TH/F 10 hr 0530,DC4T0530
+DC4T0600,US FC M-Tue/Thu-Fri 10 hr 0600,DC4T0600
+DC4T0645,FC CA M/T/T/F 10 hr 0645,DC4T0645
+DC4T0700,US CA FC M/T/T/F 10 hr 0700,DC4T0700
+DC4T0730,US CA FC M/T/T/F 10 hr 0730,DC4T0730
+DC4T1200,US FC CA M/Tu/Th/F 10 hr 1200,DC4T1200
+DC5P0800,CNS/M/W/Th/F/Sa8hr8am-5pm, 
+DC6P0800,CNS/T/W/Th/F/Sa8hr8am-5pm, 
+DC7,"M,T,TH,F DAYS OT SAT ICQA","M,T,TH,F D"
+DC7-0430,FC M/Tu/Th/Fri 10 hr 0430,DC7-0430
+DC7-0500,FC M/T/T/F 10 hr 0500,DC7-0500
+DC7-0530,FC M/T/T/F 10 hr 0530,DC7-0530
+DC7-0545,FC M/T/T/F 10 hr 0545,DC7-0545
+DC7-0600,US FC M/T/T/F 10 hr 0600,DC7-0600
+DC7-0615,US FC M/T/Th/F 10 hr 0615,DC7-0615
+DC7-0630,US FC M/T/T/F 10 hr 0630,DC7-0630
+DC7-0645,US FC M/T/T/F 10 hr 0645,DC7-0645
+DC7-0700,US FC M/T/T/F 10 hr 0700,DC7-0700
+DC7-0715,US FC M/T/T/F 10 hr 0715,10 hr 0715
+DC7-0730,US FC M/T/T/F 10 hr 0730,DC7-0730
+DC7-0735,US FC M/T/T/F 10 hr 0735,DC7-0735
+DC7-0740,FC M/T/T/F 10 hr 0740,DC7-0740
+DC7-0745,FC M/T/T/F 10 hr 0745, 
+DC7-0800,FC Mon/Tue/Thur/Fri 10 hr 0800,DC7-0800
+DC7-I,"M,T,TH,FRI DAYS OT SAT","M,T,TH,F D"
+DC7-O,"M,T,TH,F DAYS OT SAT","M,T,TH,F D"
+DC7A0800,FC Mon/Tue/Thur/Fri 10 hr 0800,DC7A0800
+DC7C0700,CAN FC M/T/T/F 10 hr 0700,DC7C0700
+DC7C0730,CAN FC M/T/T/F 10 hr 0730,DC7C0730
+DC7P0800,CNS/T/W/Th/F/Sa10hr8am-7pm, 
+DC7T0600,US FC CA M/T/T/F 10 hr 0600,M/T/T/F
+DC7T0700,US CA FC M/T/T/F 10 hr 0700,FC M/T/TF
+DC7T0730,US CA FC M/T/T/F 10 hr 0730,DC7T0730
+DC8P0800,CNS/M/W/Th/F/Sa10hr8am-7pm, 
+DC9P0800,CNS/M/T/W/Th/F10hr8am-7pm, 
+DCAP0800,CNS/T/W/Th/F/Sa7hr8am-4pm, 
+DCBP0800,CNM/T/W/Th/F/Sa10hr8am-7pm, 
+DCCP0900,CNS/M/T/W/Th/F9hr9am-7pm, 
+DCDP0900,CNS/W/Th/F/Sa9hr9am-7pm, 
+DCE10700,FC M/Tu/Th/F 10 hr 0700,DCE10700
+DCE10730,FC M/Tu/Th/F 10 hr 0730,DCE10730
+DCE20700,FC M/Tu/Th/F 10 hr 0700,DCE20700
+DCE20730,FC M/Tu/Th/F 10 hr 0730,DCE20730
+DCEP0900,CNM/T/W/Th/F/Sa9hr9am-7pm, 
+DCF1,Tue-Sat 7:00-17:30,Tue-Sat
+DCF2,Tue-Sat 7:00-17:30,Tue-Sat
+DCF3,Wed-Sat 7:00-17:30,W-Sa
+DCF4,Sun-Wed 7:00-17:30,Su-W
+DCF5,DCF5,DCF5
+DCF6,"Mon-Tue,Thur-Fri 7:00-17:30","M,T,Th,F"
+DCF7,"M-T,Th-F 700-1730 W 700-1530","M,T,Th, F"
+DCF8,Wed-Sat 11:00-22:00,w-s11-22
+DCF9,Mon-Thur 7:00-17:30,Mon-Th
+DCFP0900,CNM/T/W/Th/F9hr9am-7pm, 
+DCGP0900,CNS/M/Th/F/Sa9hr9am-7pm, 
+DCHP0900,CNS/M/W/Th/F9hr9am-7pm, 
+DCIP0900,CNS/M/T/F/Sa9hr9am-7pm, 
+DCJP0900,CNS/T/W/Th/F/Sa9hr9am-7pm, 
+DCKP0900,CNT/W/Th/F/Sa9hr9am-7pm, 
+DCLP1000,CNS/M/T/F/Sa9hr10am-8pm, 
+DCMP0900,CNS/M/T/W/Th/Sa9hr9am-7pm, 
+DCNP0900,CNS/M/W/Th/F/Sa9hr9am-7pm, 
+DCP1,DCP1,DCP1
+DCP2,DCP2,DCP2
+DCP3,Wed-Sat 12p-5p,DCP3
+DCP4,wed-sat 1p-6p,DCP4
+DCP5,DCP5,DCP5
+DCP6,DCP6,DCP6
+DCP7,DCP7,DCP7
+DCPP0900,CNS/M/T/Th/F/Sa9hr9am-7pm, 
+DCQP0900,CNS/M/T/W/F/Sa9hr9am-7pm, 
+DCRP0930,CNS/M/T/Th/F7.5hr9.30am-6pm, 
+DCSD,"Su, M, Fr, Sa 07:00-17:30","Su,M,Fr,Sa"
+DCSP0900,CNS/M/T/W/Th/F7.5hr9am-5.30pm, 
+DCT1,Tu - Sat 6:30 - 17:00,Tu - Sat 6
+DCT1 AM,07:00- 15:10, 
+DCT1 AM2,7:00- 15:10, 
+DCT1 N1,23:30- 7:40, 
+DCT1 N2,23:30- 07:40, 
+DCT1 N3,23:30- 07:40, 
+DCT1 N4,23:30- 07:40, 
+DCT1 N5,23:30- 07:40, 
+DCT1 N6,23:30- 07:40, 
+DCT1 NS,23:30- 7:40, 
+DCT1 NS2,23:30- 7:40, 
+DCT1 PM,14:50- 23:00, 
+DCT1 PM2,14:50- 23:00, 
+DCT1 YM1,07:00- 12:00, 
+DCT1 YM2,07:00- 12:00, 
+DCT1 YM3,07:00- 12:00, 
+DCT1 YM4,07:00- 12:00, 
+DCT1 YM5,17:00- 22:00, 
+DCT1 YM6,17:00- 22:00, 
+DCT1-AM,07:00-15:10, 
+DCT1-AM2,07:00-15:10, 
+DCT1-N1,23:30-07:40, 
+DCT1-N2,23:30-07:40, 
+DCT1-N3,23:30-07:40, 
+DCT1-N4,23:30-07:40, 
+DCT1-N5,23:30-07:40, 
+DCT1-N6,23:30-07:40, 
+DCT1-NS,23:30-07:40, 
+DCT1-NS2,23:30-07:40, 
+DCT1-PM,14:50-23:00, 
+DCT1-PM2,14:50-23:00, 
+DCT1-YM1,07:00-12:00, 
+DCT1-YM2,07:00-12:00, 
+DCT1-YM3,07:00-12:00, 
+DCT1-YM4,07:00-12:00, 
+DCT1-YM5,07:00-12:00, 
+DCT1-YM6,07:00-12:00, 
+DCT2,Wed - Sat 7:00 - 17:30,Temp - B2
+DCT2 AM,06:30- 14:40, 
+DCT2 AM2,06:30- 14:40, 
+DCT2 N1,00:00- 08:10, 
+DCT2 N2,00:00- 08:10, 
+DCT2 N3,00:00- 08:10, 
+DCT2 N4,00:00- 08:10, 
+DCT2 NS,00:00- 08:10, 
+DCT2 NS2,00:00- 08:10, 
+DCT2 PM,14:30- 22:40, 
+DCT2 PM2,14:30- 22:40, 
+DCT2 YM1,06:00- 11:00, 
+DCT2 YM2,06:00- 11:00, 
+DCT2 YM3,06:00- 11:00, 
+DCT2 YM5,16:30- 21:30, 
+DCT2 YM6,16:30- 21:30, 
+DCT2-AM,06:30-14:40, 
+DCT2-AM2,06:30-14:40, 
+DCT2-N1,00:00-08:10, 
+DCT2-N2,00:00-08:10, 
+DCT2-N3,00:00-08:10, 
+DCT2-N4,00:00-08:10, 
+DCT2-NS,00:00-08:10, 
+DCT2-NS2,00:00-08:10, 
+DCT2-OSD,14:50-23:00, 
+DCT2-PM,14:30-22:40, 
+DCT2-PM2,14:30-22:40, 
+DCT2-SD,15:30-19:30, 
+DCT2-YM1,06:00-11:00, 
+DCT2-YM2,06:00-11:00, 
+DCT2-YM3,06:00-11:00, 
+DCT2-YM4,06:00-11:00, 
+DCT2-YM5,16:30-21:30, 
+DCT2-YM6,16:30-21:30, 
+DCT3,Wed - Sat 7:30 - 18:00,Temp - B3
+DCVP0900,CNS/M/T/W/Th/F8hr9am-6pm, 
+DCWP0900,CNS/M/T/W/Th/F10hr9am-8pm, 
+DD-X0730,MX FC M/T/W/F/S 9.6 hr 0730,DD-X0730
+DD01,"Sun-Mon, Fri-Sat 700-1730",Su-M F-Sa
+DD02,"Sun-Mon, Fri-Sat 730-1800",Su-M F-Sa
+DD03,"Sun-Mon, Fri-Sat 800-1830",Su-M F-Sa
+DD11,Sun-Fri 18:00-23:00,Su-F 18-23
+DD13,Mon-Thurs 11:00 - 21:30,M-Thu
+DD1P0800,CNS/M/T/W/Th/F8hr8am-5pm, 
+DD2P0800,CNS/M/T/W/F/Sa9hr8am-6pm, 
+DD3P0800,CNS/M/T/W/F/Sa10hr8am-7pm, 
+DD4P0800,CNS/M/T/W/F/Sa11hr8am-8pm, 
+DD51,"Shift D OT 50h, Tue",D OT 50h
+DD52,"Shift D OT 50h, Thu",D OT 50h
+DD53,"Shift D OT 50h, Tue",D OT 50h
+DD54,"Shift D OT 50h, Thu",D OT 50h
+DD61,"Shift D OT 60h, Tue & Thu",D OT 60h
+DD62,"Shift D OT 60h, Tue & Thu",D OT 60h
+DD6P0900,CNS/T/W/Th/F/Sa8hr9am-6pm, 
+DD71,"Sun-Mon, Fri-Sat 0700-1730","S, M, F, S"
+DD72,"Sun-Mon, Fri-Sat 0730-1800","S, M, F, S"
+DD7P0900,CNS/M/W/Th/F/Sa10hr9am-8pm, 
+DDAP0900,CNS/M/T/W/F/Sa8hr9am-6pm, 
+DDBP0900,CNS/M/T/W/Th/Sa10hr9am-8pm, 
+DDDD,Mon-Fri 08:30 – 17:00,Mon-Fri 08
+DDDP0900,CNM/T/W/Th/F/Sa8hr9am-6pm, 
+DDEP0900,CNS/M/W/Th/F/Sa8hr9am-6pm, 
+DDF1,Mon-Fri 8:00-16:30,Mon-Fri
+DDF2,DDF2,DDF2
+DDF3,M-F,M-F
+DDF4,DDF4,DDF4
+DDF5,DDF5,DDF5
+DDF6,DDF6 M-Fr 8:30-5:00,DDF6
+DDF7,DDF7 Mon-Fri 1400-2230,M-F 2-1030
+DDF8,Mon-Fri 0630-1500,Mon-Fri
+DDF9,M-F 07:30-16:00,115
+DDGP0900,CNS/M/Th/F/Sa8hr9am-6pm, 
+DDHP0900,CNS/M/T/Th/F/Sa8hr9am-6pm, 
+DDHR,Tue-Fri 2:00pm-12:30am,TF 14-2430
+DDIP0900,CNS/W/Th/F/Sa8hr9am-6pm, 
+DDJP0900,CNS/M/T/Th/F/Sa10hr9am-8pm, 
+DDKP0900,CNS/M/T/W/Th/Sa8hr9am-6pm, 
+DDNP0900,CNS/M/T/W/Th9hr9am-7pm, 
+DDOB,Wed-Sat 07:30-18:00,W-Sa730-6p
+DDOP0900,CNS/M/T/W/F/Sa10hr9am-8pm, 
+DDP1,DDP1,DDP1
+DDP3,Mon-Fri 13:00p - 18:00p,M-F13-18p
+DDQP0900,CNS/T/W/Th/F/Sa10hr9am-8pm, 
+DDRP1000,CNS/M/T/W/F/Sa8hr10am-7pm, 
+DDST,Mon-Tue/Fri-Sat 7:00-17:30,"M,T,F,Sa"
+DDT2,M-F 10:30-19:00,Temp
+DDT4,Mon - Fri 8:00 - 16:30,Temp - ADM
+DDUP0800,CNS/M/T/W/Th/Sa8hr8am-5pm, 
+DDVP0800,CNM/T/W/Th/F/Sa9hr8am-6pm, 
+DE-X0600,MX FC M-F 9.6 hr 0600,DE-X0600
+DE-X0624,MX FC M-F 9.6 hr 0624,DE-X0624
+DE-X0700,MX FC M-F 9.6hr 0700,DE-X0700
+DE-X0730,MX FC M-F 9.6 hr 0730,DE-X0730
+DE-X0800,MX FC M-F 9.6 hr 0800,DE-X0800
+DE-X0900,MX FC M-F 9.6 hr 0900,DE-X0900
+DE-X1430,MX FC M-F 9.6 hr 1430,DE-X1430
+DE-X1530,MX FC M-F 9.6 hr 1530,DE-X1530
+DE0-0415,FC Mon-Fri 8 hr 0415,DE0-0415
+DE0-0430,FC Mon-Fri 8.5 hr 0430,DE0-0430
+DE0-0600,FC Mon-Fri 8 hr 0600,DE0-0600
+DE0-0630,FC Mon-Fri 8 hr 0630,DE0-0630
+DE0-0645,FC Mon-Fri 8 hr 0645,DE0-0645
+DE0-0700,US FC Mon-Fri 8 hr 0700,DE0-0700
+DE0-0715,FC Mon-Fri 8 hr 0715,DE0-0715
+DE0-0730,US FC Mon-Fri 8 hr 0730,DE0-0730
+DE0-0800,FC Mon-Fri 8 hr 0800,DE0-0800
+DE0-0830,US FC Mon-Fri 8 hr 0830,DE0-0830
+DE0-0845,US FC Mon-Fri 8 hr 0845,DE0-0845
+DE0-0900,US FC Mon-Fri 8 hr 0900,DE0-0900
+DE0-0930,US FC Mon-Fri 8 hr 0930,DE0-0930
+DE0-1230,"4 hr, Mon-Fri",DE0-1230
+DE0-1300,US FC M-F 8 hr 1300,DE0-1300
+DE0-1500,"6.5 hr, Mon-Fri",DE0-1500
+DE0-1600,"7.5 hr, Mon-Fri",DE0-1600
+DE0-1700,FC Mon-Fri 8 hr 1700,DE0-1700
+DE0-ACOM,US FC M-F  hr  ACOM,M-F  hr
+DE0-PL08,PL CORP/VCC M-F 8hrs 0800,DE0-PL08
+DE0-PL12,PL CORP/VCC Mon-Fri 8hrs 1200,DE0-PL12
+DE0-PL13,PL CORP/VCC M-F 8hrs 1300,DE0-PL13
+DE0B0600,FC Mon-Fri 12 hr 0600,DE0B0600
+DE0B0730,UK FC Mon-Fri 8 hr 0730,DE0B0730
+DE0B0930,FC Mon-Fri 8 hr 0930,DE0B0930
+DE0J0900,JP FC M-F 8 hr 0900,DE0J0900
+DE0T0700,FC Mon-Fri 10 hr 0700,DE0T0700
+DE1-0430,FC Mon-Fri 8 hr 0430,DE1-0430
+DE1-0500,FC Mon-Fri 8 hr 0500,DE1-0500
+DE1-0600,FC Mon-Fri 8 hr 0600,DE1-0600
+DE1-0700,FC Mon-Fri 8 hr 0700,DE1-0700
+DE1-0800,US FC Mon-Fri 8 hr 0800,DE1-0800
+DE1-0830,US FC Mon-Fri 8 hr 0830,DE1-0830
+DE1-0900,FC Mon-Fri 8 hr 0900,DE1-0900
+DE1-0930,FC Mon-Fri 8 hr 0930,DE1-0930
+DE1A0800,FC Mon-Fri 8 hr 0800,DE1A0800
+DE1A0830,FC Mon-Fri 8 hr 0830,DE1A0830
+DE1B0800,FC Mon-Fri 8 hr 0800,DE1B0800
+DE1B0830,FC Mon-Fri 8 hr 0830,DE1B0830
+DE7-0400,FC Mon-Fri 8 hr 0400,DE7-0400
+DE7-0430,US FC Mon-Fri 8 hr 0430,DE7-0430
+DE7-0500,US FC Mon-Fri 8 hr 0500,DE7-0500
+DE7-0530,US FC Mon-Fri 8 hr 0530,DE7-0530
+DE7-0600,US FC Mon-Fri 8 hr 0600,DE7-0600
+DE7-0615,FC Mon-Fri 8 hr 0615,DE7-0615
+DE7-0630,US FC Mon-Fri 8 hr 0630,DE7-0630
+DE7-0645,US FC Mon-Fri 8 hr 0645,DE7-0645
+DE7-0700,US FC Mon-Fri 8 hr 0700,DE7-0700
+DE7-0715,US FC Mon-Fri 8 hr 0715,DE7-0715
+DE7-0730,US FC Mon-Fri 8 hr 0730,DE7-0730
+DE7-0800,US FC Mon-Fri 8 hr 0800,DE7-0800
+DE7-0830,US FC Mon-Fri 8 hr 0830,DE7-0830
+DE7-0900,US FC Mon-Fri 8 hr 0900,DE7-0900
+DE7-0930,US FC Mon-Fri 8 hr 0930,DE7-0930
+DE7A0730,FC Mon-Fri 8 hr 0730,DE7A0730
+DE7A0800,FC Mon-Fri 8 hr 0800 NoBreak,DE7A0800
+DE7A0900,FC Mon-Fri 8 hr 0900,DE7A0900
+DE7B0600,FC Mon-Fri 8 hr 0600 NOBRK,DE7B0600
+DE7B0700,FC Mon-Fri 8 hr 0700,DE7B0700
+DE7B0730,FC Mon-Fri 8 hr 0730,DE7B0730
+DE7B0800,FC Mon-Fri 8 hr 0800,DE7B0800
+DE7B0900,FC Mon-Fri 8 hr 0900,DE7B0900
+DE7T0700,US FC CA Mon-Fri 10 hr 0700,DE7T0700
+DEF1,"Sun, Sat 7:00-17:30",Sun-Sat
+DEF2,"Mon-Thur, 7:00 - 17:30",Mon-Thurs
+DEF3,"Su,Sa 700-1730, M-Th 1830-2430","Sun-Th,Sat"
+DEF4,DEF4,DEF4
+DEF5,MW 7:30a-7:30p TTH 7:30:16:30,DEF5
+DEF7,Sun-Wed 7:30-18:00,Sun-Wed
+DEF8,Wed-Sat 7:30-18:00,Wed-Sat
+DEF9,"Mon-Tue,Thur-Fri 7:30-18:00","M,T,Th,F"
+DENL0830,"NL 40 hrs,M-F, 8:30AM",DENL0830
+DENL0900,"NL 40 hrs,M-F, 9:00AM",DENL0900
+DENL1X28,"NL 28 hrs,Tu-F,Th 4 hrs 8:30AM",DENL1X28
+DENL1X32,"NL 32 hrs,M-F 8:30AM",DENL1X32
+DENL1X36,"NL 36 hrs,M-F,F 4 hrs 8:30AM",DENL1X36
+DENL3X36,"NL 36 hrs,M-F, 9:00AM",DENL3X36
+DEP1,DEP1,DEP1
+DEP2,DEP2,DEP2
+DEP3,DEP3,DEP3
+DEP4,DEP4,DEP4
+DEU1001,DE-Fra1-05:00 M-F 8h,DEU1001
+DEU1002,DE-Fra1-06:00 M-F 8h,DEU1002
+DEU1003,DE-Fra1-07:00 M-F 8h,DEU1003
+DEU1004,DE-Fra1-06:30 M-F 8h,DEU1004
+DEU1005,DE-Fra1-08:00 M-F 8h,DEU1005
+DEU1006,DE-Fra1-14:00 M-F 8h,DEU1006
+DEU1007,DE-Fra1-14:30 M-F 8h,DEU1007
+DEU1008,DE-Fra1-15:30 M-F 8h,DEU1008
+DEU1009,"DE-Fra1-15:30 Mo,Mi-Sa 8h",DEU1009
+DEU1010,DE-Fra1-06:30 D-Sa 8h,DEU1010
+DEU1011,DE-Fra1-15:30 D-Sa 8h,DEU1011
+DEU1012,"DE-Fra1-D-Fr 15.30, Sa11",DEU1012
+DEU1013,"DE-Fra1-06.30Mo-Do,09.00Sa8h",DEU1013
+DEU1014,"DE-Fra1-15.30 Uhr Mo-Do,Sa 8",DEU1014
+DEU1015,DE-Fra1-7.30 Uhr Mo-Fr 8h,DEU1015
+DEU1016,"DE-Fra1-06.30 Di-Fr,09.Sa8",DEU1016
+DEU1018,"DE-Fra1-15.30Mo-Do,09.Sa8h",DEU1018
+DEU1019,DE-Fra1-05.00D-Sa,DEU1019
+DEU1020,"DE-Fra1-Engel, Eva",DEU1020
+DEU1021,"DE-Fra1-Czerkaski, Biggi",DEU1021
+DEU1022,"DE-Fra1-06.30Mo,Mi-Fr 09.Sa8",DEU1022
+DEU1023,"DE-Fra1-15.30 Mo-Do,Sa 8h",DEU1023
+DEU1024,"DE-Fra1-15.30 Mo-Mi,Fr,Sa 8h",DEU1024
+DEU1025,"DE-Fra1-15.30 Mo,Di,Do-Sa 8h",DEU1025
+DEU1026,"DE-Fra1-6.30Mo,Mi-Sa 8h",DEU1026
+DEU1027,"DE-Fra1-6.30Mo,Di,Do-09.Sa8",DEU1027
+DEU1028,"DE-Fra1-6.30Mo-Mi,Fr,09.Sa8",DEU1028
+DEU1029,"DE-Fra1-06:30 Mo,Do,Fr,Sa",DEU1029
+DEU1030,"DE-Fra1-05.M-Di,Do,Fr,6.30Sa",DEU1030
+DEU1031,"DE-Fra1-07.00 Di-Fr,09.Sa8",DEU1031
+DEU1032,"DE-Fra1-7.00Mo-Mi,Fr,09.Sa8",DEU1032
+DEU1033,DE-Fra1-10:00 M-F 8h,DEU1033
+DEU1034,DE-Fra1-11:30 M-F 8h,DEU1034
+DEU1035,"DE-Fra1-15.30 Mo,Mi-Sa 8h",DEU1035
+DEU1036,"DE-Fra1-06:30 Mo,Di,Fr,Sa",DEU1036
+DEU1037,"DE-Fra1-6.30Mo-Mi,Fr,.Sa8",DEU1037
+DEU1038,"DE-Fra1-6.30Mo,Di,Do-Sa 8",DEU1038
+DEU1039,"DE-Fra1-05.M-Mi,Fr  09.Sa",DEU1039
+DEU1040,"DE-Fra1-06.30 Mo-Do,Sa",DEU1040
+DEU1041,DE-Fra1-07.30-18.15 Mo-Do,DEU1041
+DEU1043,"DE-Fra1-05.Mo, Mi-Fr,Sa 07",DEU1043
+DEU1047,"DE-Fra1-6.30Mo,Mi-Sa 8h",DEU1047
+DEU1049,"DE-Fra1-6.30 D-F,15.30 Sa",DEU1049
+DEU1050,DE-Fra1-06:30 Catalog 8h,DEU1050
+DEU1051,DE-Fra1-05.00Di-Sa,DEU1051
+DEU1052,"DE-Fra1-6.30 Mo,D,D,F, 15. S",DEU1052
+DEU1053,"DE-Fra1-06.30 Mo-Do,15.30 Sa",DEU1053
+DEU1054,"DE-Fra1-Mo-Do06.30 8h, Sa4h",DEU1054
+DEU1055,"DE-Fra1-7.30-17.45Di,,Mi,S",DEU1055
+DEU1056,"DE-Fra1-06.30 Mo-Do, 5.00 Sa",DEU1056
+DEU1057,DE-Fra1-7.30-17.45Di-Fr,DEU1057
+DEU1058,"DE-Fra1-7.30-18.15Mo,Di,Do,F",DEU1058
+DEU1059,DE-Fra1-Flexibel früh,DEU1059
+DEU1060,DE-Fra1-Snoc o. Schelle,DEU1060
+DEU1061,"DE-Fra1-7.30-18.15Di-Do,Sa",DEU1061
+DEU1062,"DE-Fra1-7.30-Mo,Mi,Do,Fr10h",DEU1062
+DEU1063,DE-Fra1-7.30-Mi-Sa10h,DEU1063
+DEU1064,"DE-Fra1-7.30-Mo,Do-Sa10h",DEU1064
+DEU1065,DE-Fra1-7.30-18.15Di-Do,DEU1065
+DEU1100,DE-Fra1-06:30 M-F EDE,DEU1100
+DEU1200,DE-Fra1-06:30 M-F 4h,DEU1200
+DEU1201,DE-Fra1-08:00 M-F 4h,DEU1201
+DEU1202,DE-Fra1-10:45 M-F 4h,DEU1202
+DEU1203,DE-Fra1-15:30 M-F 4h,DEU1203
+DEU1204,DE-Fra1-19:45 M-F 4h,DEU1204
+DEU1206,DE-Fra1-10:45 M-F 4h,DEU1206
+DEU1207,DE-Fra1-19:45 D-Sa 4h,DEU1207
+DEU1208,"DE-Fra1-06.30D-Fr,09.00Sa4",DEU1208
+DEU1209,DE-Fra1-06.30 D-Sa 4h,DEU1209
+DEU1210,"DE-Fra1-06.30Mo-Do,09.00Sa 4",DEU1210
+DEU1211,"DE-Fra1-10.45Mo-Do,13.15Sa",DEU1211
+DEU1212,"DE-Fra1-10.45D-F, 13.15 Sa",DEU1212
+DEU1213,DE-Fra1-07:00 M-F 4h,DEU1213
+DEU1214,DE-Fra1-15:30 M-F 2h,DEU1214
+DEU1215,DE-Fra1-15:30 M-F 3h,DEU1215
+DEU1216,"DE-Fra1-06.30Mo-Do4h,Sa8h",DEU1216
+DEU1217,DE-Fra1-06.30 Mo-Mi 4h,DEU1217
+DEU1218,DE-Fra1-10.45 Mo-Do 4h,DEU1218
+DEU1219,"DE-Fra1-06.30 Di,Do6h Sa8h",DEU1219
+DEU1220,"DE-Fra1-06.30 Mo-Mi,Fr,Sa 4h",DEU1220
+DEU1221,DE-Fra1-06.30-12.00 M-F,DEU1221
+DEU1222,"DE-Fra1-06.30 Mo,Mi 4h",DEU1222
+DEU1223,"DE-Fra1-8:30Mo-Do,Sa3,75",DEU1223
+DEU1224,"DE-Fra1-08:00 M,D,Fr 6,5h",DEU1224
+DEU1229,"DE-Fra1-Mo,Di,Mi, 6 h",DEU1229
+DEU1230,DE-Fra1-06:30 M-F 7h,DEU1230
+DEU1231,DE-Fra1-15:30 M-F 7h,DEU1231
+DEU1232,"DE-Fra1-08:00 M-F 3,75h",DEU1232
+DEU1233,"DE-Fra1-08:30 M-F 3,75h",DEU1233
+DEU1234,"DE-Fra1-08:00 M-F 6,5h",DEU1234
+DEU1235,"DE-Fra1-08:00 M,D,Do-Sa 6,5h",DEU1235
+DEU1236,DE-Fra1-08:30 Mo-Fr 6h,DEU1236
+DEU1237,DE-Fra1-08:30 Di-Fr 6h,DEU1237
+DEU1238,"DE-Fra1-08:30M,Di,Do,Fr 3,75",DEU1238
+DEU1239,"DE-Fra1-08:00 M,Mi-Sa 6,5h",DEU1239
+DEU1240,DE-Fra1-15:30 M-F 6h,DEU1240
+DEU1241,"DE-Fra1-08:00 M-Do 6,5h",DEU1241
+DEU1242,"DE-Fra1-08:30 M-Do 6,0h",DEU1242
+DEU1243,"DE-Fra1-08:00 M-Do,Sa 6,5h",DEU1243
+DEU1244,"DE-Fra1-08:30M,Di,Fr,Sa 3,75",DEU1244
+DEU1245,"DE-Fra1-8:00 M-Di,Fr,Sa 6,5h",DEU1245
+DEU1247,"DE-Fra1-08:00M-Do,Sa3,75h",DEU1247
+DEU1248,"DE-Fra1-08:00 M-Do 3,75h",DEU1248
+DEU1249,"DE-Fra1-08:30 M-Do 3,75h",DEU1249
+DEU1250,"DE-Fra1-8:00 M-Mi,Sa 6,5h",DEU1250
+DEU1251,DE-Fra1-8:30 M-Mi 6h,DEU1251
+DEU1252,"DE-Fra1-8:30 Di,Do,Fr 6h",DEU1252
+DEU1253,"DE-Fra1-08:00 Di-Do 6,5h",DEU1253
+DEU1254,"DE-Fra1-08:00 Mo-Mi 6,5h",DEU1254
+DEU1255,"DE-Fra1-08:00 Mo-Mi,F,S 3,75",DEU1255
+DEU1256,"DE-Fra1-08:00 Mo, Mi-Sa 3,75",DEU1256
+DEU1259,"DE-Fra1-08:00 M,D,Do-Sa 3,75",DEU1259
+DEU1260,"DE-Fra1-08:30 Di,Mi,Do 6h",DEU1260
+DEU1261,"DE-Fra1-08:30 Di-Fr 3,75",DEU1261
+DEU1262,"DE-Fra1-08:30 Mo,Di,Do 3,75",DEU1262
+DEU1263,"DE-Fra1-08:00 M-Mi 3,75h",DEU1263
+DEU1264,"DE-Fra1-08:00 M-Di 3,75h",DEU1264
+DEU1265,"DE-Fra1-08:30 Mo,Di,Do,Fr 6h",DEU1265
+DEU1266,"DE-Fra1-08:30 Mo-Mi,Fr,Sa 6h",DEU1266
+DEU1267,"DE-Fra1-08:00 Mo-Mi,Fr,Sa 6h",DEU1267
+DEU1268,"DE-Fra1-08:30 Mo,Di,Do-S 6h",DEU1268
+DEU1269,"DE-Fra1-08:00 Mo,Mi,Sa 6,5h",DEU1269
+DEU1270,DE-Fra1-08:30 Di-Sa 6h,DEU1270
+DEU1271,"DE-Fra1-08:00 Mo,Do-Sa",DEU1271
+DEU1272,"DE-Fra1-08:30 Mo-Mi,Fr,Sa 8h",DEU1272
+DEU1273,"DE-Fra1-08:00 Di-Sa 3,75h",DEU1273
+DEU1274,"DE-Fra1-08:00 Di-Sa, 6,5h",DEU1274
+DEU1275,"DE-Fra1-08:30 Mo, Mi-Sa6h",DEU1275
+DEU1276,"DE-Fra1-8:30Mo,Di,Do -Sa3,75",DEU1276
+DEU1277,"DE-Fra1-08:00 Mo-Do,Sa",DEU1277
+DEU1278,"DE-Fra1-08:30 Mo-Do,Sa 6h",DEU1278
+DEU1279,"DE-Fra1-08:00 Di,Mi,F,S 6,5h",DEU1279
+DEU1280,"DE-Fra1-08:30 Mo-Do,Sa 3,75h",DEU1280
+DEU1300,DE-Fra1-06:30 M-F 6h,DEU1300
+DEU1301,DE-Fra1-07:00 M-F 6h,DEU1301
+DEU1302,"DE-Fra1-06:30 M-Mi,F 6h",DEU1302
+DEU1303,"DE-Fra1-06:30 Mo,Di,-Do,Fr8h",DEU1303
+DEU1304,DE-Fra1-06:30 Mo-Fr 6,DEU1304
+DEU1305,"DE-Fra1-06:30Mo-MI,Fr,Sa6,5",DEU1305
+DEU1306,"DE-Fra1-06:30Mo,Do,Fr 6,5",DEU1306
+DEU1307,"DE-Fra1-06:30Mo,Mi-Sa 6h",DEU1307
